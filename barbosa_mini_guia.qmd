@@ -24,9 +24,9 @@ reference-section-title: Referências
 
 O capítulo trata da apresentação do processo de criação do Miniguia do Orientador Educacional: Atribuições e Indicadores de Efeitos no Contexto Escolar Sobralense, na qualidade de produto técnico desenvolvido no Mestrado Profissional em Psicologia e Políticas Públicas, entre os anos de 2020 e 2022. Ele é originário de prévia pesquisa empírica e documental submetida como artigo científico com o título "Caracterização do Perfil Profissional e Modos de Atuação do Orientador Educacional na Rede Pública de Ensino de Sobral-CE" e apresenta o resultado da análise das atribuições do orientador educacional (OE) descritas na literatura nacional, nas normativas da profissão e na experiência relatada pelos OEs de Sobral. Com isso, foi possível sistematizar atribuições e, a partir dessas, desenvolver indicadores de efeitos e sugestões de ações aplicáveis no contexto descrito, as quais foram organizadas no Miniguia.
 
-No Brasil, a profissão de orientador educacional foi criada em 1968 pela Lei nº 5.564 [@Lei:5.564:1968] e regulamentada em 1973 pelo Decreto-lei nº 72.846 [@Decreto:72.846:1973]. Até então, o cargo de orientador educacional era destinado a licenciados em pedagogia e/ou profissionais que já fizessem parte do corpo escolar, sendo remanejados para esse cargo de acordo com a necessidade da gestão escolar ou das secretarias municipais [@Pascoal2008-gx].
+No Brasil, a profissão de orientador educacional foi criada em 1968 pela Lei nº 5.564 [@brasil1968lei5564] e regulamentada em 1973 pelo Decreto-lei nº 72.846 [@brasil1973decreto72846]. Até então, o cargo de orientador educacional era destinado a licenciados em pedagogia e/ou profissionais que já fizessem parte do corpo escolar, sendo remanejados para esse cargo de acordo com a necessidade da gestão escolar ou das secretarias municipais [@Pascoal2008-gx].
 
-Em Sobral, graduados em psicologia adentraram às escolas com o cargo de orientador educacional por meio da criada carreira de apoio à gestão escolar através da Lei nº 1704/2017 [@Lei:1704:2017], que oportunizou concurso público com 50 vagas para o referido cargo. Esse certame tinha por finalidade contratar profissionais para dar prosseguimento à política pública de desenvolvimento de competências socioemocionais nas escolas municipais dos anos iniciais e finais do Ensino Fundamental (1º a 9º ano).
+Em Sobral, graduados em psicologia adentraram às escolas com o cargo de orientador educacional por meio da criada carreira de apoio à gestão escolar através da Lei nº 1704/2017 [@sobral2017lei1704], que oportunizou concurso público com 50 vagas para o referido cargo. Esse certame tinha por finalidade contratar profissionais para dar prosseguimento à política pública de desenvolvimento de competências socioemocionais nas escolas municipais dos anos iniciais e finais do Ensino Fundamental (1º a 9º ano).
 
 Com a inserção da primeira autora dentre os OEs admitidos nas escolas de Sobral em 2019 e com sua aprovação no Mestrado Profissional de Psicologia e Políticas Públicas da Universidade Federal do Ceará, sob orientação da segunda autora, sua pesquisa de mestrado teve como finalidade traçar o perfil profissional do OE e esquadrinhar a relação deste, no contexto sobralense, com o que está descrito na literatura nacional e em documentos oficiais.
 
@@ -54,7 +54,14 @@ As atribuições categorizadas como primárias reuniram aquelas atividades consi
 
 Os indicadores de efeitos das intervenções foram propostos com base na especificação das funções de cada atribuição, as quais foram organizadas nas seguintes categorias: Instrução, Inserção e Interação. Ainda, os indicadores de efeitos das atividades foram sistematizados de modo a trazer mais clareza sobre como avaliar o trabalho do OE e a propor mudanças baseadas em dados mensuráveis.
 
-Através dos dados analisados na pesquisa, a seção "Tipos de atribuições" traz 4 tipos de atribuições, dentro das primárias e secundárias, nas quais foi possível sugerir indicadores de efeitos, sendo elas: 1. Formações; 2. Mediação/Ações de cuidado/Ações coletivas; 3. Reuniões/Suporte/Participação; 4. Acompanhamento/Elaboração/Observação/Planejamento. Cada um desses grupos de tipos de atribuições tem seus indicadores de efeito descritos no Miniguia de forma detalhada.
+Através dos dados analisados na pesquisa, a seção "Tipos de atribuições" traz 4 tipos de atribuições, dentro das primárias e secundárias, nas quais foi possível sugerir indicadores de efeitos, sendo elas: 
+
+1.    Formações; 
+2.    Mediação, Ações de cuidado e Ações coletivas; 
+3.    Reuniões, Suporte e Participação; 
+4.    Acompanhamento, Elaboração, Observação e Planejamento. 
+
+Cada um desses grupos de tipos de atribuições tem seus indicadores de efeito descritos no Miniguia de forma detalhada.
 
 ## Objetivos da atribuições
 
@@ -81,5 +88,3 @@ O trabalho do orientador educacional (OE) no contexto educacional sobralense ain
 Esses profissionais trazem um campo novo de atuação para as escolas, enfrentam resistências e desafios em suas jornadas uma vez que, até então, não havia caminhos já traçados ou formas de fazê-lo. Todo o processo, dessa forma, vem sendo construído pelos profissionais referidos. Além disso, apesar de terem a mesma formação acadêmica e passarem pelas mesmas qualificações, esses profissionais atuam em territórios diversos, o que exige do profissional um manejo e uma adaptação constantes à realidade vivenciada. A isso se soma, ainda, o fato de nem sempre essas estratégias adaptativas serem repassadas nas formações às quais o orientador deve estar presente.
 
 Diante do apresentado, acreditamos que ainda há muito a ser explorado no que tange às atribuições e à criação de indicadores de efeitos, assim como estratégias que busquem superar os obstáculos – os quais essa pesquisa buscou sistematizar no intento de, então, apresentar-lhes possibilidades – identificados pelos orientadores.
-
-

@@ -20,21 +20,25 @@ book:
       Este livro foi construído com <a href="https://quarto.org/">Quarto</a>.
   cover-image: capa.png
   reader-mode: true
-  
-  
+
   chapters:
     - index.qmd
     - 01_institucional.qmd
     - 02_folha_de_rosto.qmd
     - part: Produtos de Comunicação
+      chapters:
+        - barros_podcast.qmd
     
     - part: Eventos Organizados
     
     - part: Relatórios Técnicos - Assessoria, Consultoria e Pesquisa
+      chapters:
+        - beserra_de_melo_assessoria.qmd
     
     - part: Curso para Formação Profissional
       chapters:
         - barros_cursos_vieses.qmd
+        - bomfim_metodologias_part.qmd
     
     - part: Material Didático
     
@@ -44,7 +48,6 @@ book:
     - part: Manual/Protocolo
       chapters:
         - barbosa_mini_guia.qmd
-
 
 format:
   html:
@@ -60,9 +63,6 @@ format:
     code-link: true
     
     author-meta: "Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros"
-    
-    
-  
 
 editor: visual
 csl: apa.csl

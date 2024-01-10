@@ -1,0 +1,85 @@
+---
+author: 
+  - name: João Paulo Pereira Barros
+    orcid: 0000-0001-7680-576X
+    email: joaopaulobarros@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Érica Atem Gonçalves de Araújo Costa
+    orcid: 0000-0002-4341-8138
+    email: ericaatem@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Carla Jéssica de Araújo Gomes
+    orcid: 0000-0002-6979-2646
+    email: carlajessicagomes@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Emanuel Meireles Vieira
+    orcid: 0000-0002-7346-4944
+    email: emanuelmeireles@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autores"
+filters:
+  - section-bibliographies
+bibliography: barros_podcast.bib
+reference-section-title: Referências
+---
+
+# Podcasts sobre Psicologia, Direitos Humanos e processos sociopsicológicos contemporâneos: experiências do VIESES-UFC no contexto pandêmico
+
+## Introdução
+
+Este capítulo propõe-se a relatar experiências de criação de podcasts, na qualidade de produtos de comunicação, pelo VIESES: Grupo de Pesquisas e Intervenções sobre Violência, Exclusão Social e Subjetivação, entre 2020 e 2021, como estratégias de produção dialógica e compartilhamento de conhecimentos sobre Psicologia, direitos humanos e processos sociopsicológicos contemporâneos durante a pandemia da COVID-19. Tal laboratório integra o Departamento de Psicologia e o Programa de Pós-Graduação em Psicologia da Universidade Federal do Ceará (UFC).
+
+A pandemia da COVID-19 trouxe diversos desafios para a realização das atividades acadêmicas do VIESES, que, desde sua criação, aconteciam a partir da inserção e composição conjunta em territorialidades periferizadas de Fortaleza. Com a implementação das atividades remotas emergenciais no âmbito da UFC, a fim de garantir distanciamento físico para prevenção de infecções pela COVID-19, foi necessária a reinvenção de estratégias formativas que mantivessem o ethos dialógico de nossa produção de conhecimento em Psicologia, tanto na graduação quanto na pós-graduação.
+
+A seguir, serão relatadas as experiências, dentro desse contexto, de realização de 4 podcasts pelo VIESES: Presentemente, #TraçandoVáriosPlanos, Artes Insurgentes e Café da tarde. O objetivo de tais iniciativas foi que a produção de conhecimento, em um cenário de extrema fragilidade da garantia de direitos, atuasse politicamente para a visibilidade, dizibilidade e produção de outros canais de escuta de uma psicologia insurgente. Buscou-se, sobretudo, agir na contramão das lógicas histórico-sociais da opressão, agravada pelo contexto de pandemia, além de atuar como ferramenta que borra fronteiras hegemônicas de construção do saber, utilizando-se de instrumentos cibernéticos na superação desses desafios.
+
+## Podcast Presentemente
+
+O podcast Presentemente, cujo nome se inspira na canção “Sujeito de Sorte”, do cantor Belchior, foi criado em 2020 com o intuito de pluralizar e ressoar discussões acerca do presente a partir de olhares críticos e plurais para temas pertinentes ao campo dos direitos humanos, valorizando práticas de resistência e maneiras de permanência "sã, salva e forte". O projeto foi viabilizado por uma equipe do VIESES composta por discentes de graduação e por um professor orientador, processo que contemplou escolha de temas, realização de contato a convidades[^barros_podcast-1], criação do roteiro, edição, postagens de episódios nos agregadores de podcast e divulgação de artes em redes sociais. As discussões, em cada episódio, são feitas por pessoas atravessadas das mais variadas formas pela temática, ou a partir da experiência em movimentos sociais, ou em produções acadêmicas ou em vivências de vida, buscando pluralizar os debates e elucidando diversos prismas. O lançamento de cada episódio, com tempo médio de 50 minutos, deu-se quinzenalmente, às quintas-feiras, entre julho e outubro de 2020. A primeira temporada do podcast é composta de seis episódios. Os títulos abordados, em ordem de publicação, foram: “Ódio e Cancelamento Hoje”, “Racismo e Luta Antirracista”, “Periferias e Re-Existências Poéticas”, “Vivências LGBTQIA+ e LGBTFOBIA” e “Infâncias no Brasil”. A finalização da temporada se deu a partir de um programa extra, intitulado “Saúde Mental e Juventudes Periféricas: Sofrimento Psicossocial e Produção de Cuidado em Contexto de Pandemia”, fruto da produção de um episódio de podcast submetido ao XI Simpósio Internacional sobre a Juventude Brasileira (JUBRA), realizado em dezembro de 2020.
+
+[^barros_podcast-1]: Adotamos, aqui e em outros momentos do texto, uma linguagem  não-binária, com o intituto de não reiterar os dinamismos hegemônicos e homogêneos do sexo-gênero às pessoas que nos ajudam a constuir nossas redes de pesquisa, extensão, e formação.
+
+A segunda temporada do podcast Presentemente ainda está em fase de execução. Quatro episódios já foram lançados, de julho a setembro de 2021, cujas temáticas são “Artes e Periferias em Pauta” e “Apropriação Cultural e Colonialidades”, sendo o terceiro e o quarto episódios duas partes de uma mesma conversa, cujo título é “Povos Originários no Brasil”.
+
+## Podcast TraçandoVáriosPlanos
+
+O #TraçandoVáriosPlanos, que dialoga com a canção “Sulamericano” do grupo musical baiano BaianaSystem, enfoca leituras de Psicologia Social e Psicologia Política sobre temas e processos sociopsicológicos contemporâneos. Mais de 14 episódios foram lançados, entre 2020 e 2021, nas 2 primeiras temporadas. A produção do #TraçandoVáriosPlanos conta sempre com a participação do professor orientador ou das orientandas de estágio em docência na apresentação, bem como com a de convidades do contexto acadêmico. Todos os episódios, os quais têm duração média de 40 minutos, estão disponíveis gratuitamente na plataforma digital Youtube, no canal Pós-PsicologiaS UFC, e também no Spotify.
+
+Os episódios já lançados abordaram temáticas como: “Aspectos psicossociais da violência e Psicologia Social”; “Neoliberalismo e necroeconomia da punição: racismo, aprisionamento em massa e impactos da pandemia”; “Psicologia Social e discursos de ódio na atualidade”; “Criminologia Crítica, Criminologia Feminista e problemática da seletividade punitivo penal”; “Subjetivação Neoliberal e Psicologia Social”; “Transformações sociais da violência e dinâmicas prisionais: o caso do Ceará”; “Além da Prisão: Política Penal Alternativa ou Alternativa à Política Penal?”; “Interseccionalidade, Produção de Subjetividades e Psicologia Social”; “Gênero e subjetividade a partir de Estudos Feministas”; e “Pode o branco escutar? – Reflexões sobre branquitude”; “Psicologia Social e Desigualdades na Pandemia da COVID-19”; “Psicologia e Extremismos na atualidade”; “Aspectos psicossociais do racismo e Psicologia Antirracista”; e “O negacionismo e a dimensão pública do luto na pandemia: conexões entre subjetividade e política”.
+
+Em 2022, foi produzida uma temporada especial com o tema Psicologia e Direitos Humanos. Seus 12 episódios foram provenientes de mesas realizadas por ocasião de um curso de extensão sobre tal temática promovido pelo VIESES em 2021.
+
+O #TraçandoVáriosPlanos tem se mostrado uma importante estratégia para manter e qualificar o vínculo de discentes com o Curso de Psicologia da UFC ao oferecer alternativas de aprendizado e de reflexão diante da realidade e dos desafios impostos pelo distanciamento social, sendo fundamental para expandir o alcance dos temas debatidos pelo VIESES para muito além de seu corpo discente, por meio das novas ferramentas de comunicação e de informação.
+
+## Podcast Artes Insurgentes
+
+A partir da articulação e parceria de estudantes do curso de Psicologia e do Programa de Pós-graduação em Psicologia, de integrantes do Laboratório de Psicologia em Subjetividade e Sociedade (LAPSUS) e do VIESES, ambos ligados à UFC, com apoio do Programa de Promoção da Cultura Artística da UFC, foi fundado o Projeto “Artes Insurgentes: coletivizando resistências”. Com o objetivo de incentivar práticas de insurgências e fortalecer a memória cultural das periferias urbanas, a partir da potencialização de expressões artístico-culturais de coletivos juvenis dos bairros do Grande Bom Jardim (GBJ), em Fortaleza-CE[^barros_podcast-2], o projeto tem evidenciado relevante papel social em territorialidades periféricas, em especial com estudantes de escolas públicas e integrantes de coletivos juvenis do GBJ. Desde o primeiro semestre de 2021, uma das frentes de ação do projeto se constitui na produção de um podcast para divulgar e dialogar junto a integrantes de ações, atividades e projetos inseridos em coletivos juvenis que atuam na luta por direitos no GBJ e que utilizam a arte como dispositivo de luta, a partir de diversas expressões da linguagem artística, como artes visuais, literatura, música, dança e teatro.
+
+[^barros_podcast-2]: O Grande Bom Jardim reúne os bairros do Bom Jardim, Granja Portugal, Canindezinho e Siqueira, da antiga V Região Administrativa de Fortaleza/CE.
+
+Até então, o podcast, intitulado “Artes Insurgentes: coletivizando resistências”, já conta com três episódios com duração de 20 a 50 minutos, disponibilizados na plataforma Spotify. O primeiro episódio se constitui de uma apresentação do projeto e das suas propostas; o segundo episódio aborda questões referentes à realização do Festival das Juventudes 2021 e às suas reverberações para a cena local; e o terceiro episódio, o mais recente, pauta as ações realizadas pelo Núcleo de Articulação Técnica Especializada (Narte) do Centro Cultural do Bom Jardim e as suas ressonâncias na comunidade do GBJ.
+
+Em 2022, foi lançado ainda 1º episódio do podcast Artes Insurgentes, intitulado “Resistências e Alianças nas Quebradas”, que abordou o modo como moradores da região do Grande Bom Jardim participaram de movimentações políticas e sociais relativas ao enfrentamento da violência e a luta por garantia de direitos humanos em seus territórios na cidade.
+
+## Podcast Café da Tarde
+
+O podcast Café da tarde, vinculado ao VIESES e realizado como ação do Programa de Acolhimento e Incentivo à Permanência (UFC), traz no nome a referência aos encontros que insurgem no cotidiano universitário, às conversas entre estudantes, entre estudantes e professoras/es que preenchem os intervalos e transversalizam a rotina institucional endurecida e as suas lógicas aprisionantes.
+
+Durante o ano de 2020, foram produzidos 4 episódios, de, em média, 50 min, tendo como inspiração as práticas de ensino, extensão e pesquisa (tripé da universidade), tal como vivenciadas pela comunidade discente (graduação e pós-graduação), em contexto de pandêmico. Diante do objetivo mais amplo de promover ações de acolhimento na universidade, em momento de fragilidade de vínculos e ataques ao ensino público, o podcast Café da tarde procurou constituir, em meio virtual, trocas em que os afetos cotidianos, as vivências estudantis, os lugares afetivos e os processos de invenção e de partilha fossem invocados como formas de aliança e enfrentamento ao desânimo, entendido como sentimento político de nosso tempo.
+
+As conversações incluíram os seguintes temas disparadores: a universidade em tempos de ensino remoto, os modos inventivos de fazer extensão quando não é possível estar “em campo”; as implicações e os desafios de realizar pesquisa durante a atual crise sanitária e o processo criativo do podcast, como projeto da UFC. As 12 pessoas convidadas foram estudantes da graduação e da pós-graduação do curso de Psicologia da UFC. A realização do podcast foi efetivada pelos estudantes de graduação e pela professora integrantes do VIESES. Destacamos que a busca por uma estética sonora e visual (posts para divulgação do podcast) que possibilitasse rasuras, intervalos, silêncios, interrupções, foi uma aposta ético-estético-política diante de modelos produtivistas e neoliberais no campo da educação superior brasileira. Não só isso, foi um modo de habitar o território virtual, frente à massificação eminente de estratégias de EAD no âmbito da universidade como horizonte de controle dos processos de ensino-aprendizagem.
+
+## Considerações Finais
+
+Os produtos de comunicação acima listados são produções contemporâneas que efetivamente pautam a Psicologia e a têm como formuladora, a partir da produção técnica coletiva e engajada com os movimentos sociais, produções essas que reverberam suas práticas e incidem sobre o fazer da Psicologia, produzindo ampliação de conteúdo, debate, e implicando comunidades, docentes e discentes. Reinventam-se, assim, modos de produção de conhecimento, incentivando e valorizando práticas insurgentes.
+
+A criação de tais produções técnicas, no contexto de pandemia da COVID-19 e da ascensão de valores e práticas neofascistas, partiu do pressuposto de que pautar o campo multifacetado dos Direitos Humanos a partir de estratégias inovadoras que ampliem o alcance e a ressonância das produções técnicas em Psicologia torna-se fundamental para a promoção de uma formação nessa área, articulando graduação e pós-graduação, eticamente comprometidas com transformações no contexto brasileiro, que ainda convive com marcas fortes e práticas da colonialidade. A fim de se movimentar na contramão de abordagens acríticas e reducionistas sobre o assunto, os produtos de comunicação puderam socializar realidades e referências teóricas de pensadores e pensadoras da Psicologia e das áreas afins que problematizam padrões cis-hétero-patriarcal-colonial-capitalistas.
+
+Acreditamos que essas produções técnicas ligadas ao VIESES são relevantes para potencializar, fortalecer e estimular reflexões e relatos de experiências sobre o enfrentamento às desigualdades, violências e opressões no Brasil. Outrossim, têm buscado contribuir, no âmbito do ensino remoto emergencial, para atender a demandas da sociedade por uma elucidação de aspectos sociopsicológicos das violências e partilhar experiências exitosas de defesa de direitos humanos. Tais produtos apresentam potencial de inovação, pois buscaram criar canais mais interativos de discussão, reelaboração e divulgação de conhecimentos produzidos pelas pesquisas do VIESES-UFC. A quantidade de edições mostra também o potencial de replicabilidade das ações. O fato de os podcasts terem sido acessados por pessoas em diversos países mostra sua abrangência internacional. As articulações entre discentes de graduação, pós-graduação, docentes, profissionais e integrantes de movimentos sociais, bem como a necessidade que a equipe teve de se apropriar de métodos e técnicas de curadoria, roteirização, edição e divulgação, mostram o alto grau de complexidade de tais produções técnicas.
+
+Portanto, acredita-se que esses produtos de comunicação contribuem para ampliar o impacto do Programa de Pós-Graduação em Psicologia da UFC na sociedade, através da potencialização das ressonâncias das discussões que são caras ao VIESES desde sua criação. Isso porque, com os podcasts, essas problematizações puderam alcançar desde estudantes de graduação e pós-graduação, passando por profissionais, seja de Psicologia, seja de áreas afins, a gestores de políticas públicas e integrantes de coletivos, movimentos sociais e organizações da sociedade civil de diferentes regiões do Brasil e até de fora do território nacional.

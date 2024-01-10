@@ -18,6 +18,10 @@ Camilo Sobreira de Santana
 
 **Universidade Federal do Ceará – UFC**
 
+::: column-margin
+[![](./imagens/brasao1_horizontal_cor_300dpi.png)](https://www.ufc.br/)
+:::
+
 **Reitor**
 
 Prof. Custódio Luís Silva de Almeida
@@ -46,5 +50,3 @@ Professor Francisco Pablo Huascar Aragão Pinheiro
 
 Professor Paulo Henrique Dias Quinderé
 :::
-
-
