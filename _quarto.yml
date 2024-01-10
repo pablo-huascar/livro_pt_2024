@@ -19,6 +19,9 @@ book:
     right: | 
       Este livro foi construído com <a href="https://quarto.org/">Quarto</a>.
   cover-image: capa.png
+  repo-url: https://github.com/pablo-huascar/livro_pt_2024.git
+  repo-branch: main
+  favicon: capa.png
   reader-mode: true
 
   chapters:
