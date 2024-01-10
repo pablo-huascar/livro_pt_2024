@@ -1,0 +1,50 @@
+# Expediente institucional {.unnumbered}
+
+```{r}
+#| label: notas
+#| echo: false
+
+## Melhorar a qualidade da imagem do logo do PPGPPPP
+```
+
+::: {style="line-height: 1;"}
+**Presidente da república**
+
+Luiz Inácio Lula da Silva
+
+**Ministro da educação**
+
+Camilo Sobreira de Santana
+
+**Universidade Federal do Ceará – UFC**
+
+**Reitor**
+
+Prof. Custódio Luís Silva de Almeida
+
+**Vice-reitora**
+
+Profa Diana Cristina Silva de Almeida
+
+***Programa de pós-graduação em Psicologia***
+
+**Coordenador**
+
+Professor Aluísio Ferreira de Lima
+
+**Vice-coordenador**
+
+Professor Paulo Coelho Castelo Branco
+
+***Programa de pós-graduação profissional em Psicologia e políticas públicas***
+
+**Coordenador**
+
+Professor Francisco Pablo Huascar Aragão Pinheiro
+
+**Vice-coordenador**
+
+Professor Paulo Henrique Dias Quinderé
+:::
+
+

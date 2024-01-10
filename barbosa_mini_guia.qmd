@@ -1,0 +1,85 @@
+---
+author: 
+  - name: Hiara da Silva Santos Barbosa
+    orcid: 0000-0002-2098-5260
+    email: hiarabarbosa@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Natália Santos Marques
+    orcid: 0000-0003-4994-3811
+    email: nataliamarques@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: barbosa_mini_guia.bib
+reference-section-title: Referências
+---
+
+# Processo de criação do miniguia do orientador educacional sobre suas atribuições e indicadores de efeitos no contexto escolar sobralense
+
+## Introdução
+
+O capítulo trata da apresentação do processo de criação do Miniguia do Orientador Educacional: Atribuições e Indicadores de Efeitos no Contexto Escolar Sobralense, na qualidade de produto técnico desenvolvido no Mestrado Profissional em Psicologia e Políticas Públicas, entre os anos de 2020 e 2022. Ele é originário de prévia pesquisa empírica e documental submetida como artigo científico com o título "Caracterização do Perfil Profissional e Modos de Atuação do Orientador Educacional na Rede Pública de Ensino de Sobral-CE" e apresenta o resultado da análise das atribuições do orientador educacional (OE) descritas na literatura nacional, nas normativas da profissão e na experiência relatada pelos OEs de Sobral. Com isso, foi possível sistematizar atribuições e, a partir dessas, desenvolver indicadores de efeitos e sugestões de ações aplicáveis no contexto descrito, as quais foram organizadas no Miniguia.
+
+No Brasil, a profissão de orientador educacional foi criada em 1968 pela Lei nº 5.564 [@Lei:5.564:1968] e regulamentada em 1973 pelo Decreto-lei nº 72.846 [@Decreto:72.846:1973]. Até então, o cargo de orientador educacional era destinado a licenciados em pedagogia e/ou profissionais que já fizessem parte do corpo escolar, sendo remanejados para esse cargo de acordo com a necessidade da gestão escolar ou das secretarias municipais [@Pascoal2008-gx].
+
+Em Sobral, graduados em psicologia adentraram às escolas com o cargo de orientador educacional por meio da criada carreira de apoio à gestão escolar através da Lei nº 1704/2017 [@Lei:1704:2017], que oportunizou concurso público com 50 vagas para o referido cargo. Esse certame tinha por finalidade contratar profissionais para dar prosseguimento à política pública de desenvolvimento de competências socioemocionais nas escolas municipais dos anos iniciais e finais do Ensino Fundamental (1º a 9º ano).
+
+Com a inserção da primeira autora dentre os OEs admitidos nas escolas de Sobral em 2019 e com sua aprovação no Mestrado Profissional de Psicologia e Políticas Públicas da Universidade Federal do Ceará, sob orientação da segunda autora, sua pesquisa de mestrado teve como finalidade traçar o perfil profissional do OE e esquadrinhar a relação deste, no contexto sobralense, com o que está descrito na literatura nacional e em documentos oficiais.
+
+Os dados aqui apresentados para a elaboração do Miniguia têm como base as informações coletadas de 11 orientadores educacionais, convocados na primeira chamada do concurso, dos quais 9 são mulheres, e 2 homens, todos entre 24 e 36 anos. Desse conjunto, 2 atuam em escolas com ambos os níveis de ensino (anos iniciais e finais), 2 em escolas especialistas de tempo integral de anos finais, 3 em escolas dos dois níveis de ensino (regular e integral), 2 exclusivamente em escolas de tempo integral, 1 em escolas exclusivamente de anos finais e iniciais, 02 somente em escola regular de anos finais, tanto em áreas urbanas quanto rurais.
+
+Dito isto, descreveremos a estruturação do Miniguia do Orientador Educacional: Atribuições e Indicadores de Efeitos no Contexto Escolar Sobralense, seguindo as seções: Apresentação; Ser orientador educacional; O que são atribuições profissionais?; Tipos de atribuições e possíveis indicadores de efeitos; Objetivos das atribuições; Caracterização das ações por tipo de atribuições; e Dicas.
+
+## Apresentação
+
+Esta seção pretende apresentar ao leitor uma visão geral da pesquisa que resultou no Miniguia. Explicita-se aqui que o material construído não representa a totalidade da caracterização profissional do orientador educacional, e sim um recorte que pode ser considerado como um ponto de partida para aqueles que já estão no cargo ou para os que futuramente possam vir a estar.
+
+## Ser orientador educacional
+
+A seção "Ser Orientador Educacional" traz uma descrição do Orientador Educacional no contexto municipal como aquele que tem formação acadêmica em Psicologia e dispensa necessidade de qualificação profissional para a execução de suas funções, tais como pós-graduação. Apesar de não haver exigência de qualificação, observamos que, no grupo dos 11 orientadores educacionais, há um maior percentual de qualificação na área da educação, concentrando 49,9% dos integrantes, sendo 14,3% deles com especialização, 21,4% com mestrado em andamento, 7,1% com mestrado concluído e 7,1% com especialização em andamento.
+
+Em Sobral, a formação dos OEs e o acompanhamento de suas ações foram levados a cabo pela parceria entre o Instituto Ayrton Senna, a Vice-Governadoria do Estado e a Escola de Formação Permanente de Magistério e Gestão Educacional (ESFAPEGE). De acordo com as orientações dessas instituições, o trabalho do OE envolve todos os atores escolares, priorizando o desenvolvimento integral do aluno. Além disso, caracteriza-se aquele como o profissional que promove a prática de acolhimento e escuta, provocando os demais atores escolares a desenvolver a comunicação não-violenta e dar espaço para as expressões emocionais, de modo a promover o desenvolvimento integral dos sujeitos.
+
+## O que são Atribuições Profissionais?
+
+No tópico "Atribuições Profissionais", o Miniguia apresenta as atribuições do OE e as sistematiza em duas categorias: atribuições privativas e atribuições complementares. No volume, também são apresentadas as principais normativas sobre as atribuições dos OEs, tanto em âmbito local quanto em nacional. Nesse ponto do guia, as ações dos OEs foram agrupadas de modo a distingui-las de atividades desempenhadas por outras categorias profissionais. Além disso, as atribuições específicas dos OE de Sobral foram divididas em: primárias e secundárias.
+
+As atribuições categorizadas como primárias reuniram aquelas atividades consideradas pelos participantes da pesquisa como demandas em cuja execução estes são figuras centrais (o que diferencia sua ação das dos demais atores escolares). As atribuições secundárias para os OE são aquelas centradas em outros atores escolares, sendo o orientador educacional um apoio para a execução destas. As primárias são compostas por dois eixos, quais sejam Eixo 1 – Construção de Vínculos e Eixo 2 – Práticas Pedagógicas. As secundárias, por sua vez, envolvem o orientador educacional como participante em vez de executor da ação. Em face disso, o Miniguia também apresenta o fluxograma dessas atribuições por eixo e público-alvo.
+
+## Tipos de atribuições e Possíveis Indicadores de efeitos
+
+Os indicadores de efeitos das intervenções foram propostos com base na especificação das funções de cada atribuição, as quais foram organizadas nas seguintes categorias: Instrução, Inserção e Interação. Ainda, os indicadores de efeitos das atividades foram sistematizados de modo a trazer mais clareza sobre como avaliar o trabalho do OE e a propor mudanças baseadas em dados mensuráveis.
+
+Através dos dados analisados na pesquisa, a seção "Tipos de atribuições" traz 4 tipos de atribuições, dentro das primárias e secundárias, nas quais foi possível sugerir indicadores de efeitos, sendo elas: 1. Formações; 2. Mediação/Ações de cuidado/Ações coletivas; 3. Reuniões/Suporte/Participação; 4. Acompanhamento/Elaboração/Observação/Planejamento. Cada um desses grupos de tipos de atribuições tem seus indicadores de efeito descritos no Miniguia de forma detalhada.
+
+## Objetivos da atribuições
+
+Compreender as atribuições a partir dos seus objetivos tem como função auxiliar o orientador educacional a conhecer o modo como essas atribuições são planejadas e a forma como o resultado de sua atuação é mensurado, por meio dos indicadores de efeitos oferecidos pelo Miniguia ou criados pelo próprio OE.
+
+## Caracterização das ações por tipo de atribuição
+
+Depois de tudo pronto, faltava responder a uma das maiores inquietações dos orientadores educacionais: como priorizar o público-alvo quando tudo parece ser tão urgente?
+
+Para isso, foi criada a seção "Caracterização de ações por tipo de atribuição", com sugestões de ações-padrão para determinado tipo de atribuição.
+
+Como um exemplo disso observamos que, se o tipo de atribuição é formação, o orientador pode ter como sugestão de metodologia as oficinas e os projetos. De outro modo, em se tratando de alguma atribuição de mediação, ele pode voltar-se para rodas temáticas, círculo de diálogo ou resolução de conflitos.
+
+Com esses exemplos, procuramos, nessa seção, trazer possibilidades de metodologias de trabalho para cujo exercício eles foram qualificados, às quais, contudo, o OE não deve se limitar a elas. Isso porque aqui se trata mais de uma questão de já haver materiais de base, ofertados pelos parceiros da SEDUC, que se caracterizam como ações esperadas e demandas prioritárias no trabalho do Orientador Educacional.
+
+## Dicas
+
+As dicas são uma forma de visualizar estratégias de intervenção para as demandas do orientador educacional, buscando sistematizar ações para a questão “Por onde devo começar?”, para a identificação do perfil da atividade e de alguns pontos de atenção.
+
+## Considerações
+
+O trabalho do orientador educacional (OE) no contexto educacional sobralense ainda está em processo de construção, moldando-se conforme as demandas e ajustando-se às atribuições em função disso. Esse fato foi considerado quando nos propusemos a estudar o perfil e os modos de atuação desse profissional para elaborar o Miniguia.
+
+Esses profissionais trazem um campo novo de atuação para as escolas, enfrentam resistências e desafios em suas jornadas uma vez que, até então, não havia caminhos já traçados ou formas de fazê-lo. Todo o processo, dessa forma, vem sendo construído pelos profissionais referidos. Além disso, apesar de terem a mesma formação acadêmica e passarem pelas mesmas qualificações, esses profissionais atuam em territórios diversos, o que exige do profissional um manejo e uma adaptação constantes à realidade vivenciada. A isso se soma, ainda, o fato de nem sempre essas estratégias adaptativas serem repassadas nas formações às quais o orientador deve estar presente.
+
+Diante do apresentado, acreditamos que ainda há muito a ser explorado no que tange às atribuições e à criação de indicadores de efeitos, assim como estratégias que busquem superar os obstáculos – os quais essa pesquisa buscou sistematizar no intento de, então, apresentar-lhes possibilidades – identificados pelos orientadores.
+
+

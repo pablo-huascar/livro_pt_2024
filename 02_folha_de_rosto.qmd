@@ -1,0 +1,41 @@
+# Folha de rosto {.unnumbered}
+
+::: {style="line-height: 1;"}
+**Produções Técnicas em Psicologia: Experiências Compartilhadas**
+
+Este livro é distribuído sob os termos da [CC BY-NC-ND 4.0 DEED](https://creativecommons.org/licenses/by-nc-nd/4.0/){.external target="_blank"}.
+
+**Publicado no Brasil**
+
+*Programa de pós-graduação em Psicologia - Universidade Federal do Ceará*
+
+Av. da Universidade, 2762, Benfica - CEP: 60020-180 - Fortaleza/CE – Área 2 do Centro de Humanidades - Bloco Didático Prof. Ícaro de Sousa Moreira - 1º andar.
+
+*Programa de pós-graduação profissional em Psicologia e políticas públicas - Universidade Federal do Ceará*
+
+Rua Coronel Estanislau Frota, 563 – Centro – CEP 62010-560 – Sobral – CE – Campus Sobral – Mucambinho
+
+**Conselho editorial**
+
+Andréa Borges Leão - UFC
+
+Cassio Adriano Braz de Aquino - UFC
+
+Elisa Lacerda-Vandenborn - Unversity of Calgary (Canadá)
+
+Jorge Tarcísio da Rocha Falcão - UFRN
+
+Lara Brum de Calais - UFES
+
+Luis Achilles Rodrigues Furtado - UFC
+
+**Revisão de texto**
+
+João Paulo Silva Matos
+
+(joaopaulosmatos2\@gmail.com)
+
+**Codificação para construção do livro**
+
+Francisco Pablo Huascar Aragão Pinheiro
+:::

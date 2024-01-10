@@ -1,0 +1,70 @@
+project:
+  type: book
+lang: pt-br
+title-block-author-plural: "Organizadores"  
+toc-title: "Sumário"
+number-sections: true
+indent: true
+
+book:
+  page-navigation: true
+  title: "Produções Técnicas em Psicologia"
+  subtitle: "Experiências Compartilhadas"
+  page-footer:
+    left: |
+      Produções Técnicas em Psicologia e Políticas Públicas: 
+      Experiências Compartilhadas 
+      foi organizado por Francisco Pablo Huascar Aragão Pinheiro e
+      João Paulo Pereira Barros
+    right: | 
+      Este livro foi construído com <a href="https://quarto.org/">Quarto</a>.
+  cover-image: capa.png
+  reader-mode: true
+  
+  
+  chapters:
+    - index.qmd
+    - 01_institucional.qmd
+    - 02_folha_de_rosto.qmd
+    - part: Produtos de Comunicação
+    
+    - part: Eventos Organizados
+    
+    - part: Relatórios Técnicos - Assessoria, Consultoria e Pesquisa
+    
+    - part: Curso para Formação Profissional
+      chapters:
+        - barros_cursos_vieses.qmd
+    
+    - part: Material Didático
+    
+    - part: Compilações de Vários Produtos Técnicos
+      chapters:
+        - barros_assessorias_cursos.qmd
+    - part: Manual/Protocolo
+      chapters:
+        - barbosa_mini_guia.qmd
+
+
+format:
+  html:
+    smooth-scroll: true
+    anchor-sections: true
+    theme: cosmo
+    callout-appearance: simple
+    toc: true
+    toc_float: true
+    toc-depth: 2
+    standalone: true
+    indent: true
+    code-link: true
+    
+    author-meta: "Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros"
+    
+    
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+csl: apa.csl
+
