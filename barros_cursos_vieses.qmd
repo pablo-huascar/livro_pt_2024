@@ -62,7 +62,7 @@ filters:
 bibliography: barros_cursos_vieses.bib
 reference-section-title: Referências
 ---
-# Cursos de extensão do VIESES-UFC: diálogos contracoloniais em psicologia
+# Cursos de extensão do VIESES-UFC: diálogos contracoloniais em Psicologia
 
 ## Introdução
 
