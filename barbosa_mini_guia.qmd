@@ -32,7 +32,15 @@ Com a inserção da primeira autora dentre os OEs admitidos nas escolas de Sobra
 
 Os dados aqui apresentados para a elaboração do Miniguia têm como base as informações coletadas de 11 orientadores educacionais, convocados na primeira chamada do concurso, dos quais 9 são mulheres, e 2 homens, todos entre 24 e 36 anos. Desse conjunto, 2 atuam em escolas com ambos os níveis de ensino (anos iniciais e finais), 2 em escolas especialistas de tempo integral de anos finais, 3 em escolas dos dois níveis de ensino (regular e integral), 2 exclusivamente em escolas de tempo integral, 1 em escolas exclusivamente de anos finais e iniciais, 02 somente em escola regular de anos finais, tanto em áreas urbanas quanto rurais.
 
-Dito isto, descreveremos a estruturação do Miniguia do Orientador Educacional: Atribuições e Indicadores de Efeitos no Contexto Escolar Sobralense, seguindo as seções: Apresentação; Ser orientador educacional; O que são atribuições profissionais?; Tipos de atribuições e possíveis indicadores de efeitos; Objetivos das atribuições; Caracterização das ações por tipo de atribuições; e Dicas.
+Dito isto, descreveremos a estruturação do "Miniguia do Orientador Educacional: Atribuições e Indicadores de Efeitos no Contexto Escolar Sobralense", seguindo as seções:
+
+-   Apresentação;
+-   Ser orientador educacional;
+-   O que são atribuições profissionais?;
+-   Tipos de atribuições e possíveis indicadores de efeitos;
+-   Objetivos das atribuições;
+-   Caracterização das ações por tipo de atribuições; e
+-   Dicas.
 
 ## Apresentação
 
@@ -69,9 +77,7 @@ Compreender as atribuições a partir dos seus objetivos tem como função auxil
 
 ## Caracterização das ações por tipo de atribuição
 
-Depois de tudo pronto, faltava responder a uma das maiores inquietações dos orientadores educacionais: como priorizar o público-alvo quando tudo parece ser tão urgente?
-
-Para isso, foi criada a seção "Caracterização de ações por tipo de atribuição", com sugestões de ações-padrão para determinado tipo de atribuição.
+Depois de tudo pronto, faltava responder a uma das maiores inquietações dos orientadores educacionais: como priorizar o público-alvo quando tudo parece ser tão urgente? Para isso, foi criada a seção "Caracterização de ações por tipo de atribuição", com sugestões de ações-padrão para determinado tipo de atribuição.
 
 Como um exemplo disso observamos que, se o tipo de atribuição é formação, o orientador pode ter como sugestão de metodologia as oficinas e os projetos. De outro modo, em se tratando de alguma atribuição de mediação, ele pode voltar-se para rodas temáticas, círculo de diálogo ou resolução de conflitos.
 
