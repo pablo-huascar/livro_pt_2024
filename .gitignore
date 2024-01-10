@@ -1,9 +1,6 @@
 
 .RData
 .Ruserdata
-
-/.quarto/
-
 .Rproj.user
 .Rhistory
 *_cache
