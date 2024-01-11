@@ -33,7 +33,7 @@ bibliography: barros_assessorias_cursos.bib
 reference-section-title: Referências
 ---
 
-# Assessorias, cursos e tecnologias sociais junto a sujeitos, grupos e instituições de periferias de fortaleza durante a pandemia da covid-19: contribuições do vieses-ufc para o impacto social da pós-graduação em psicologia
+# Assessorias, cursos e tecnologias sociais junto a sujeitos, grupos e instituições de periferias de fortaleza durante a pandemia da covid-19: contribuições do VIESES-UFC para o impacto social da pós-graduação em Psicologia
 
 ## O VIESES-UFC e sua atuação no campo das violências, das territorialidades urbanas, das reexistências coletivas, da saúde mental e dos direitos humanos
 

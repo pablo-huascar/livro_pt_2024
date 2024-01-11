@@ -9,27 +9,27 @@ author:
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Fábio Pinheiro Pacheco
-    orcid: 0009-0006-0616-1798
+    orcid: 0000-0003-4139-1506
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Andie de Castro Lima
-    orcid: 0000-0002-5911-9327
+    orcid: 0000-0003-1469-8529
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Cícera Mônica da Silva Sousa Martins
-    orcid: 0009-0005-6962-1694
+    orcid: 0000-0003-1773-0061
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Halaine Cristina Pessoa Bento
-    orcid: 0000-0002-7300-0402
+    orcid: 0000-0002-2247-5096
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Elcides Hellen Ferreira Landim Barreto
-    orcid: 0000-0002-3592-7709
+    orcid: 0000-0003-1284-5679
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Graciella Faico Ferreira
-    orcid: 0000-0002-3592-7709
+    orcid: 0000-0001-9075-5180
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
@@ -68,13 +68,13 @@ Dentre os principais objetivos do curso, buscou-se:
 
 Com isso, organizou-se o curso em cinco módulos principais, nos quais se abordou área do conhecimento diferente, problemática do contexto, aspectos teóricos, metodologias participativas e pesquisas desenvolvidas no âmbito do Locus, do PPGP-UFC/Fortaleza e do PPGPPPP-UFC/Sobral. Mais adiante, apresenta-se detalhadamente cada um dos módulos.
 
-## Delineamento e Organização do Curso
+## Delineamento e organização do curso
 
 O curso de extensão constituiu-se de um espaço de reflexão sobre conteúdos previstos pelas disciplinas de Teorias e Práticas em Psicologia Social III, Psicologia Ambiental, entre outras da graduação e pós-graduação. Para além do ensino, o curso também dialogou diretamente com as pesquisas realizadas por mestrandos e doutorandos do PPGP e do PPGPPPP.
 
 Considerando a necessidade de distanciamento físico, por conta da pandemia da Covid-19, o curso ocorreu na modalidade remota com momentos síncronos e assíncronos. Assim, os encontros foram realizados de forma online, uma vez por semana, em todas as sextas-feiras do mês de agosto e na primeira sexta-feira do mês de setembro de 2020, no horário das 16h às 18h, pela plataforma Google Meet, com duração de 2 horas/aula. A fim de contabilizar a carga horária de 20h para emissão de certificado, além das 10h em encontros síncronos, foram disponibilizadas leituras e atividades na Plataforma do Google Classroom (Sala de Aula do Google) para complementar as discussões e reflexões de forma assíncrona.
 
-Quanto às inscrições do curso, estas foram realizadas de forma virtual pela plataforma Google Formulários, em julho de 2020. Inicialmente, a equipe de organização do curso planejou disponibilizar 100 vagas, contudo, diante da alta procura identificada, foram realizadas 162 inscrições. Com relação ao perfil de inscritos, além de estudantes de graduação, especialização, mestrado e doutorado, também foi registrada a participação de profissionais de políticas públicas, integrantes de organizações não-governamentais e participantes de movimentos sociais, de coletivos, além de líderes comunitários. A seguir, o Quadro 1 sintetiza o perfil dos estudantes inscritos quanto às áreas de formação.
+Quanto às inscrições do curso, estas foram realizadas de forma virtual pela plataforma Google Formulários, em julho de 2020. Inicialmente, a equipe de organização do curso planejou disponibilizar 100 vagas, contudo, diante da alta procura identificada, foram realizadas 162 inscrições. Com relação ao perfil de inscritos, além de estudantes de graduação, especialização, mestrado e doutorado, também foi registrada a participação de profissionais de políticas públicas, integrantes de organizações não-governamentais e participantes de movimentos sociais, de coletivos, além de líderes comunitários. A seguir, o quadro 1 sintetiza o perfil dos estudantes inscritos quanto às áreas de formação.
 
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Graduação**      | Psicologia; Pedagogia; Sociologia; Direito; História; Nutrição; Finanças; Medicina; Gestão de Turismo; Arquitetura e Urbanismo; Geografia; Ciências Ambientais; Ciências Biológicas; Engenharia de Pesca; Engenharia Ambiental; Gestão Ambiental; Física. |
@@ -88,7 +88,7 @@ Quanto às inscrições do curso, estas foram realizadas de forma virtual pela p
 
 : Quadro 1 - Áreas de formação (graduação e pós-graduação) dos estudantes inscritos no curso.
 
-Quanto às localizações dos participantes, o curso chegou a 52 cidades, distribuídas entre 17 Estados, nas 5 regiões do Brasil. O Quadro 02, abaixo, apresenta a localização das cidades conforme as regiões do país:
+Quanto às localizações dos participantes, o curso chegou a 52 cidades, distribuídas entre 17 Estados, nas 5 regiões do Brasil. O quadro 02 apresenta a localização das cidades conforme as regiões do país:
 
 +-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Regiões do Brasil** | **Estados e cidades brasileiras**                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -123,7 +123,7 @@ A facilitação foi realizada pela coordenadora do Locus e pelos pesquisadores d
 
 Uma bibliografia foi disponibilizada previamente para que os participantes pudessem trazer questionamentos para os encontros. O material utilizado como referência em cada aula foi disponibilizado em uma pasta pública no Google Drive, sendo organizado em uma Sala de Aula do Google (Google Classroom). Por fim, após contabilizar as frequências e atividades respondidas pelos participantes, 74 certificados foram emitidos e enviados por e-mail.
 
-## Facilitação dos Eixos Temáticos: Trocas de Experiências e Ensino
+## Facilitação dos eixos temáticos: trocas de experiências e ensino
 
 Ao longo do curso de extensão, debateu-se sobre como as perspectivas socioambiental e histórico-cultural contribuem para a compreensão das problemáticas sociais do contexto nacional. Foram abordados conceitos de áreas específicas (Psicologia, Geografia, Educação, Arquitetura e Urbanismo, Sociologia, etc.) relacionando-os com os contextos estudados, métodos e processos de facilitação que contribuem para inserção no campo, levantamento de necessidades, desenvolvimentos de ações, construção e partilha de conhecimentos, etc., a partir de uma perspectiva participativa, envolvendo profissionais, estudantes e residentes dos contextos em estudo.
 
@@ -141,9 +141,9 @@ Neste encontro, buscou-se apresentar a construção do curso, contextualizando o
 
 Na ocasião, também foi apresentado o Instrumento Gerador de Mapas Afetivos [@bomfim2010cidade; @bomfim2014affective], desenvolvido pela coordenadora do Locus, Zulmira Bomfim, a partir de sua tese de doutorado, em 2003. Integrando as bases teóricas supracitadas, Bomfim [-@bomfim2010cidade] delineou um instrumento capaz de elaborar mapas afetivos, por meio dos quais se pode captar a síntese socioafetiva do encontro do indivíduo com o lugar, seja ele a casa, seja o bairro, seja a cidade, etc.
 
-### *Desenvolvimento Humano, Formação Profissional e Participação*
+### Desenvolvimento humano, formação profissional e participação
 
-Neste segundo módulo, a discussão voltou-se para o diálogo entre desenvolvimento pessoal e coletivo, a participação na cultura, o desenvolvimento ao longo da vida e as repercussões disso nos processos educativos. Buscou-se, ainda, discutir os aspectos psicossociais da formação em Psicologia e o trabalho do psicólogo na educação e arte como proposta intercultural. A facilitação do módulo se deu por Nara Maria Forte Diogo Rocha (Professora do Departamento de Psicologia da UFC-Fortaleza e do PPGPP-UFC/Sobral), Helenira Fonseca de Alencar (Doutora em Educação), Janaína Farias de Melo (doutoranda no PPGP-UFC/Fortaleza) e Benedito Rodrigues (mestrando no PPGPP-Sobral). No total, participaram 101 cursistas.
+Neste segundo módulo, a discussão voltou-se para o diálogo entre desenvolvimento pessoal e coletivo, a participação na cultura, o desenvolvimento ao longo da vida e as repercussões disso nos processos educativos. Buscou-se, ainda, discutir os aspectos psicossociais da formação em Psicologia e o trabalho do psicólogo na educação e arte como proposta intercultural. A facilitação do módulo se deu por Nara Maria Forte Diogo Rocha (Professora do Departamento de Psicologia da UFC-Fortaleza e do PPGPPPP-UFC/Sobral), Helenira Fonseca de Alencar (Doutora em Educação), Janaína Farias de Melo (doutoranda no PPGP-UFC/Fortaleza) e Benedito Rodrigues (mestrando no PPGPP-Sobral). No total, participaram 101 cursistas.
 
 Para a discussão entre o desenvolvimento pessoal e coletivo e a participação na cultura, a dinâmica da “Vida em Verso” (Haicai) foi realizada com o objetivo de expressar a relação entre o ser humano e a natureza a partir de um olhar para as mudanças possíveis na vida. Além disso, foi relevante abordar, no campo da educação, sobre a experiência da sala invertida (realização de atividades e exercícios em grupo e atendimento do professor), diferente da sala tradicional (realização de explanações pelo professor aos alunos). Por fim, foram abordadas a experiência do psicólogo escolar ao criar espaços para circulação das falas dos alunos e a ressignificação do cotidiano com novas atividades criadas em grupos.
 
@@ -157,7 +157,7 @@ Nesse sentido, buscando novas possibilidades metodológicas dos mapas afetivos [
 
 Dando continuidade às discussões sobre culturas no Brasil, Halaine Pessoa apresentou a sua pesquisa de mestrado com a população migrante e refugiada venezuelana, que chega pelo estado de Roraima em busca de melhores condições de vida. Assim, foi apresentando um olhar da Psicologia Ambiental na esfera da experiência, da vivência, dos sentidos e da apropriação dos espaços dos venezuelanos com o território brasileiro [@moser1998psicologia], além da sua experiência com este público em um abrigo para refugiados venezuelanos da Operação Acolhida, na cidade de Boa Vista (RR).
 
-### Políticas Públicas de Saúde e Assistência Social
+### Políticas públicas de saúde e assistência social
 
 O módulo quatro apresentou as áreas de Assistência Social e Saúde, fazendo uma interlocução com a Psicologia Ambiental e Psicologia Social. As metodologias participativas utilizadas nesses contextos, nos âmbitos do trabalho, da pesquisa e do ensino, enfatizaram questões relacionadas à importância da territorialização nas práticas profissionais nas políticas públicas elencadas e à compreensão dos elementos afetivos envoltos em situações promotoras de vulnerabilidade social e risco vivenciadas pelos usuários da política.
 
@@ -171,7 +171,7 @@ Em seguida, foram apresentadas duas situações de aplicação da metodologia IG
 
 Em seguida, Andie Lima e Mônica Martins trouxeram a discussão sobre os afetos para o âmbito da assistência social. Neste ponto, foram apresentados os principais resultados das pesquisas e ações desenvolvidas no CRAS, tendo como foco de abordagem a importância da territorialização e da compreensão dos elementos afetivos que perpassam a apropriação desse território pelos moradores [@lima2019estima]. Os exemplos apresentados mostraram o potencial do IGMA tanto para diagnóstico dos vínculos de moradores com os equipamentos das políticas públicas acessadas, como para intervenção e evocação de reflexões acerca da importância da compreensão dos afetos no processo de implementação e condução de uma política pública.
 
-### Cidades, Movimentos Socioculturais e Participação
+### Cidades, movimentos socioculturais e participação
 
 Na última etapa, foi realizada uma discussão sobre espaços culturais, construção de participação e resistência em movimentos sociais urbanos. Este módulo foi ministrado por Fábio Pinheiro Pacheco (doutorando no PPGP-UFC/Fortaleza), José Reginaldo Feijão Parente (doutorando no PPGP-UFC/Fortaleza), Cícera Mônica da Silva Sousa Martins (doutoranda no PPGP-UFC/Fortaleza) e Daniel Welton Arruda Cabral (doutorando no PPGP-UFC/Fortaleza). No total, estiveram presentes 77 participantes. O módulo apresentou métodos e processos de facilitação de pesquisa, ensino e extensão, destacando as trilhas socioambientais [@morais2011nas] e culturais como possibilidades de reflexão-ação e construção coletiva; e a organização de movimentos sociais de luta [@cabral2015relacao; @martins2020afetividade] e resistência às situações de segregação socioespacial [@pacheco2018afetividade].
 
@@ -181,7 +181,7 @@ Por fim, Fábio Pacheco e Mônica Martins trouxeram uma discussão sobre os proc
 
 Todos os módulos se fundamentaram em perspectivas teóricas e metodológicas nas áreas apontadas considerando o contexto de desigualdades sociais e vulnerabilidades sociais, bem como a dialética exclusão-inclusão social, as teorias decoloniais e os povos originários (Santos & Meneses, 2011). Apresentou-se como a Psicologia Social latino-americana [@lane1989psicologia; @martinbaro2011desafios] e a Psicologia Ambiental de base transacionalista [@garciamira1997aportacion; @bomfim2010cidade] contribuem para a compreensão de fenômenos socioambientais de forma teórico-prática. A categoria afetividade [@sawaia2011sofrimento] destacou-se como eixo de observação, de investigação, de intervenção e de análise para superar as dicotomias próprias da ciência psicológica que separam a subjetividade da objetividade, a racionalidade dos afetos, o indivíduo do social, dentre outras que se aproximam de uma postura prescrita e que naturalizam a dialética da exclusão-inclusão social.
 
-## Processo de Aprendizagem e Avaliação
+## Processo de aprendizagem e avaliação
 
 Ao final do quinto módulo, foi pedido aos alunos para preencherem uma ficha de avaliação, com o intuito de compreender como se deu o processo de aprendizagem ao longo do curso e, também, de mensurar o impacto das temáticas trabalhadas no decorrer da trajetória profissional dos discentes. A ficha de avaliação foi criada na plataforma do G Suite (Google Forms) em formato de questionário eletrônico, sendo avaliados cinco aspectos: Ambiente Virtual, Aspectos Pedagógicos, Suporte Técnico, Equipe Docente e Moderação e Autoavaliação. Em cada um dos cinco tópicos supracitados eram apresentadas questões objetivas, com cinco alternativas da escala de concordância, com números entre 1 (discordo totalmente) e 5 (concordo totalmente).
 
