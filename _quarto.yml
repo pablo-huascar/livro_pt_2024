@@ -52,6 +52,7 @@ book:
     - part: Manual/Protocolo
       chapters:
         - barbosa_mini_guia.qmd
+    - indice_remissivo.qmd
 
 format:
   html:

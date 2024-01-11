@@ -16,6 +16,8 @@ filters:
   - section-bibliographies
 bibliography: barbosa_mini_guia.bib
 reference-section-title: Referências
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Processo de criação do miniguia do orientador educacional sobre suas atribuições e indicadores de efeitos no contexto escolar sobralense
