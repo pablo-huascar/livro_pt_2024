@@ -37,6 +37,7 @@ book:
     - part: Relatórios Técnicos - Assessoria, Consultoria e Pesquisa
       chapters:
         - beserra_de_melo_assessoria.qmd
+        - costa_interv_criancas.qmd
     
     - part: Curso para Formação Profissional
       chapters:
