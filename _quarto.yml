@@ -3,7 +3,7 @@ project:
 lang: pt-br
 title-block-author-plural: "Organizadores"  
 toc-title: "Sumário"
-number-sections: true
+number-sections: false
 indent: true
 
 book:
@@ -60,7 +60,7 @@ format:
     callout-appearance: simple
     toc: true
     toc_float: true
-    toc-depth: 2
+    toc-depth: 6
     standalone: true
     indent: true
     code-link: true

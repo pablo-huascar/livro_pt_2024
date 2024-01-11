@@ -1,4 +1,4 @@
-# Expediente institucional {.unnumbered}
+# Expediente Institucional
 
 ```{r}
 #| label: notas
@@ -7,16 +7,18 @@
 ## Melhorar a qualidade da imagem do logo do PPGPPPP
 ```
 
-::: {style="line-height: 1;"}
-**Presidente da república**
+::: {style="line-height: 0.5;"}
+::: {style="text-align: center;"}
+### Presidente da República
+:::
 
 Luiz Inácio Lula da Silva
 
-**Ministro da educação**
+### Ministro da Educação
 
 Camilo Sobreira de Santana
 
-**Universidade Federal do Ceará – UFC**
+### Universidade Federal do Ceará – UFC
 
 ::: column-margin
 [![](./imagens/brasao1_horizontal_cor_300dpi.png)](https://www.ufc.br/)
@@ -30,7 +32,11 @@ Prof. Custódio Luís Silva de Almeida
 
 Profa Diana Cristina Silva de Almeida
 
-***Programa de pós-graduação em Psicologia***
+#### **Programa de Pós-graduação em Psicologia**
+
+::: column-margin
+[![](./imagens/ppgpsi.png)](https://www.ufc.br/)
+:::
 
 **Coordenador**
 
@@ -40,7 +46,11 @@ Professor Aluísio Ferreira de Lima
 
 Professor Paulo Coelho Castelo Branco
 
-***Programa de pós-graduação profissional em Psicologia e políticas públicas***
+#### **Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas**
+
+::: column-margin
+[![](./imagens/ppgpppp.png)](https://www.ufc.br/)
+:::
 
 **Coordenador**
 

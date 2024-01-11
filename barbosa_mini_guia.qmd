@@ -46,7 +46,7 @@ Dito isto, descreveremos a estruturação do "Miniguia do Orientador Educacional
 
 Esta seção pretende apresentar ao leitor uma visão geral da pesquisa que resultou no Miniguia. Explicita-se aqui que o material construído não representa a totalidade da caracterização profissional do orientador educacional, e sim um recorte que pode ser considerado como um ponto de partida para aqueles que já estão no cargo ou para os que futuramente possam vir a estar.
 
-## Ser orientador educacional
+## Ser Orientador Educacional
 
 A seção "Ser Orientador Educacional" traz uma descrição do Orientador Educacional no contexto municipal como aquele que tem formação acadêmica em Psicologia e dispensa necessidade de qualificação profissional para a execução de suas funções, tais como pós-graduação. Apesar de não haver exigência de qualificação, observamos que, no grupo dos 11 orientadores educacionais, há um maior percentual de qualificação na área da educação, concentrando 49,9% dos integrantes, sendo 14,3% deles com especialização, 21,4% com mestrado em andamento, 7,1% com mestrado concluído e 7,1% com especialização em andamento.
 
@@ -58,7 +58,7 @@ No tópico "Atribuições Profissionais", o Miniguia apresenta as atribuições 
 
 As atribuições categorizadas como primárias reuniram aquelas atividades consideradas pelos participantes da pesquisa como demandas em cuja execução estes são figuras centrais (o que diferencia sua ação das dos demais atores escolares). As atribuições secundárias para os OE são aquelas centradas em outros atores escolares, sendo o orientador educacional um apoio para a execução destas. As primárias são compostas por dois eixos, quais sejam Eixo 1 – Construção de Vínculos e Eixo 2 – Práticas Pedagógicas. As secundárias, por sua vez, envolvem o orientador educacional como participante em vez de executor da ação. Em face disso, o Miniguia também apresenta o fluxograma dessas atribuições por eixo e público-alvo.
 
-## Tipos de atribuições e Possíveis Indicadores de efeitos
+## Tipos de Atribuições e Possíveis Indicadores de Efeitos
 
 Os indicadores de efeitos das intervenções foram propostos com base na especificação das funções de cada atribuição, as quais foram organizadas nas seguintes categorias: Instrução, Inserção e Interação. Ainda, os indicadores de efeitos das atividades foram sistematizados de modo a trazer mais clareza sobre como avaliar o trabalho do OE e a propor mudanças baseadas em dados mensuráveis.
 
@@ -71,11 +71,11 @@ Através dos dados analisados na pesquisa, a seção "Tipos de atribuições" tr
 
 Cada um desses grupos de tipos de atribuições tem seus indicadores de efeito descritos no Miniguia de forma detalhada.
 
-## Objetivos da atribuições
+## Objetivos das Atribuições
 
 Compreender as atribuições a partir dos seus objetivos tem como função auxiliar o orientador educacional a conhecer o modo como essas atribuições são planejadas e a forma como o resultado de sua atuação é mensurado, por meio dos indicadores de efeitos oferecidos pelo Miniguia ou criados pelo próprio OE.
 
-## Caracterização das ações por tipo de atribuição
+## Caracterização das Ações por Tipo de Atribuição
 
 Depois de tudo pronto, faltava responder a uma das maiores inquietações dos orientadores educacionais: como priorizar o público-alvo quando tudo parece ser tão urgente? Para isso, foi criada a seção "Caracterização de ações por tipo de atribuição", com sugestões de ações-padrão para determinado tipo de atribuição.
 
@@ -87,7 +87,7 @@ Com esses exemplos, procuramos, nessa seção, trazer possibilidades de metodolo
 
 As dicas são uma forma de visualizar estratégias de intervenção para as demandas do orientador educacional, buscando sistematizar ações para a questão “Por onde devo começar?”, para a identificação do perfil da atividade e de alguns pontos de atenção.
 
-## Considerações
+## Considerações Finais
 
 O trabalho do orientador educacional (OE) no contexto educacional sobralense ainda está em processo de construção, moldando-se conforme as demandas e ajustando-se às atribuições em função disso. Esse fato foi considerado quando nos propusemos a estudar o perfil e os modos de atuação desse profissional para elaborar o Miniguia.
 
