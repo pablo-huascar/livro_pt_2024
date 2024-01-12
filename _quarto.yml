@@ -7,15 +7,10 @@ number-sections: false
 indent: true
 
 book:
-  page-navigation: true
+  page-navigation: false
   title: "Produções Técnicas em Psicologia"
   subtitle: "Experiências Compartilhadas"
   page-footer:
-    left: |
-      Produções Técnicas em Psicologia e Políticas Públicas: 
-      Experiências Compartilhadas 
-      foi organizado por Francisco Pablo Huascar Aragão Pinheiro e
-      João Paulo Pereira Barros
     right: | 
       Este livro foi construído com <a href="https://quarto.org/">Quarto</a>.
   cover-image: capa.png
@@ -45,14 +40,16 @@ book:
         - bomfim_metodologias_part.qmd
     
     - part: Material Didático
-    
+
     - part: Compilações de Vários Produtos Técnicos
       chapters:
         - barros_assessorias_cursos.qmd
     - part: Manual/Protocolo
       chapters:
         - barbosa_mini_guia.qmd
-    - indice_remissivo.qmd
+        - da_silva_mapas_vizin.qmd
+    
+    - sobre_os_autores.qmd
 
 format:
   html:
