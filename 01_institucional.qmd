@@ -1,16 +1,9 @@
 # Expediente Institucional
 
-```{r}
-#| label: notas
-#| echo: false
-
-## Melhorar a qualidade da imagem do logo do PPGPPPP
-```
-
 ::: {style="line-height: 0.5;"}
-::: {style="text-align: center;"}
+
 ### Presidente da República
-:::
+
 
 Luiz Inácio Lula da Silva
 
