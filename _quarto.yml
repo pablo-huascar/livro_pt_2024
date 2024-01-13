@@ -40,6 +40,8 @@ book:
         - bomfim_metodologias_part.qmd
     
     - part: Material Didático
+      chapters: 
+        - da_silva_pandemia_pergunta.qmd
 
     - part: Compilações de Vários Produtos Técnicos
       chapters:

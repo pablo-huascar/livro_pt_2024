@@ -1,0 +1,138 @@
+---
+author: 
+  - name: Thamila Cristina dos Santos da Silva
+    orcid: 0000-0001-8616-0731
+    email: thamila_silva@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Milena Assunção Procópio Barbosa
+    orcid: 0000-0001-8616-0731
+    email: assuncaoprocopio@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Érica Atem Gonçalves de Araújo Costa
+    orcid: 0000-0002-4341-8138
+    email: ericaatem@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: da_silva_pandemia_pergunta.bib
+reference-section-title: Referências
+---
+
+# O que Pode a Pandemia Perguntar à Sala de Aula
+
+## Este tempo, ainda sem nome, durante uma pandemia
+
+Em março de 2020, a instauração da pandemia do novo coronavírus no Brasil e a necessidade sanitária de isolamento social para interrupção do contágio provocaram uma mudança imediata nos modos de vida cotidianos, expressamente no que tange à insegurança com o porvir e ao medo da morte, operando efeitos políticos e sociais na esfera doméstica e laboral. O passar dos dias nesse novo mundo pandêmico evidenciava níveis de diferenciação no enfrentamento da Covid-19. Fatores relacionados à classe, ao território e à renda impactavam no isolamento social e consequentemente nos números alarmantes de mortos. De acordo com @cerqueira2017atlas, o Brasil enfrentou, com isso, uma crise sanitária sem precedentes, deflagrando várias pandemias dentro de uma pandemia, como o aumento da violência letal e o aprofundamento das desigualdades sociais.
+
+Este texto remonta a experiência de vivenciar esse tempo histórico como corpos atravessados pela pós-graduação de uma universidade pública, em um curso de Mestrado profissional em Psicologia e Políticas Públicas no interior do nordeste brasileiro. É ousar pensar no presente, tecendo efeitos éticos e políticos da pandemia para o território da educação, especificamente diante do desafio de uma sala de aula remota e virtualizada.
+
+Na disciplina de estágio à docência no ano de 2020, foi possível a elaboração de um dispositivo audiovisual intitulado “O que pode a pandemia perguntar à sala de aula?”, com diálogos e intercâmbios entre alguns sujeitos de territórios diversos envolvidos com as políticas de educação, arte e direitos humanos no Estado do Ceará. Por ele, tecemos sentidos sobre formação, experiência e aprendizagens em um mundo pandêmico.
+
+A conversação é um signo necessário para a elaboração deste dispositivo, pois o isolamento e a excessiva exposição às telas virtuais produziu distanciamento social e despotencializou espaços de diálogos e trânsitos de afetos, mesmo que estivéssemos ininterruptamente conectados entre telas, lives e salas remotas. Desse modo, destacamos que esse texto expressa uma polifonia de vozes, misturando tempos cronológicos do mundo pandêmico. São formadas, assim, conexões que vão desde a disciplina de estágio à docência, com participação da mestranda Thamila Santos, sob orientação da professora doutora Érica Atem Gonçalves de Araújo Costa, em que foi possível criar o dispositivo audiovisual “O que pode a pandemia perguntar à sala de aula?”, até o presente momento, no ano de 2021, em diálogo com a mestranda Milena Assunção, estudante ingressa na segunda turma do mestrado, orientadora educacional no município de Sobral, cujo projeto de pesquisa tece questões sobre pensar uma educação para além dos instituídos, da produtividade e dos números exitosos da educação sobralense.
+
+Portanto, nossas vozes se encontrarão durante esta escrita, em tempos diferentes, mas sob a perspectiva de um plano comum para pensar educação e políticas públicas, no desejo de continuar construindo espaços de conversações; de possibilitar encontros entre os participantes do dispositivo “O que pode a pandemia perguntar à sala de aula?” e, um tempo depois, as mais de 416 pessoas que visualizaram os vídeos nas redes, os quais se tornaram objeto de discussão na sala de aula de Psicologia da Faculdade Luciano Feijão, na formação de professores da educação infantil da Escola de Formação Permanente do Magistério e Gestão Educacional (ESFAPEGE) e na formação com articuladores da juventude da Unidade de Gerenciamento de Projetos de Prevenção de Violências. Trata-se, pois, de um encontro de muitas vozes, como tentativa de elaborar este tempo ainda sem nome no meio de uma pandemia.
+
+## Escola, criação e formação
+
+> Eu ando pelo mundo prestando atenção <br> Em cores que eu não sei o nome <br> -Adriana Calcanhotto, Esquadros, 1992
+
+O mundo que conhecemos pode ser compreendido enquanto uma invenção que se torna real no ato de criar. Inspiradas na letra da canção de Adriana Calcanhotto , na epígrafe, percebemos que a atenção é um músculo que se exercita, já que andamos pelo mundo com uma atenção flutuante, ora fixando-a em um objeto, ora em outro. Por uma noção de conforto e segurança tomamos alguns elementos, ou quase todos, desse mundo criado enquanto fatos, como se estas composições sempre tivessem existido. É um exemplo de paradoxo: temos a compreensão de que algo se trata de uma invenção, embora, ao mesmo tempo, pareça sempre ter existido – e por isso sempre existirá –, como se houvesse uma permanência com tons de essência.
+
+Nesse sentido, seguindo essa linha de pensamento, desejamos problematizar a instituição escolar. Isso porque a escola é um lugar criado, marcado por processos de subjetivação, por forças oriundas de tessituras temporais, o qual finda por responder (ou tentar) a inquietações sócio-históricas. Segundo Masschelein e Simons [-@masschelein2019emdefesa], a escola “é uma invenção histórica da polis grega e foi um ataque absoluto aos privilégios das elites de uma ordem arcaica” (p. 105). Dessa forma, a escola, no bojo da sua ficção inicial, posicionou-se enquanto resistência, espaço dialógico e democrático.
+
+Já a escola enquanto instituição moderna remete aos séculos XVIII e XIX. Ela se configura como uma “tentativa de dissipar a renovação, o potencial radical” [@masschelein2019emdefesa, p. 106], ou seja, esse modelo moderno distancia-se e muito dos primórdios gregos. Ao longo do tempo, por uma das linhas que problematiza esse espaço, a escola vem sendo descrita como um “maquinário normalizador, colonizante e alienante” [@masschelein2021lingua, p. 19]. Ora, se na polis grega a escola foi um espaço de enfrentamento, de resistência, de diálogo, a composição moderna, por sua vez, tornou-se um espaço muito bem estruturado, com seus passos pedagógicos e suas existências muito bem determinados. E todo esse movimento aponta para um ideal de sujeito racional, disciplinado, trabalhador, que mantém em curso o fluxo desejado.
+
+Contudo, os mesmos autores nos trazem à memória que, mesmo que este espaço pareça um maquinário com peças muito bem centradas e captadas, há nessa organização um processo instável, provisório. A escola sempre está a criar, sendo um eterno gerúndio, ou seja, sempre aberta, em processo.
+
+A questão que se coloca aqui é o quão esse espaço não é e nem pode ser tomado como algo dado, fixo, estável. Ele é, antes de tudo, criação. E o fato de a origem grega ter sido feita de uma forma distinta da moderna só reforça a pista de que as práticas e invenções educativas são mutáveis [@brandao2007educacao].
+
+Tomando como pista essas nuances históricas, podemos compreender que a escola não permanece a mesma ao longo do tempo. Ela transmuta-se, vai sendo disputada, respondendo aos anseios sócio-históricos, em suma recriando-se. Entender a escola enquanto mero espaço físico que transmite um certo saber seria uma inocência ou até mesmo uma forma de negar o quanto esse espaço é político. A escola não é e nunca foi um espaço à parte da sociedade. Trata-se de um lugar atravessado por diversos debates, disputas e olhares que enxergam mundos diferentes. Temos, assim, sobre o mesmo objeto anseios divergentes.
+
+Ratificar esse espaço social e político de disputas implica compreender que ele não está limitado a uma composição física, haja vista a escola ser muito mais do que paredes e muros. À vista disso, tematizar a instituição escolar é inevitavelmente problematizar que educação é produzida neste espaço, mais especificamente que sujeitos se produzem com a educação que ali é desenvolvida. De acordo com Freire [-@freire1967educacao], “não há educação fora das sociedades humanas” (p. 35), ou seja, a educação, criação humana, pode ser compreendida como um conjunto de práticas que, ao mesmo tempo que compartilham um tipo de saber, produzem, subjetivam, criam um tipo de sujeito.
+
+Assim, educação não se configura enquanto uma prática solta no mundo, um fazer a-histórico, pelo contrário, “não pode existir uma prática educativa neutra, descomprometida, apolítica” [@freire2001politica, p. 21]. Estamos a afirmar, desde a primeira palavra, o quanto o que produzimos nos atravessa e nos forma. Dessa forma, educar é intervir, é criar, é experienciar possibilidades.
+
+Há também outra noção importante: a escola não é um espaço de mera transmissão de conhecimento, onde um ensina, e o outro aprende. Compreendemos e defendemos, pois, a noção de que a educação ocorre sempre em relação. Afirmar isso, contudo, não nega que ao se educar há um tipo de sujeito esperado. Em vista disso, há de se perceber dois aspectos da educação: ao educar, há uma relação entre os sujeitos que ali estão envolvidos pelas práticas educativas; e, envolvidos por essas práticas, existem ali processos de subjetivação, ou seja, de produção de modos de existir.
+
+## A "reinvenção" da sala de aula: imperativos e urgências
+
+Porta, cadeiras enfileiradas, quadro, pincéis. Esses são elementos recorrentes em salas de aula. São eles tão comuns que podem ser entendidos como essenciais na execução de uma aula. Contudo essa ideia foi suspensa no início e durante boa parte da pandemia da Covid-19. Isso porque, em não sendo mais seguro estar corporalmente presente, a sala de aula física deixou de ser uma realidade rotineira e tornou-se alvo de cuidados e recomendações.
+
+Em questão de dias, palavras como tecnologias educacionais, Google Sala de Aula, videoaulas, Whatsapp, Youtube, live, estavam presentes em conversas, discursos e formações. Era evidente que a criação de uma nova forma de dar aula, de experimentar a sala de aula, era mais do que necessária, era urgente e solicitada. Essas demandas ressoavam, então, em uma infinidade de dicas, tutoriais, informações e modos criativos de fazer o “chão da sala de aula” acontecer apesar da ausência física. Porém, no meio de tamanha efervescência, havia uma pandemia.
+
+Uma pandemia que, além de todos os aspectos em nível de saúde pública, trouxe o agravamento e intensificação das desigualdades e vulnerabilidades sociais. E, no tocante à instituição escolar, preocupações como insegurança alimentar, violências e desnutrição infantojuvenil tornaram-se pontos fundamentais em discussões pedagógico-administrativas. Assim, em paralelo às reivindicações e aos incentivos para uma renovação pedagógica, não só havia interrogações de cunho logístico acerca do que fazer com os alunos que estão fora dessa “educação conectada", como também outra questão se impunha: como pensar em aulas online, ensino híbrido, tecnologias, se o sujeito alvo dessas ações não possui as condições mínimas de sobrevivência?
+
+Não é que essas inquietações não chegassem à escola, à sala de aula. Mas é que o lugar ocupado por elas era mínimo, estando à margem das ações. Então veio uma pandemia que toca em vários setores e escancara as desigualdades, provando que o momento crítico até poderia ser o mesmo, mas que as formas de enfrentamento e afetações eram bem diferentes. As desigualdades são desmascaradas de uma forma que o lugar das grandes avaliações perde seu destaque, seu fim último. Como pensar em exames, repasse de verbas, ações exitosas quando o maior clamor da população menos favorecida toca as necessidades básicas? É fome, morte, extermínio, desempenho. O que é uma nota diante de uma criança com fome, sem casa e proteção?
+
+Também não podemos esquecer dos professores. Chegaram ao fazer docente inúmeras convocações, por exemplo, abertura ao novo, resiliência, aulas criativas. Mas será que isso chegou ou apenas se intensificou? Esse novo discurso, revestido de palavras bonitas, motivacionais, reflete uma questão que se faz mais profunda, toca a sobrecarga, a desvalorização, as cobranças exageradas, o sofrimento fruto do fazer laboral. Assim, em certa medida, o que houve foi uma espécie de retirada de um véu que recobria algo que já ressoava há tempos.
+
+E diante de todo um contexto educacional, que também é social, surge a interrogação: “O que pode a pandemia perguntar a sala de aula?” Uma pergunta ampla, que toca não só o pedagógico, mas também o social, até porque todo fazer pedagógico é social. Mas antes disso precisamos compartilhar o quanto essa é uma pergunta que objetiva a ressonância, os efeitos e as potências, não um mero enquadramento de culpados ou até mesmo um confrontamento entre práticas, umas mais exitosas que outras. Perguntamos, pois sabemos e defendemos a compreensão de que o ato de problematizar movimenta, cria e recria efeitos. É, portanto, ao movimento que essa pergunta diz respeito.
+
+## “O que pode a pandemia perguntar à sala de aula?” como dispositivo do encontro
+
+Se o mundo pandêmico produziu em nós, estudantes e professores, uma sala de aula física em estado de interrupção, na medida em que caminhávamos por esse mundo novo com nossas máscaras, hospitais lotados, aguda falta de ar e mortes diárias, outras sensibilidades e afetos precisaram comparecer ao espaço que partilhamos juntos de significado da sala de aula. Apostamos que vivenciar esse espaço formativo a partir do campo do sensível é propor caminhos nos quais se possa ver, ouvir, pensar e sentir o mundo como experiência política, ética e estética.
+
+Por isso, surge a ideia de criar um dispositivo artístico-político de encontro ficcional sem telas com educadores, estudantes e artistas no meio de uma pandemia. O que falar dessa experiência que nos emudece? Interessava-nos escutar algumas trajetórias atravessadas pela sala de aula diante das contingências de uma pandemia global, mas sabíamos das demandas, da precarização do trabalho, dos corpos caídos, da produtividade.
+
+A noção de dispositivo artístico-político vem sendo elaborada na interlocução com os estudos de Rolnik [-@rolnik2009furor; -@rolnik2019esferas], que opera no território da arte e da política, a partir das relações com processos de subjetivação, cultura e criação. Segundo a autora, o dispositivo tem capacidade de “criar as condições para que tais práticas possam ativar experiências sensíveis no presente, necessariamente diferentes das que foram originalmente vividas, mas com igual teor de densidade crítica.” [@rolnik2019esferas, p. 97].
+
+A partir de uma trajetória de interesses de pesquisa atravessados pela política e pela arte, a possibilidade de realizar algo em que essas relações pudessem aparecer no mestrado profissional nos acompanhava. Por isso, o caminho possível que encontramos para dar vazão às provocações da disciplina de estágio à docência foi a produção de um dispositivo de encontro e de escuta a partir do campo do sensível que provocasse a voz, o corpo e a narração de agentes conectados com a formação durante a pandemia.
+
+Por isso, apresentamos a experiência de encontro com oito educadores dos mais diversos campos de formação tecidos a partir da questão: o que pode a pandemia perguntar à sala de aula? A escolha dos oito participantes se deu pela proximidade afetiva e profissional com a pesquisadora-estudante da disciplina de estágio à docência no ano de 2020, Thamila Santos. As pessoas convidadas para a conversa têm intercessões com as políticas públicas de educação e direitos humanos de Sobral, são professores da rede municipal e privada, artistas, produtores culturais e pesquisadores que atuam em Sobral e em Fortaleza. São eles: Jander Alcântara (artista de teatro e professor de artes do ensino básico do município de Sobral), Clara Di Lernia (gestora de educação permanente da Unidade de Gerenciamento de Projetos de Prevenção de Violências - UGP-PV, vinculada à secretaria dos Direitos Humanos), Gisela Nóbrega (professora do Fundamental I da rede privada de Sobral), Daiana Maciel (artista e psicóloga do Centro de Referência da Mulher na cidade de Maranguape), Neirton Filho (músico, poeta e arte-educador), Dim Albuquerque (comunicador e articulador da juventude da UGP-PV), Rômulo Silva (doutorando em sociologia UECE) e Léo Silva (fotodocumentarista periférico e produtor cultural).
+
+A diversidade de vozes e de trajetórias no campo da educação nos interessava para construção do dispositivo. Os diferentes territórios existenciais acerca da sala de aula são necessários para problematizar as interseções políticas e éticas que tecem o espaço formativo. Desse modo, convidamos as pessoas a responderem por áudio a uma pergunta que ativasse memórias sobre formação.
+
+Apostamos em um formato híbrido entre as linguagens do áudio e da imagem, pois o áudio convoca uma escuta dos sujeitos através do som de suas vozes e da narração de suas histórias. Ademais, no período mais crítico do isolamento social, as imagens foram exaustivamente utilizadas durante as chamadas de vídeo e as transmissões ao vivo, as lives, o que nos instigou a pensar outro formato de encontro.
+
+A partir da escuta das respostas feitas à pergunta “O que pode a pandemia perguntar à sala de aula?”, foram selecionados trechos das falas e foi montado um intercâmbio de diálogos ficcionais entre os participantes. Todos os áudios foram ouvidos pela pesquisadora, e, por meio de uma técnica de decupagem, muito utilizada no audiovisual, foram sendo selecionados elementos que despertaram problematização no que tange às temáticas da formação, às memórias, aos afetos com a cidade, com o trabalho e com a pandemia.
+
+Considerando a possibilidade de não restringir a pergunta a uma resposta de cunho explicativo ou avaliativo, escrevemos uma carta convite para inspirar os participantes a narrar outras formas de processualidade com suas salas de aula. Interessava-nos pôr em abertura sentidos para uma experiência dos afetos e do corpo. Deste modo, consideramos oportuno partilhar o documento tal como ele foi enviado aos participantes, já que os modos de fazer nos interessam pela tessitura metodológica e política dos caminhos traçados, sobretudo, pela capacidade de inspirar e derivar outras práticas a partir de cada realidade.
+
+![Carta convite](imagens/carta_convite_pand_pergunta.jpg){#carta-convite fig-alt="O texto contido na imagem é uma carta convite e está em português. Segue a transcrição do texto:  ---  O QUE PODE A PANDEMIA PERGUNTAR À SALA DE AULA?  Olá, querida e futura convidada.  Estou estudando no mestrado profissional de Psicologia e Políticas Públicas na Universidade Federal do Ceará - Campus Sobral sobre o impacto da pandemia nas práticas pedagógicas. Estou conduzindo a disciplina de Estágio Básico I nessa área, através de formação crítica para além da execução. A ideia é formar um espaço de troca mútua para pensarmos formação em contextos de pandemia.  Pensai muito em você pela sua trajetória profissional relacionada à educação e porque de alguma modo já nos cruzamos também e você veio à minha cabeça para somar nesse tema temático.  Topas colaborar com esse exercício de pensamento coletivo?  Como seria?  Me responde por áudio a seguinte pergunta:  - O que pode a pandemia perguntar à sala de aula?  Se puder, responde sem muita elaboração, é só deixar vir o que vier e do jeito que vier no corpo... O som da sua voz é importante pra esse intercâmbio, pois temos nos visto bastante por letras nesse período de isolamento e distância física sem estes tatos executivos.  Abaixo segue alguns elementos para que possam te ajudar a imaginar mais pistas sobre a pergunta:  - Dinâmica de sala; - Subjetividades; - Qualquer lugar onde acontece se ensina.  O 'sociólogo popular' por inspiração em Guimarães Rosa.  Desde já peço desculpa pelo tempo rápido, quero aproveitar o momento para esse exercício de pensar. Compreendo seu tempo e espaço e agradeço a compreensão por minha afobação. Estou finalizando um ciclo e preciso te ouvir sobre isso, sua voz me ensina sobre possíveis compreensões de modo a circular em um espaço muito limitado, nesse momento de vida pessoal como docente de sala de aula e como pessoa na luta de alguma resistência e entendimento sobre os impactos da pandemia.  Ficaria muito feliz com sua participação,  Thamila Santos  ---" fig-align="center"}
+
+Na carta-convite, descrevemos pistas sobre a experimentação, alinhamos o objetivo da intervenção e o porquê de optarmos por não reuni-los em uma sala virtual para esse diálogo coletivo. Estávamos com todas as atividades presenciais suspensas, e os encontros, as aulas, as reuniões de trabalho e os momentos de lazer estavam sendo mediados pela exposição às telas virtuais. Esta fazia parte do nosso cotidiano pandêmico, por isso a proposição de um encontro ficcional através de áudios nos pareceu mais potente para abrir outros canais de afeto e de problematização.
+
+O entendimento sobre ficção não se estabelece como ausência de verdade, mas como criação de possibilidade para a invenção de outras realidades, tal como o poeta Manoel de Barros traz à tona quando cita “Tudo que não invento é falso”. A invenção não é ausência de verdade, é, sobretudo, a tessitura de caminho. A ficção, portanto, é uma invenção de mundos. É, pois, um método para forjar a aproximação entre pessoas de territórios tão diferentes, vivendo pandemias também diferentes, a partir do encontro com um plano comum, com a experiência da sala de aula, por meio das palavras, das pausas, dos respiros e dos sons.
+
+A ideia, portanto, foi criar um diálogo inventado, que não ocorreu presencialmente entre os sujeitos, mas que, a partir da intervenção-composição da pesquisadora, produziu um encontro ficcional em torno da mesma pergunta. O formato foi previamente acordado com os participantes, que autorizaram a edição dos áudios de modo a formar uma rede de diálogos com implicações de todos. A resposta deles serviu de inspiração para a edição e para a costura de uma conversa polifônica, diversa, ética e propositiva sobre políticas de formação em contextos pandêmicos.
+
+A concepção desse dispositivo artístico-político tem inspiração cartográfica, nos estudos de autoras que fazem interseção entre o campo das políticas de subjetivação e da arte, como Rolnik [-@rolnik2016cartografiasentimental] e Kastrup [-@kastrup2004aprendizagem], que forjam diálogos com o campo do sensível como método de pesquisa.
+
+Com a cartografia, percebemos e criamos mundos e pesquisa a partir da ideia da composição. Como escrevem Kastrup e Passos [-@kastrup2016cartografar], a composição está no plano de forças e afetos, remete a uma política, a um ethos e a um compromisso para a criação de um mundo comum e heterogêneo. Na ideia de composição, assim, experimentamos um coengendramento entre pesquisadora e campo, que convoca as trajetórias e os limites dela.
+
+Nesse sentido, os encontros entre os participantes foram agenciados como uma composição. Na ilha de edição de som, a pesquisadora traçou linhas entre as respostas, produzindo um novo material a partir daquele encontro de vozes. Isso culminou na versão final de um material audiovisual, engendrado com imagens em vídeo produzidas pela pesquisadora da cidade de Sobral durante a pandemia, criando uma forma de compor com as imagens outras visualidades da cidade e do tempo pandêmico.
+
+Portanto, essa conversa foi inventada para aproximar educadores em um tempo de profunda desertificação como a pandemia, uma experiência de não responder prontamente às questões, mas de se demorar nelas, observar quais fissuras ou frestas de luz surgem de suas rachaduras.
+
+## Um modo de concluir ou uma afirmação em tempos desérticos
+
+Construir um caminho compartilhado, trazendo polifonias de vozes para pensar a sala de aula, diz de um fazer que se preocupa com os aspectos históricos e relacionais que atravessam este espaço; de um perceber que a escola é uma invenção criada e que se recria constantemente, que a sala de aula não é imutável, fixa. Pelo contrário, compartilhamos que este espaço estava de uma forma e, durante o início da pandemia, precisou ser de outra, e isso irá permanecer a acontecer, pois não temos fatos dados, mas fenômenos criados e construídos coletivamente.
+
+A questão afirmativa que evidenciamos com a partilha do dispositivo “O que pode a pandemia perguntar à sala de aula?” é que podemos produzir um exercício de invenção no campo da arte, da política e da educação que seja uma alternativa vital à desertificação dos tempos de pandemia e do embrutecimento da educação. O desafio parece ser criar algo com as pessoas, dispor da arte para fazer com elas, com os fragmentos das conversas, dos sons, com as imagens que possam ser evocadas.
+
+O horizonte ético deste material é a possibilidade de conversações com mais pessoas, a exemplo do que já aconteceu em alguns espaços como a difusão dos vídeos nas redes sociais, exibição e discussão do vídeo com o grupo de articuladores da juventude da Unidade de gerenciamento de projetos de prevenção de violências (UGP-PV), em uma turma de formação de professores da educação infantil da Escola de Formação Permanente do Magistério e Gestão Educacional de Sobral e com uma turma de psicologia da Faculdade Luciano Feijão (FLF).
+
+Nessa perspectiva, destacamos alguns efeitos já produzidos através da circulação deste instrumento pelo mundo, como uma aproximação com grupos de formadores do município de Sobral, cujo intercâmbio produziu discussões para pensar a educação e formação em contextos pandêmicos. Destacamos, também, uma aproximação com o grupo de articuladores de juventude que trabalham em territórios vulnerabilizados na cidade de Sobral, os vídeos foram expostos durante processos de educação permanente dos trabalhadores e possibilitaram discussões sobre uma escola não institucionalizada, bem como sobre os impactos da aprendizagem na pandemia em situações de desigualdades sociais.
+
+Nesse sentido, almejamos que ele continue a ser usado, adaptado, disponibilizado, e que continue produzindo efeitos de problematização e encontro. Esperar que seja um material que não se coloca como referência apenas para o campo da arte, mas para o campo da educação, sobretudo porque é um produto técnico facilmente replicável devido à acessibilidade virtual e ao formato audiovisual.
+
+Interessa-nos, no campo artístico-político, a defesa da arte como política, como anunciação de uma esfera do sensível no campo das micropolíticas da educação. Portanto, este dispositivo artístico-político tem um caráter que não figura só no campo da macropolítica, mas também no campo da micropolítica, que se pretende ser um catalisador para engendrar conversações com e entre agentes da educação a fim de produzir horizontes para salas de aulas mais sonoras, narrativas, pautadas na invenção de mundos possíveis.
+
+## Vídeos
+
+### O que pode a pandemia perguntar à sala de aula? - Conversações I
+
+{{< video https://youtu.be/lep0z1eI4BQ?si=HYjnFYq7QpI8f97A
+    title ='O que pode a pandemia perguntar à sala de aula? - Conversações I'
+>}}
+
+### O que pode a pandemia perguntar à sala de aula? - Conversações II
+
+{{< video https://youtu.be/gUj5Z3GnsEo?si=DlD9Dl-BvfjmPVZM
+    title ='O que pode a pandemia perguntar à sala de aula? - Conversações II'
+>}}
