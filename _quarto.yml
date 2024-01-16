@@ -21,13 +21,15 @@ book:
 
   chapters:
     - index.qmd
-    - 01_institucional.qmd
-    - 02_folha_de_rosto.qmd
+    - institucional.qmd
+    - folha_de_rosto.qmd
     - part: Produtos de Comunicação
       chapters:
         - barros_podcast.qmd
     
     - part: Eventos Organizados
+      chapters: 
+        - gomes_polifonias.qmd
     
     - part: Relatórios Técnicos - Assessoria, Consultoria e Pesquisa
       chapters:
