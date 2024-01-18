@@ -2,30 +2,37 @@
 author: 
   - name: João Paulo Pereira Barros
     orcid: 0000-0001-7680-576X
+    email: joaopaulobarros07@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Lucia Maria Bertini
     orcid: 0000-0001-7498-6640
+    email: lubertini.ce@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Larissa Ferreira Nunes
     orcid: 0000-0001-5384-0896
+    email: larissafnpsico@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Carla Jéssica de Araújo Gomes
     orcid: 0000-0002-6979-2646
+    email: carlajessicagomes@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Lívia Lima Gurgel
     orcid: 0000-0003-2095-2415
+    email: livialgurgel@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Aldemar Ferreira da Costa
     orcid: 0000-0003-0281-9944
+    email: demarfcost92@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Laisa Forte Cavalcante
     orcid: 0000-0002-6523-847X
+    email: laisacavalcante9393@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: José Dannilo Ferreira Marques Arruda
@@ -36,10 +43,12 @@ author:
       - name: Universidade Federal do Ceará
   - name: Lucas Araújo da Silva
     orcid: 0000-0002-6491-4659
+    email: lucasarjslv@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Davi Lucas Moraes
     orcid: 0009-0008-9075-8494
+    email: davimoraes\_\@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 

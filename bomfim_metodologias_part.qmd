@@ -2,34 +2,42 @@
 author: 
   - name: Zulmira Áurea Cruz Bomfim
     orcid: 0000-0002-1874-8821
+    email: zulaurea@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Nara Maria Forte Diogo Rocha
     orcid: 0000-0001-5040-1492
+    email: narafdiogo@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Fábio Pinheiro Pacheco
     orcid: 0000-0003-4139-1506
+    email: fabio.pacheco@uece.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Andie de Castro Lima
     orcid: 0000-0003-1469-8529
+    email: lima.castro94@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Cícera Mônica da Silva Sousa Martins
     orcid: 0000-0003-1773-0061
+    email: monicamartins_sousa@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Halaine Cristina Pessoa Bento
     orcid: 0000-0002-2247-5096
+    email: halainecristinapessoa@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Elcides Hellen Ferreira Landim Barreto
     orcid: 0000-0003-1284-5679
+    email: hellenbarreto0@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Graciella Faico Ferreira
     orcid: 0000-0001-9075-5180
+    email: graciella@ufrj.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 

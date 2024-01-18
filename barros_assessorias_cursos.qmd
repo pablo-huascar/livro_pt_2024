@@ -2,7 +2,7 @@
 author: 
   - name: João Paulo Pereira Barros
     orcid: 0000-0001-7680-576X
-    email: joaopaulobarros07@gmail.com
+    email: joaopaulobarros@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Érica Atem Gonçalves Araújo Costa

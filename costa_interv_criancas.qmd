@@ -2,34 +2,42 @@
 author: 
   - name: Érica Atem Gonçalves de Araújo Costa
     orcid: 0000-0002-4341-8138
+    email: ericaatem@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Eliandra Estevam Abreu
     orcid: 0009-0003-6822-9848
+    email: eliandraestevam.ufc@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Vitor Batista de Melo
     orcid: 0009-0003-3866-2341
+    email: vitorbdmelo@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Laryssa Ferreira Rabelo
     orcid: 0009-0001-5241-3611
+    email: rabelolaryssa05@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Milena Araújo Bezerra
     orcid: 0000-0002-2589-7876
+    email: milenaaraujo@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Ingrid Rabelo Freitas
     orcid: 0000-0002-8365-6245
+    email: ingrid.rbfreitas@gmail.com
     affiliations: 
-      - name: Universidade Federal do Ceará
+      - name: Centro de Defesa da Vida Herbert de Souza
   - name: Rogério da Costa Araújo
     orcid: 0000-0003-3508-362X
+    email: rio.costa50@gnail.com
     affiliations: 
       - name: Centro de Defesa da Vida Herbert de Souza
   - name: João Paulo Pereira Barros
     orcid: 0000-0001-7680-576X
+    email: joaopaulobarros@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
