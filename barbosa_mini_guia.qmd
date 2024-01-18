@@ -18,6 +18,11 @@ bibliography: barbosa_mini_guia.bib
 reference-section-title: Referências
 editor_options: 
   chunk_output_type: console
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Índice
+      key: idx
 ---
 
 # Processo de criação do miniguia do orientador educacional sobre suas atribuições e indicadores de efeitos no contexto escolar sobralense
@@ -26,7 +31,7 @@ editor_options:
 
 O capítulo trata da apresentação do processo de criação do Miniguia do Orientador Educacional: Atribuições e Indicadores de Efeitos no Contexto Escolar Sobralense, na qualidade de produto técnico desenvolvido no Mestrado Profissional em Psicologia e Políticas Públicas, entre os anos de 2020 e 2022. Ele é originário de prévia pesquisa empírica e documental submetida como artigo científico com o título "Caracterização do Perfil Profissional e Modos de Atuação do Orientador Educacional na Rede Pública de Ensino de Sobral-CE" e apresenta o resultado da análise das atribuições do orientador educacional (OE) descritas na literatura nacional, nas normativas da profissão e na experiência relatada pelos OEs de Sobral. Com isso, foi possível sistematizar atribuições e, a partir dessas, desenvolver indicadores de efeitos e sugestões de ações aplicáveis no contexto descrito, as quais foram organizadas no Miniguia.
 
-No Brasil, a profissão de orientador educacional foi criada em 1968 pela Lei nº 5.564 [@brasil1968lei5564] e regulamentada em 1973 pelo Decreto-lei nº 72.846 [@brasil1973decreto72846]. Até então, o cargo de orientador educacional era destinado a licenciados em pedagogia e/ou profissionais que já fizessem parte do corpo escolar, sendo remanejados para esse cargo de acordo com a necessidade da gestão escolar ou das secretarias municipais [@Pascoal2008-gx].
+No Brasil, a profissão de orientador educacional foi criada em 1968 pela Lei nº 5.564 [@brasil1968lei5564] e regulamentada em 1973 pelo Decreto-lei nº 72.846 [@brasil1973decreto72846]. Até então, o cargo de orientador educacional era destinado a licenciados em pedagogia e/ou profissionais que já fizessem parte do corpo escolar, sendo remanejados para esse cargo de acordo com a necessidade da gestão escolar ou das secretarias municipais [@pascoal2008o].
 
 Em Sobral, graduados em psicologia adentraram às escolas com o cargo de orientador educacional por meio da criada carreira de apoio à gestão escolar através da Lei nº 1704/2017 [@sobral2017lei1704], que oportunizou concurso público com 50 vagas para o referido cargo. Esse certame tinha por finalidade contratar profissionais para dar prosseguimento à política pública de desenvolvimento de competências socioemocionais nas escolas municipais dos anos iniciais e finais do Ensino Fundamental (1º a 9º ano).
 

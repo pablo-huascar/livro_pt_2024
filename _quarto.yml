@@ -30,6 +30,7 @@ book:
     - part: Eventos Organizados
       chapters: 
         - gomes_polifonias.qmd
+        - liberato_contagios.qmd
     
     - part: Relatórios Técnicos - Assessoria, Consultoria e Pesquisa
       chapters:
@@ -54,6 +55,7 @@ book:
         - da_silva_mapas_vizin.qmd
     
     - sobre_os_autores.qmd
+    - indice_remissivo.qmd
 
 format:
   html:
@@ -72,4 +74,5 @@ format:
 
 editor: visual
 csl: apa.csl
+
 
