@@ -26,6 +26,6 @@ Nunc libero elit, ultricies sed feugiat sit amet, venenatis id felis. Vivamus ni
 
 Donec ultricies nisi in ex facilisis porta. Nam vitae diam rhoncus, imperdiet est eget, pretium neque. Fusce euismod, justo nec feugiat dignissim, ex arcu malesuada urna, quis elementum lorem purus ut est. Aliquam laoreet vel purus id lacinia. Vestibulum accumsan justo vitae nisi imperdiet ultrices. Nulla ornare sapien id lacus dignissim viverra. Phasellus fringilla auctor turpis, ut hendrerit dolor faucibus vel.
 
-::: {.callout-warning}
+::: callout-warning
 O conteúdo dos capítulos é de inteira responsabilidade dos autores. As opiniões e os posicionamentos adotados não necessariamente refletem os pontos de vista do PPGPSI, do PPGPPPP ou dos organizadores.
 :::

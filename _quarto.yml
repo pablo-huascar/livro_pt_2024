@@ -23,33 +23,34 @@ book:
     - index.qmd
     - institucional.qmd
     - folha_de_rosto.qmd
-    - part: Produtos de Comunicação
+    - part: Produtos de comunicação
       chapters:
         - barros_podcast.qmd
     
-    - part: Eventos Organizados
+    - part: Eventos organizados
       chapters: 
         - gomes_polifonias.qmd
         - liberato_contagios.qmd
     
-    - part: Relatórios Técnicos - Assessoria, Consultoria e Pesquisa
+    - part: Relatórios técnicos\:\ assessoria, consultoria e pesquisa
       chapters:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
     
-    - part: Curso para Formação Profissional
+    - part: Curso para formação profissional
       chapters:
         - barros_cursos_vieses.qmd
         - bomfim_metodologias_part.qmd
     
-    - part: Material Didático
+    - part: Material didático
       chapters: 
         - da_silva_pandemia_pergunta.qmd
+        - lopes_rabiscos_palavras.qmd
 
-    - part: Compilações de Vários Produtos Técnicos
+    - part: Compilações de vários produtos técnicos
       chapters:
         - barros_assessorias_cursos.qmd
-    - part: Manual/Protocolo
+    - part: Manual/protocolo
       chapters:
         - barbosa_mini_guia.qmd
         - da_silva_mapas_vizin.qmd

@@ -2,34 +2,42 @@
 author: 
   - name: Rita Helena Sousa Ferreira Gomes
     orcid: 0000-0002-2306-4264
+    email: ritahelenagomes@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Iratan Bezerra de Sabóia
     orcid: 0000-0003-3312-9954
+    email: iratan@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Ana Cecília Carenina Machado Mourão
     orcid: 0000-0002-8569-224X
+    email: ceciliamachadoodontologia@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Ana Késia Silva Faustino
     orcid: 0009-0003-3873-9214
+    email: kesia.faustino.2000@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Andressa da Silva Rodrigues
     orcid: 0009-0009-2196-3694
+    email: andressa20srodrigues@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Giovana Freitas Oliveira
     orcid: 0009-0005-0351-6517
+    email: giovanaoll@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: José Edberto Gadelha Rocha Júnior
     orcid: 0000-0002-6660-1728
+    email: edbertojunior.psi@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Vitória Brandão de Lima Borges
     orcid: 0009-0005-9397-1547
+    email: vitoriabrandao66@gmail.com
     affiliations: 
       - name: Unifametro
 language: 
@@ -113,7 +121,7 @@ Para falar de divulgação científica é de suma importância que se volte algu
 
 Como pontuado antes, apesar dos muitos conhecimentos que são produzidos dentro dos centros de pesquisas e das academias universitárias, a conexão deles com o público externo deixa a desejar. A difusão do que é produzido, via de regra, não alcança as pessoas que não fazem parte da esfera científica, embora isso pareça ocorrer de forma involuntária, posto nada indicar que pesquisadores tenham interesse nessa segregação. O problema da má distribuição do saber já inquietava Lima Vaz [-@limavaz2000escritos], que sublinhava:
 
->As grandes revoluções científicas do nosso século, ao mesmo tempo que impelem vertiginosamente o progresso técnico, tornam mais enigmática aos olhos do homem comum, usuário dos objetos que a técnica oferece ao seu consumo e satisfação, a compreensão das articulações teóricas profundas entre o pensamento científico e o fazer técnico. [@limavaz2000escritos, p. 278].
+> As grandes revoluções científicas do nosso século, ao mesmo tempo que impelem vertiginosamente o progresso técnico, tornam mais enigmática aos olhos do homem comum, usuário dos objetos que a técnica oferece ao seu consumo e satisfação, a compreensão das articulações teóricas profundas entre o pensamento científico e o fazer técnico. [@limavaz2000escritos, p. 278].
 
 Uma das consequências dessa má distribuição do saber pode ser vista nos movimentos anticientíficos hodiernos que, usando recursos que só existem por causa do desenvolvimento da ciência e da tecnologia, propagam informações distorcidas e falsas que propulsionam teorias conspiratórias infundadas, porém com possíveis efeitos devastadores que se materializam nas esferas da política, da saúde, da economia, do meio ambiente, etc.
 

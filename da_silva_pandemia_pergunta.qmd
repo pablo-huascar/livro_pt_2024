@@ -127,12 +127,8 @@ Interessa-nos, no campo artístico-político, a defesa da arte como política, c
 
 ### O que pode a pandemia perguntar à sala de aula? - Conversações I
 
-{{< video https://youtu.be/lep0z1eI4BQ?si=HYjnFYq7QpI8f97A
-    title ='O que pode a pandemia perguntar à sala de aula? - Conversações I'
->}}
+{{< video https://youtu.be/lep0z1eI4BQ?si=HYjnFYq7QpI8f97A title ='O que pode a pandemia perguntar à sala de aula? - Conversações I' >}}
 
 ### O que pode a pandemia perguntar à sala de aula? - Conversações II
 
-{{< video https://youtu.be/gUj5Z3GnsEo?si=DlD9Dl-BvfjmPVZM
-    title ='O que pode a pandemia perguntar à sala de aula? - Conversações II'
->}}
+{{< video https://youtu.be/gUj5Z3GnsEo?si=DlD9Dl-BvfjmPVZM title ='O que pode a pandemia perguntar à sala de aula? - Conversações II' >}}
