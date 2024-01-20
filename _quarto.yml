@@ -41,6 +41,7 @@ book:
       chapters:
         - barros_cursos_vieses.qmd
         - bomfim_metodologias_part.qmd
+        - martins_clinica_estetica.qmd
     
     - part: Material didático
       chapters: 

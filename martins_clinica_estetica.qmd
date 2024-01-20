@@ -1,0 +1,381 @@
+---
+author: 
+  - name: Karla Patrícia Holanda Martins
+    orcid: 0000-0003-3242-6287
+    email: kphm@uol.com.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Vládia Jamille dos Santos Jucá
+    orcid: 0000-0003-2416-7342
+    email: vladiajuca@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Carla Renata Braga de Souza
+    orcid: 0000-0002-2592-4547
+    email: carlarenatabs@gmail.com
+    affiliations: 
+      - name: Unichristus
+  - name: Ricardo Pinheiro Maia Júnior
+    orcid: 0000-0003-0114-5079
+    email: ricardopmaia@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Camilla Araújo Lopes Vieira
+    orcid: 0000-0003-1706-3772
+    email: camillapsicol@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Morena Simonetti Gomes Maciel
+    orcid: 0000-0001-6285-1861
+    email: morenasimonetti@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Myrella Raissa Caetano Linhares
+    orcid: 0009-0001-4853-543X
+    email: myrells@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Mariana Fraga Soares
+    orcid: 0000-0003-2776-0555
+    email: marianafraga.mf@hotmail.com
+    affiliations: 
+      - name: Centro de Referência de Assistência Social (Cascavel, Ceará)
+  - name: Cristiane Ferreira de Souza
+    orcid: 0009-0005-0241-8309
+    email: cristianesouzaf89@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Beatriz Alves Viana
+    orcid: 0000-0002-8758-8913
+    email: beatrizalvesv@gmail.com
+    affiliations: 
+      - name: Centro Universitário Uninta 
+language: 
+  title-block-author-plural: "Autores"
+filters:
+  - section-bibliographies
+bibliography: martins_clinica_estetica.bib
+reference-section-title: Referências
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Video
+      key: vid
+---
+
+# Clínica, estética e política do cuidado: a experiência da educação permanente em saúde no contexto da pandemia da covid-19
+
+## Introdução
+
+O programa de extensão “Clínica, Estética e Política do Cuidado (CEPC)” – ligado ao Departamento de Psicologia (Graduação e Pós-Graduação) da Universidade Federal do Ceará (UFC) – foi criado em 2015 com o objetivo de oferecer atendimento individual e em grupo para crianças, adolescentes e seus respectivos cuidadores/responsáveis em sofrimento psíquico grave. Além dessa atuação, ao longo de sua existência, o CEPC apresenta uma série de atividades nos eixos da clínica, do ensino e da pesquisa, comunicação e política. Dentre as atividades realizadas ao longo desses anos, tais como cursos, palestras e seminários, desde 2018 o programa de extensão promove formações continuadas anuais e ações de extensão. Essas formações ocorrem no eixo das temáticas relativas à saúde mental infanto-juvenil e às suas formas de sofrimento nos contextos da educação e da saúde.
+
+Com a pandemia da Covid-19 e os agravos do distanciamento social para saúde mental de crianças e adolescentes, durante o ano de 2021[^martins_clinica_estetica-1], organizou-se a formação na modalidade de ensino à distância (EAD), articulada ao contexto da pesquisa-intervenção “Cartografia das Práticas de Cuidados em Saúde Mental Infantojuvenil no Ceará”, a qual foi aprovada na Chamada 02/2020 – Programa Pesquisa para o SUS: gestão compartilhada em Saúde/PPSUS – CE / FUNCAP-SESA-Decit/SCTIE/MS-CNPq.
+
+[^martins_clinica_estetica-1]: Esta não foi a primeira formação continuada na modalidade à distância. Ainda no ano de 2020, o programa de extensão ofereceu a formação intitulada “Práticas Institucionais com Crianças e Adolescentes em Grave Sofrimento Psíquico: Contribuições em Rede”, decorrente das discussões que permeavam as práticas do Programa.
+
+O curso visou à formação continuada de profissionais da Rede de Atenção à Saúde (RAS) dos municípios de Fortaleza, Itapipoca, Quixadá, Quixeramobim, Iguatu, Juazeiro do Norte, Limoeiro do Norte, Cariús, Barbalha, Granja e Sobral, representativos das cinco macrorregiões de saúde do Ceará. Apesar do recorte relativo à pesquisa, durante sua realização, profissionais de mais de 35 (trinta e cinco) municípios do Ceará e de outros estados brasileiros também participaram desta edição, que ocorreu em dois módulos – um no segundo semestre de 2021 e outro no primeiro semestre de 2022. Cabe ressaltar que, nesse processo de divulgação e preparação do curso, contamos com a colaboração da Secretaria Estadual de Saúde e da Escola de Saúde Pública do Ceará, inclusive quanto à escolha dos temas considerados importantes no contexto da saúde mental infantojuvenil do Estado. Nessa direção, no contexto do Programa Clínica, Estética e Política do Cuidado, os cursos anuais de formação continuada apresentam-se como um processo de educação permanente em saúde, apoiado pelo princípio de uma universidade democrática em contínua avaliação da sua função frente aos desafios da sociedade, quais sejam, a avaliação e a consolidação das políticas públicas.
+
+## Educação permanente em saúde e papel da universidade
+
+A orientação de um processo de Educação Permanente em Saúde (EPS) torna-se um desafio a ser implementado como um todo no Sistema Único de Saúde (SUS), cabendo à universidade pública o papel de apoiar seu planejamento, considerando-a como importante aliada dos processos de gestão clínica e qualificação dos seus profissionais.
+
+EPS relaciona-se, intrinsecamente, com os processos de humanização da saúde e reconhece que “os lugares de produção de cuidado, visando integralidade, corresponsabilidade e resolutividade são, ao mesmo tempo, cenários de produção pedagógica, pois concentram o encontro criativo entre trabalhadores e usuários” [@miccas2014educacao, p. 171]. Tal premissa encontra-se, também, nas interlocuções que cada profissional e cada equipe realizam nos âmbitos de suas práticas.
+
+Nesta direção, voltar-se um olhar atento aos modelos e planejamentos de estratégias de acolhimento e cuidado em saúde, o que significa pensar de forma coletiva as práticas de cuidado em saúde. Assim, a prática articulada com uma EPS deve “... resultar de um esforço multissetorial entre saúde, educação, trabalho e finanças, articulando-se atores governamentais e não governamentais” [@miccas2014educacao, p. 171]. Esse olhar atento deve se tornar mais sutil ao mirar o cuidado e a atenção em saúde na perspectiva psicossocial. Tal sutileza destaca-se ainda mais quando caminha em direção às especificidades da criança e do adolescente.
+
+No campo das políticas da saúde infantil deve-se estabelecer
+
+> ... diretrizes voltadas ao cuidado materno e da criança, organizadas em eixos estratégicos: atenção humanizada perinatal e aleitamento materno ao recém-nascido, desenvolvimento integral na primeira infância, prevenção de violências e promoção da cultura de paz, atenção à saúde de crianças em situações específicas e de vulnerabilidade, prevenção e atenção às doenças crônicas e aos agravos prevalentes na infância, tendo como ordenadoras do cuidado as equipes da Atenção Básica no território. [@brasil2014, p. 17]
+
+Na especificidade entre a população adolescente e juvenil, frente aos riscos e às vulnerabilidades sociais, as políticas de saúde apontam para
+
+> ... novos modos de produzir saúde. Seu ciclo de vida particularmente “saudável” evidencia que os agravos em saúde decorrem, em grande medida, de hábitos e comportamentos que, em determinadas conjunturas, vulnerabilizam-nos e os conduzem para situações de violência e adoecimento. [@brasil2014, p. 17]
+
+Com a diversidade e complexidade dos contextos infantojuvenis brasileiros, as políticas de saúde e os seus processos de formação devem se articular de forma intersetorial. Em outras palavras, torna-se necessário um diálogo aberto com a sociedade, os gestores e os profissionais. Nesta perspectiva, reconhece-se que não há uma área do saber específica que detenha a verdade sobre os processos de saúde. A importância de se pensar em um paradigma de educação permanente reside, então, no pensamento de que os processos de saúde são construídos a partir do diálogo e da interlocução de diversos saberes. Nesse sentido, a contribuição da universidade pode funcionar como um “divisor de águas” na garantia de uma difusão de saber plural, observando as dinâmicas que levam ao empobrecimento da reflexão de fenômenos e realidades complexas, como podemos destacar o exemplo da compreensão do sofrimento psíquico na infância e na adolescência, hegemonicamente marcado por uma visada de medicalização e diagnósticos psiquiátricos precoces.
+
+Na normativa que rege a educação permanente enquanto política do Sistema Único de Saúde [@brasil2004a], um dos passos para sua realização consiste na identificação das necessidades de formação e desenvolvimento dos trabalhadores. Dessa forma, no curso de formação continuada em saúde mental infantojuvenil, ofertado pelo programa Clínica, Estética e Política do Cuidado para trabalhadores da rede de saúde mental infantojuvenil do estado do Ceará, esse foi um dos cuidados adotados. Antes da realização do curso, foram realizadas rodas de conversa com profissionais que atuam nas cinco macrorregiões do estado para escutá-los acerca dos desafios e das dificuldades vivenciadas no seu cotidiano de trabalho e, por consequência, para identificar temas importantes de serem abordados durante a formação que estava sendo organizada naquela ocasião.
+
+Antes de tratarmos do curso propriamente dito, e ainda sobre a educação continuada, vale destacar que, em 2017, aconteceram oficinas promovidas pelo Ministério da Saúde, com a participação de conselhos que realizam o controle social, de escolas de saúde públicas, de instituições de ensino superior e de escolas técnicas do SUS, para identificar as “áreas problemas” na implementação da política de educação permanente e elaborar propostas a fim de superá-las. Dentre as sete áreas problemas sistematizadas, estava o “modelo de formação”. Nesse item, dois pontos nos interessam particularmente: “definir as contrapartidas na articulação ensino-serviço” e “Qualificar processos/desenhos estratégicos pedagógicos voltados para a problematização, transformação da realidade e qualificação para o SUS” [@brasil2018politica]. No caso da formação relatada no presente texto, os pontos destacados se configuraram como duas preocupações presentes. A primeira dizia respeito não apenas a realizar a tradicional “contrapartida”, mas também a ofertar, através do espaço de atualização de conhecimentos, um lugar de acolhimento das dificuldades vividas nos cotidianos e de trocas dos saberes construídos a partir das práticas desenvolvidas pelas(os) trabalhadoras(es) da saúde mental nas cinco macrorregiões do estado. Partindo dessa preocupação, tentamos implementar um momento de tutoria no intervalo entre os encontros das aulas, com a participação de uma estagiária da Secretaria de Saúde do Estado do Ceará, de estudantes da Pós-graduação em Psicologia da UFC e profissionais voluntários, com o propósito de criar um espaço no qual as discussões teóricas realizadas pudessem ser melhor elaboradas a partir dos cotidianos de trabalho. No entanto, tivemos dificuldades em consolidar esse instrumento de acompanhamento, como abordaremos mais adiante.
+
+## Percurso da formação continuada online
+
+Como dito anteriormente, a formação continuada do PPSUS/CEP do Cuidado tinha como principal objetivo subsidiar teoricamente aspectos relacionados à saúde mental infantojuvenil com vistas a contribuir com os processos de trabalho dos profissionais da RAS do Ceará e dos estudantes/pesquisadores da temática. Nessa direção, diante dos desafios encontrados na realização da pesquisa, abordaram-se assuntos relacionados a aspectos importantes implicados no cuidado em saúde mental suscitados pelos profissionais participantes, tais como: intervenção precoce e instrumentos avaliativos, medicalização da infância, uso abusivo de substâncias por crianças e adolescentes, neurodiversidade, vulnerabilidades sociais, educação, intersetorialidade, gênero, racismo, constituição do sujeito.
+
+Ao longo de dois meses, diferentes ministrantes, do Ceará e de outros estados, apresentaram suas pesquisas e articulações teóricas acerca de práticas de cuidado constitucionais relacionadas às possibilidades e dificuldades inseridas no contexto das práticas clínicas em saúde mental da criança e do adolescente. A modalidade online permitiu a participação de um público amplo, e o produto das discussões contribuirá com as práticas institucionais de profissionais e estudantes que já estão atuando ou pretendem atuar nessas redes.
+
+A aposta no curso como espaço de formação continuada, a partir não apenas da transmissão de conhecimento, mas também da interlocução entre pares, faz parte dos movimentos de resistência ao processo de desmonte das políticas públicas afinadas com a reforma psiquiátrica antimanicomial. Trabalhar em diálogo com as inquietações e os saberes produzidos pelos profissionais em suas práticas é uma das formas de resistir à institucionalização dos próprios técnicos: “... importante que se desenvolva meios de compartilhar experiências visando o aprimoramento da prática e evitando, assim seu engessamento” [@scafuto2017formacao, p. 356].
+
+Como dito anteriormente, a realização de uma formação continuada foi uma demanda dos profissionais da Rede de Atenção à Saúde (RAS) – da educação e da assistência social –, demanda essa identificada ao longo da realização das rodas de conversa nos municípios participantes da pesquisa, o que ocorreu no mês de setembro de 2021. Os profissionais participantes das rodas ressaltaram impasses em seu cotidiano de trabalho em saúde mental, os quais constituíram o eixo norteador para a fundamentação da formação continuada.
+
+Sendo assim, a formação teve como tema "Práticas de Cuidado em Saúde Mental da Criança e do Adolescente em Contextos Institucionais Públicos", ocorrendo em duas etapas, quais sejam, um primeiro módulo voltado para os cuidados em saúde mental com crianças e um segundo, a respeito da adolescência, ambos sob uma perspectiva psicanalítica com foco na intersetorialidade. No total, foram 18 encontros, realizados semanalmente, através da plataforma Google Meet, cada um com duração de 2h/a.
+
+Além disso, foram oferecidas tutorias em horários alternativos ao curso para os profissionais dos municípios participantes da pesquisa, sendo 6 (seis) grupos de tutorias coordenados por 2 (dois) tutores cada um, todos com formação em psicologia. Foram enviados, para a discussão teórica, semanalmente textos previamente selecionados pelos palestrantes de cada encontro, e, além disso, abriu-se a possibilidade de compartilhar casos presentes no cotidiano dos profissionais.O primeiro módulo da Formação Continuada, cuja ênfase temática se deu na saúde mental da criança, foi realizado de outubro a dezembro de 2021. Tentamos sempre manter, em cada aula, professores, preferencialmente de instituições de abrangência nacional, historicamente ligados às temáticas, e um palestrante oriundo de instituições cearenses que pudesse falar a partir de experiência local. Ocorreram 10 (dez) aulas semanais com as seguintes temáticas e os respectivos professores:
+
+-   Saúde mental e sofrimento psíquico na atualidade
+    -   Prof. Dr. Benilton Bezerra Júnior[^martins_clinica_estetica-2]
+
+[^martins_clinica_estetica-2]: IMS/Unversidade Estadual do Rio de Janeiro (UERJ).
+
+::: {#vid-sofriatua}
+{{< video https://www.youtube.com/watch?v=H0JIXqgfHL0&t=7s width="400" height="225">}}
+
+Saúde mental e sofrimento psíquico na atualidade
+:::
+
+-   Saúde mental e sofrimento psíquico na infância
+    -   Katia Alvares de Carvalho Monteiro[^martins_clinica_estetica-3]
+
+[^martins_clinica_estetica-3]: Psicanalista e mestra em Teoria Psicanalítica pela Universidade Federal do Rio de Janeiro (UFRJ).
+
+::: {#vid-sofriinfancia}
+{{< video https://www.youtube.com/watch?v=ri1n53OernE width="400" height="225">}}
+
+Saúde mental e sofrimento psíquico na infância
+:::
+
+-   Desafios históricos na implementação dos CAPSi no Brasil e no Ceará
+    -   Profa. Dra. Maria Cristina Ventura Couto[^martins_clinica_estetica-4]
+    -   Profa. Dra. Camilla Araújo Lopes Vieira[^martins_clinica_estetica-5]
+
+[^martins_clinica_estetica-4]: Psicanalista, doutora em Saúde Mental pelo Programa de Psiquiatria e Saúde Mental do Instituto de Psiquiatria da UFRJ, professora permanente do Mestrado Profissional em Atenção Psicossocial (IPUB/UFRJ).
+
+[^martins_clinica_estetica-5]: Doutora em Saúde Coletiva pela Universidade Federal do Ceará (UFC), docente do curso de Psicologia, do Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas e do Mestrado em Saúde da Família da UFC, campus Sobral. Realizou pós-doutorado no Programa de Pós-graduação em Psicanálise da UERJ.
+
+<div>
+
+{{< video https://www.youtube.com/watch?v=44A0ohvYzA8 width="400" height="225">}}
+
+Desafios históricos na implementação dos CAPSi no Brasil e no Ceará
+
+</div>
+
+-   Medicalização na infância e adolescência
+    -   Prof. Dr. Rossano Cabral[^martins_clinica_estetica-6]
+    -   Ms. Madalena de Queiroz Lima Verde[^martins_clinica_estetica-7]
+
+[^martins_clinica_estetica-6]: Doutor em Saúde Coletiva e professor associado do Instituto de Medicina Social da UERJ.
+
+[^martins_clinica_estetica-7]: Psicanalista e coordenadora do Programa de Práticas Institucionais do Centro de Referência à Infância (INCERE).
+
+::: {#vid-medicinfancia}
+{{< video https://www.youtube.com/watch?v=WAKMUnulAME width="400" height="225">}}
+
+Medicalização na infância e adolescência
+:::
+
+-   Constituição psíquica: intervenção precoce e avaliação na infância
+    -   Luana Lourenço Magalhães Chaves[^martins_clinica_estetica-8]
+    -   Patrícia de Sousa Gadelha Costa[^martins_clinica_estetica-9]
+    -   Profa. Dra. Katia Viana Cardoso[^martins_clinica_estetica-10]
+
+[^martins_clinica_estetica-8]: Psicanalista e diretora presidente do INCERE.
+
+[^martins_clinica_estetica-9]: Fonoaudióloga e coordenadora clínica do INCERE.
+
+[^martins_clinica_estetica-10]: Doutora em Ciências Médicas (UFC) e professora associada do Departamento de Fisioterapia da UFC.
+
+<div>
+
+{{< video https://www.youtube.com/watch?v=DNx_LdxjvXM width="400" height="225">}}
+
+Constituição psíquica: intervenção precoce e avaliação na infância
+
+</div>
+
+-   Autismos e psicose na infância
+    -   Prof. Dr. Luis Achilles Rodrigues Furtado[^martins_clinica_estetica-11]
+    -   Dra. Renata Carvalho Campos[^martins_clinica_estetica-12]
+-   Violência intrafamiliar
+    -   Profa. Dra. Cassandra Pereira França[^martins_clinica_estetica-13]
+
+[^martins_clinica_estetica-11]: Doutor em Educação (UFC), professor do Programa Pós-Graduação Profissional em Psicologia e Políticas Públicas, do Mestrado Acadêmico em Saúde da Família e do curso de Psicologia da UFC, campus Sobral. Realizou pós-doutorado em Psicanálise na UERJ.
+
+[^martins_clinica_estetica-12]: Psicanalista, doutora em Psicologia (UFC) e professora da Pós-Graduação da Universidade de Fortaleza (Unifor).
+
+[^martins_clinica_estetica-13]: Doutorado e pós-doutorado em Psicologia Clínica na Pontifícia Universidade Católica de São Paulo (PUC-SP), professora titular do Departamento de Psicologia da Universidade Federal de Minas Gerais (UFMG), Coordenadora do Projeto de Pesquisa e Extensão com crianças e adolescentes vítimas de abuso sexual (CAVAS/UFMG).
+
+<div>
+
+{{< video https://www.youtube.com/watch?v=d0v3fFPv58E width="400" height="225">}}
+
+Autismos e psicose na infância
+
+</div>
+
+-   Luto e perdas: infância, tristeza, depressão
+    -   Cláudia Mascarenhas Fernandes[^martins_clinica_estetica-14]
+
+[^martins_clinica_estetica-14]: Psicanalista, diretora clínica do Instituto Viva Infância, pós-doutoranda em Saúde Coletiva.
+
+::: {#vid-lutoperda}
+{{< video https://www.youtube.com/watch?v=0VQmd6zog4Y width="400" height="225">}}
+
+Luto e perdas: infância, tristeza, depressão
+:::
+
+-   Institucionalização da criança: oficina de casos
+-   Oficina de casos
+
+Essa etapa prosseguiu na realização do segundo módulo, realizado entre março e maio de 2022, com 8 (oito) encontros com ênfase nos seguintes temas e respectivos professores:
+
+-   Adolescência e laço social na atualidade
+    -   Profa. Dra. Vládia Jamile dos Santos Jucá[^martins_clinica_estetica-15]
+
+[^martins_clinica_estetica-15]: Professora do Programa de Pós-Graduação em Psicologia da UFC, Doutora em Saúde Coletiva pela Universidade Federal do Bahia (UFBA) e coordenadora do Projeto de Extensão AdVir.
+
+::: {#vid-adoles}
+{{< video https://www.youtube.com/watch?v=AqRkJUBNFOQ width="400" height="225">}}
+
+Adolescência e laço social na atualidade
+:::
+
+-   Clínica das depressões e suicídio
+    -   Dra. Lúcia Helena da Silva Alves[^martins_clinica_estetica-16]
+    -   Profa. Dra. Alessandra Silva Xavier[^martins_clinica_estetica-17]
+
+[^martins_clinica_estetica-16]: Doutora em Psicologia Clínica (PUC-SP), psicóloga clínica da Polícia Civil do Estado do Pará e da Secretaria Estadual de Saúde do Pará.
+
+[^martins_clinica_estetica-17]: Doutorado em Psicologia Clínica na Universidade Santiago de Compostela, Espanha, e professora fundadora do curso de Psicologia da Universidade Estadual do Ceará (UECE).
+
+::: {#vid-clicdepre}
+{{< video https://www.youtube.com/watch?v=PCcV-noVX-w width="400" height="225">}}
+
+Clínica das depressões e suicídio
+:::
+
+-   Manejo à crise
+    -   Prof. Alfredo Simonetti[^martins_clinica_estetica-18]
+    -   Elisabete Santos de Sousa[^martins_clinica_estetica-19]
+
+[^martins_clinica_estetica-18]: Médico, psicólogo, psiquiatra, psicanalista e professor titular de psicologia médica da Faculdade de Medicina São Camilo, São Paulo.
+
+[^martins_clinica_estetica-19]: Psicóloga hospitalar (SOPAI) e clínica, especialista em psicopatologia da infância e adolescência.
+
+::: {#vid-manejo}
+{{< video https://www.youtube.com/watch?v=YfqB7QNwCKo width="400" height="225">}}
+
+Manejo à crise
+:::
+
+-   Substâncias psicoativas e redução de danos
+    -   Rafael Baquit Campos[^martins_clinica_estetica-20]
+    -   Claudine Carneiro Aguiar[^martins_clinica_estetica-21]
+
+[^martins_clinica_estetica-20]: Psiquiatra e redutor de danos do Coletivo Balanceará, membro da Rede Nacional de Médicas e Médicos Populares, do Coletivo Rebento e Coletivo Intercambiantes Brasil, Integra o Coletivo TRIP – Terapeutas em Rede pela Integração Psicodélica.
+
+[^martins_clinica_estetica-21]: Coordenadora das políticas sobre drogas de Sobral, Ceará, possui graduação em Terapia Ocupacional, especialização em Dependência Química pela Universidade Federal de São Paulo (UNIFESP) e mestrado em Ensino na Saúde (UECE),
+
+::: {#vid-substancias}
+{{< video https://youtu.be/uD2cV4P3gL8?si=cVZLwHgIWQ4ckZ3s width="400" height="225">}}
+
+Substâncias psicoativas e redução de danos
+:::
+
+-   Sexualidade e identidade de gênero na adolescência
+    -   Profa. Dra. Ana Carolina Borges Leão Martins[^martins_clinica_estetica-22]
+    -   José Henrique Sousa Luz[^martins_clinica_estetica-23]
+
+[^martins_clinica_estetica-22]: Psicanalista, doutora em Teoria Psicanalítica (UFRJ) e professora do curso de graduação em Psicologia e do Programa de Pós-graduação profissional em Psicologia e Políticas Públicas da UFC, campus Sobral.
+
+[^martins_clinica_estetica-23]: Psiquiatra, mestre em Psicologia (UFC), especialista em Terapia Sexual pela Sociedade Brasileira de Estudos em Sexualidade Humana (SBRASH), preceptor da Residência Médica em Psiquiatria do Hospital de Saúde Mental Professor Frota Pinto e coordenador do Atendimento Ambulatorial em Sexualidade Humana (ATASH).
+
+::: {#vid-sexualidade}
+{{< video https://youtu.be/woeuhqk495Y?si=fmg2_0EpvbWATacQ width="400" height="225">}}
+
+Sexualidade e identidade de gênero na adolescência
+:::
+
+-   Corporeidade e transtornos alimentares na adolescência
+    -   Profa. Dra. Raquel Alencar Barreira Rolim[^martins_clinica_estetica-24]
+    -   Profa. Dra. Camilla Araújo Lopes Vieira[^martins_clinica_estetica-25]
+
+[^martins_clinica_estetica-24]: Psicanalista, doutorado em Psicologia na Université Paris 7 (Denis Diderot/Sorbonne) e professora universitária de desenvolvimento da criança e do adolescente.
+
+[^martins_clinica_estetica-25]: Doutora em Saúde Coletiva (UFC), docente do curso de Psicologia, do Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas e do Mestrado em Saúde da Família da UFC, campus Sobral. Realizou pós-doutorado no Programa de Pós-graduação em Psicanálise da UERJ.
+
+::: {#vid-corporiedade}
+{{< video https://www.youtube.com/watch?v=811X1sti9bk width="400" height="225">}}
+
+Corporeidade e transtornos alimentares na adolescência
+:::
+
+-   Juventudes, racismo e saúde mental
+    -   Profa. Dra. Andréa Máris Campos Guerra[^martins_clinica_estetica-26]
+
+[^martins_clinica_estetica-26]: Doutora em Teoria Psicanalítica (UFRJ), pós-doutorado em andamento na Université Paris 8, professora adjunta do Departamento de Psicologia e da Pós-graduação em Psicologia (UFMG).
+
+::: {#vid-juvracismo}
+{{< video https://youtu.be/GiU5QVS9leY?si=SoSExUf1_s9Y_lHN width="400" height="225">}}
+
+Juventudes, racismo e saúde mental
+:::
+
+-   Juventudes e exclusão social
+    -   Profa. Dra. Perla Klautau[^martins_clinica_estetica-27]
+    -   Prof. Dr. João Paulo Pereira Barros[^martins_clinica_estetica-28]
+    -   Prof. Ms. Ricardo Pinheiro Maia Júnior, Psicanalista[^martins_clinica_estetica-29]
+
+[^martins_clinica_estetica-27]: Doutora em Psicologia Clínica pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), pós-doutorado em Psicologia pela Universidade de São Paulo (USP) e em Psicologia Clínica (PUC-Rio), professora do Departamento de Psicologia Clínica e do Programa de Pós-Graduação em Psicologia (UFRJ).
+
+[^martins_clinica_estetica-28]: Professor do Departamento de Psicologia e do Programa de Pós-Graduação em Psicologia (UFC), coordenador do VIESES: Grupo de Pesquisas e Intervenções sobre Violência.
+
+[^martins_clinica_estetica-29]: Membro associado à CLIO – Associação de Psicanálise, doutorando em Psicologia pela UFC e extensionista do programa “Clínica, Estética e Política do Cuidado”.
+
+::: {#vid-juvexclusaoI}
+{{< video https://www.youtube.com/watch?v=0UQYOHgVL7w width="400" height="225">}}
+
+Juventudes e exclusão social - Parte 1
+:::
+
+::: {#vid-juvexclusaoII}
+{{< video https://www.youtube.com/watch?v=5yQar1hOqSI width="400" height="225">}}
+
+Juventudes e exclusão social - Parte 2
+:::
+
+Quanto ao percurso formativo realizado, o primeiro módulo da formação continuada abordou o sofrimento psíquico na infância enquanto tema transversal às aulas ministradas. Ao todo, foram realizadas 375 (trezentas e setenta e cinco) inscrições, as quais foram selecionadas conforme a prioridade para o público-alvo para preenchimento das vagas disponíveis. O grupo prioritário foi formado por profissionais da rede pública de saúde dos municípios participantes da pesquisa; o segundo grupo prioritário, por profissionais da rede pública atuantes em outras localidades; o terceiro, por estudantes, e, por fim, o quarto grupo, por profissionais não atuantes na rede pública. Posteriormente, decidiu-se ampliar para outros municípios, através do diálogo com a Escola de Saúde Pública do Estado do Ceará, parceira neste trabalho de formação continuada no campo da saúde mental de crianças e adolescentes, área de saber raramente abordada nas capacitações dos profissionais de saúde.
+
+Os encontros oportunizaram a discussão acerca dos impasses e das possibilidades das práticas de saúde mental infantojuvenil, bem como o compartilhamento de relatos de experiência entre os profissionais participantes durante as aulas e as tutorias. Ao final, 122 (cento e vinte e dois) participantes concluíram a carga horária, no primeiro módulo, necessária para certificação durante o percurso, ressaltando que os participantes eram de diversos níveis de formação e categorias de profissionais oriundos de mais de 35 (trinta e cinco) municípios cearenses. Esse período de formação teve como resultado a elaboração de uma apostila que foi encaminhada aos profissionais participantes, objetivando contribuir com o seu processo formativo.
+
+Cada encontro foi gravado para que, ao final da realização da formação, todas as gravações fossem disponibilizadas na plataforma YouTube no canal do Programa de Extensão CEPC[^martins_clinica_estetica-30], o que contribui para o acesso gratuito e democrático ao conteúdo produzido, portanto os profissionais que participaram da formação poderão revisitar as discussões e indicá-las a outros que estejam interessados. A pluralidade de temas foi possível, principalmente, pela inserção de professores de outros programas de pós-graduação em universidades parceiras, indicando a importância da inserção social da universidade na viabilização e no apoio nos processos de educação permanente em saúde e educação.
+
+[^martins_clinica_estetica-30]: Link do canal no YouTube: [https://www.youtube.com/\@clinicaesteticaepoliticado8219/videos](https://www.youtube.com/@clinicaesteticaepoliticado8219/videos). 
+
+## Aspectos avaliativos: desafios e potencialidades da formação
+
+Trazer a perspectiva avaliativa dos profissionais sobre o processo de uma Formação Continuada em Saúde – alinhada e construída a partir dos impasses que esses atores sinalizaram ao longo do percurso de rodas de conversas em 10 (dez) municípios do Ceará – convocou a equipe da pesquisa e os autores deste artigo a pensar de que forma essa transmissão se deu para diferentes olhares de gestores e trabalhadores da rede, com diferentes categorias e visões. Como citado acima, a princípio, estavam envolvidos 11 (onze) municípios na pesquisa-intervenção, no entanto, em uma das cidades, não foi possível articular com a gestão a realização da roda de conversa, não obstante as inúmeras tentativas da equipe de pesquisadores.
+
+Sabe-se que, no campo da saúde, os critérios efetivos para avaliação de uma Educação Continuada geralmente estão pautados em aspectos do aperfeiçoamento das ações, do processo educativo, do fomento à capacidade resolutiva, entre outros [@brasil2004a]. No entanto, entende-se a necessidade de ampliar e, de certo modo, romper com essa lógica burocrática de avaliação, considerando, principalmente, a ampliação reflexiva e crítica desses profissionais sobre os seus processos de trabalho e a forma como os conteúdos e as reflexões críticas foram se integralizando nas suas formas de cuidado [@silva2010processo].
+
+Para que tivéssemos acesso a essas informações mais detalhadas, contamos com momentos que intitulamos de “tutorias”. Os integrantes da pesquisa se dividiram em grupos menores com profissionais de diferentes serviços oriundos de cidades distintas no intuito de conversar sobre os efeitos, os questionamentos e a avaliação deles sobre o processo formativo que estava em curso. Na ocasião também eram discutidos casos clínicos e possíveis propostas de intervenção. Ainda que esses momentos não tenham funcionado de forma contínua em todos os pequenos grupos, na avaliação os profissionais perceberam-nos positivamente, sobretudo em função da escassez de processos formativos em seus municípios direcionados à temática específica do cuidado em saúde mental infantojuvenil.
+
+Compreende-se que a Formação Continuada do PPSUS permitiu, sobretudo, colocar o cotidiano dos trabalhadores em análise e em constante reflexão. Relatos como “isso que o colega falou agora a gente vivencia aqui também na nossa cidade” foram mostrando para a equipe de pesquisa diversos aspectos como: identificações inusitadas entre trabalhadores de diferentes cidades; novas possibilidades de manejo com as equipes; tensões, entre outros afetos, colocadas por meio de posicionamentos contrários aos dos palestrantes; e situações que se entrelaçavam a cada encontro e faziam os pesquisadores alinhar e realinhar as trajetórias da formação. Concordamos com Merhy [-@merhy2002saude] que esse tipo de formação possibilita “novos espaços de ação e novos sujeitos coletivos, bases para modificar o sentido das ações de saúde, em direção ao campo das necessidades dos usuários finais” (p. 160).
+
+De forma mais sintética, os profissionais relataram como pontos positivos:
+
+-   A possibilidade de articulação e intercâmbio com diferentes realidades de outras cidades, que fomentaram trocas profícuas no decorrer da formação;
+-   O alinhamento das temáticas tratadas pelos palestrantes com as demandas que eram os maiores pontos de impasse por parte das equipes em suas realidades de trabalho;
+-   A possibilidade de serem ouvidos nos momentos de tutoria que serviam como uma espécie de assessoria diante de determinados obstáculos nas práticas;
+-   A possibilidade de um espaço que permitisse uma produção de sentido sobre as suas práticas.
+
+Como pontos negativos, os profissionais relataram:
+
+-   A ausência de palestrantes de outras áreas que não apenas da saúde, tendo em vista o caráter de importância da intersetorialidade no cuidado em saúde mental infantojuvenil, de forma que pudessem aprender, dialogar e conhecer a realidade de outros setores – sobre isso, uma profissional declarou em uma das tutorias “tem muito profissional psi como palestrantes” (referindo-se a psicólogos e psiquiatras/médicos);
+-   A necessidade de mais momentos em que pudessem falar sobre as demandas particulares de seus trabalhos e impasses cotidianos, com objetivo de que a Formação servisse como uma espécie de supervisão clínico-institucional,
+-   A angústia diante do pequeno espaço de tempo para participarem da formação por conta dos seus trabalhos e a dificuldade de compatibilizar suas agendas com os horários da Formação.
+
+Essas questões em torno da dificuldade de comparecimento de alguns participantes por conta das suas sobrecarregadas agendas de trabalho fizeram com que os profissionais pudessem problematizar, nos espaços de tutoria, a ênfase exacerbada dada à produtividade em detrimento das possibilidades formativas, da discussão de casos, da análise do cotidiano de trabalho, chegando à conclusão de que compartilhar experiências vividas entre pares – de diversas realidades diferentes – produziu novas formas de pensar e agir nas suas práticas. Isso nos fez pensar que a produção da Formação Continuada do PPSUS não se tratou de construção burocrática, de troca de informações engessadas, mas sim de alinhamento, realmente, ao cotidiano de quem lá estava presente.
+
+## Considerações finais
+
+Nessa ação de inserção social, tínhamos como objetivo subsidiar teoricamente aspectos relacionados à saúde mental infantojuvenil com vistas a contribuir com os processos de educação continuada dos profissionais da RAS do Ceará juntamente a profissionais da educação, da assistência social, e aos demais interessados.
+
+No decorrer da formação, a valorização das práticas de cuidado que têm alcançado resolutividade, por exemplo, no campo da intersetorialidade foram ressaltadas, bem como foram indicadas as dificuldades encontradas pelos profissionais, apostando assim na relação entre os processos formativos e a formulação de políticas públicas. Pôde-se, assim, em alguma medida, contribuir para que os profissionais refletissem acerca de possíveis estratégias de intersetorialidade e integralidade do cuidado.
+
+A formação abordou assuntos relacionados a questões socialmente relevantes no cuidado em saúde mental, tais como neurodiversidade, pobreza e vulnerabilidades, educação, intersetorialidade, gênero, racismo, constituição e nascimento do sujeito, instrumentos de avaliação e intervenção precoce, bem como outros assuntos suscitados pelos profissionais participantes. Além disso, contribuiu para a formação e sensibilização de alunos do curso de graduação em Psicologia da Universidade Federal do Ceará, por meio da promoção de uma atividade complementar ao currículo obrigatório e de um espaço que fomentou a produção do conhecimento e do diálogo no campo da saúde mental.
+
+Por se tratar de um evento realizado online, possibilitou que o curso tivesse a participação de ministrantes de outros Estados, permitindo uma troca acadêmica que não seria viável em curso presencial. Do mesmo modo, permitiu que pessoas de quaisquer localidades do Estado do Ceará (interior e capital) pudessem se inscrever, participar e compartilhar do intercâmbio de práticas e saberes em torno da saúde mental infantojuvenil implicada nas mais diversas realidades. Ademais, a formação contribuiu para que os participantes pudessem compartilhar suas experiências exitosas e seus desafios e, em conjunto, pensar em novas formas de atuação nas práticas de cuidado em saúde mental com crianças e adolescentes, inclusive não só os motivando a enfrentar o cotidiano de um contexto institucional público, como também a testemunhar outras pesquisas realizadas sobre a importância dos processos de educação permanente [@almeida2016educacao].
+
+De forma geral, podemos perceber que houve uma grande implicação das equipes de saúde mental, em nível municipal e estadual, no processo de Formação Continuada, tornando possível a construção de uma visão mais ampla acerca dos desafios e das potencialidades implicadas no decorrer do trabalho, integralizando pesquisa e ensino na universidade e no sistema de saúde.
+
+Conclui-se que a Formação Continuada do PPSUS se constituiu como uma importante atividade de inserção social do Programa de Pós-Graduação em Psicologia da UFC, contribuindo para a formação continuada de estudantes e de profissionais da RAS, bem como de profissionais da educação e da assistência social.
