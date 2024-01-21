@@ -1,9 +1,7 @@
 # Expediente Institucional
 
 ::: {style="line-height: 0.5;"}
-
 ### Presidente da República
-
 
 Luiz Inácio Lula da Silva
 
@@ -25,7 +23,7 @@ Prof. Custódio Luís Silva de Almeida
 
 Profa Diana Cristina Silva de Almeida
 
-#### **Programa de Pós-graduação em Psicologia**
+#### **Programa de Pós-graduação em Psicologia - PPGPSI**
 
 ::: column-margin
 [![](./imagens/ppgpsi.png)](https://www.ufc.br/)
@@ -39,7 +37,7 @@ Professor Aluísio Ferreira de Lima
 
 Professor Paulo Coelho Castelo Branco
 
-#### **Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas**
+#### **Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas - PPGPPPP**
 
 ::: column-margin
 [![](./imagens/ppgpppp.png)](https://www.ufc.br/)

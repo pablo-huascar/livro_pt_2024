@@ -36,12 +36,14 @@ book:
       chapters:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
+        - melo_assessoria.qmd
     
     - part: Curso para formação profissional
       chapters:
         - barros_cursos_vieses.qmd
         - bomfim_metodologias_part.qmd
         - martins_clinica_estetica.qmd
+        - sena_curso_r.qmd
     
     - part: Material didático
       chapters: 
@@ -71,6 +73,9 @@ format:
     standalone: true
     indent: true
     code-link: true
+    code-tools: true  
+    code-line-numbers: false
+    code-copy: true
     
     author-meta: "Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros"
 

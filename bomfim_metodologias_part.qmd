@@ -14,7 +14,7 @@ author:
     orcid: 0000-0003-4139-1506
     email: fabio.pacheco@uece.br
     affiliations: 
-      - name: Universidade Federal do Ceará
+      - name: Universidade Estadual do Ceará
   - name: Andie de Castro Lima
     orcid: 0000-0003-1469-8529
     email: lima.castro94@gmail.com
@@ -39,7 +39,8 @@ author:
     orcid: 0000-0001-9075-5180
     email: graciella@ufrj.br
     affiliations: 
-      - name: Universidade Federal do Ceará
+      - name: Universidade Federal do Rio de Janeiro
+      - name: Universidade Federal Fluminense
 language: 
   title-block-author-plural: "Autoras"
 filters:

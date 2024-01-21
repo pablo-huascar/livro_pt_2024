@@ -36,11 +36,7 @@ author:
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: José Dannilo Ferreira Marques Arruda
-    affiliations: 
-      - name: Universidade Federal do Ceará
   - name: Antônio Gabriel Miranda da Silva
-    affiliations: 
-      - name: Universidade Federal do Ceará
   - name: Lucas Araújo da Silva
     orcid: 0000-0002-6491-4659
     email: lucasarjslv@gmail.com
