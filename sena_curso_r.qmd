@@ -1,6 +1,7 @@
 ---
 author: 
   - name: Luciana Fontenele de Sena
+    orcid: 0000-0002-3799-6548
     email: lucianafontenele@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
@@ -36,17 +37,27 @@ format:
     code-link: true
     code-tools: true
     code-line-numbers: false
-    theme: simple
     fig-width: 6
     fig-asp: 0.618
+    toc-depth: 4
 editor_options: 
   chunk_output_type: console
 engine: knitr
 webr:
-  packages: ['ggplot2', 'dplyr', 'readr' , 'palmerpenguins']
+  packages: ['ggplot2', 'dplyr', 'readr' , 'palmerpenguins', 'tidyr', 'broom',
+  'janitor']
 ---
 
+# Relatório sobre o curso “Introdução ao r para análise de dados em psicologia”: proposta e construção
+
 ## Introdução
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(tidyverse)
+```
 
 O treinamento de pesquisadores é fundamental tanto para a qualidade da pesquisa empírica quanto para a promoção do desenvolvimento técnico e econômico de um país. Através de instrumentos de representação e análise inferencial, a Estatística proporciona maior entendimento de acontecimentos quando se tem uma grande quantidade de dados, variabilidade e incertezas [@RBIE2340]. Além disso, o ensino de Estatística tem cada vez mais visibilidade, dado que existe, atualmente, no mercado de trabalho, uma necessidade de profissionais que saibam atuar frente a essa grande quantidade de informações e que dominem técnicas de análise de dados, antecipando a tomadas de decisões inferidas através de dados amostrais [@vendramini_brito_2001].
 
@@ -74,7 +85,7 @@ Nesse cenário, podemos inferir que os MOOCs podem contribuir ricamente para a a
 
 Em 2023, a partir de buscas no Google, é possível encontrar alguns cursos brasileiros relacionados ao ensino do R. A plataforma de educação à distância Coursera disponibiliza diversos MOOCs, inclusive um específico de Análise de dados com programação em R, de nível Intermediário, oferecido pelo Google Career Certificates [@coursera_google_2022]. Outro exemplo foi encontrado na plataforma de MOOC do Instituto Federal do Espírito Santo (IFES), chamado Estatística com o R, que se direciona a alunos interessados em análise de dados por meio da aplicação de métodos estatísticos com essa ferramenta de pesquisa [@IFES2024]. Também foi encontrado no site de cursos da Escola Virtual do Governo, vinculada ao Governo Federal, um curso chamado Análise de dados em linguagem R, que possui como principal objetivo ensinar a utilização da linguagem R para a preparação e exploração de dados [@analise-dados-r].
 
-No mais, também foram encontrados MOOCs em inglês sobre o ensino da linguagem R. A plataforma Coursera concede, além do curso supracitado em português, alguns outros cursos, como o “Introduction to R Programming for Data Science”, facilitado pela empresa International Business Machines Corporation - IBM - [@Coursera2024], e o “Data Science: Foundations using R”, disponibilizado pela Universidade Johns Hopkins[ @Coursera_hopk].
+No mais, também foram encontrados MOOCs em inglês sobre o ensino da linguagem R. A plataforma Coursera concede, além do curso supracitado em português, alguns outros cursos, como o “Introduction to R Programming for Data Science”, facilitado pela empresa International Business Machines Corporation - IBM - [@Coursera2024], e o “Data Science: Foundations using R”, disponibilizado pela Universidade Johns Hopkins[@Coursera_hopk].
 
 Tendo isso em vista, é necessário apontar a importância de diferentes MOOCs sobre um mesmo assunto, isso porque, em relação aos cursos supracitados, há uma diferença entre os níveis de conhecimento e as habilidades trabalhadas. Por exemplo, o curso da plataforma Coursera tem nível intermediário, já aquele disponibilizado pelo governo é bem específico à sua forma de aplicação à Estatística, e, por último, o curso do IFES tem um conteúdo avançado em relação ao ensino de Estatística, porém só dá noções básicas sobre R. Ademais, os cursos ministrados em inglês podem dificultar o acesso de estudantes brasileiros que não dominem o idioma.
 
@@ -82,7 +93,7 @@ Ademais, os cursos possuem abordagens pedagógicas diferentes, que podem se adeq
 
 Outro fator importante é que, no caso da linguagem R, por possuir código aberto, ela está em constantes modificações e evoluções. Isto pode tornar os cursos obsoletos, tornando necessária a atualização do conteúdo.
 
-### A proposta do MOOC – “Introdução ao R para análise de dados em Psicologia”
+### A proposta do MOOC “Introdução ao R para análise de dados em Psicologia”
 
 Este relatório apresenta o MOOC – “Introdução ao R para análise de dados em Psicologia”, que tem como objetivo ajudar pesquisadores e estudantes a fazer a transição de softwares proprietários e/ou com interfaces gráficas para uma linguagem de programação livre, gratuita e flexível.
 
@@ -110,17 +121,16 @@ A realização do MOOC não visa a lucros, de modo que ele será disponibilizado
 
 Durante a implementação, são avaliados o material didático no qual o curso será baseado, além da criação e do desenvolvimento de atividades. A oficina ora apresentada tem, até o momento, os livros “R for Data Science” [@Wickham_2023] e “Statistical inference via data science: A ModernDive into R and the tidyverse” [@moderndive] como base. O primeiro é popular entre os cientistas de dados e também entre outras pessoas que querem aprender a utilizar a linguagem de programação R. Ele é conhecido por utilizar a abordagem “tidy data”, que permite a organização de dados de modo a facilitar a sua manipulação e a visualização. O segundo apresenta conceitos práticos e métodos computacionais, e também utiliza-se da linguagem R e do conjunto de pacotes do Tidyverse para análise de dados.
 
-Foram desenvolvidos conjuntos de slides, blocos de exercícios e suas respectivas soluções, todos disponibilizados em uma página construída para, inicialmente, abrigar os conteúdos do curso [https://fphap.quarto.pub/rpsi/](https://fphap.quarto.pub/rpsi/){.external target="_blank"}. Estes materiais foram desenvolvidos a partir de codificação em R, através da ferramenta Quarto, uma linguagem de marcação que permite criar documentos dinâmicos, relatórios reprodutíveis, dentre outros. Ela pode funcionar, ainda, para a criação de materiais de ensino, como tutoriais interativos, exercícios, apresentações de slides  e livros (como este que você está lendo).
+Foram desenvolvidos conjuntos de slides, blocos de exercícios e suas respectivas soluções, todos disponibilizados em uma página construída para, inicialmente, abrigar os conteúdos do curso [https://fphap.quarto.pub/rpsi/](https://fphap.quarto.pub/rpsi/){.external target="_blank"}. Estes materiais foram desenvolvidos a partir de codificação em R, através da ferramenta Quarto, uma linguagem de marcação que permite criar documentos dinâmicos, relatórios reprodutíveis, dentre outros. Ela pode funcionar, ainda, para a criação de materiais de ensino, como tutoriais interativos, exercícios, apresentações de slides e livros (como este que você está lendo).
 
-Até o momento, foram desenvolvidos seis módulos para a oficina. Em breve, serão acrescentadas discussões sobre estatística descritiva e sobre análises mais básicas: correlação, test t, ANOVA, qui-quadrado e regressão. A seguir, são apresentados os módulos já elaborados. Em cada tópico será apresentada uma amostra do que é aprendido em cada um deles.
+Até o momento, foram desenvolvidos seis módulos para a oficina. Em breve, serão acrescentadas discussões sobre estatística descritiva e sobre análises mais básicas: correlação, test t, ANOVA, qui-quadrado e regressão. A seguir, são apresentados os módulos já elaborados e uma amostra do que é aprendido em cada um deles.
 
 #### Introdução ao R
 
 Neste módulo, é apresentado o mínimo necessário para que seja possível familiarizar-se com a linguagem básica do R [@r_2022]. Ao lidar com a codificação básica, nem sempre há uma transposição do que é feito em software com interface gráfica, mas este passo inicial é importante para que se entenda como R funciona por si mesmo.
 
 ::: {#lst-assign-both-introducao}
-
-**Exemplo: Função** `seq()`
+**Exemplo: função** `seq()`
 
 Os dois primeiros argumentos da função seq são: from e to
 
@@ -142,21 +152,26 @@ Se os valores dos argumentos estiverem na ordem da função, é possível omití
 seq(1,10,2)
 ```
 
-Use a função `rnorm` e crie um objeto chamado cem com cem casos, cuja média seja 30 e o desvio padrão 4. Você pode ver os argumentos da função rnorm usando `?rnorm`
+Use a função `rnorm` e crie um objeto chamado cem com cem casos, cuja média seja 30 e o desvio padrão 4. Você pode ver os argumentos da função rnorm usando `?rnorm`.[^sena_curso_r-1]
 
 ```{webr-r}
+
+
+
+
 
 ```
 
 Introdução ao R
 :::
 
+[^sena_curso_r-1]: Sempre que houver um bloco com "Run Code", você pode usá-lo para digitar seu código e, em seguida, é só apetar o botão de play para executá-lo.
+
 #### Transformação de dados
 
 Antes de analisar os dados colhidos, existem algumas tarefas que são essenciais no processo, como criar variáveis a partir daquelas coletadas inicialmente, filtrar valores e arranjá-los de forma ascendente ou descendente. Eventualmente, também é necessário selecionar variáveis, renomeá-las e mudá-las de posição. Sumariar alguns resultados é, ainda, uma atividade importante nessa fase de manipulação dos dados. Será visto que todas essas tarefas podem ser feitas com o pacote dplyr [@dplyr_r]. Aprender como o dplyr funciona será o principal objetivo deste módulo.
 
 ::: {#lst-assign-both-transform}
-
 ```{r}
 #| warning: false
 #| message: false
@@ -170,7 +185,7 @@ O banco de dados ufo_sightings.csv vai ser empregado. Estes dados trazem informa
 ufo <- read_csv("https://tinyurl.com/ufo-avist")
 ```
 
-**Exercício 2**
+**Exercício**
 
 Os avistamentos ocorrem em diversos estados dos EUA. Qual o tempo médio de duração (em horas) do estado que mais tem avistamentos de objetos com o formato cigar?
 
@@ -198,23 +213,106 @@ Transformação de dados
 
 No contexto do tidyverse, iteração diz respeito a executar repetidamente a mesma ação em diferentes objetos. É possível, por exemplo, com a função summarise calcular a média e o desvio padrão de várias colunas de uma só vez ou transformá-las com a função mutate. A iteração é importante porque evita copiar e colar funções mais de duas vezes, o que pode gerar erros que se propagam pelo código. Essa é uma capacidade do tidyverse muito poderosa, contudo, dado o caráter introdutório da oficina, o foco será dado na função `across()`.
 
+::: {#lst-assign-both-iter}
+```{r}
+library(dplyr)
+library(tidyr)
+```
+
+**Criação de um banco dummy**
+
+```{r}
+df <- tibble(
+  a = rnorm(10),
+  b = rnorm(10),
+  c = rnorm(10),
+  d = rnorm(10)
+)
+
+df
+```
+
+**`across()`**
+
+-   .cols =: especifica quais colunas vão estar na iteração
+-   .fns =: diz o que fazer com as colunas
+    -   Qual função aplicar
+
+```{r}
+df |> 
+  summarise(
+    across(.cols = a:d,.fns = median)
+  )
+```
+
+**Exercício**
+
+No banco de dados `economics` calcule a média das variávels pce, pop e psavert usando a função across
+
+```{r}
+economics |> 
+  print(n = 3)
+```
+
+```{webr-r}
+
+
+
+
+
+```
+
+Iteração
+:::
+
 #### Importação de dados
 
 Trabalhar com os bancos de dados que acompanham o R e alguns pacotes é importante, mas este módulo permitirá que bancos de dados sejam levados para dentro do R. A importação é uma tarefa simples, mas que pode ter nuances que demandam atenção. Será aprendido a importar arquivos csv (valores separados por vírgula), csv2 (valores separados por ponto e vírgula), .sav (SPSS), .xlsx (Excel). Também serão abordadas algumas dicas sobre como organizar os dados e os nomes das variáveis e como exportá-los no formato csv. Para tanto, serão utilizados os pacotes readr [@readr_pkg], haven [@haven_pkg] e readxl [@readxl_pkg].
+
+::: {#lst-assign-both-import}
+**Lidando com códigos para valores ausentes**
+
+```{r}
+library(readr)
+library(janitor)
+```
+
+```{r}
+estudantes <- read_csv("https://tinyurl.com/estudcsv", 
+                       na = c("N/A","")) 
+
+estudantes
+```
+
+**Melhorando os nomes das variáveis**
+
+-   Espaços: variáveis entre \`\`
+-   Maiúsculas e minúsculas
+-   acentos e ç
+    -   `janitor::clean_names()`
+
+```{r}
+estudantes <- estudantes |> 
+  clean_names()
+
+estudantes
+```
+
+Importação de dados
+:::
 
 #### Gráficos
 
 Gráficos são uma ferramenta muito importante para explorar os dados, assim como para tornar a apresentação de resultados mais inteligível, de modo que não seja necessário somente se ater à aridez das tabelas. Para tanto, é necessário trabalhar com uma ferramenta imprescindível: o pacote ggplot2 [@ggplot]. Neste módulo, serão apresentadas algumas funções para a criação de gráficos simples e, ainda, outras para o controle de vários elementos da figura que se quer produzir.
 
 ::: {#lst-assign-both-graficos}
-
 ```{r}
 #| warning: false
 #| message: false
+library(dplyr)
 library(ggplot2)
 library(palmerpenguins)
 ```
-
 
 **Duas variáveis numéricas**
 
@@ -237,6 +335,28 @@ ggplot(penguins,
     )
 ```
 
+**Exercício**
+
+Recrie o gráfico abaixo usando o banco de dados `starwars`.
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+starwars |> 
+  ggplot(aes(height)) +
+  geom_histogram()
+```
+
+```{webr-r}
+
+
+
+
+
+```
+
 Gráficos
 :::
 
@@ -244,11 +364,54 @@ Gráficos
 
 Este talvez seja o módulo que mais se distancia do cotidiano de pesquisadores de Psicologia e de Ciências Humanas. Usualmente, trabalha-se com dados que são coletados, e, ao importá-los ou alimentar planilhas, já se obtém o formato tidy (arrumado). Este formato se refere ao seguinte: “Cada variável é uma coluna; cada coluna é uma variável. Cada observação é uma linha; cada linha é uma observação. Cada valor é uma célula; cada célula é um único valor” [@moderndive].
 
-Contudo, não é incomum o trabalho com, por exemplo, bancos de dados que sejam públicos ou que não tenham sido coletados diretamente, por isso é essencial conseguir meios de organização para que se possa executar as análises como dados arrumados (tidy data). Com este intuito, será explorada a função  `pivot_longer()`.
+Contudo, não é incomum o trabalho com, por exemplo, bancos de dados que sejam públicos ou que não tenham sido coletados diretamente, por isso é essencial conseguir meios de organização para que se possa executar as análises como dados arrumados (tidy data). Com este intuito, será explorada a função `pivot_longer()`.
+
+**Regras para um banco de dados arrumado**
+
+![Dados arrumados](./imagens/tidy.png){#fig-tidydata fig-alt="A imagem apresenta três painéis sequenciais que ilustram as regras para um conjunto de dados organizado, seguindo o conceito de \"tidy data\".  No primeiro painel, intitulado \"variables\", há uma tabela com cabeçalhos de coluna \"country\", \"year\", \"cases\" e \"population\". Setas verticais apontam para baixo, indicando que cada coluna representa uma variável diferente. No segundo painel, \"observations\", as mesmas colunas da tabela estão presentes, mas desta vez, setas horizontais apontam da esquerda para a direita ao longo de cada linha, destacando que cada linha da tabela corresponde a uma observação distinta. No terceiro e último painel, \"values\", círculos são colocados em torno de cada entrada individual na tabela, realçando que cada célula contém um único valor. Os três painéis juntos exemplificam as regras fundamentais de um conjunto de dados organizado, onde variáveis formam as colunas, observações formam as linhas e cada valor é atribuído a uma célula específica da tabela. Cada painel está claramente rotulado para identificar qual das três regras de dados organizados está sendo representada."}
+
+As três regras a seguir tornam um conjunto de dados organizado: variáveis são colunas, observações são linhas e valores são células.
 
 #### Regressão linear
 
 Regressão linear é uma análise estatística simples, mas é uma ferramenta fundamental para a resolução de muitos problemas no cotidiano dos pesquisadores. Neste módulo, serão dadas noções básicas sobre esta ferramenta, bem como sobre a sua implementação no R. Além da função lm(), que está na base do R, serão utilizados alguns pacotes do tidymodels. O tidymodels é um conjunto de ferramentas e pacotes que fornece uma abordagem consistente e organizada para modelagem estatística e aprendizado de máquina, seguindo os princípios de organização e clareza do tidyverse. Ele facilita a construção, a avaliação e o ajuste de modelos estatísticos de forma eficiente e intuitiva.
+
+::: {#lst-assign-both-regress}
+**Regressão Linear Simples: Uma Variável Independente Categórica**
+
+```{r}
+library(broom)
+
+tmcs <- read_csv("https://tinyurl.com/contextosm")
+```
+
+```{r}
+# Criação da variável TMCS
+tmcs <- tmcs |> 
+  rowwise() |> 
+  mutate(
+    tmcs = sum(c_across(srq1:srq20))
+  ) |> 
+  ungroup()
+
+```
+
+**Diferenças Entre as Médias**
+
+```{r}
+t.test(tmcs ~ fct_relevel(grupo_de_risco, "Sim"), data = tmcs,var.equal = T)
+```
+
+```{r}
+fit_cat <- lm(tmcs ~ grupo_de_risco, data = tmcs) 
+```
+
+```{r}
+summary(fit_cat)
+```
+
+Regressão linear
+:::
 
 ### Execução
 

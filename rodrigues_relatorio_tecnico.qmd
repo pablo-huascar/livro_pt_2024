@@ -1,0 +1,349 @@
+---
+author: 
+  - name: David Sousa Rodrigues
+    orcid: 0000-0002-9935-2174
+    email: davidrdgs@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Esthela Sá Cunha
+    orcid: 0000-0002-4822-0454
+    email: esthelasa7@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Francisco Pablo Huascar Aragão Pinheiro 
+    orcid: 0000-0001-9289-845X
+    email: pablo.pinheiro@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autores"
+editor: visual
+editor_options: 
+  chunk_output_type: console
+lang: pt-br
+warning: false
+message: false
+fig-width: 6
+fig-asp: 0.618
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
+---
+
+## Introdução
+
+```{r}
+#| label: setup
+
+# Setup
+## Pacotes
+
+library(tidyverse)
+library(janitor)
+library(gt)
+library(sysfonts)
+library(extrafont)
+library(showtext)
+library(ggthemes)
+library(scales)
+library(patchwork)
+
+## Obenção dos dados
+
+df <- read_csv("./data/dados_municipios.csv")
+```
+
+
+
+```{r}
+#| label: manipulacao-demo
+
+# Manipulação dos dados
+## Criação da variável renda per capita
+
+df <- df |> 
+  mutate(
+    rper = renda_mensal_familiar/dependentes_da_renda,
+    .after = dependentes_da_renda
+  )
+
+## Criação das variáveis de saúde mental
+
+df <- df |> 
+  rowwise() |> 
+  mutate(
+    depressao = sum(dass16, dass17,dass10,
+                    dass13,dass21,dass3,
+                    dass5),
+    ansiedade = sum(dass20, dass9, dass19,
+                    dass2, dass15, dass7,
+                    dass4),
+    estresse = sum(dass18, dass6, dass8,
+                   dass12,dass11,dass1,
+                   dass14)
+  ) |> 
+  ungroup()
+
+## Criação das variáveis qualitativas pertinentes à saúde mental
+
+df <- 
+  df |> 
+  mutate(depressao_corte = cut(depressao, 
+                               breaks = c(-Inf,
+                                          quantile(df$depressao, 0.78),
+                                          quantile(df$depressao, 0.87),
+                                          quantile(df$depressao, 0.95),
+                                          quantile(df$depressao, 0.98),
+                                          +Inf),
+                               labels = c("Normal", "Leve", "Moderada",
+                                          "Severa","Extremamente severa")),
+         ansiedade_corte = cut(ansiedade, 
+                               breaks = c(-Inf, 
+                                          quantile(df$ansiedade, 0.78),
+                                          quantile(df$ansiedade, 0.87),
+                                          quantile(df$ansiedade, 0.95),
+                                          quantile(df$ansiedade, 0.98),
+                                          +Inf),
+                               labels = c("Normal","Leve","Moderada",
+                                          "Severa","Extremamente severa")),
+         estresse_corte = cut(estresse, 
+                              breaks = c(-Inf,
+                                         quantile(df$estresse, 0.78),
+                                         quantile(df$estresse, 0.87),
+                                         quantile(df$estresse, 0.95),
+                                         quantile(df$estresse, 0.98),
+                                         +Inf),
+                              labels = c("Normal", "Leve", "Moderada",
+                                         "Severa","Extremamente severa")))
+```
+
+A pandemia da covid-19 trouxe desafios para diversos âmbitos da sociedade. No campo da educação foi necessário iniciar um ensino de emergência que mantivesse alunos e professores em suas residências para evitar a propagação do vírus. O modelo de ensino remoto surgiu então para que as atividades educacionais continuassem sem oferecer o risco de contágio (Pereira et al., 2020; Silva et al., 2022 ). Apesar da grande adesão a essa estratégia por parte das instituições de ensino, tal mudança repercutiu nos índices de adoecimento mental dos professores (Silva et al., 2022). 
+
+Devido à brusca modificação do contexto de trabalho durante a pandemia, os professores tiveram que lidar com questões que impactaram sua saúde mental, como a necessidade de desenvolvimento de novas habilidades com o uso de tecnologias, a alta exigência por resultados e a jornada dupla ocasionada pelas demandas em sua rotina domiciliar (Cândido et al., 2022). Nesse contexto, foi identificado que receber demandas fora do horário de trabalho, perder contato com os colegas e ter dificuldade em separar as vidas privada e laboral dificultaram a realização das atividades remotas (Bernardo et al., 2020). Foi percebido, ainda, que o adoecimento mental dessa categoria estava associado às notícias sobre mortes decorrentes da covid-19, à pressão exercida pelas instituições de ensino, à carga de estresse relacionada à vida pessoal e ao medo da morte advindo da pandemia (Santos et al., 2021).
+
+Diversos estudos mostraram índices elevados de transtornos mentais entre professores durante o período de trabalho remoto. Em uma pesquisa realizada com 125 professores universitários do sertão nordestino, foram identificadas prevalências de 60% de ansiedade e 50,4%  de estresse (Machado et al., 2022). Além disso, uma investigação com professores da rede pública estadual de Montes Claros, Minas Gerais, encontrou índices de 51,8% e 52,6% para ansiedade e depressão, respectivamente (Ruas et al., 2022). Em estudo realizado com docentes (n = 203) da rede básica do Peru, os professores apresentaram índices de 87,45 % para a presença de sintomas de ansiedade e 55,8% para a presença de transtornos depressivos em algum grau, enquanto as professoras apresentaram índices respectivos de 70,3 % e 60,4 %  em algum grau (Betancur et al., 2022).
+
+Diante deste cenário, o Laboratório de Práticas e Pesquisas em Psicologia e Educação (LAPPSIE), do campus de Sobral da Universidade Federal do Ceará, firmou parcerias com nove prefeituras do estado do Ceará,  para realizar uma pesquisa que visava avaliar o contexto de trabalho, a saúde mental e a relação dos professores com a pandemia da covid-19 durante o período de trabalho remoto. Este relatório tem como objetivo apresentar os resultados de tal estudo, caracterizando-se, portanto, como um relatório técnico conclusivo de pesquisa.
+
+Por não serem visíveis nem palpáveis, as doenças ocupacionais associadas à saúde mental costumam não ser identificadas como problemas decorrentes do contexto de trabalho. Há, dessa forma, dificuldade de se estabelecer um nexo causal entre ambos (Borsoi, 2007). Além disso, as visões jurídica e previdenciária acerca da saúde mental reforçam a ideia de que tais problemas não são decorrentes do trabalho, mas sim da realidade individual (Sato & Bernardo, 2005). 
+
+Dessa forma, as situações de adoecimento psíquico são atribuídas, em sua maioria, ao descuido e à irresponsabilidade do trabalhador. Assim, as organizações tentam escamotear as pressões e as exigências em relação à produção. É reforçada, portanto, a ideia de culpabilização do indivíduo frente a situações de sofrimento mental que, em grande medida, são produzidas e intensificadas pelo contexto de trabalho (Silva et al., 2016).
+
+Em contraponto, o campo da Saúde do Trabalhador, que fundamenta este estudo, busca confrontar esse enfoque que restringe a origem do adoecimento a possíveis agentes ou situações de risco presentes no ambiente laboral. Tal maneira de analisar o trabalho não consegue compreender as relações entre a organização do trabalho e a subjetividade dos trabalhadores (Mendes & Dias, 1991; Lacaz, 2007). Dessa forma, a referida abordagem reconhece o indivíduo como protagonista, sendo ele capaz de transformar sua realidade laboral a fim de reduzir os agravos à saúde, para além de acidentes de trabalho e doenças. É proposto, então, que os trabalhadores sejam vistos como atores sociais e políticos capazes de intervir em seu contexto de trabalho, de forma a serem produtores de conhecimento e de estratégias de atenção à saúde (Gomez, 2011; Lacaz, 2007).
+
+## Método
+
+### Participantes
+
+Participaram do estudo 838 professores da educação básica de nove municípios do interior cearense. No que diz respeito a gênero, a maior parte da amostra era formada por mulheres (82,1%); já no que concerne a etnia, houve um número significativo de pessoas pretas (76,9%). Em relação ao estado civil, 49,8% afirmaram ser casados. No que diz respeito à formação, 57,4 % declararam ter concluído uma especialização. Sobre o nível de ensino, a maioria dos docentes atuava nos anos finais do ensino fundamental (41,8%).
+
+```{r}
+#| label: demo-cat-1
+
+# Tabela para demográficos
+## Demográficos categóricos - parte 1
+
+demo_cat <- 
+  df |> 
+  select(c(renda_pos_covid,
+           escolaridade,
+           estado_civil,
+           cor_raca,
+           sexo)) |> 
+  pivot_longer(cols = everything()) 
+
+
+demo_cat <- demo_cat |>   
+  count(name,
+        value) |> 
+  group_by(name) |>
+  mutate("%" = (n/sum(n))*100 |> 
+           round(1)) |>
+  ungroup() 
+
+
+demo_cat <- demo_cat |>
+  arrange(factor(name, levels = c("sexo","cor_raca",
+                            "estado_civil","escolaridade",
+                            "renda_pos_covid")),
+          desc(n)) |>
+  select(value, n,"%") |> 
+  rename(
+    "Variável" = value
+    )
+
+## Demográficos categóricos - parte 2
+
+sexo <- tibble(
+  Variável = "Sexo", n = NA, "%" = NA
+)
+
+raca <- tibble(
+  Variável = "Raça", n = NA, "%" = NA
+)
+
+est_civil <- tibble(
+    Variável = "EStado civil", n = NA, "%" = NA
+
+)
+
+escol <- tibble(
+    Variável = "Escolaridade", n = NA, "%" = NA
+)
+
+rend_pos <- 
+  tibble(
+        Variável = "Renda após o ínicio da pandemia", n = NA, "%" = NA
+
+  )
+
+demo_cat <- demo_cat |> 
+  add_row(sexo, .before = 1) |> 
+  add_row(raca, .before = 4) |> 
+  add_row(est_civil, .before = 9) |> 
+  add_row(escol, .before = 15 )|> 
+  add_row(rend_pos, .before = 22)
+
+## Demográficos categóricos - parte 3
+
+niveis_de_ensino <- df |>
+  select(educacao_infantil:atendimento_educacional_especializado_aee) |> 
+  pivot_longer(cols = everything(),cols_vary = "slowest") |> 
+  count(name,value) |> 
+  group_by(name) |> 
+  mutate("%" = ((n/sum(n))*100) |> 
+           round(1)) |>
+  arrange(desc(n)) |> 
+  filter(value == "Sim") |> 
+  select(name,n,"%") |>
+  mutate(name = case_when(name == "fundamental_ii" ~ "Anos finais do Ensino Fundamental",
+                          name == "fundamental_i" ~ "Anos iniciais do Ensino Fundamental",
+                          name == "educacao_infantil" ~ "Educação infantil",
+                          name == "educacao_de_jovens_e_adultos_eja" ~ "Educação de Jovens e Adultos",
+                          name == "atendimento_educacional_especializado_aee" ~ "Atendimento Educacional Especializado")) |> 
+  rename("Variável" = name) |> 
+  ungroup()
+
+
+n_de_ens <- 
+  tibble(
+        Variável = "Nível de ensino", n = NA, "%" = NA
+  )
+
+niveis_de_ensino <- niveis_de_ensino |> 
+  add_row(n_de_ens, .before = 1)
+
+demo_cat <- demo_cat |> 
+  bind_rows(niveis_de_ensino) 
+
+```
+
+### Instrumentos
+
+O questionário utilizado no levantamento continha os seguintes instrumentos: Escala de Ansiedade, Depressão e Estresse (DASS-21, Vignola & Tucci, 2014) e Escala de Avaliação do Contexto de Trabalho Docente Remoto (EACTDR, Cunha et al., 2023). Além disso, o questionário era composto por questões referentes à sociodemografia (p. ex.: gênero, raça, escolaridade, etc.) e por perguntas relativas a experiências na pandemia da covid-19 (p. ex.: “Você perdeu amigos ou familiares devido à pandemia da covid-19?”).
+
+#### Escala de Ansiedade, Depressão e Estresse 
+
+A DASS-21 é um instrumento composto por 21 questões que avaliam ansiedade (p. ex.: “Senti que ia entrar em pânico”), depressão (p. ex.: “Não tive iniciativa para fazer as coisas”) e estresse (“Senti que estava sempre nervoso”). Os respondentes são instruídos a indicar o quanto as questões se aplicaram a eles durante a última semana. Suas assertivas variam de 0 – “Não se aplicou de maneira alguma” – a 3 – “Aplicou-se muito, ou na maioria do tempo”. Assim, quanto maior a pontuação do participante, maiores são os índices de ansiedade, depressão e estresse. 
+
+A escala também permite uma interpretação qualitativa. Nesse caso as pontuações são somadas e multiplicadas por dois, e os parâmetros são divididos em normal (depressão: 0 a 9 pontos; ansiedade: 0 a 7 pontos; estresse: 0 a 14 pontos), leve (depressão: 10 a 13 pontos; ansiedade: 8 a 9 pontos; estresse: 15 a 18 pontos), moderado (depressão: 14 a 20 pontos; ansiedade: 10 a 14 pontos; estresse: 19 a 25 pontos), grave (depressão: 21 a 27 pontos; ansiedade: 15 a 19 pontos; estresse: 26 a 33 pontos) e extremamente grave (depressão: 28 pontos ou mais; ansiedade: 20 pontos ou mais; estresse: 34 pontos ou mais). Neste estudo, a escala apresentou consistência interna satisfatória (ansiedade: α = 0,94, ⍵ = 0,94; depressão: α = 0,96, ⍵ = 0,94; estresse: α = 0,95, ⍵ = 0,95).
+
+#### Escala de Avaliação do Contexto de Trabalho Docente Remoto
+
+A EACTDR contém 33 itens que avaliam três dimensões do contexto de trabalho remoto dos professores: condições de trabalho, organização do trabalho e relações socioprofissionais (Ferreira & Mendes, 2008). A primeira dimensão se refere à infraestrutura laboral, ao ambiente de trabalho e ao apoio institucional, abrange elementos como mobiliário, recursos, ferramentas e suporte organizacional (p. ex.: “Durante a realização do meu trabalho, a minha conexão com a internet é ruim – cai com frequência, é lenta, demora para carregar vídeos, etc.”). A segunda dimensão diz respeito às práticas de gestão do trabalho que orientam a atividade e se manifestam em fatores como divisão do trabalho, produtividade esperada, regras, tempos e ritmos (p. ex.: “Os prazos para a realização das tarefas demandadas pela coordenação ou direção escolar são curtos”). A última dimensão expressa as interações estabelecidas no trabalho, como as hierárquicas, coletivas e externas (p. ex.: “Há dificuldades na comunicação entre docentes e diretores.”).
+
+O instrumento faz uso de uma escala de frequência que varia de um (nunca) a cinco (sempre). Os itens expressam assertivas negativas, de modo que maiores pontuações implicam piores percepções do contexto de trabalho (Cunha et al., 2023). Neste estudo, a EACTDR revelou adequada consistência interna (condições de trabalho, α = 0,80, ⍵ = 0,81; organização do trabalho, α = 0,90, ⍵ = 0,90; relações socioprofissionais, α = 0,92, ⍵ = 0,92).
+
+### Procedimentos
+
+#### Coleta de Dados
+
+A coleta de dados foi realizada entre os meses de fevereiro e junho de 2021. Durante a realização da pesquisa, os professores realizavam suas atividades de forma remota, mediadas pela internet. Foram incluídos no estudo apenas os docentes que afirmaram atuar nessa modalidade.
+
+#### Análise de Dados
+
+O software RStudio (versão 2023.03.0) foi utilizado para as análises dos dados. Foram realizadas estatísticas descritivas (média, desvio padrão e frequências) para verificar a prevalência das variáveis visadas.
+
+### Considerações  éticas
+
+Esta pesquisa foi aprovada pelo Comitê de Ética em Pesquisa da Universidade Estadual Vale do Acaraú (UVA) sob o número CAAE 51056621.2.0000.5053. Essa aprovação está alinhada às diretrizes definidas nas Resoluções 466/12 e 510/2016 do Conselho Nacional de Saúde.
+
+
+## Resultados e Discussão
+
+### Experiências Relacionadas à Pandemia da Covid-19
+
+No que se refere às experiências relativas à pandemia da covid-19, observou-se que a maioria dos docentes adotou comportamentos preventivos à infecção pelo coronavírus, por exemplo, frequência e acesso reduzidos a lugares e serviços considerados não essenciais, como academias, bares, restaurantes e shoppings centers. Além disso, medidas de segurança como a utilização de máscaras e a higienização das mãos foram atitudes frequentes entre os professores. Nesse contexto, é importante que as secretarias de educação reforcem que tais cuidados repercutem positivamente na saúde física e mental dos docentes, já que a manutenção de hábitos saudáveis pode refletir em um melhor desenvolvimento do trabalho e em uma melhor qualidade de vida. Dessa forma, podem ser  promovidas palestras e reuniões para que os professores tenham informações precisas sobre a prevenção ao coronavírus, bem como sejam estimulados a se tornar difusores deste conhecimento. 
+
+Tabela 2.
+
+Constatou-se que 24% dos professores pertenciam ao grupo de risco para a covid-19, 24% foram infectados pelo coronavírus, e 62% perderam amigos ou familiares devido à pandemia. A condição de pertencer ao grupo de pessoas vulneráveis ao vírus pode significar uma experiência desfavorável, haja vista que esses indivíduos podem manifestar sentimentos de medo em decorrência das potenciais complicações inerentes à doença (Lindemann et al., 2021). 
+Ser diagnosticado com covid-19 pode trazer consequências adversas para a saúde e rotina dos docentes, visto que, além das implicações físicas da patologia e o risco de morte, as pessoas infectadas podem experienciar maior isolamento social e medo de transmitir o vírus para seus familiares (Mazza et al., 2020). Ademais, no que se refere às perdas devido ao coronavírus, as medidas de contenção ao SARS-CoV-2 dificultaram a experiência de luto, uma vez que muitas pessoas não puderam se despedir de seus entes por meio da realização de rituais fúnebres (Crepaldi et al., 2020). 
+
+Nesse sentido, é essencial que os gestores difundam informações sobre a importância da testagem diante do surgimento de sintomas indicativos da Covid-19, sobre a necessidade de acompanhamento médico adequado e o uso das vacinas disponíveis. Entende-se, ainda,  que os docentes podem ser afetados de maneiras diversas pelas consequências da pandemia e cabe às gestões promover ambientes que tornem questões como o luto menos adoecedoras.
+
+Figura 1.
+
+### Ensino Durante o Trabalho Remoto
+
+Em relação à modalidade das aulas, verificou-se que os professores realizavam atividades assíncronas com maior frequência. Verificou-se também que a participação dos alunos nessas atividades era maior quando comparada à modalidade síncrona. Outros estudos demonstraram que uma parcela importante dos alunos não dispunha de equipamentos e internet de qualidade para o acompanhamento das aulas remotas, o que pode explicar, em parte, a menor participação nas atividades em tempo real (Vazquez & Pesce, 2022). 
+
+Além disso, outras investigações revelaram que os professores também tiveram dificuldades com o uso de recursos tecnológicos para a realização do trabalho online (Stang-Rabrig et al., 2022), bem como tiveram treinamento insuficiente para a utilização de ferramentas digitais  (Zientarski et al., 2021). Sendo assim, é necessário implementar cursos de formação que facilitem a utilização de recursos tecnológicos pelos professores e que orientem quanto ao uso de estratégias didáticas específicas para este contexto.
+
+Além disso, numa situação de emergência, também se mostra essencial que docentes tenham subsídios para a aquisição de equipamentos adequados e de acesso a uma internet de qualidade. No caso dos discentes, as secretarias devem fornecer os equipamentos e as condições necessárias para que os alunos possam acompanhar adequadamente as aulas.
+
+Tabela 3.
+
+### Contexto de Trabalho
+
+A avaliação do contexto de trabalho dos professores demonstrou que, em relação à organização laboral, o tempo de preparação das atividades remotas, a quantidade de alunos para acompanhamento e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Diversos estudos realizados na pandemia constataram que houve um aumento da carga horária laboral dos professores nesse período (Messineo & Tosto, 2022; Oliveira & Júnior, 2020; Petrakova et al., 2021). A crise sanitária global de  SARS-CoV-2 acentuou e introduziu novas formas de intensificação e precarização do trabalho dos professores (Pessanha & Trindade, 2022). 
+
+Antes da pandemia, as reformas educacionais brasileiras implementaram novos modelos de gestão do trabalho docente que repercutiram, dentre outros aspectos, no aumento da carga de trabalho, nas mudanças curriculares e na pressão por resultados (Garcia & Anadon, 2009). Essas mudanças aconteceram em razão da busca por eficiência e produtividade que adentrou as escolas, entretanto sem a devida contrapartida estrutural necessária (Pessanha & Trindade, 2022). 
+
+Na pandemia, o trabalho remoto exigiu uma adaptação brusca à modalidade de aulas à distância. Os professores tiveram que aprender a utilizar recursos digitais, pedagógicos e avaliativos compatíveis com a nova realidade, o que constituiu um desafio. Ademais, o processo de adaptação também impactou o equilíbrio entre trabalho e vida pessoal , uma vez que as atividades remotas podem demandar horários mais flexíveis e repercutir na invasão do tempo de descanso e lazer (Petrakova et al., 2021). 
+
+Desta forma, é essencial que as secretarias garantam os horários de planejamento dos docentes e orientem os professores de modo que a flexibilidade permitida pelo ensino remoto não tenha impacto no aumento da carga de trabalho. Além disso, as demandas apresentadas pelas instituições devem ser acompanhadas de recursos que viabilizem a realização do trabalho dos professores. 
+
+Tabela 4. 
+
+No que se refere às condições de trabalho, observou-se que os elementos pior avaliados foram a disponibilidade e a qualidade de recursos tecnológicos, como computadores e celulares, e a conexão com a internet para o desenvolvimento da atividade. Em períodos anteriores à pandemia da covid-19, os professores já enfrentavam condições laborais adversas, e, durante o contexto pandêmico, a situação foi intensificada, pois os docentes tiveram que adaptar sua residência a fim de transformá-la em um ambiente de trabalho. 
+
+Apenas uma pequena parte dos docentes recebeu ajuda das instituições em relação à manutenção e obtenção de equipamentos tecnológicos essenciais para a realização das aulas (Santos et al., 2021). Nesse sentido, muitos deles tiveram que lidar com a falta de um computador ou a necessidade de compartilhar o equipamento com os demais familiares, o que se tornou uma das principais causas de insatisfação com o trabalho em modalidade remota, já que tal situação representava prejuízos no planejamento e na realização das atividades (Silva et al., 2021). 
+
+Como apresentado acima, situações de emergência, como o ensino durante a pandemia, requerem que existam subsídios para os professores adquirirem equipamentos e terem acesso à internet de qualidade. Esta medida se mostra importante para a realização das aulas, o planejamento e a avaliação dos alunos. 
+
+Tabela 5
+
+No que tange às relações socioprofissionais, os itens com  pior avaliação apontavam para a ausência de participação dos docentes em relação a planejamentos e decisões sobre a escola. Houve, também, a percepção de que a comunicação entre os docentes não era adequada. Nesse sentido, é possível supor que o isolamento social imposto para diminuir a propagação do vírus também refletiu nas relações interpessoais com os colegas de trabalho, visto que os docentes estavam impedidos de frequentar o mesmo espaço e manter o contato, antes rotineiro (Anastácio et al., 2022). Ainda, no que se refere à menor participação nas decisões e nos planejamentos das atividades escolares, é possível supor que ocorreu uma centralização das decisões, tendo em vista o caráter emergencial que a situação demandava. Contudo, é essencial que se aposte em modelos de gestão participativos, mesmo em situações graves como aquela enfrentada durante o período de isolamento social.
+
+Dessa forma, faz-se necessário descentralizar as decisões referentes ao andamento das aulas, contando com a participação de todos os profissionais tanto no planejamento quanto na gestão das atividades. A possibilidade de compartilhar ideias e dividir tarefas pode ser menos adoecedora por evitar uma sobrecarga dos gestores, como pode contribuir também na melhor relação entre os integrantes da comunidade escolar. 
+
+Tabela 6.
+
+### Saúde Mental
+
+Em relação à saúde mental, 35,6% dos docentes apresentaram algum nível de depressão entre moderado e extremamente severo. Em relação à ansiedade e ao estresse, estes índices foram, respectivamente, de 46,06% e 41,29%. Tais resultados se assemelham aos encontrados nos estudos supracitados, que revelaram altos índices de ansiedade (60% e 51,8%), estresse (50,4%) e depressão (52,6%) (Machado et al., 2022; Ruas et al., 2022). 
+
+Os estudos apontam que o trabalho docente carrega consigo uma parcela de desgaste físico e mental por conta de suas especificidades, como a necessidade de constante foco e concentração. Além disso, os profissionais tiveram que lidar com vulnerabilidades já existentes em paralelo à jornada dupla de trabalho, à pressão por resultados e às demandas excessivas por parte das gestões (Machado et al., 2022). 
+
+Ademais, a falta de convívio com os alunos e colegas, atrelada às preocupações com a pandemia e com a precarização do trabalho docente no período contribuíram para piores avaliações da saúde mental (Machado et al., 2022; Ruas et al., 2022). Nesse sentido, é importante que exista a promoção do cuidado com a saúde mental dos professores, reforçando a importância da terapia, do papel do psicólogo escolar e da busca por, em parceria com os docentes, transformar o ambiente de trabalho em um espaço promotor de saúde. 
+
+Figura 2.
+
+## Conclusões
+
+Esta pesquisa teve como objetivo traçar um perfil da saúde mental, do contexto de trabalho e da relação dos professores com a pandemia da covid-19. Os achados aqui apresentados podem servir às secretarias como base para melhoria no sistema de ensino a partir da promoção de melhores condições de trabalho para os docentes.
+
+Foi encontrado que a maioria dos professores estava ciente e adotava comportamentos de prevenção à covid 19, como o uso de máscaras e o isolamento social. 24% deles fazia parte do grupo de risco, e 24% deles foi infectado pelo vírus, além disso 69% da amostra perdeu amigos ou familiares para a covid-19. Quanto à modalidade de ensino, os docentes realizavam atividades assíncronas com maior frequência, e os alunos participavam mais nesta configuração, em comparação às atividades síncronas.
+Em relação ao contexto de trabalho, a preparação das atividades remotas, a quantidade de alunos para acompanhar e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Já em relação às condições de trabalho, a disponibilidade e a qualidade de recursos tecnológicos, foram os itens pior avaliados. Em se tratando das relações socioprofissionais no período, foi encontrado que os docentes avaliavam negativamente as possibilidades de participação no planejamento e na tomada de decisões na escola. 
+
+Quanto à saúde mental, 35,6% dos docentes apresentaram algum nível de depressão entre moderado e extremamente severo. Ansiedade e estresse, apresentaram índices respectivos de 46,06% e 41,29%.
+
+Tendo em vista os achados na presente pesquisa, é importante reconhecer que o sistema de ensino necessita fazer melhorias que consigam não só abarcar as defasagens que o contexto de pandemia expôs, mas também utilizar os recursos que contribuam para a realização da atividade docente. No que tange ao comportamento dos professores durante a pandemia, se torna importante realizar palestras e reuniões para que os docentes tenham informações precisas sobre a prevenção ao coronavírus, de modo a reforçar as atitudes já tomadas e torná-los difusores de boas práticas de prevenção. Também é oportuno reforçar a importância não só da testagem diante do surgimento de sintomas indicativos da covid-19, mas também do uso das vacinas disponíveis. 
+
+Em uma situação emergencial como essa, é essencial que os docentes recebam subsídios para a aquisição de equipamentos e contratação de um serviço de internet de qualidade, bem como é necessário promover cursos de formação que facilitem a utilização desses equipamentos e orientem quanto ao uso  das melhores estratégias didáticas para este contexto. No caso dos discentes, as secretarias devem fornecer os equipamentos e as condições necessárias para que os alunos possam acompanhar as aulas, preferencialmente, de forma síncrona. 
+
+Também é essencial garantir os horários de planejamento dos docentes e orientá-los quanto ao impacto no aumento da carga de trabalho, ocasionado pela flexibilidade do modelo de ensino remoto. Também é importante adequar as demandas apresentadas pelas instituições ao período de pandemia e ao que os professores podem realizar com os recursos que eles detinham no momento. O período pandêmico evidenciou também ser necessário descentralizar as decisões referentes ao andamento das aulas e incluir os profissionais na tomada de decisões sobre a escola. A partir dos dados apresentados é essencial que as secretarias promovam ações de cuidado com a saúde mental dos profissionais, a partir de palestras e outras atividades que repassem informações corretas acerca do tema e consigam reduzir o desgaste muitas vezes ocasionado pelo próprio contexto de trabalho.
+
+

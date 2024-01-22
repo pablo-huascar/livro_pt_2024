@@ -13,6 +13,9 @@ book:
   page-footer:
     right: | 
       Este livro foi construído com <a href="https://quarto.org/">Quarto</a>.
+    left:
+      <img src="./imagens/ppgpsi.png" width="100"> 
+      <img src="./imagens/ppgpppp.png" width="100">
   cover-image: capa.png
   repo-url: https://github.com/pablo-huascar/livro_pt_2024.git
   repo-branch: main
@@ -37,6 +40,7 @@ book:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
         - melo_assessoria.qmd
+        - rodrigues_relatorio_tecnico.qmd
     
     - part: Curso para formação profissional
       chapters:

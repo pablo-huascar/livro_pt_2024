@@ -45,7 +45,7 @@ Beta Consultoria e Assessoria Acadêmica
 
 beta.consultac\@gmail.com
 
-[\@beta_consultoria_academica](https://www.instagram.com/beta_consultoria_academica/ "Instagram")
+[\@beta_consultoria_academica](https://www.instagram.com/beta_consultoria_academica/ "Instagram"){.external target="_blank"}
 
-<https://esthela.quarto.pub/beta/>
+[https://esthela.quarto.pub/beta/](https://esthela.quarto.pub/beta/){.external target="_blank"}
 :::
