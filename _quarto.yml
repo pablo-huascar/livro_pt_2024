@@ -40,8 +40,7 @@ book:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
         - melo_assessoria.qmd
-        - rodrigues_relatorio_tecnico.qmd
-    
+
     - part: Curso para formação profissional
       chapters:
         - barros_cursos_vieses.qmd

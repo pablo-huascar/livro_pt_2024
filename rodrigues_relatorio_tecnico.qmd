@@ -42,6 +42,7 @@ format:
 library(tidyverse)
 library(janitor)
 library(gt)
+library(scales)
 library(sysfonts)
 library(extrafont)
 library(showtext)
@@ -136,11 +137,8 @@ Em contraponto, o campo da Saúde do Trabalhador, que fundamenta este estudo, bu
 
 ### Participantes
 
-Participaram do estudo 838 professores da educação básica de nove municípios do interior cearense. No que diz respeito a gênero, a maior parte da amostra era formada por mulheres (82,1%); já no que concerne a etnia, houve um número significativo de pessoas pretas (76,9%). Em relação ao estado civil, 49,8% afirmaram ser casados. No que diz respeito à formação, 57,4 % declararam ter concluído uma especialização. Sobre o nível de ensino, a maioria dos docentes atuava nos anos finais do ensino fundamental (41,8%).
-
 ```{r}
-#| label: demo-cat-1
-
+#| label: demograficos
 # Tabela para demográficos
 ## Demográficos categóricos - parte 1
 
@@ -158,44 +156,46 @@ demo_cat <- demo_cat |>
   count(name,
         value) |> 
   group_by(name) |>
-  mutate("%" = (n/sum(n))*100 |> 
+  mutate(prop = (n/sum(n))*100 |> 
            round(1)) |>
   ungroup() 
 
 
 demo_cat <- demo_cat |>
   arrange(factor(name, levels = c("sexo","cor_raca",
-                            "estado_civil","escolaridade",
-                            "renda_pos_covid")),
+                                  "estado_civil","escolaridade",
+                                  "renda_pos_covid")),
           desc(n)) |>
-  select(value, n,"%") |> 
-  rename(
-    "Variável" = value
-    )
+  select(value, n, prop)
+
 
 ## Demográficos categóricos - parte 2
 
 sexo <- tibble(
-  Variável = "Sexo", n = NA, "%" = NA
+  value = "Sexo", n = NA, 
+  prop = NA
 )
 
 raca <- tibble(
-  Variável = "Raça", n = NA, "%" = NA
+  value = "Raça", n = NA, 
+  prop = NA
 )
 
 est_civil <- tibble(
-    Variável = "EStado civil", n = NA, "%" = NA
-
+  value = "Estado civil", n = NA, 
+  prop = NA
+  
 )
 
 escol <- tibble(
-    Variável = "Escolaridade", n = NA, "%" = NA
+  value = "Escolaridade", n = NA, 
+  prop = NA
 )
 
 rend_pos <- 
   tibble(
-        Variável = "Renda após o ínicio da pandemia", n = NA, "%" = NA
-
+    value = "Renda após o ínicio da pandemia", n = NA, 
+    prop = NA
   )
 
 demo_cat <- demo_cat |> 
@@ -212,32 +212,166 @@ niveis_de_ensino <- df |>
   pivot_longer(cols = everything(),cols_vary = "slowest") |> 
   count(name,value) |> 
   group_by(name) |> 
-  mutate("%" = ((n/sum(n))*100) |> 
+  mutate(prop = ((n/sum(n))*100) |> 
            round(1)) |>
   arrange(desc(n)) |> 
   filter(value == "Sim") |> 
-  select(name,n,"%") |>
+  select(name,n,prop) |>
   mutate(name = case_when(name == "fundamental_ii" ~ "Anos finais do Ensino Fundamental",
                           name == "fundamental_i" ~ "Anos iniciais do Ensino Fundamental",
                           name == "educacao_infantil" ~ "Educação infantil",
                           name == "educacao_de_jovens_e_adultos_eja" ~ "Educação de Jovens e Adultos",
                           name == "atendimento_educacional_especializado_aee" ~ "Atendimento Educacional Especializado")) |> 
-  rename("Variável" = name) |> 
-  ungroup()
+  ungroup() |> 
+  rename(
+    value = name
+  )
 
 
 n_de_ens <- 
   tibble(
-        Variável = "Nível de ensino", n = NA, "%" = NA
+    value = "Nível de ensino", n = NA, 
+    prop = NA
   )
 
 niveis_de_ensino <- niveis_de_ensino |> 
   add_row(n_de_ens, .before = 1)
 
 demo_cat <- demo_cat |> 
-  bind_rows(niveis_de_ensino) 
+  bind_rows(niveis_de_ensino)
 
+## Percentuais para colocar no texto
+
+demo_cat_prop <- demo_cat |> 
+  select(value, prop) |> 
+  mutate(
+    prop = prop/100
+  )
+
+sexo_feminino <- demo_cat_prop |> 
+  filter(value == "Feminino") |> 
+  select(prop) |> 
+  mutate(
+    prop = percent(prop, 0.1, decimal.mark = ",")
+  ) |> 
+  pull()
+
+raca_negros <- demo_cat_prop |> 
+  filter(value %in% c("Pardo", "Preto")) |> 
+  summarise(
+    negros = sum(prop) 
+  ) |> 
+  pull() |> 
+  percent(0.1, decimal.mark = ",")
+  
+estado_civil_casado <- demo_cat_prop |> 
+  filter(value == "Casado(a)") |> 
+   select(prop) |> 
+  mutate(
+    prop = percent(prop, 0.1, decimal.mark = ",")
+  ) |> 
+  pull()
+   
+  
+
+## Demográficos categóricos parte 4
+demo_cat <- demo_cat |> 
+  mutate(
+    prop = format(round(prop, 1), decimal.mark = ",", 
+                  big.mark = ".", nsmall = 1),
+    n = as.character(n),
+    prop = case_when(prop == "  NA" ~ NA,
+                     .default = prop)
+  )
+
+## Demográficos numéricos
+
+demo_num <- df |> 
+  summarise(
+    across(c(idade, rper), list(
+      M = \(x) mean(x, na.rm = T),
+      DP = \(x) sd(x, na.rm = T)
+    ))
+  ) |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c("value", ".value"),
+    names_sep = "_(?!.*_)"
+  )
+
+demo_num <- demo_num |> 
+  mutate(
+    value = case_when(value == "idade" ~ "Idade",
+                      value == "rper" ~ "Renda per capita")
+  ) |> 
+  rename(
+    n = M, 
+    prop = DP
+  )
+
+demo_num <- demo_num |> 
+  mutate(
+    across(where(is.double),
+           \(x) format(round(x, 1), decimal.mark = ",", 
+                       big.mark = ".", nsmall = 1))
+  )
+
+
+num <- tibble(
+  value = NA,
+  n = "M",
+  prop = "DP"
+)
+
+demo_num <- demo_num |> 
+  add_row(num, .before = 1)
+
+# Tabela de demográficos
+
+demo_tbl <- demo_cat |> 
+  bind_rows(demo_num) |> 
+  rename(
+    "Característica" = value,
+    "%" = prop
+  )
+
+## Tabela final
+
+tabela_demograficos <- demo_tbl |> 
+  gt() |> 
+  sub_missing(
+    missing_text = ""
+  ) |>
+  tab_options(
+    data_row.padding = 1
+  ) |> 
+  cols_align(align = "center",columns = c(n, "%")
+  ) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "Característica")) |> 
+  tab_style(
+    style = cell_text(indent = px(20)),
+    locations = cells_body(columns = 1,
+                           rows = c(2:3, 5:8, 10:14, 16:21,
+                                    23:25, 27:31))
+  ) |> 
+  tab_source_note(
+    source_note = md("Nota. *N* = 838")
+  )
 ```
+
+Participaram do estudo `r nrow(df)` professores da educação básica de nove municípios do interior cearense. A maior parte da amostra era formada por mulheres (`r sexo_feminino`) e negros (`r raca_negros`) . A idade variou entre `r range(df$idade)[1]` e `r range(df$idade)[2]` anos (M =  `r format(round((mean(df$idade)),1), decimal.mark = ",")`; DP = `r format(round((sd(df$idade)),1), decimal.mark = ",")`). Sobre o estado civil, `r estado_civil_casado` dos participantes afirmaram ser casados. No que diz respeito à formação, 57,4 % declararam ter concluído uma especialização. Sobre o nível de ensino, a maioria dos docentes atuava nos anos finais do ensino fundamental (41,8%).
+
+
+```{r}
+#| label: tbl-demo
+#| tbl-cap: Características sociodemográficas dos participantes 
+
+tabela_demograficos
+```
+
+
 
 ### Instrumentos
 
