@@ -68,7 +68,44 @@ theme_set(theme_cowplot())
 df <- read_csv("./data/dados_municipios.csv")
 ```
 
+```{r}
+# Data screening
 
+data_screening <- df |> 
+  summarise(
+    across(c(where(is.double)), list(
+      min = \(x) min(x, na.rm = T),
+      max = \(x) max(x, na.rm = T)
+    ))
+    ) |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c("measure", "stat"),
+    names_sep = "_(?=[^_]+$)"
+  ) |> 
+  pivot_wider(
+    id_cols = measure,
+    names_from = stat,
+    values_from = value
+  )
+
+data_screening |> 
+  filter(str_detect(measure, "dass")) |> 
+  print(n = Inf)
+
+data_screening |> 
+  filter(str_detect(measure, "ct")) |> 
+  print(n = Inf)
+
+data_screening |> 
+  filter(str_detect(measure, "\\bidade\\b"))
+
+data_screening |> 
+  filter(str_detect(measure, "renda"))
+
+data_screening |> 
+  filter(str_detect(measure, "sinc"))
+```
 
 ```{r}
 #| label: manipulacao-demo
@@ -365,11 +402,11 @@ A EACTDR contém 33 itens que avaliam três dimensões do contexto de trabalho r
 
 ### Procedimentos
 
-#### Coleta de Dados
+#### Coleta de dados
 
 A coleta de dados foi realizada entre os meses de fevereiro e junho de 2021. Durante a realização da pesquisa, os professores realizavam suas atividades de forma remota, mediadas pela internet. Foram incluídos no estudo apenas os docentes que afirmaram atuar nessa modalidade.
 
-#### Análise de Dados
+#### Análise de dados
 
 O software RStudio (versão 2023.03.0) foi utilizado para as análises dos dados. Foram realizadas estatísticas descritivas (média, desvio padrão e frequências) para verificar a prevalência das variáveis visadas.
 
@@ -378,9 +415,9 @@ O software RStudio (versão 2023.03.0) foi utilizado para as análises dos dados
 Esta pesquisa foi aprovada pelo Comitê de Ética em Pesquisa da Universidade Estadual Vale do Acaraú (UVA) sob o número CAAE 51056621.2.0000.5053. Essa aprovação está alinhada às diretrizes definidas nas Resoluções 466/12 e 510/2016 do Conselho Nacional de Saúde.
 
 
-## Resultados e Discussão
+## Resultados e discussão
 
-### Experiências Relacionadas à Pandemia da Covid-19
+### Experiências relacionadas à pandemia da covid-19
 
 No que se refere às experiências relativas à pandemia da covid-19, observou-se que a maioria dos docentes adotou comportamentos preventivos à infecção pelo coronavírus, por exemplo, frequência e acesso reduzidos a lugares e serviços considerados não essenciais, como academias, bares, restaurantes e shoppings centers. Além disso, medidas de segurança como a utilização de máscaras e a higienização das mãos foram atitudes frequentes entre os professores. Nesse contexto, é importante que as secretarias de educação reforcem que tais cuidados repercutem positivamente na saúde física e mental dos docentes, já que a manutenção de hábitos saudáveis pode refletir em um melhor desenvolvimento do trabalho e em uma melhor qualidade de vida. Dessa forma, podem ser  promovidas palestras e reuniões para que os professores tenham informações precisas sobre a prevenção ao coronavírus, bem como sejam estimulados a se tornar difusores deste conhecimento.
 
@@ -668,7 +705,7 @@ A condição de pertencer ao grupo de pessoas vulneráveis ao vírus pode signif
 
 Nesse sentido, é essencial que os gestores difundam informações sobre a importância da testagem diante do surgimento de sintomas indicativos da Covid-19, sobre a necessidade de acompanhamento médico adequado e o uso das vacinas disponíveis. Entende-se, ainda,  que os docentes podem ser afetados de maneiras diversas pelas consequências da pandemia e cabe às gestões promover ambientes que tornem questões como o luto menos adoecedoras.
 
-### Ensino Durante o Trabalho Remoto
+### Ensino durante o trabalho remoto
 
 Em relação à modalidade das aulas, verificou-se que os professores realizavam atividades assíncronas com maior frequência. Verificou-se também que a participação dos alunos nessas atividades era maior quando comparada à modalidade síncrona. Outros estudos demonstraram que uma parcela importante dos alunos não dispunha de equipamentos e internet de qualidade para o acompanhamento das aulas remotas, o que pode explicar, em parte, a menor participação nas atividades em tempo real (Vazquez & Pesce, 2022). 
 
@@ -678,7 +715,7 @@ Além disso, numa situação de emergência, também se mostra essencial que doc
 
 Tabela 3.
 
-### Contexto de Trabalho
+### Contexto de trabalho
 
 A avaliação do contexto de trabalho dos professores demonstrou que, em relação à organização laboral, o tempo de preparação das atividades remotas, a quantidade de alunos para acompanhamento e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Diversos estudos realizados na pandemia constataram que houve um aumento da carga horária laboral dos professores nesse período (Messineo & Tosto, 2022; Oliveira & Júnior, 2020; Petrakova et al., 2021). A crise sanitária global de  SARS-CoV-2 acentuou e introduziu novas formas de intensificação e precarização do trabalho dos professores (Pessanha & Trindade, 2022). 
 
@@ -704,7 +741,7 @@ Dessa forma, faz-se necessário descentralizar as decisões referentes ao andame
 
 Tabela 6.
 
-### Saúde Mental
+### Saúde mental
 
 ```{r}
 ## Dados dinâmicos para o texto: saúde mental
@@ -732,15 +769,31 @@ ind_ansiedade <- df |>
     values_from = prop
   )
 
-ind_depre |> 
+ind_estrese <- df |> 
+  count(estre_corte) |> 
+  mutate(
+    prop = n/sum(n),
+    var = "Estresse"
+  ) |> 
+  select(!n) |> 
+  pivot_wider(
+    names_from = estre_corte,
+    values_from = prop
+  )
+
+saude_mental <- ind_depre |> 
   add_row(ind_ansiedade) |> 
+  add_row(ind_estrese) |> 
   rowwise() |> 
   mutate(
-    ind = sum(c_across(Leve:"Extremamente severa"))
-  )
+    ind = sum(c_across(Leve:"Extremamente severa")),
+    ind = label_percent(0.1, decimal.mark = ",")(ind)
+  ) |> 
+  ungroup() |> 
+  select(var, ind)
 ```
 
-Em relação à saúde mental, `r ind_depre` dos docentes apresentaram algum nível de depressão entre moderado e extremamente severo. Em relação à ansiedade e ao estresse, estes índices foram, respectivamente, de `r ind_ansiedade` e `r ind_estresse`. 
+Em relação à saúde mental, `r saude_mental[[1,2]]` dos docentes apresentaram algum nível de depressão entre moderado e extremamente severo. Em relação à ansiedade e ao estresse, estes índices foram, respectivamente, de `r saude_mental[[2,2]]` e `r saude_mental[[3,2]]`. 
 
 ```{r}
 #| label: fig-plot-sm
@@ -835,13 +888,9 @@ p_estresse <- p_estresse +
 p_depre + p_ansiedade + p_estresse
 ```
 
-
-
-Tais resultados se assemelham aos encontrados nos estudos supracitados, que revelaram altos índices de ansiedade (60% e 51,8%), estresse (50,4%) e depressão (52,6%) (Machado et al., 2022; Ruas et al., 2022). Os estudos apontam que o trabalho docente carrega consigo uma parcela de desgaste físico e mental por conta de suas especificidades, como a necessidade de constante foco e concentração. Além disso, os profissionais tiveram que lidar com vulnerabilidades já existentes em paralelo à jornada dupla de trabalho, à pressão por resultados e às demandas excessivas por parte das gestões (Machado et al., 2022). 
+Tais resultados se assemelham aos encontrados nos estudos supracitados, que revelaram altos índices de ansiedade, estresse e depressão (Machado et al., 2022; Ruas et al., 2022). Os estudos apontam que o trabalho docente carrega consigo uma parcela de desgaste físico e mental por conta de suas especificidades, como a necessidade de constante foco e concentração. Além disso, os profissionais tiveram que lidar com vulnerabilidades já existentes em paralelo à jornada dupla de trabalho, à pressão por resultados e às demandas excessivas por parte das gestões (Machado et al., 2022). 
 
 A falta de convívio com os alunos e colegas, atrelada às preocupações com a pandemia e com a precarização do trabalho docente no período contribuíram para piores avaliações da saúde mental (Machado et al., 2022; Ruas et al., 2022). Nesse sentido, é importante que exista a promoção do cuidado com a saúde mental dos professores, reforçando a importância da terapia, do papel do psicólogo escolar e da busca por, em parceria com os docentes, transformar o ambiente de trabalho em um espaço promotor de saúde. 
-
-Figura 2.
 
 ## Conclusões
 
