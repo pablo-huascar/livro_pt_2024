@@ -376,6 +376,7 @@ tabela_demograficos <- demo_tbl |>
     table.width = pct(100),
   )
 ```
+
 Participaram do estudo `r nrow(df)` professores da educação básica de nove municípios do interior cearense. A maior parte da amostra era formada por mulheres (`r demo_cat_prop[[2,2]]`) e pardos (`r demo_cat_prop[[5,2]]`) . A idade variou entre `r range(df$idade)[1]` e `r range(df$idade)[2]` anos (M =  `r format(round((mean(df$idade)),1), decimal.mark = ",")`; DP = `r format(round((sd(df$idade)),1), decimal.mark = ",")`). Sobre o estado civil, `r demo_cat_prop[[10,2]]` dos participantes afirmaram ser casados. No que diz respeito à formação, `r demo_cat_prop[[16,2]]` declararam ter concluído uma especialização. No tocante ao nível de ensino, a maioria dos docentes atuava nos anos finais do Ensino Fundamental (`r demo_cat_prop[[27,2]]`).
 
 
@@ -413,7 +414,6 @@ O software RStudio (versão 2023.03.0) foi utilizado para as análises dos dados
 ### Considerações  éticas
 
 Esta pesquisa foi aprovada pelo Comitê de Ética em Pesquisa da Universidade Estadual Vale do Acaraú (UVA) sob o número CAAE 51056621.2.0000.5053. Essa aprovação está alinhada às diretrizes definidas nas Resoluções 466/12 e 510/2016 do Conselho Nacional de Saúde.
-
 
 ## Resultados e discussão
 
