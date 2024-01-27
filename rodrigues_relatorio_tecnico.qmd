@@ -70,6 +70,8 @@ amostra <- read_csv("./data/dados_municipios.csv")
 
 df <- read_csv("./data/dados_municipios.csv")
 
+nomes_eactdr <- read_csv("./data/nomes_eactdr.csv")
+
 ## Criação de uma variável de identificação
 df <- df |> 
   mutate(
@@ -89,7 +91,7 @@ data_screening <- df |>
       min = \(x) min(x, na.rm = T),
       max = \(x) max(x, na.rm = T)
     ))
-    ) |> 
+  ) |> 
   pivot_longer(
     cols = everything(),
     names_to = c("measure", "stat"),
@@ -138,7 +140,7 @@ df |>
          dependentes_da_renda) |> 
   arrange(desc(renda_mensal_familiar)) |> 
   
-df |> 
+  df |> 
   filter(renda_mensal_familiar > 40000) 
 
 ## Atividades didáticas
@@ -167,7 +169,7 @@ df |>
 df |> 
   filter(dass_media %in% c(0:3), 
          eactdr_media %in% c(1:5))
-  
+
 
 ### Longstring Index
 
@@ -201,7 +203,7 @@ df <- df |>
     out_long_dass = case_when(findoutlier(long_dass) ~ id, 
                               .default = NA),
     out_long_eactdr = case_when(findoutlier(long_eactdr) ~ id, 
-                             .default = NA)
+                                .default = NA)
   ) |> 
   relocate(long_dass, out_long_dass, 
            long_eactdr, out_long_eactdr,
@@ -242,7 +244,6 @@ ids_descuidados <- c(116,157,177,275,297,
                      397,398,403,413,439,
                      488,679,719,724,726)
 
-length(ids_descuidados)
 
 df <- df |> 
   filter(!(id %in% ids_descuidados))
@@ -578,7 +579,8 @@ academia_c <- academia_c |>
   mutate(
     var = "Academia", 
     .before = 1
-  ) 
+  )
+
 bares_c <- df |> 
   count(bares_restaurantes) |> 
   mutate(
@@ -710,7 +712,7 @@ comportamentos_tbl
 ```
 
 ```{r}
-#Dados dinâmicos para o texto: impactos da  covid-19
+# Dados dinâmicos para o texto: impactos da  covid-19
 grupo_covid <- df |> 
   count(grupo_de_risco_dic) |> 
   mutate(
@@ -853,19 +855,205 @@ Além disso, outras investigações revelaram que os professores também tiveram
 
 Além disso, numa situação de emergência, também se mostra essencial que docentes tenham subsídios para a aquisição de equipamentos adequados e de acesso a uma internet de qualidade. No caso dos discentes, as secretarias devem fornecer os equipamentos e as condições necessárias para que os alunos possam acompanhar adequadamente as aulas.
 
-Tabela 3.
+```{r}
+atividades_sincronas_c <- df |> 
+  count(atividades_sincronas) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+atividades_sincronas_c <- atividades_sincronas_c |> 
+  pivot_wider(
+    names_from = atividades_sincronas, 
+    values_from = c(n, prop),
+    names_vary = "slowest",
+  ) |> 
+  mutate(
+    var = "Realização de atividades síncronas", 
+    .before = 1
+  )
+
+alunos_participam_sincronas_c <- df |> 
+  count(alunos_participam_sincronas) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+alunos_participam_sincronas_c <- alunos_participam_sincronas_c |> 
+  pivot_wider(
+    names_from = alunos_participam_sincronas,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Participação dos alunos em atividades síncronas",
+    .before = 1
+  )
+
+atividades_assincronas_c <- df |> 
+  count(atividades_assincronas) |> 
+  mutate(
+    prop = n/sum(n)
+  )
+
+atividades_assincronas_c <- atividades_assincronas_c |> 
+  pivot_wider(
+    names_from = atividades_assincronas,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Realização de atividades assíncronas",
+    .before = 1
+  )
+
+alunos_participam_assincronas_c <- df |> 
+  count(alunos_participam_assincronas) |> 
+  mutate(
+    prop = n/sum(n)
+  )  
+
+alunos_participam_assincronas_c <- alunos_participam_assincronas_c |> 
+  pivot_wider(
+    names_from = alunos_participam_assincronas,
+    values_from = c(n, prop),
+    names_vary = "slowest"
+  ) |> 
+  mutate(
+    var = "Participação dos alunos em atividades assíncronas",
+    .before = 1
+  )
+
+ensino_tbl <- atividades_sincronas_c |> 
+  add_row(alunos_participam_sincronas_c) |> 
+  add_row(atividades_assincronas_c) |> 
+  add_row(alunos_participam_assincronas_c)
+
+ensino_tbl <- ensino_tbl |> 
+  gt() |> 
+  cols_align(align = "center", columns = c(!var)) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "var")
+  ) |> 
+  tab_spanner(
+    label = "Nunca",
+    columns = c(n_1, prop_1)
+  ) |> 
+  tab_spanner(
+    label = "Raramente",
+    columns = c(n_2, prop_2)
+  ) |> 
+  tab_spanner(
+    label = "Algumas vezes",
+    columns = c(n_3, prop_3)
+  ) |> 
+  tab_spanner(
+    label = "Frequentemente",
+    columns = c(n_4, prop_4)
+  ) |>
+  tab_spanner(
+    label = "Quase sempre",
+    columns = c(n_5, prop_5)
+  ) 
+
+
+ensino_tbl <- ensino_tbl |>
+  tab_spanner(
+    label = "Sempre",
+    columns = c(n_6, prop_6)
+  ) |>
+  fmt_percent(
+    columns = where(is.double),
+    decimals = 1, dec_mark = ",",
+    sep_mark = "."
+  ) |> 
+  cols_label( 
+    var = "Variável",
+    n_1 = md("*n*"), prop_1 = md("*%*"),
+    n_2 = md("*n*"), prop_2 = md("*%*"),
+    n_3 = md("*n*"), prop_3 = md("*%*"),
+    n_4 = md("*n*"), prop_4 = md("*%*"),
+    n_6 = md("*n*"), prop_5 = md("*%*"),
+    n_6 = md("*n*"), prop_6 = md("*%*")
+  )
+```
+
+
+```{r}
+#| label: tbl-ensino
+#| tbl-cap: "Ensino Durante o Trabalho Remoto"
+
+ensino_tbl
+```
+
 
 ### Contexto de trabalho
 
-A avaliação do contexto de trabalho dos professores demonstrou que, em relação à organização laboral, o tempo de preparação das atividades remotas, a quantidade de alunos para acompanhamento e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Diversos estudos realizados na pandemia constataram que houve um aumento da carga horária laboral dos professores nesse período (Messineo & Tosto, 2022; Oliveira & Júnior, 2020; Petrakova et al., 2021). A crise sanitária global de  SARS-CoV-2 acentuou e introduziu novas formas de intensificação e precarização do trabalho dos professores (Pessanha & Trindade, 2022). 
+A avaliação do contexto de trabalho dos professores demonstrou que, em relação à organização laboral, o tempo de preparação das atividades remotas, a quantidade de alunos para acompanhamento e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Estes resultados podem ser vistos na tabela 4.
+
+```{r}
+organizacao_do_trabalho <- df |> 
+  summarise(
+    across(c(ct1, ct4, ct7,
+             ct8, ct12, ct13,
+             ct14, ct17, ct19,
+             ct21, ct22, ct23,
+             ct24, ct30, ct37), list(
+               M = \(x) mean(x, na.rm = T),
+               DP = \(x) sd(x, na.rm = T)
+             ))
+  ) |> 
+  pivot_longer(
+    cols = everything(),
+    names_to = c("var", ".value"),
+    names_sep = "_"
+  ) |> 
+  arrange(desc(M))
+
+itens_organizacao <- organizacao_do_trabalho |> 
+  select(var) |> 
+  pull() 
+
+
+nomes_organizacao <- nomes_eactdr |> 
+  select(any_of(itens_organizacao)) |> 
+  pivot_longer(
+    cols = everything(), 
+  ) |> 
+  select(Item = value)
+
+organizacao_do_trabalho <- nomes_organizacao |> 
+  bind_cols(organizacao_do_trabalho) |> 
+  select(-var)
+```
+
+```{r}
+#| label: tbl-organizacao
+#| tbl-cap: "Avaliação da Organização do Trabalho"
+
+organizacao_tbl <- organizacao_do_trabalho |> 
+  gt() |> 
+  cols_align(align = "center", columns = c(!Item)) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = "Item")
+  ) |> 
+  fmt_number(columns = c(M, DP),
+             decimals = 2,sep_mark = ".", 
+             dec_mark = ","
+  )
+
+organizacao_tbl
+```
+
+Diversos estudos realizados na pandemia constataram que houve um aumento da carga horária laboral dos professores nesse período (Messineo & Tosto, 2022; Oliveira & Júnior, 2020; Petrakova et al., 2021). A crise sanitária global de  SARS-CoV-2 acentuou e introduziu novas formas de intensificação e precarização do trabalho dos professores (Pessanha & Trindade, 2022). 
 
 Antes da pandemia, as reformas educacionais brasileiras implementaram novos modelos de gestão do trabalho docente que repercutiram, dentre outros aspectos, no aumento da carga de trabalho, nas mudanças curriculares e na pressão por resultados (Garcia & Anadon, 2009). Essas mudanças aconteceram em razão da busca por eficiência e produtividade que adentrou as escolas, entretanto sem a devida contrapartida estrutural necessária (Pessanha & Trindade, 2022). 
 
 Na pandemia, o trabalho remoto exigiu uma adaptação brusca à modalidade de aulas à distância. Os professores tiveram que aprender a utilizar recursos digitais, pedagógicos e avaliativos compatíveis com a nova realidade, o que constituiu um desafio. Ademais, o processo de adaptação também impactou o equilíbrio entre trabalho e vida pessoal , uma vez que as atividades remotas podem demandar horários mais flexíveis e repercutir na invasão do tempo de descanso e lazer (Petrakova et al., 2021). 
 
 Desta forma, é essencial que as secretarias garantam os horários de planejamento dos docentes e orientem os professores de modo que a flexibilidade permitida pelo ensino remoto não tenha impacto no aumento da carga de trabalho. Além disso, as demandas apresentadas pelas instituições devem ser acompanhadas de recursos que viabilizem a realização do trabalho dos professores. 
-
-Tabela 4. 
 
 No que se refere às condições de trabalho, observou-se que os elementos pior avaliados foram a disponibilidade e a qualidade de recursos tecnológicos, como computadores e celulares, e a conexão com a internet para o desenvolvimento da atividade. Em períodos anteriores à pandemia da covid-19, os professores já enfrentavam condições laborais adversas, e, durante o contexto pandêmico, a situação foi intensificada, pois os docentes tiveram que adaptar sua residência a fim de transformá-la em um ambiente de trabalho. 
 
