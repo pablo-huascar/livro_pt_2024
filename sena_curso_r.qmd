@@ -123,7 +123,7 @@ Durante a implementação, são avaliados o material didático no qual o curso s
 
 Foram desenvolvidos conjuntos de slides, blocos de exercícios e suas respectivas soluções, todos disponibilizados em uma página construída para, inicialmente, abrigar os conteúdos do curso [https://fphap.quarto.pub/rpsi/](https://fphap.quarto.pub/rpsi/){.external target="_blank"}. Estes materiais foram desenvolvidos a partir de codificação em R, através da ferramenta Quarto, uma linguagem de marcação que permite criar documentos dinâmicos, relatórios reprodutíveis, dentre outros. Ela pode funcionar, ainda, para a criação de materiais de ensino, como tutoriais interativos, exercícios, apresentações de slides e livros (como este que você está lendo).
 
-Até o momento, foram desenvolvidos seis módulos para a oficina. Em breve, serão acrescentadas discussões sobre estatística descritiva e sobre análises mais básicas: correlação, test t, ANOVA, qui-quadrado e regressão. A seguir, são apresentados os módulos já elaborados e uma amostra do que é aprendido em cada um deles.
+Até o momento, foram desenvolvidos seis módulos para a oficina e um módulo sobre regressão está em construção. Em breve, serão acrescentadas discussões sobre estatística descritiva e sobre análises mais básicas: correlação, test t, ANOVA e qui-quadrado. A seguir, são apresentados os módulos já elaborados e uma amostra do que é aprendido em cada um deles.
 
 #### Introdução ao R
 
@@ -273,11 +273,15 @@ Trabalhar com os bancos de dados que acompanham o R e alguns pacotes é importan
 **Lidando com códigos para valores ausentes**
 
 ```{r}
+#| warning: false
+#| message: false
 library(readr)
 library(janitor)
 ```
 
 ```{r}
+#| warning: false
+#| message: false
 estudantes <- read_csv("https://tinyurl.com/estudcsv", 
                        na = c("N/A","")) 
 

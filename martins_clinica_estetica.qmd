@@ -194,13 +194,13 @@ Constituição psíquica: intervenção precoce e avaliação na infância
 
 [^martins_clinica_estetica-13]: Doutorado e pós-doutorado em Psicologia Clínica na Pontifícia Universidade Católica de São Paulo (PUC-SP), professora titular do Departamento de Psicologia da Universidade Federal de Minas Gerais (UFMG), Coordenadora do Projeto de Pesquisa e Extensão com crianças e adolescentes vítimas de abuso sexual (CAVAS/UFMG).
 
-<div>
+::: {#vid-autismo-psi}
 
 {{< video https://www.youtube.com/watch?v=d0v3fFPv58E width="400" height="225">}}
 
 Autismos e psicose na infância
 
-</div>
+:::
 
 -   Luto e perdas: infância, tristeza, depressão
     -   Cláudia Mascarenhas Fernandes[^martins_clinica_estetica-14]
