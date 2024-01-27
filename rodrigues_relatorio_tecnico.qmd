@@ -51,6 +51,7 @@ format:
 
 library(tidyverse)
 library(janitor)
+library(careless)
 library(gt)
 library(scales)
 library(sysfonts)
@@ -65,11 +66,22 @@ theme_set(theme_cowplot())
 
 ## Obenção dos dados
 
+amostra <- read_csv("./data/dados_municipios.csv")
+
 df <- read_csv("./data/dados_municipios.csv")
+
+## Criação de uma variável de identificação
+df <- df |> 
+  mutate(
+    id = 1:nrow(df), .before = 1
+  )
 ```
 
 ```{r}
+#| eval: false
+
 # Data screening
+## Avaliação dos limites das variáveis quantitativas
 
 data_screening <- df |> 
   summarise(
@@ -89,22 +101,151 @@ data_screening <- df |>
     values_from = value
   )
 
+## DASS-21
+
 data_screening |> 
   filter(str_detect(measure, "dass")) |> 
   print(n = Inf)
+
+## EACTDR
 
 data_screening |> 
   filter(str_detect(measure, "ct")) |> 
   print(n = Inf)
 
+## Idade 
+
 data_screening |> 
   filter(str_detect(measure, "\\bidade\\b"))
+
+## Renda
 
 data_screening |> 
   filter(str_detect(measure, "renda"))
 
+df |> 
+  ggplot(aes(renda_mensal_familiar)) +
+  geom_boxplot() +
+  coord_flip()
+
+df |> 
+  ggplot(aes(renda_mensal_familiar)) +
+  geom_histogram()
+
+df |> 
+  filter(renda_mensal_familiar >= 20000) |> 
+  select(id, renda_mensal_familiar, 
+         dependentes_da_renda) |> 
+  arrange(desc(renda_mensal_familiar)) |> 
+  
+df |> 
+  filter(renda_mensal_familiar > 40000) 
+
+## Atividades didáticas
+
 data_screening |> 
   filter(str_detect(measure, "sinc"))
+
+## Respostas descuidadas
+
+df <- df |> 
+  rowwise() |> 
+  mutate(
+    dass_media = mean(c_across(dass1:dass21)),
+    eactdr_media = mean(c_across(ct1:ct40))
+  ) |> 
+  ungroup()
+
+df |> 
+  filter(dass_media %in% c(0:3)) |> 
+  select(id, dass_media)
+
+df |> 
+  filter(eactdr_media %in% c(1:5)) |> 
+  select(id, eactdr_media)
+
+df |> 
+  filter(dass_media %in% c(0:3), 
+         eactdr_media %in% c(1:5))
+  
+
+### Longstring Index
+
+careless_long_dass  <- df |> 
+  select(starts_with("dass")) |> 
+  longstring(avg = T) |> 
+  tibble()
+
+
+long_dass <- careless_long_dass |> 
+  select(longstr) |> 
+  pull()
+
+careless_long_eactdr  <- df |> 
+  select(starts_with("ct")) |> 
+  longstring(avg = T) |> 
+  tibble()
+
+long_eactdr <- careless_long_eactdr |> 
+  select(longstr) |> 
+  pull()
+
+findoutlier <- function(x) {
+  return(x < quantile(x, .25) - 1.5*IQR(x) | x > quantile(x, .75) + 1.5*IQR(x))
+}
+
+df <- df |> 
+  mutate(
+    long_dass = long_dass,
+    long_eactdr = long_eactdr,
+    out_long_dass = case_when(findoutlier(long_dass) ~ id, 
+                              .default = NA),
+    out_long_eactdr = case_when(findoutlier(long_eactdr) ~ id, 
+                             .default = NA)
+  ) |> 
+  relocate(long_dass, out_long_dass, 
+           long_eactdr, out_long_eactdr,
+           .after = id)
+
+df |> 
+  ggplot(aes(long_dass)) +
+  geom_boxplot(outlier.colour = "#D55E00") +
+  geom_jitter(aes(x = long_dass, y = 0,
+                  color = "#D55E00")) +
+  coord_flip() +
+  theme(legend.position = "none")
+
+df |> 
+  ggplot(aes(long_eactdr)) +
+  geom_boxplot(outlier.colour = "#D55E00") +
+  geom_jitter(aes(x = long_dass, y = 0,
+                  color = "#D55E00")) +
+  coord_flip() +
+  theme(legend.position = "none")
+
+
+df |> 
+  filter(!is.na(out_long_dass) & !is.na(out_long_eactdr)) |> 
+  select(id) |> 
+  pull() |> 
+  str_c(collapse = ",")
+
+```
+
+```{r}
+#| label: casos-descuidados
+#### Foram removidos 20 casos considerados como 
+#### respostas descuidadas em relação à DASS-21 e a EACDR
+
+ids_descuidados <- c(116,157,177,275,297,
+                     305,319,343,367,385,
+                     397,398,403,413,439,
+                     488,679,719,724,726)
+
+length(ids_descuidados)
+
+df <- df |> 
+  filter(!(id %in% ids_descuidados))
 ```
 
 ```{r}
@@ -377,8 +518,7 @@ tabela_demograficos <- demo_tbl |>
   )
 ```
 
-Participaram do estudo `r nrow(df)` professores da educação básica de nove municípios do interior cearense. A maior parte da amostra era formada por mulheres (`r demo_cat_prop[[2,2]]`) e pardos (`r demo_cat_prop[[5,2]]`) . A idade variou entre `r range(df$idade)[1]` e `r range(df$idade)[2]` anos (M =  `r format(round((mean(df$idade)),1), decimal.mark = ",")`; DP = `r format(round((sd(df$idade)),1), decimal.mark = ",")`). Sobre o estado civil, `r demo_cat_prop[[10,2]]` dos participantes afirmaram ser casados. No que diz respeito à formação, `r demo_cat_prop[[16,2]]` declararam ter concluído uma especialização. No tocante ao nível de ensino, a maioria dos docentes atuava nos anos finais do Ensino Fundamental (`r demo_cat_prop[[27,2]]`).
-
+Participaram do estudo `r nrow(amostra)` professores da educação básica de nove municípios do interior cearense. Foram removidos `r nrow(amostra) - nrow(df)` casos por terem respostas descuidads em relação às escalas utilizadas. A maior parte da amostra era formada por mulheres (`r demo_cat_prop[[2,2]]`) e pardos (`r demo_cat_prop[[5,2]]`) . A idade variou entre `r range(df$idade)[1]` e `r range(df$idade)[2]` anos (M =  `r format(round((mean(df$idade)),1), decimal.mark = ",")`; DP = `r format(round((sd(df$idade)),1), decimal.mark = ",")`). Sobre o estado civil, `r demo_cat_prop[[10,2]]` dos participantes afirmaram ser casados. No que diz respeito à formação, `r demo_cat_prop[[16,2]]` declararam ter concluído uma especialização. No tocante ao nível de ensino, a maioria dos docentes atuava nos anos finais do Ensino Fundamental (`r demo_cat_prop[[27,2]]`).
 
 ```{r}
 #| label: tbl-demo
