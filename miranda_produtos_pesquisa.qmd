@@ -1,0 +1,209 @@
+---
+author: 
+  - name: Luciana Lobo Miranda
+    orcid: 0000-0002-7838-8098
+    email: luciana.miranda@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Lara Thayse de Lima Gonçalves
+    orcid: 0000-0003-3751-9765
+    email: larathayse@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Mayara Ruth Nishiyama Soares
+    orcid: 0000-0002-2668-8822
+    email: mayararnishiyama@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Carla Jéssica de Araújo Gomes
+    orcid: 0000-0002-6979-2646
+    email: carlajessicagomes@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Larissa Ferreira Nunes
+    orcid: 0000-0001-5384-0896
+    email: larissafnpsico@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Laisa Forte Cavalcante
+    orcid: 0000-0002-6523-847X
+    email: laisacavalcante9393@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Tadeu Lucas de Lavor Filho
+    orcid: 0000-0003-2687-1894
+    email: tadeulucaslf@gmail.com
+    affiliations: 
+      - name: Centro Universitário Vale do Salgado
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: miranda_produtos_pesquisa.bib
+reference-section-title: Referências
+crossref:
+  custom:
+    - kind: float
+      reference-prefix: Video
+      key: vid
+---
+
+# A produção de produtos técnicos como forma de inter(in)venção em pesquisas na Psicologia
+
+O projeto Artes Insurgentes[^miranda_produtos_pesquisa-1] é fruto da parceria entre dois laboratórios de pesquisa e extensão do Curso de Psicologia e Programa de Pós-graduação em Psicologia da Universidade Federal do Ceará (UFC), são eles: Laboratório em Psicologia, Subjetividade e Sociedade (LAPSUS) e Grupo de Pesquisas e Intervenções sobre Violência, Exclusão Social e Subjetivação (VIESES). Primariamente, o Artes Insurgentes foi inscrito no Programa de Promoção de Cultura Artística (PPCA), ligado à Secretaria de Cultura da UFC, posteriormente foi selecionado, também, ao Iniciativas Comunitárias do Centro Cultural Bom Jardim em parceria com a Secretaria de Cultura do Ceará (SECULT-CE) com gestão do Instituto Dragão do Mar (IDM). Atualmente, ele também se encontra cadastrado como um projeto de extensão na Pró-Reitoria de Extensão da UFC. Além disso, alguns integrantes de ambos os laboratórios têm pesquisas de graduação, mestrado e doutorado ligadas ao projeto. Dessa maneira, o Artes Insurgentes têm atuado dentro do tripé de pesquisa, ensino e extensão.
+
+[^miranda_produtos_pesquisa-1]: O Projeto é coordenado pelo professor Dr. João Paulo Pereira Barros e pela professora Dra. Luciana Lobo Miranda, ambos docentes permanentes do programa de Pós-Graduação em Psicologia da UFC.
+
+Desde o seu início, o objetivo do projeto é fortalecer ações de cultura artística de coletivos juvenis do Grande Bom Jardim (GBJ). Sua atuação se divide em duas frentes, sendo a primeira o mapeamento de coletivos juvenis no território e a realização de oficinas temáticas que utilizam recursos artísticos (poesia, dança, dramatização, artes visuais, etc.) com integrantes desses coletivos em escolas públicas; a segunda, a produção de um podcast utilizado para coletivização das atividades do projeto e dos parceiros do Artes Insurgentes[^miranda_produtos_pesquisa-2]. Muitas das produções técnicas que serão relatadas neste capítulo de livro são fruto de parcerias com esses coletivos mapeados, sobretudo no que tange a atividades nas escolas públicas e no Centro de Defesa da Vida Herbert de Souza (CDVHS), com os Jovens Agentes de Paz (JAP) e com o Fórum de Escolas pela Paz do Grande Bom Jardim (FEPGBJ).
+
+[^miranda_produtos_pesquisa-2]: Este mapeamento inicial possibilitou o início do Artes Insurgentes enquanto projeto e foi realizado com jovens residentes do Grande Bom Jardim, sendo articulado à pesquisa de doutorado em Psicologia de Tadeu Lucas Lavor Filho, cujo o título é “Bricolagem, alianças e produção do comum”: cartografia das práticas culturais periféricas de coletivos juvenis em Fortaleza.
+
+Ao longo desses dois anos, temos então contribuído com a/na produção de tecnologias sociais, de materiais bibliográficos e materiais didáticos, bem como de comunicação junto aos parceiros vinculados à instituições e/ou aos coletivos do Grande Bom Jardim. Partimos da conceituação de produto técnico balizado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), que o define como produções consequentes de pesquisas de pós-graduação e/ou atividade individual de docentes e coletiva de docentes e discentes. Essas produções são materiais que permitem indicar um conjunto de processos metodológicos alcançados que produzem impactos dentro da sociedade, a partir do avanço do conhecimento científico (Brasil, 2019).
+
+É importante salientar que utilizamos metodologias as quais não pactuam com um ideal de neutralidade e separabilidade entre academia e território, mas, ao contrário, por meio das tecnologias inter(in)ventivas buscamos criar espaços de diálogo, de produção de conhecimento e (re)existência frente às tecnologias necropolíticas[^miranda_produtos_pesquisa-3] que atuam em territórios marginalizados como o GBJ (Cavalcante et al., 2021, Miranda et al., 2021). Em outros termos, tomamos um posicionamento ético-político que ratifica o saber/fazer nos jogos de forças que atravessam o plano da experiência compartilhada (Benício et al., 2018).
+
+[^miranda_produtos_pesquisa-3]: Tal conceito foi postulado por Mbembe (2017) para referir-se à transformação do poder pessoal e social à gestão da morte em larga escala de populações subalternizadas, racializadas e, tomamos a abertura para acrescentar, genderizadas. O GBJ é um desses territórios cujos habitantes são ficcionalizados como indignos de vida, e o belicismo se materializa na lógica de uma guerra sem fim.
+
+Nas seções a seguir, apresentamos algumas de nossas apostas metodológicas insurgentes, como assim gostamos de definir. São elas: as contribuições no Fórum de Escolas pela Paz do Grande Bom Jardim (GBJ) e no Festival das Juventudes: Arte, Cultura e Formação em Direitos Humanos; as produções do Podcast #Artesinsurgentes; e o documentário-artesanal.
+
+Outro ponto de destaque é que, ao longo do texto, utilizamos a linguagem neutra como forma de incluir todas as pessoas que não se sentem representadas por uma lógica binária (feminino x masculino). Essa escolha é pautada, em primeiro lugar, em nosso posicionamento a partir das pessoas que compõem conosco o Artes Insurgentes e também das que participam dele (estudantes não-bináries); e, em segundo lugar, em nosso entendimento que a linguagem é também uma ferramenta colonial que ceifa existências outras que não se adequam às normas hegemônicas de gênero e sexualidade (Reis & Pinho, 2016). Por isso, evitaremos construir locuções verbais que exigem definições em artigos masculinos e femininos – e, quando porventura usemos, elegemos o “u” ou “e” como desinências de neutralidade de gênero, a exemplo: ele ou ela é trocado por elu / convidados ou convidadas por convidades.
+
+Por fim, cabe salientar que os PTTs aqui relatados estão conectados às diferentes pesquisas, como a pesquisa Guarda-Chuva "Aspectos Psicossociais da Violência e Práticas de Re-existência em periferias de Fortaleza", além de três pesquisas de Mestrado, sendo elas:
+
+1.  “Práticas Insurgentes: possíveis encontros entre Psicologia e Arte em conexão com territórios escolares”, com objetivo de analisar a articulação entre Psicologia, Arte e Educação a partir das construções discursivas de psicólogas/os e estudantes de Psicologia participantes do projeto “Artes Insurgentes: Coletivizando Resistências” acerca de suas experiências;
+2.  “(Arte)sanias nas encruzas de gênero: uma escrevivência com estudantes numa escola do Grande Bom Jardim”, a qual tem como objetivo analisar as práticas discursivas e não discursivas sobre gênero construídas com estudantes de uma escola pública de ensino médio localizada na região do Grande Bom Jardim em Fortaleza/CE por meio de oficinas artísticas no cotidiano escola; por fim, a pesquisa
+3.  “Artes, juventudes e re-existências: cartografia do Festival das Juventudes do Grande Bom Jardim”, com seu objetivo de cartografar, no âmbito do Festival das Juventudes, como jovens acionam dispositivos artísticos para narrativização de experiências de violência e re-existências em territórios urbanos periféricos[^miranda_produtos_pesquisa-4]. Essas pesquisas se conectam às nossas diferentes atividades. Assim o Artes Insurgentes se configura enquanto um rizoma com linhas, fluxos e multiplicidades que não possuem um início ou fim, mas que se entrecruzam (Deleuze & Guattari, 1995).
+
+[^miranda_produtos_pesquisa-4]: A pesquisa guarda-chuva é coordenada pelo professor João Paulo Pereira Barros e é financiada pelo edital 07/2021 da FUNCAP e pelo Instituto Unibanco, em parceria com o CDVHS. Lara Thayse de Lima Gonçalves, Mayara Ruth Nishiyama Soares e Carla Jéssica de Araújo Gomes são as pós-graduandas responsáveis pelas pesquisas de mestrado acima citadas.
+
+## Co-produção de tecnologias sociais no campo de pesquisa: Fórum de Escolas pela Paz do Grande Bom Jardim e Festival das Juventudes
+
+Dentre as produções técnicas listadas pela CAPES, a Tecnologia Social se caracteriza como um produto, processo ou método transformador, que, ao ser aplicado e/ou desenvolvido com a comunidade e apropriado por ela, intervém na direção da inclusão social e da melhoria das condições de vida da população envolvida (Brasil, 2019). É necessário atentar, no desenvolvimento desse tipo de produção técnica, aos requisitos de baixo custo, simplicidade, replicabilidade e fácil aplicabilidade (Brasil, 2019), de modo que tal tecnologia possa ter continuidade e possa ser reproduzida em outros espaços.
+
+No projeto Artes Insurgentes, duas tecnologias sociais que são co-produzidas pela equipe são o Fórum de Escolas pela Paz do Grande Bom Jardim e o Festival das Juventudes: Arte, Cultura e Direitos Humanos. A seguir, apresentaremos mais detalhadamente as duas tecnologias sociais, ressaltando como a equipe do Artes Insurgentes se insere no e as produz junto aos moradores e profissionais da educação do território do Grande Bom Jardim.
+
+### Fórum de Escolas pela Paz do Grande Bom Jardim
+
+Uma forma de desenvolvimento de tecnologia social com o território do GBJ realizada pela equipe do Artes Insurgentes é a participação no Fórum de Escolas pela Paz do Grande Bom Jardim (FEPGBJ). O Fórum é composto por 12 escolas estaduais da região do Grande Bom Jardim, em parceria com organizações não governamentais atuantes no território, com órgãos do Governo Estadual, com o Centro Cultural do Bom Jardim (CCBJ), bem como com o apoio de grupos universitários, como é o caso do Artes Insurgentes, do VIESES-UFC e do LAPSUS-UFC (Cavalcante et al., 2021).
+
+Esse espaço surge como forma de resistência a um cenário de violência urbana que atravessa o território e impacta diretamente no cotidiano das escolas e, em especial, no de estudantes que o habitam. Com isso, o Fórum de Escolas tem como objetivos: construir formas de enfrentamento às implicações da violência, criar momentos de discussão acerca de questões que atravessam os espaços escolares, fomentar a cultura de paz e a resolução de conflitos, e fortalecer o vínculo entre estudantes e escolas (Cavalcante, 2020; Cavalcante et al., 2021). O FEPGBJ é organizado por meio de encontros mensais, com duração média de 2 horas, que se dividem entre momento de formação com convidades, para discussão coletiva de temática pertinente ao cotidiano escolar, e discussão de pautas relacionadas a ações propostas por integrantes do espaço.
+
+Dessa forma, a equipe do Artes Insurgentes se vincula ao Fórum por meio da participação nas discussões mensais, tanto na escuta de demandas, advindas de escolas ou de sujeitos do território, quanto na mediação de momentos formativos com seus/suas participantes, bem como no planejamento e na execução de atividades pensadas coletivamente. A seguir apresentaremos algumas ações do projeto em parceria com o FEPGBJ que se relacionam com a produção técnica de uma Tecnologia Social em Psicologia.
+
+Em abril do ano de 2021, diante de um cenário ainda bastante preocupante em relação à pandemia da COVID-19, as escolas permaneciam em formato virtual de ensino remoto. Nesse momento, a pandemia deu visibilidade às vulnerabilidades não só no campo da saúde e no da economia, mas também no da educação, com efeitos na aprendizagem e nos modos de subjetivação (Miranda et al., 2022). O desafio era, neste contexto, trabalhar o campo da relação com a escola, através do uso das artes, agora em contexto remoto, com vidas cada vez mais precarizadas.
+
+No Fórum de Escolas, tanto a questão do esvaziamento das aulas online quanto a falta de momentos para discussão continuada da importância de manter os cuidados para proteção contra a doença levaram à ideia de produzir uma gincana virtual com estudantes que tratasse acerca das precauções necessárias diante da pandemia da COVID-19 de forma interativa. Com isso, foram organizados 3 dias de encontro da Gincana Xô COVID, durante o III Festival das Juventudes – que será melhor abordado no tópico seguinte – no mês de maio, por meio de plataforma para reuniões online, sendo o primeiro com duas escolas, o segundo com uma escola e o terceiro com três escolas. Cada dia contou com participação média de 20 a 30 estudantes.
+
+A gincana foi dividida em 3 momentos principais: a partir da divisão de estudantes em equipes, um quiz acerca da pandemia da COVID-19 acontecia, com uma pergunta para cada equipe, pontuando a cada resposta correta; em seguida, era feita uma brincadeira de caça objetos, em que cada participante deveria procurar em sua casa objetos que se relacionassem à proteção contra o vírus, como máscaras, sabonete para lavar as mãos, álcool-gel, entre outros, marcando um ponto para a equipe sempre que se mostrasse o objeto requisitado; por fim, era solicitado que integrantes de cada equipe apresentassem produções artísticas, como desenhos, fotografias e poemas, que se relacionassem ao tema discutido na gincana.
+
+A avaliação da atividade foi positiva, tanto por parte de integrantes do Fórum de Escolas quanto por parte de estudantes participantes, que encararam o momento de forma lúdica diante de um cansaço frente às telas. A seguir, apresentamos poema produzido por uma estudante no segundo encontro da gincana:
+
+> Tudo andava bem <br> Tudo estava normal <br> Até que o covid chegou <br> E eu me dei mal <br> Chegou na China de mansinho <br> Ninguém levou a sério <br> Até que se espalhou <br> E todo mundo ficou histérico <br><br> A covid é algo sério tem que se prevenir <br> ele veio matar não tá de mimimi <br> Então presta atenção e vamos se cuidar <br> usem máscaras, lavem as mãos pra não te infectar…
+
+A partir da participação no Fórum de Escolas, a equipe do Artes Insurgentes também compôs, em 2021, duas atividades na programação da 4ª Semana Cada Vida Importa, realizada entre os dias 8 a 12 de novembro. A Semana Cada Vida Importa é uma iniciativa do Comitê de Prevenção e Combate à Violência da Assembleia Legislativa do Ceará e tem por objetivo sensibilizar a população em geral sobre os altos índices de homicídios de adolescentes e jovens no Ceará, bem como fomentar o debate entre Estado e Sociedade Civil acerca das políticas públicas de prevenção e combate a esses índices (Ceará, 2017). A semana foi criada em 2017, a partir da aprovação da Lei n.º 16.482 em memória à Chacina do Curió[^miranda_produtos_pesquisa-5]. O evento ocorre todo ano na semana do dia 12 de novembro e consta no Calendário Oficial de Eventos do Estado do Ceará (Ceará, 2017).
+
+[^miranda_produtos_pesquisa-5]: A chacina do Curió diz respeito à noite do crime que vitimou 11 pessoas entre 11 e 12 novembro de 2015, na região da Grande Messejana, periferia urbana de Fortaleza. O Documentário ONZE: A chacina da Messejana, produzido pelo coletivo audiovisual Nigéria, mostra relatos de familiares das vítimas e também manifestações que ocuparam a periferia em protesto aos assassinatos e em reivindicação por justiça. Disponível em: <https://www.youtube.com/watch?v=F7ckWmPOES8>.
+
+Uma das atividades realizadas pelo Artes Insurgentes junto ao FEPGBJ foi a organização do II Festival de Arte e Cultura: Cada Vida Importa!. O festival foi realizado em novembro de 2021, via Google Meet, e teve o objetivo de celebrar a vida dos adolescentes e jovens periféricos. Para isso, contou com a apresentação artística de oito estudantes das escolas do fórum. As apresentações foram compostas por exposição de desenhos, interpretação de poesias, apresentações de dança e música. Além das apresentações, o festival também contou com falas de integrantes do FEPGBJ, como professores e gestores, os quais ressaltaram a importância da Semana Cada Vida Importa.
+
+Outra atividade desenvolvida com FEPGBJ na semana foi a participação no Sarau Cada Vida Importa. Nesse espaço, auxiliamos na produção da Exposição Insurgente, esta presencial, que reuniu produções de estudantes que participaram das oficinas do III Festival das Juventudes e dos encontros do Projeto Artes Insurgentes realizados de agosto a novembro de 2021 nas escolas públicas parceiras do projeto. A exposição contou com obras de diversas linguagens artísticas, como poesias, ensaios, crônicas, desenhos e fotografias, ocorreu também no mês de novembro de 2021 e foi instalada na entrada no Centro Cultural Bom Jardim, possibilitando que artistas e público geral do Sarau Cada Vida Importa pudessem visitar e conhecer as obras. As produções envolveram temáticas relacionadas ao racismo, à diversidade sexual, ao direito à cidade, às paixões e ao enfrentamento à COVID-19, especialmente àquelas ligadas à Gincana Xô COVID, citada anteriormente. Foram mais de cinquenta telas impressas em papel couchê que tornaram a exposição plural e que fizeram abranger o alcance dessas produções artísticas. Uma experiência de visibilidade e valorização das expressões juvenis.
+
+::: {#fig-visitante layout-ncol="1"}
+![](\imagens\producao_pt_pesquisa_01.jpg)
+
+Visitante explorando a Exposição Insurgente
+:::
+
+Diante das ações aqui em destaque, que aconteceram junto ao FEPGBJ, ressaltamos o compromisso dessa articulação em busca de uma transformação social micropolítica no território em que atuamos. Ao estarmos em constante diálogo com pessoas de diversos espaços de atuação no GBJ, contribuímos para o planejamento de ações que envolvam a comunidade local, que pensem suas demandas e que promovam atuações coletivas em prol da produção de tecnologias sociais.
+
+### Festival das Juventudes: Arte, Cultura e Formação em Direitos Humanos
+
+O Festival das Juventudes: Arte, Cultura e Formação em Direitos Humanos é uma iniciativa do Jovens Agentes de Paz (JAP)[^miranda_produtos_pesquisa-6] e tem como público-alvo estudantes de ensino médio de escolas públicas do Grande Bom Jardim. O objetivo central da ação é ampliar e potencializar espaços de debate sobre, principalmente, temas ligados à área dos direitos humanos e da cultura de paz. O evento busca, em sua programação, utilizar metodologias participativas para possibilitar a troca de experiências e conhecimento entre os participantes, entendendo, a partir de uma perspectiva freiriana (Freire, 1967; 1996; 2011), a educação como uma prática libertadora de problematização e conscientização permanente.
+
+[^miranda_produtos_pesquisa-6]: O JAP é um coletivo composto por jovens, em sua maioria moradores do território do Grande Bom Jardim, e está vinculado ao Centro de Defesa da Vida Herbert de Souza (CDVHS), organização não governamental que atua na região e dá suporte às atividades do grupo. Possui o intuito de promover ações que fortaleçam e deem subsídios para que juventudes periféricas discutam acerca de temas como direitos humanos, cultura de paz e monitoramento de políticas públicas, bem como possam conhecer seus direitos e saber como reivindicá-los.
+
+A primeira edição do festival foi realizada em 2018. Desde então, quatro edições já foram concluídas, todas estas contando com membros do VIESES, LAPSUS e/ou Artes Insurgentes na comissão organizadora (Costa et al., 2021; Miranda et al., 2021; Gomes et al., 2022). A ação possui o apoio financeiro da cooperação alemã MISEREOR, a partir dos programas da instituição para o incentivo ao desenvolvimento e combate à pobreza, e o apoio logístico do Centro de Defesa da Vida Herbert de Souza (CDVHS). As escolas convidadas a participar são, em sua maioria, integrantes do FEPGBJ[^miranda_produtos_pesquisa-7]. Em média, 90 estudantes se inscrevem, por edição, no evento.
+
+[^miranda_produtos_pesquisa-7]: Apenas na terceira edição do festival, a qual ocorreu em formato remoto, havia uma escola fora dos limites do território. Esta fica localizada em um município que faz divisa com o Grande Bom Jardim e demandou, a partir de um professor que lecionava em uma das escolas do fórum que estava participando do festival, a participação nas atividades.
+
+Desde sua criação, o Artes Insurgentes participa do Festival das Juventudes. Dessa forma, já esteve presente em duas edições, a saber: o III e o IV Festival das Juventudes, ocorridos, respectivamente, em 2021 e 2022. Nestas duas edições, 48 momentos grupais foram realizados, incluindo rodas de conversa, oficinas temáticas e artísticas, mesas, dinâmicas grupais de fixação, saraus, entre outros, abrangendo um público de 190 estudantes de 7 escolas distintas.
+
+O III Festival das Juventudes foi realizado entre abril e junho de 2021 e teve, como diferencial, a necessidade de adaptação ao meio remoto, por conta da demanda de distanciamento social ocasionada pela pandemia da COVID-19. A equipe do Artes Insurgentes participou desta adaptação, pensando, junto aos/às facilitadores/as e propondo atividades, meios de tornar o espaço virtual participativo e chamativo para os/as estudantes. Além disso, vale ressaltar que esta edição, diferentemente das anteriores, ocupou mais fortemente, mesmo que de forma remota, o espaço escolar. A partir de uma articulação com as gestões, via Fórum de Escolas, a programação desta edição do festival foi incluída nos horários de aula e de contraturno das escolas participantes.
+
+Nesta edição, a equipe do Artes Insurgentes também esteve presente na preparação, curadoria e apresentação do Sarau Vida e Arte, promovido com o objetivo de proporcionar um espaço de celebração e troca de afetos diante do encerramento das atividades, bem como de exaltar, publicizar e divulgar obras produzidas por estudantes participantes do festival. As obras apresentadas no sarau variaram desde poesias, fotos, vídeos, desenhos, dentre outras materialidades. A apresentação, organização e curadoria do sarau ficou a cargo de integrantes do JAP, do Artes Insurgentes e do Núcleo de Articulação Técnica Especializada (NArTE), vinculado ao CCBJ.
+
+A maior parte das obras expostas no sarau foram produzidas ao longo da terceira edição do festival. Contudo, também foi aberto aos/às estudantes um formulário para que elus pudessem realizar a inscrição do que desejassem apresentar. O sarau foi realizado na plataforma Google Meet em três momentos – cada um com a participação de duas escolas diferentes. O sarau foi gravado e depois disponibilizado no canal do CCBJ no Youtube, visando à publicização das obras apresentadas.
+
+Já o IV Festival das Juventudes, ocorrido entre os meses de maio e junho de 2022, aconteceu presencialmente em espaços e equipamentos do território do Grande Bom Jardim, principalmente no CDVHS. Foram, ao todo, quatro sábados, com uma programação vasta nos turnos da manhã e da tarde. Como a última edição presencial havia ocorrido em 2019, e a composição do JAP e da comissão organizadora estava bem diferente do que fora três anos antes, um dos maiores desafios desta edição foi pensar na logística do evento, tendo em vista o grande número de participantes e as dinâmicas do território.
+
+Durante a quarta edição, a equipe do Artes Insurgentes também esteve presente na mesa de abertura do festival, a qual possuía como tema “ser jovem”. Além disso, integrantes do Artes Insurgentes compuseram a programação do evento facilitando uma oficina intitulada “Negritudes e literaturas periféricas: fazendo fanzines”. Tal oficina teve a duração de duas horas e contou com a participação de 14 estudantes.
+
+::: {#fig-integrante layout-ncol="1"}
+![](\imagens\producao_pt_pesquisa_02.jpg)
+
+Integrante do Artes Insurgentes na abertura do IV Festival das Juventudes
+:::
+
+Como dito anteriormente, o festival é fruto de uma organização coletiva. Tal organização é articulada a partir de uma comissão formada nos primeiros meses do ano. A partir da participação nessa comissão, a equipe do Artes Insurgentes ajudou, nas duas edições citadas, a construir a programação, pensar a logística de realização das atividades, participar das reuniões de planejamento e avaliação e fazer a relatoria das atividades.
+
+No processo de preparação e execução do festival, a comissão organizadora costuma se dividir em subcomissões para dinamizar e distribuir as tarefas que serão indispensáveis para a realização do evento. Na terceira edição, as comissões foram: articulação, comunicação e relatoria. A elaboração da programação era feita por toda a comissão organizadora em reuniões semanais. Na quarta edição, com a volta ao presencial, foi necessário o aumento do número de subcomissões devido às novas demandas que surgiram com a troca do formato, sendo elas: mobilização (antiga comissão de articulação), logística, alimentação, segurança e saúde, comunicação, ornamentação, relatoria e pós-festival/limpeza.
+
+Em ambas as edições, a equipe do Artes Insurgentes participou da subcomissão de relatoria, além de compor, em 2021, também a subcomissão de comunicação. A relatoria é responsável por registrar, a partir de textos descritivos, todos os momentos do festival. Ela possui uma dupla importância:
+
+1.  Ser um dispositivo de memória, à medida que produz um registro textual dos encontros, das ações e dos principais momentos do evento;
+2.  Subsidiar o relatório produzido pelo JAP à cooperação MISEREOR, como forma de prestação de contas e de defesa da importância de ações como o festival nas periferias urbanas do Brasil.
+
+Para a elaboração das relatorias, o JAP disponibilizou para a equipe do Artes Insurgentes um instrumental, que costuma ser usado por elus em outras ações, com alguns pontos julgados centrais no relato de atividades, como, por exemplo, o objetivo da ação, a metodologia e os materiais utilizados. Contudo, era aberto aos integrantes da subcomissão de relatoria a realização também de textos corridos, não se atentando apenas ao que era pedido no instrumental. Todas as relatorias foram compartilhadas com os demais integrantes da comissão organizadora ao final do festival, tanto da terceira como da quarta edição, e os retornos recebidos por elus foram positivos.
+
+Como parte da comissão organizadora, a equipe do Artes Insurgentes também esteve presente, como citado anteriormente, nos momentos de avaliação das ações. Nesses encontros, a comissão organizadora se reunia para discutir sobre o que foi “sal” (o que foi positivo, potente) e o que foi “pêdo” (o que precisa ser melhorado), bem como para reunir as sugestões para os próximos dias de festival. No terceiro festival, essas reuniões eram semanais; no quarto, quinzenais.
+
+Dessa forma, o Festival das Juventudes se constitui como uma Tecnologia Social (Ministério da Educação, 2019) co-produzida por integrantes do Artes Insurgentes, ao passo que articula ações desenvolvidas de forma interativa e participativa pela comunidade e busca transformar a realidade, a partir da troca de experiências e conhecimentos entre todas as pessoas envolvidas. Considerando as pesquisas realizadas no âmbito do projeto, as tecnologias aqui apresentadas são criadas e coletivamente analisadas com os agentes das instituições envolvidas, constituindo-se como um dispositivo de inter(in)venção.
+
+## Produtos de comunicação em busca de narrativas contra-hegemônicas: podcast e documentário-artesanal
+
+A CAPES compreende “produto de comunicação” como algo que necessite de um intermediário tecnológico para que a informação se realize. Trata-se, portanto, de produto midiatizado. A Mídia representa o conjunto das emissoras de rádio e de televisão, de jornais e de revistas, o cinema e as outras formas de comunicação de massa, bem como as recentes mídias sociais em suas diversas plataformas (Brasil, 2019).
+
+No projeto, dois produtos técnicos se caracterizam como comunicação que utilizam as mídias sociais como meio, estes são: o podcast #Artesinsurgentes e o documentário. A utilização de recursos tecnológicos e mídias digitais acabou por se fortalecer como forma de interação social, durante a pandemia da COVID-19, que devido às necessidades sanitárias, restringiu as formas de comunicação presencial. Como é bem sabido, o acesso à internet no Brasil é marcado por desigualdades, ainda mais levando em consideração os atores das nossas atividades, que são artistas, coletivos, agentes escolares e moradores da periferia do Grande Bom Jardim (GBJ). Entretanto, esses recursos informais e alternativos se mostraram necessários à inclusão de outros modos de conhecimento, além da coletivização de saberes e de temáticas diversas. Dessa forma, como abordado na introdução, o projeto que se iniciou em 2021, em contexto remoto, teve que utilizar estas tecnologias para manter suas atividades de pesquisa e extensão.
+
+### Podcast #Artesinsurgentes
+
+Podcast é uma palavra que advém do laço criado entre Ipod (aparelho produzido pela Apple que reproduz mp3) e Broadcast (transmissão), podendo ser definido como um arquivo de áudio sobre qualquer tema ou área de conhecimento, disponibilizado em uma plataforma na internet, podendo ser produzido de forma amadora ou profissional. Além disso, o podcast se caracteriza por ser flexível em suas possibilidades de produção e transmissão, por se tratar de um conteúdo de fácil acesso pelos serviços de streamings, por ser totalmente gratuito e por possibilitar a qualquer pessoa com um aparelho celular e conexão à internet publicar o áudio. Dessa forma, fomenta a horizontalização do conhecimento ao ser partilhado por múltiplas discussões e autores, não se centrando em uma única figura (Barros & Menta, 2007; Bezerra et al., 2022).
+
+No projeto Artes Insurgentes, a ferramenta do podcast surge como possibilidade de compartilhamento das atividades realizadas e parcerias que se têm construído, utilizando-se de uma linguagem informal e cotidiana. Dessa forma, essa mídia não se configura como um grupo de acadêmicos transmitindo conhecimento direcionado para além das quatro paredes da universidade, mas sim, pelo contrário, como um espaço em que as vozes do território ecoam. Portanto, entendemos o podcast enquanto um dispositivo político na potencialização de (re)existências de jovens e coletivos das periferias de Fortaleza. É uma forma de viabilizar a partilha de saberes alternativos e conhecimentos subalternizados.
+
+O podcast[^miranda_produtos_pesquisa-8], com título homônimo ao projeto, acontece por meio de cinco etapas, dentre as quais a primeira, de planejamento, consiste na escolha coletiva de uma temática que atravesse as perspectivas de atuação do projeto. Após a escolha do tema, partimos para a segunda etapa, roteirização, feita também de forma coletiva, flexível e aberta, que funciona como uma primeira elaboração sobre o tema a ser tratado de forma a nos possibilitar uma organização mais detalhada para os passos seguintes da produção. A terceira fase consiste no convite, pois, com exceção do primeiro episódio, que foi uma apresentação do projeto, todos os outros episódios contam com a participação de convidades, como agentes comunitários, artistas, educadores sociais, militantes, dentre outres, com atuação no território do GBJ. O convite é realizado diretamente por integrantes do projeto, e, junto a isso, é enviado um roteiro prévio para apreciação e finalização coletiva. A quarta fase é a de gravação do episódio, que normalmente acontece via Google Meet, prosseguindo para fase de edição e divulgação na plataforma de streaming Spotify, que tem audição gratuita e livre a qualquer pessoa com acesso à plataforma. A divulgação ocorre por meio do Instagram do projeto ([\@artesinsurgentes](https://www.instagram.com/artesinsurgentes/)), no qual são utilizadas as ferramentas do feed, stories e reels, em diversos grupos de WhatsApp de caráter acadêmico, artístico e articulatoriamente político, além de ser divulgado entre os diversos parceiros e atores sociais que compõem o território do GBJ (Bezerra et al., 2022).
+
+[^miranda_produtos_pesquisa-8]: Para conhecer o podcast, acesse: <https://open.spotify.com/show/3KRu4KITQ4leFp6bOk4O5h>.
+
+::: column-margin
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3KRu4KITQ4leFp6bOk4O5h?utm_source=generator&amp;theme=0" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
+:::
+
+Os episódios duram em torno de 30 minutos e funcionam, em sua maioria, com uma breve apresentação e contextualização dos convidados e da temática, passando para um formato de perguntas e respostas. Os títulos dos episódios são “Ep. 01 - Apresentação”, com integrantes do projeto Artes Insurgentes; “Ep. 02 - Festival das Juventudes”, com Ingrid Rabelo e Megh Coelho; “Ep 03 - Vivências no GBJ- NARTE”, com Aurianderson Amaro e Eduardo Marques; “Ep. 04 - Lacrações e desafios da diversidade LGBTQIAP+ no GBJ”, com Jô Costa; e “Ep. 05 - Resistências e alianças nas quebradas (Movimento Cada Vida Importa e Marcha da Periferia), com Joaquim Araújo e Raquel Vieira.
+
+### Documentário-artesanal insurgente
+
+Tal qual o podcast, o projeto Artes Insurgentes: Coletivizando Resistências produziu um documentário, intitulado “Artes Insurgentes: alianças entre arte, psicologia e coletivos juvenis na atuação com atores escolares”, como forma de divulgar e visibilizar as ações realizadas e os seus inúmeros parceiros no território. Dessa forma, o documentário foi uma experimentação de uma produção fílmica feita pelos próprios participantes do projeto, com registros das atividades que aconteceram durante o segundo semestre de 2021 e o primeiro semestre de 2022, além de relatos e depoimentos daqueles que compõem essas cenas.
+
+Documentários se encontram entre as linhas de uma realidade e uma ficção, ao mesmo tempo que retratam algo que está acontecendo na realidade imanente, ao passar pelo processo descrito acima, se tornam também ficcionais. Os corpos que enquadram as telas do documentário do projeto são hegemonicamente ficcionados como “envolvidos”, “marginais”, entre outros tantos estereótipos dados à periferia. Mudar essa cena e trazer outras narrativas possibilita experimentar formas mais potentes e inventivas de propagar as estratégias de resistência não só política, mas também estética e epistemológica, que são montadas e traçadas nesse território marcado pela vulnerabilidade (Sousa et al., 2020). 
+
+Consideramos o documentário feito de modo artesanal, pois trata-se de uma produção tecida de maneira coletiva, costurada a muitas mãos, de uma forma não “profissional” ou técnica, mas afetiva (Marco et al., 2008). Assim, não nos detemos a um roteiro prévio, seguimos os fluxos e a liberdade das ações. O documentário teve três etapas: a primeira, de gravação/filmagem, sem tripé, sem técnica, feita pelos participantes do projeto, enquadrando as pessoas, as ações, as paredes, as árvores, aquilo que chamava atenção e pulsava; a segunda etapa, de edição/montagem, também feita pelo projeto, por meio do programa Wondershare Filmora, buscando mesclar os depoimentos de participantes e colaboradores do projeto com cenas das oficinas; e a última fase, de divulgação na mídia social Instagram, por meio dos reels.
+
+::: {#vid-documentario}
+{{< video https://youtu.be/3Qcm0OCuG0I?si=l7CDP4P5TjfpiJc6 width="400" height="225">}}
+
+Artes Insurgentes: alianças entre arte, psicologia e juventudes na atuação com atores escolares
+:::
+
+## Considerações Finais
+
+O presente texto buscou discutir, de forma resumida, um pouco do desafio da elaboração de Produtos Técnicos tanto no contexto remoto, ainda durante o ano de 2021, quanto na conjuntura presencial, após o retorno, no ano de 2022.
+
+Os produtos técnicos aqui apresentados produziram uma aliança potente entre o território e a universidade, provocando um deslocamento na produção de conhecimento na contemporaneidade, entre saberes historicamente reconhecidos, ditos científicos, e aqueles subalternizados, advindos das periferias urbanas, sobretudo de jovens, movimentos artísticos e sociais e instituições educacionais que enfrentam formas cotidianas de (re)existências individuais e, sobretudo, coletivas. 
+
+Estar com coletivos artísticos, movimentos sociais, escolas públicas, concebendo, realizando e avaliando tecnologias sociais, através de recursos artísticos, que promovem o fortalecimento do território e das instituições que nele habitam, acaba por fortalecer também a formação da pós-graduação, sobretudo em sua inserção social. Significa trabalhar em pesquisas socialmente implicadas e comprometidas com as camadas historicamente vulnerabilizadas. Da mesma forma, produzir produtos de comunicação, seja na forma de podcast, seja na de documentário, ajuda no regime de visibilidade e dizibilidade de um fazer não sobre o outro, mas com a potência do outro. Em última instância, ambos, tecnologias sociais e produtos de comunicação, têm em comum o fato de serem, aquém e além de produtos técnicos,  ferramentas de produção epistemológica decolonial ao visibilizar, dizibilizar e contribuir para outros canais de escuta, de apresentar-se como um importante dispositivo de incidência e fortalecimento político, estético e ético (Bezerra et al., 2022).
+
+
+

@@ -2,12 +2,12 @@
 author: 
   - name: Francisco Pablo Huacar Aragão Pinheiro
     orcid: 0000-0001-9289-845X
-    custom-info: "joaopaulobarros@ufc.br"
+    email: "joaopaulobarros@ufc.br"
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: João Paulo Pereira Barros
     orcid: 0000-0001-7680-576X
-    custom-info: pablo.pinheiro@ufc.br
+    email: pablo.pinheiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 

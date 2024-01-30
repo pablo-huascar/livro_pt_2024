@@ -16,8 +16,6 @@ filters:
   - section-bibliographies
 bibliography: barbosa_mini_guia.bib
 reference-section-title: Referências
-editor_options: 
-  chunk_output_type: console
 crossref:
   custom:
     - kind: float

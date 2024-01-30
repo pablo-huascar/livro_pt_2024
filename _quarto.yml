@@ -21,6 +21,7 @@ book:
   repo-branch: main
   favicon: capa.png
   reader-mode: true
+  
 
   chapters:
     - index.qmd
@@ -40,6 +41,8 @@ book:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
         - melo_assessoria.qmd
+        - rodrigues_relatorio_tecnico.qmd
+        - costa_assessoria_saae.qmd
 
     - part: Curso para formação profissional
       chapters:
@@ -56,6 +59,7 @@ book:
     - part: Compilações de vários produtos técnicos
       chapters:
         - barros_assessorias_cursos.qmd
+        - miranda_produtos_pesquisa.qmd
     - part: Manual/protocolo
       chapters:
         - barbosa_mini_guia.qmd
@@ -79,7 +83,7 @@ format:
     code-tools: true  
     code-line-numbers: false
     code-copy: true
-    
+
     author-meta: "Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros"
 
 editor: visual
