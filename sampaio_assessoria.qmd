@@ -32,6 +32,10 @@ author:
       - name: Universidade Federal do Ceará
 language: 
   title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: sampaio_assessoria.bib
+reference-section-title: Referências
 ---
 
 # Assessoria sobre direito e saúde sexual e reprodutiva com mulheres em dispositivos da assistência social
@@ -40,7 +44,7 @@ language:
 
 O Núcleo de Estudos e Extensão sobre Subjetivação e Sexualidade (SuSex) está vinculado ao curso de Psicologia da Universidade Federal do Ceará, campus Sobral. O SuSex tem como objetivo geral promover a equidade de gênero e o respeito à diversidade sexual. Buscamos, por meio das nossas ações, produzir resistência contra os processos de homogeneização e padronização dos modos de viver. Nesse sentido, este estudo apresenta o relato da experiência de produção e desenvolvimento de um serviço técnico de assessoria sobre direito e saúde sexual e reprodutiva em equipamentos públicos da rede de assistência social.
 
-O serviço técnico envolve a realização de ações junto à sociedade e às instituições, particularmente a assessoria é o ato de “assessorar, ou seja, é o ato de ajudar, assistir, auxiliar, coadjuvar ou colaborar com determinado processo. Na assessoria os problemas são identificados e as soluções implantadas com a participação direta do assessor interferindo nos processos” (Ministério da Educação, 2016, p.05).
+O serviço técnico envolve a realização de ações junto à sociedade e às instituições, particularmente a assessoria é o ato de “assessorar, ou seja, é o ato de ajudar, assistir, auxiliar, coadjuvar ou colaborar com determinado processo. Na assessoria os problemas são identificados e as soluções implantadas com a participação direta do assessor interferindo nos processos” [@bastos2016consideracoes, seção EIXO 3].
 
 A assessoria envolveu a produção de quatro oficinas voltadas para a promoção do direito à saúde sexual e reprodutiva, especificamente com mulheres cis[^sampaio_assessoria-1], em equipamentos da assistência social, sendo duas no Centro de Referência de Assistência Social (CRAS) e duas no Centro de Referência Especializado de Assistência Social (CREAS), durante o ano de 2022. A história dos direitos reprodutivos é recente, e a dos direitos sexuais mais ainda, estes tiveram o movimento feminista e LGBTQI, respectivamente, como atores fundamentais na sua configuração e produção. Assim, a partir dos direitos sexuais e reprodutivos, uma postura política e ética foi inserida no debate sobre a reprodução e a sexualidade (Rohden & Russo, 2011). Esses dois movimentos sociais têm em comum o questionamento das categorias universais, das verdades científicas, da naturalização do sexo e da normatização da sexualidade, fazendo, assim, um contraponto com a perspectiva biologizante e farmacológica do saber biomédico.
 
@@ -62,11 +66,20 @@ Foram realizadas, nos equipamentos da assistência social da cidade, oficinas so
 
 As mulheres eram divididas em 2 grupos, cada um destes contava com pelo menos duas extensionistas, uma responsável por facilitar e mediar a oficina, e outra por observar e registrar no diário de campo a atividade. A atividade era iniciada com uma dinâmica de apresentação em que as mulheres desenhavam ou escreviam o que mais gostavam de fazer quando eram adolescentes e/ou antes de serem mães, enquanto isso eram reproduzidas músicas que elas informaram que gostavam de ouvir. Depois, elas compartilhavam seus desenhos, falando o seu nome e explicando o que desenharam e escreveram.
 
-Na sequência, eram apresentados cartões com os seguintes temas, que seriam abordados na oficina: a) Infecção Sexualmente Transmissível (IST), b) contracepção, c) maternidade, d) Outubro Rosa, e) atividade prática representada pela imagem de um “foguinho”. Em seguida, elas sorteavam cada um dos temas, revelando as cartas para realizar a atividade.
+Na sequência, eram apresentados cartões com os seguintes temas, que seriam abordados na oficina:
 
-Descrevemos abaixo as diferentes dinâmicas utilizadas a partir de cada tema citado:
+a)  Infecção Sexualmente Transmissível (IST),
+b)  contracepção,
+c)  maternidade,
+d)  Outubro Rosa,
+e)  atividade prática representada pela imagem de um “foguinho”.
 
-a)  IST – dinâmica do “pega ou não pega” em que se retiram de um envelope algumas possíveis situações de infecção por IST, e as participantes respondem “se pega ou não pega” IST nos casos descritos. Os casos eram: a) Não se pega pela água da piscina; pelo suor; pelo assento do banheiro; pela toalha; pelo sabonete; pelos talheres, pelos copos, pelos pratos e pelas xícaras reutilizadas e pela picada de mosquito; b) Pega pelo sexo oral; pela agulha ou seringa já utilizada na hora de aplicar droga; pela agulha reutilizada para fazer tatuagem e piercing; pelos instrumentos reutilizados de dentistas; também foi elencada a possibilidade de contágio em momentos como durante a gravidez; hora do parto; na amamentação.
+Em seguida, elas sorteavam cada um dos temas, revelando as cartas para realizar a atividade. Descrevemos abaixo as diferentes dinâmicas utilizadas a partir de cada tema citado:
+
+a)  IST – dinâmica do “pega ou não pega” em que se retiram de um envelope algumas possíveis situações de infecção por IST, e as participantes respondem “se pega ou não pega” IST nos casos descritos. Os casos eram:
+
+    -   Não se pega pela água da piscina; pelo suor; pelo assento do banheiro; pela toalha; pelo sabonete; pelos talheres, pelos copos, pelos pratos e pelas xícaras reutilizadas e pela picada de mosquito;
+    -   Pega pelo sexo oral; pela agulha ou seringa já utilizada na hora de aplicar droga; pela agulha reutilizada para fazer tatuagem e piercing; pelos instrumentos reutilizados de dentistas; também foi elencada a possibilidade de contágio em momentos como durante a gravidez; hora do parto; na amamentação.
 
 b)  Contracepção – para trabalhar o tema, foi lido um caso fictício sobre uma relação sexual em que o preservativo estourou. Dessa forma, é possível que se aborde a prevenção de emergência e se informe como acessar aos contraceptivos disponíveis no Sistema Único de Saúde (SUS), bem como a maneira de agir em casos como esse.
 
@@ -130,7 +143,7 @@ Os recortes das falas das mulheres assistidas no SUAS, em sua maioria mulheres n
 
 A reprodução não é uma questão apenas individual, mas uma questão de controle populacional, na medida em que demanda investimentos com saúde pública, assistência social e educação pública, por exemplo. Dessa forma, os processos reprodutivos têm sido historicamente controlados, pois tornam-se um problema social que deve ser governado por ações do Estado e políticas públicas (Preciado, 2008).
 
-## Considerações Finais
+## Considerações finais
 
 O direito à saúde sexual e reprodutiva envolve uma série de elementos, desde escolha individual, acesso a políticas públicas, justiça social, distribuição de métodos contraceptivos seguros, etc. Essa discussão precisa considerar as diferentes realidades das mulheres, especialmente aquelas em situação de vulnerabilidade social, que são assistidas pelas políticas de assistência social. O acesso informado e igualitário aos direitos sexuais e reprodutivos é um pré-requisito fundamental para a emancipação das mulheres em geral. Uma vez que o direito ao controle de natalidade é, obviamente, uma vantagem para as mulheres de todas as classes e raças.
 
