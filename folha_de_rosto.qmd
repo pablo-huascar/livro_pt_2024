@@ -19,6 +19,14 @@ Av. da Universidade, 2762, Benfica - CEP: 60020-180 - Fortaleza/CE – Área 2 d
 
 Rua Coronel Estanislau Frota, 563 – Centro – CEP 62010-560 – Sobral – CE – Campus Sobral – Mucambinho
 
+**Arte da capa**
+
+Nara Maria Forte Diogo Rocha
+
+**Diagramação da capa**
+
+Francisco Pablo Huascar Aragão Pinheiro
+
 **Revisão de texto**
 
 João Paulo Silva Matos
@@ -37,5 +45,5 @@ beta.consultac\@gmail.com
 
 [https://esthela.quarto.pub/beta/](https://esthela.quarto.pub/beta/){.external target="_blank"}
 
-Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) [processo número  Processo: BP5-0197-00046.01.00/22].
+Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) \[processo número Processo: BP5-0197-00046.01.00/22\].
 :::

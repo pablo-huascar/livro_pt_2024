@@ -16,10 +16,10 @@ book:
     left:
       <img src="./imagens/ppgpsi.png" width="100"> 
       <img src="./imagens/ppgpppp.png" width="100">
-  cover-image: capa.png
+  cover-image: cover_pt.png
   repo-url: https://github.com/pablo-huascar/livro_pt_2024.git
   repo-branch: main
-  favicon: capa.png
+  favicon: cover_pt.png
   reader-mode: true
   
 
@@ -38,7 +38,7 @@ book:
         - liberato_contagios.qmd
         - vasconcelos_eneddes.qmd
     
-    - part: Relatórios técnicos \:\ assessoria, consultoria e pesquisa
+    - part: Relatórios técnicos\:\ assessoria, consultoria e pesquisa
       chapters:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
