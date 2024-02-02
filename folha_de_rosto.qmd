@@ -1,3 +1,7 @@
+---
+toc: false
+---
+
 # Folha de rosto {.unnumbered}
 
 ::: {style="line-height: 1;"}
@@ -14,22 +18,6 @@ Av. da Universidade, 2762, Benfica - CEP: 60020-180 - Fortaleza/CE – Área 2 d
 *Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas (PPGPPPP) - Universidade Federal do Ceará*
 
 Rua Coronel Estanislau Frota, 563 – Centro – CEP 62010-560 – Sobral – CE – Campus Sobral – Mucambinho
-
-**Conselho editorial**
-
-Andréa Borges Leão - UFC
-
-Cassio Adriano Braz de Aquino - UFC
-
-Elisa Lacerda-Vandenborn - Unversity of Calgary (Canadá)
-
-Jorge Tarcísio da Rocha Falcão - UFRN
-
-Lara Brum de Calais - UFES
-
-Luis Achilles Rodrigues Furtado - UFC
-
-Marselle Fernandes Fontenelle - UNIFOR
 
 **Revisão de texto**
 
@@ -48,4 +36,6 @@ beta.consultac\@gmail.com
 [\@beta_consultoria_academica](https://www.instagram.com/beta_consultoria_academica/ "Instagram"){.external target="_blank"}
 
 [https://esthela.quarto.pub/beta/](https://esthela.quarto.pub/beta/){.external target="_blank"}
+
+Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) [processo número  Processo: BP5-0197-00046.01.00/22].
 :::

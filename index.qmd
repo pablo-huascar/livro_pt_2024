@@ -12,6 +12,7 @@ author:
       - name: Universidade Federal do Ceará
 language: 
   title-block-author-plural: "Organizadores"
+toc: false
 ---
 
 # Apresentação {.unnumbered}

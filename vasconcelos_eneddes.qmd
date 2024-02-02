@@ -1,0 +1,203 @@
+---
+author: 
+  - name: Francisca Denise Silva Vasconcelos
+    orcid: 0000-0002-3997-7869
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Antonio Anderson Mota da Silva
+    orcid: 0000-0002-0407-3624
+    email: anderson.mota@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Francisca Bruna Pereira Farias
+    orcid: 0000-0003-2973-5070
+    email: brunafariaspsicologa@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Juliana Maria do Nascimento Mota
+    orcid: 0000-0002-5581-7996
+    email: juliananascimento@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: vasconcelos_eneddes.bib
+reference-section-title: Referências
+---
+
+# Encontro Nacional sobre Desigualdades e Diversidades - ENEDDES: debates sobre pobrezas, juventudes e educação
+
+> A teoria não é intrinsecamente curativa, libertadora e revolucionária. Só cumpre essa função quando lhe pedimos que o faça e dirigimos nossa teorização para esse fim (bell hooks).
+
+## LAEDDES & ENEDDES: a extensão em movimento (um breve resgate histórico)
+
+O Encontro Interdisciplinar de Estudos sobre as Desigualdades & Diversidades - ENEDDES, evento cujas duas primeiras realizações, em 2013 e 2016, recebeu o nome de ENEDES, surgiu a partir dos estudos e das pesquisas dos extensionistas do programa de extensão universitária “Conhecimento é cidadania ativa - LAEDES - Laboratório de Estudos das Desigualdades” (título de março de 2010 a agosto de 2018), do curso de Psicologia da Universidade Federal do Ceará, Campus Sobral.
+
+O programa de extensão iniciado em 2010 estimula o debate e a articulação dos estudos nos temas da pobreza, desigualdade e exclusão, a partir das perspectivas da Sociologia, Psicologia Social Crítica, Psicologia, Educação, dentre outros. Voltado para ações nas escolas públicas, o público alvo do projeto eram jovens estudantes que, em sua maioria, vivenciavam as implicações da pobreza e suas complicações. 
+
+O grupo de extensão realizava atividades no intuito de desmistificar o discurso da meritocracia e do fatalismo por que os empobrecidos são atravessados cotidianamente. A partir da metodologia da roda de conversa, o diálogo com estudantes buscavam promover argumentações contrárias à culpabilização das pessoas pobres, apresentando a educação como via de autonomia, cidadania e participação política. Inseridos em uma universidade pública do interior, oriunda do programa de expansão das universidades federais, atentos ao contexto de marginalização social, sofrimento e expiação da população da classe pobre, o LAEDDES sempre se posicionou de forma antagônica ao discurso falacioso da meritocracia. Com o avanço das discussões e movimentação dos estudantes do grupo, em 2018 é solicitada a mudança de título do programa que passou então a ser denominado:  LAEDDES – Laboratório de Estudos das Desigualdades & Diversidades.
+
+ A mudança de registro é sintomática das transformações teóricas, metodológicas, éticas e políticas dos graduandos no debate acadêmico, social, e na inter-relação com a comunidade. Em face disso, já em 2020, surge uma ligação com o Mestrado Profissional em Psicologia e Políticas Públicas do campus Sobral da UFC.
+
+Com o intuito de amplificar as discussões a respeito dessas temáticas e de repercutir os debates desenvolvidos na extensão para a comunidade acadêmica e para o público em geral, o Laboratório assume o desafio e o compromisso de organizar o ENEDES, entendendo este como um evento capaz de mobilizar novos tensionamentos, criar espaços de interação entre os estudantes da graduação e estudiosos da área, levantar reflexões teóricas e práticas que possam reverberar em transformações sociais e contribuir e inovar na criação de políticas públicas
+
+O Encontro Interdisciplinar de Estudos sobre as Desigualdades – ENEDES ocorreu em duas edições, nos anos de 2013 e 2016, conseguindo atingir um público de mais de 500 pessoas, dentre elas estudantes e profissionais de diversas áreas, como Psicologia, Ciências Sociais, Serviço Social, dentre outras, bem como profissionais atuantes na educação nas políticas públicas na cidade de Sobral e nos municípios das regiões circunvizinhas. O evento atingiu desse modo seus objetivos de promover debates acerca do tema Educação, Desigualdades e Democracia.
+
+Nesse ínterim, o nome do evento passou por alterações e, em 2020, tornou-se ENEDDES - Encontro Nacional de Estudos das Desigualdades e Diversidades. Em razão da pandemia da covid-19, o III encontro presencial do evento não foi realizado. Todavia, considerando os imensos impactos que a pandemia tem causado à população mais vulnerável, organizou-se de modo virtual o Pré-Eneddes, em novembro de 2020, com a finalidade da criação de diálogos sobre a conjuntura pandêmica, a precarização das políticas públicas e os atravessamentos disso na educação, saúde, assistência social e democracia, como uma forma de movimentação da dor, das angústias, um modo de reivindicação de boa vida coletiva.  
+
+## ENEDDES em suas diferentes versões: uma jornada em andamento
+
+### 1º ENEDES
+
+O I Encontro Interdisciplinar de Estudos Sobre a Desigualdade Social - ENEDES, evento planejado e organizado pelo LAEDES (Laboratório de Estudos das Desigualdades), com a apoio da Universidade Federal do Ceará, ocorreu de forma presencial nos dias 11, 12 e 13 de março de 2013 na cidade de Sobral - Ceará.
+
+O evento contou com a participação de profissionais e estudantes de diversas áreas, que discutiram sobre o tema e as implicações deste, através de conferências, mesas-redondas e apresentações de trabalhos, produzindo e compartilhando importantes conhecimentos e gerando mobilizações acadêmicas e práticas no que tange às desigualdades sociais.
+
+Na primeira edição do ENEDES, contamos com a presença, dentre outros profissionais e estudiosos da área, do Professor Pedrinho Guareschi, que nos alertava da importância de se cuidar dos diferentes saberes ao lembrar Paulo Freire. Os saberes populares são fundamentais para que possamos lidar com as dores e visões de mundo, enquanto os saberes científicos são lentes que nos alertam em que direção devemos olhar. Defendia, pois, que a educação ainda é para nós a porta de entrada para a emancipação e a de saída de condições precárias de miséria econômica, política e cultural. Em resumo, essas foram as riquíssimas discussões e os debates que permearam os três dias de evento.
+
+### 2º ENEDES
+
+O segundo encontro, intitulado II ENEDES e I Simpósio Internacional sobre pobreza e Transformação Social, foi realizado de forma presencial nos dias 14 e 15 de dezembro de 2016. Teve como objetivo principal debater sobre assuntos transversais às temáticas do LAEDES, tais como: 
+
+-   Cidadania; 
+-   Democracia e Direitos Humanos; 
+-   Pobreza e Estratégias de Enfrentamento; 
+-   Pobreza, Mídia e Representações Sociais; 
+-   Juventudes e Vulnerabilidades; 
+-   Saúde Coletiva; 
+-   Gênero e Determinantes sociais; 
+-   Música e Transformação Social. 
+
+Nesse encontro pudemos contar com a presença da pesquisadora e fomentadora do Programa Bolsa Família no Brasil, a professora Ana Fonseca, que, antes de falecer, travou uma luta de enfrentamento às desigualdades sociais através das políticas públicas. No mesmo evento, contamos com a participação dos canadenses Susan O'Neill e Yaroslav Senyshyn, apresentando a música como uma forma de emancipação da pobreza. Permeado por diferentes representantes que falavam a partir dos mais diferentes saberes, o II ENEDES encerrou-se com uma conferência sobre Representações Sociais da Pobreza ministrada por Aline Accorssi. 
+
+### Pré-ENEDDES
+
+Em tempos de levante contra as políticas sociais e de desmonte de conquistas fundantes para a melhoria na condição de vida de populações de baixa renda afetadas por sofrimento ético-político, consideramos que organizar a edição do PRÉ-ENEDDES foi uma forma de resistência, bem como possibilitou o acesso ao conhecimento de diversos saberes por parte do nosso público-alvo, sendo eles os discentes da UFC e os professores da rede pública de ensino. Desse modo, esperamos que os debates promovidos pelo evento, ligados à reflexão sobre os entrelaçamentos entre pobreza e educação, bem como as discussões sobre as relações de gênero, raça e classe dentro da escola pública, contribuam para a formação dos estudantes extensionistas do LAEDDES, dos professores da rede pública de ensino e dos demais membros da comunidade acadêmica. O PRÉ-ENEDDES contou com a organização por parte dos estudantes de graduação e dos mestrandos em Psicologia e Políticas Públicas.
+
+## Eixos dos debates e mobilizações: desigualdades sociais, juventude e educação 
+
+### Desigualdades sociais – pobrezas: contornos e conceituações
+
+Estudar e pensar sobre a pobreza é assunto delicado de difícil definição. Isto porque dentro de nosso campo teórico das ciências humanas, nossa questão é mais qualitativa e variável, em construção. Como já alertaram Accorssi e Scarparo  [-@accorssi2016representacoes], “pobreza é um conceito polissêmico e complexo que requer cuidado” (p. 68). As definições das políticas públicas de enfrentamento da pobreza e as visões economicistas do Banco Mundial e MDS, PIB, IDH, possuem sua importância no direcionamento de políticas voltadas às pessoas em contextos de vulnerabilidades sociais e nas estratégias de enfrentamento dessa situação. Porém, essas não são as únicas formas de compreender o conceito de pobreza.  
+
+Pobreza não é só a insegurança alimentar, a precariedade de moradia ou ausência de escolaridade, ela também é política, e, conforme disserta Pedro Demo [-@demo2006pobreza], pobreza “não é miséria pura e simples, mas aquela impingida, aquela discriminatória, ou, mais que tudo, aquela da maioria em função da locupletação da minoria” (p. 7). 
+
+Pobreza também pode ser pensada como formas desiguais de acesso a modos de produção. Para Estanislau e Ximenes [-@estanislau2016vivencias], pobreza é o “processo, uma consequência do modo de produção capitalista, cujas importantes características são a exploração da força de trabalho, para produção de riqueza e a concentração de renda, constata-se que um contingente de sujeitos se encontra inserido de forma precária no processo de produção” (p. 142). 
+
+Em continuidade sobre as formas desiguais de acesso, Jessé Souza [-@souza2003construcao] identifica a pobreza como constituição e reprodução nos modos diferenciados de habilidades das pessoas que, sem acesso ou com maiores limitações à qualificação educacional, profissional, não conseguem ingressar ou manter-se de forma prolongada no mercado de trabalho qualificado.
+
+O termo empobrecido é a classificação escolhida por Guareschi [-@guareschi1992categoria] para falar sobre pobreza. Para ele, num mundo de categorias, é possível falar pobres e ricos, mas, no mundo das relações, não, pois exige um e outro, nesse caso há enriquecidos e empobrecidos, há uma relação dialética, são pessoas que foram empobrecidas.  
+
+Existe uma multiplicidade de classificações, formas de mensurar e identificar a pobreza. Isto indica que a questão de renda não diz de forma suficiente como esse fenômeno é vivenciado, definido pelas pessoas. Diversos autores descrevem a pobreza de forma ampliada, alertando sobre a necessidade de uma visão plural do fenômeno e as dimensões de participação, dignidade e reconhecimento social. A pobreza não é condição natural e, ainda que histórica, dialética, portanto cabe sim enfrentamento a ela [@guzzo2016desigualdade]. 
+
+###  Brasil, um país de pobrezas: implicações socioeconômicas e psicossociais
+
+No Brasil, mesmo com os antigos compromissos de erradicação da pobreza em acordos internacionais e a saída do mapa da fome em 2012, o país tem retrocedido e amarga os números estimados em 61 milhões de pessoas na pobreza, sendo 19,3 milhões destas na extrema linha, segundo a pesquisa do Centro de Pesquisa em Macroeconomia das Desigualdades da Universidade de São Paulo [@nassifpires2021genero]. Assim, a pobreza permanece latente, absurda, imoral em todos os seus níveis.
+
+ A ocorrência deste cenário é, na maioria das vezes, explicada pelo viés economicista, de caráter neoliberal, mas precisa ser ampliada. Afinal, não se trata apenas de ausências materiais, a pobreza “pode acarretar formas específicas e opressoras de constituição da identidade, enfraquecendo as potencialidades dos indivíduos; mantendo as condições de opressão existentes na sociedade; e reproduzindo práticas discriminatórias voltadas aos indivíduos pobres” [@mourajunior2012reflexoes, p. 15]. 
+
+Dito isto, é preciso lembrar as rupturas de vínculos, as precariedades que a pobreza representa na maioria das vezes. No Brasil, nessa apartação que é social, cultural e política, pobreza e exclusão se alinham. Assim, a naturalização da pobreza e os estigmas dessa categoria ganham dimensão dolorosa [@wanderley1999refletindo].
+ 
+Nessa classe de descartáveis, não há um processo de cidadania, mas sim um de subcidadania, prática coletiva de reconhecimento social injusto. Nela, a noção de subcidadania implica uma hierarquia valorativa das pessoas, implícita e enraizada institucionalmente de modo invisível, que determina quem é ou não gente e, por consequência, quem é ou não cidadão. Tal processo incide fundamentalmente nos acessos diferenciados aos recursos materiais e simbólicos na vida social [@souza2003construcao].
+
+Diversos constrangimentos atravessam esse grupo não somente pelas faltas materiais, dado inquestionável, mas também pelas subjetivas, ou seja, no imaginário social dessas pessoas. Como uma parte disto, processos como vergonha e humilhação foram muito bem retratados nos estudos de Moura Jr. [-@mourajunior2012reflexoes], Ximenes et al. [-@ximenes2016implicacoes] e Jovchelevitch [-@jovchelovitch2013sociabilidades].  O campo da imaginação, do planejar, é fortemente afetado quando se vivencia contexto familiar/educacional atravessado pela situação de pobreza que “pode perpassar diferentes níveis e espaços: da fome às condições existenciais (subjetivas), e dessas condições às rupturas das relações de sociabilidades” [@accorssi2016representacoes, p. 91]. 
+
+Nesse sentido, estudar sobre as pobrezas e suas implicações nas subjetividades da população pobre atravessa a criação e constituição dos eventos e debates. Convidar, dialogar e ouvir estudiosas e estudiosos sobre o assunto foi um caminho para estimular em outros espaços e públicos a necessidade de maior aproximação com a temática em questão, favorecer a continuidade dos estudos/pesquisas, apresentar lacunas e refletir sobre outras (re)ações e lugares de atuação.
+
+### Desigualdades sociais: as interfaces da subcidadania nas sociedades periféricas
+
+O trabalho do sociólogo Jessé de Souza trouxe um grande acervo de teorias relacionadas ao processo de modernização excludente do Brasil e à produção de subcidadãos. Seu conceito de subcidadão revela a naturalização da opressão e da humilhação vivida pela maioria da população e é reconhecido por um conceito ilusório de igualdade na ordem competitiva atual.
+
+O indivíduo que já nasce desprovido de condições básicas como saúde, alimentação, educação, ou que tem acesso limitado a elas possui grandes chances de não atender às demandas do mercado competitivo, o que provavelmente não lhe dará reconhecimento social e “utilidade” neste modelo econômico (que se incorpora no social), podendo deixá-lo à mercê de dramáticas consequências políticas e pessoais.
+ 
+A subcidadania não está apenas relacionada com a marginalização histórica de vários grupos sociais, mas também com a reprodução e manutenção da maioria dos indivíduos fora da ordem objetiva de produção moderna, que requer personalidades e comportamentos específicos. O “tornar-se” um cidadão completo e produtivo está intimamente relacionado com o conceito de dignidade do sujeito racional. Como este modo de produção adquiriu características quase dogmáticas ao longo dos anos, o insucesso é visto como um infortúnio pessoal, fazendo com que milhões permaneçam à margem da sociedade [@souza2003construcao].
+
+A compreensão sobre a subcidadania e como ela se estrutura também parte de uma reinterpretação do conceito de habitus de Pierre Bourdieu pelo sociólogo Jessé Souza, o qual afirma:  
+
+> Se o habitus representa a incorporação nos sujeitos de esquemas avaliativos e disposições de comportamento a partir de uma situação socioeconômica estrutural, então mudanças fundamentais na estrutura económico-social deve implicar, consequentemente, mudanças qualitativas importantes no tipo de habitus para todas as classes sociais envolvidas de algum modo nessas mudanças [@souza2003construcao, p. 165]
+
+
+Souza [-@souza2003construcao] analisou o conceito de habitus em três esferas para que pudesse explicar outras configurações da realidade. Como habitus primário, define sua origem a partir dos estudos de Bourdieu sobre a transição das sociedades tradicionais para a sociedade moderna no Ocidente. Esse habitus teria se originado na burguesia, primeira classe dirigente na sociedade capitalista.
+
+
+Para Bourdieu o “habitus secundário” está na dimensão do “gosto”. Estaria no limite do "habitus precário" para cima, onde o “habitus primário” é estendido a uma ampla gama de pessoas em uma determinada sociedade. Está relacionada à fonte de reconhecimento e respeito social, na qual os padrões de classificação e distinção social desempenham um papel preponderante [@souza2003construcao].
+
+
+O foco do aprofundamento dessa teoria está no conceito cunhado por Souza [-@souza2003construcao] de "habitus precário". O conceito de habitus em sociedades marginais, o capitalismo tardio, pode ser estendido ao seu nível mais precário, em que seria um lugar marcado pela carência de um conjunto de tendências psicossociais refletidas no papel do produtor, no campo da personalidade, com reflexos diretos no papel do cidadão.
+
+
+Indivíduos desse habitus não incorporaram esses requisitos em suas vidas diárias para constituí-los como "cidadãos plenos e completos". Falta-lhes uma posição suficiente no mercado de trabalho, especialmente se atribuirmos ao trabalho os valores básicos que constituem esta "tríade meritocrática". A partir de sua qualificação, posição e salário, esse indivíduo e seu grupo serão reconhecidos em sua sociedade [@souza2003construcao].
+
+
+É possível, portanto, perceber que existe uma relação de poder, os que podem e os que não podem, os visíveis e os invisíveis, o legítimo e o ilegítimo, e, portanto, existe, por parte do social, uma dominação de posições e de espaços estabelecidos para esse outro, além deste de ser visto como o culpado pelas falhas sociais. Essa relação se fez possível a partir do momento em que a modernidade arquitetou uma lógica binária, a qual denominou de distintas formas o componente negativo da relação cultural: marginal, indigente, louco, deficiente, drogado, homossexual, estrangeiro, etc [@duschatzky2001nome].
+
+
+##  Eixo de debate: juventudes e educação: a relação dos jovens pobres com a escola
+
+Ao discutir as temáticas pobreza, desigualdade social e gênero, o ENEDDES direciona essas discussões para o público jovem, por entender que estes são diretamente afetados por esses fenômenos e por todas as suas implicações. Por isso, faz-se importante entender que juventude é essa que o evento tratou e a relação dos jovens pobres com a educação.
+
+De acordo com Léon [-@leon2005adolescencia], no país, diversas áreas de estudos e autores vêm se  dedicando a discutir as juventudes, construindo, assim, diversas visões a respeito dessa categoria, estruturadas a partir de diferentes perspectivas sociais e políticas, que acabam por fomentar e nortear ações voltadas para esse público. Essas perspectivas acabam por gerar visões dicotômicas sobre a juventude.
+
+As múltiplas imagens acerca da juventude são modelos socialmente construídos, que trazem muitas vezes visões simplistas, que nos impedem de “apreender os modos pelos quais os jovens, principalmente os de camadas populares, constroem suas experiências” [@dayrell2003jovem, p. 41], fazendo que essas vivências sejam, muitas vezes, negligenciadas.
+
+A juventude não pode ser tomada como um fenômeno único, singular, cronológico e homogêneo, analisada e compreendida a partir de um eixo rígido. Assim como afirma Cordeiro [-@cordeiro2009juventude] ser jovem vai além de uma fase geracional, pois está relacionado a experiências múltiplas de vida, ligados ao pertencimento dos jovens aos diferentes espaços sociais que ocupam, seja esse a escola, seja o trabalho, seja a comunidade. É transitar por essas vivências, sendo atravessado e constituído por elas.
+
+Nesse sentido, o ENNEDES trabalhou com a noção de juventude plural, heterogênea, e considerou os múltiplos modos e as experiências de ser jovem, entendendo os jovens enquanto sujeitos sociais, que se apropriam e interpretam os contextos em que estão inseridos, dando-lhes sentido, assim como dão sentido aos lugares que ocupam. Seriam, assim, os jovens sujeitos que se constituem biológica, social e culturalmente nas relações com os outros [@dayrell2003jovem]. 
+
+Tomar esses jovens enquanto sujeitos sociais significa considerar que cada um vive a condição de ser jovem a partir de contextos e histórias prévias. Então, marcadores como gênero, raça, condições econômicas, classe social e desigualdade interferem diretamente nos modos de se fazer jovem, bem como em suas trajetórias e na maneira como estes significam e compreendem a educação.
+
+A relação que os jovens estabelecem com a escola se constrói a partir de inúmeros marcadores e pode adquirir diversos significados. Sposito e Galvão [-@sposito2004experiencia] apontam que os significados que os jovens atribuem  à educação dão-se a partir da subjetivação e das experiências de cada indivíduo. Diante disso, é necessário considerar que a educação na vida de jovens pobres assume lugares distintos, para muitos é vista como uma etapa ou um dever a ser cumprido, para outros um instrumento de transformação das realidades vividas.
+
+A educação no Brasil é apontada tanto nos estudos, quanto nas ações de políticas públicas como uma das principais ferramentas de combate às desigualdades, sendo essencial para a superação dos problemas sociais e para a mobilidade social. Entretanto, essa relação entre desigualdade e educação rende diálogos permanentes, pois ora se aposta na educação para a superação das desigualdades sociais, ora ela é colocada como fonte eterna de reprodução das desigualdades [@yannoulas2013literatura].
+
+Bourdieu e Passeron [-@bourdieu2014herdeiros] descrevem a escola como um espaço de reprodução das desigualdades sociais, que são sentidas na distribuição desigual das chances escolares segundo a origem e a classe social, no acesso dos jovens pobres aos sistemas de ensino e no modo como esse acesso acontece.
+
+Souza [-@souza2009rale] destacou que, em um espaço marcado pela desigualdade social, a disseminação de conhecimentos avançados ainda se limita a crianças e jovens das classes dominantes. Enquanto isso, as crianças de famílias pobres recebem, na escola, uma educação limitada ao tipo de conhecimento básico exigido para sua futura vida profissional. Destaca, ainda, o mito do mérito individual (meritocracia), o qual dependeria de isolar o indivíduo da sociedade, como se tudo o que ele alcança na sua vida não dependesse das possibilidades que a sociedade lhe oferece
+ 
+Ao analisar a relação da pobreza com o público estudantil, a pesquisa de Duarte [@duarte2012politicasocial] aponta que 44% da população escolar no ensino fundamental público no Brasil estava em situação de pobreza em 2009. Em relação à região Nordeste, 67% dos alunos apresentavam-se em condições de vulnerabilidade social. 
+
+Ainda segundo a mesma autora, analisando os índices entre juventude e escolaridade, são grandes as disparidades. Enquanto na faixa etária de 19 anos, 76% dos alunos dos 25% mais ricos tinham concluído o ensino médio, na dos 25% mais pobres essa taxa cai para 16%.  Em relação aos jovens entre 15 e 17 anos que frequentam o ensino médio, o índice é de 81% entre os mais ricos e de 30% entre os mais pobres. Esses índices apontam para o fato de que alunos pobres não são minorias nas escolas públicas, tratam-se de uma maioria, que precisa ser olhada [@duarte2012politicasocial].
+
+Ao pensarmos as interfaces da subcidadania na educação, a questão muitas vezes é demarcada pelo olhar de muitos educadores sobre o estudante empobrecido, como destaca Souza [-@souza2009rale]:
+
+> … Analisando textos de políticas públicas em educação do Estado de São Paulo, constatou a presença de concepções depreciativas a respeito das classes populares, as quais vinham acompanhadas da ideia de que a escola precisa assumir o papel da família. Tal perspectiva acaba por transformar a instituição escolar em um espaço principalmente de socialização, tendo a sua capacidade de cumprir sua função social prejudicada (p. 51).
+
+Ao pensarmos a política pública de educação, reconhecemos esse campo como um forte demarcador das diferenças individuais, na medida em que por muito tempo se constituiu sobre a esfera da diferença e da categorização dos indivíduos, estando aí as diversas manifestações da pobreza e da desigualdade social. Assim, cabe à escola a tarefa de avaliar de forma permanente o seu fazer, de pensar e experimentar novas práticas educativas para melhor estabelecer relações com a realidade social em que se insere. Salienta-se que não se trata de destruir ou extinguir parâmetros estabelecidos, mas de gerar uma desnaturalização das medidas tradicionais de ensino para assim constituir práticas de ensino que promovam a educação de fato e a cidadania como consequência.
+
+É de fundamental importância que se perceba que o contexto escolar está fortemente vinculado à constituição de uma representação social e subjetiva. A pluralidade de formas de estruturação faz com que se forme uma dialética entre a normatização ou permissividade. A escola vai servir de mediadora, ou melhor, ambiente que vai propor mediações entre indivíduos que serão constituídos a partir da interação com os outros e dos posicionamentos que ocuparão mediante o contexto social no qual se inserem.
+
+Ao pensarmos a educação como promotora da cidadania, esta deve conceber em seu escopo a diversidade social e reconhecer esses indivíduos como sujeitos de direitos, que vêm de realidades culturais e de vivências diferenciadas, que constroem seu referencial de pensamento e de ação a partir disso. Cabe ao professor ampliar o seu olhar para além dos muros da escola, conhecer o território de onde o estudante parte, os seus valores, o que é significativo em sua vida.
+
+Nesse sentido, a educação escolar é um dos espaços principais e fundamentais para a divulgação sistemática dos princípios relativos às diferenças, às diversidades e às desigualdades, em que se faz necessária a atuação de professores comprometidos e bem informados, no entanto a própria formação dos professores nos temas relacionados ainda é, muito restrita, dificultando um trabalho de qualidade com os alunos em diversos níveis de ensino, pois não basta o educador ter boas intenções para lidar com a questão da diferença, diversidade e desigualdade, é preciso muito mais que isso, é necessário embasamento teórico e conhecimento sobre os referidos assuntos.
+
+Além de a escola servir como mecanismo, o lugar para a diferença não deve ser forçado, mas manejado. A escola não deve se colocar como instituição de conceitos e formas fixas de lidar com os indivíduos, mas sim perceber-se como instituição que lida com sujeitos que se apresentam nas várias performances possíveis.
+
+
+Com isso, a educação pode se constituir em valioso instrumento de auxílio à liberação dos grupos historicamente empobrecidos, consolidando a geração de direitos; ou pode se configurar no seu contrário, isto é, converter-se em mais um instrumento de humilhação, rechaço social e desdém dos agentes públicos em relação aos pobres, reforçando estereótipos e preconceitos [@brandao2013programabolsafamilia].
+
+## Eixos em transgressão: diversidades
+
+Além dos eixos temáticos iniciais, foram acrescentados às discussões do evento, temas como: gênero, movimento LGBTQIA +, raça/etnia, juventudes periféricas, vidas e saberes marginais. Espaço para outras epistemologias são necessárias para assegurar o embasamento dos estudos e das ações. Assim, estudos decoloniais, feminismo negro, estudos feministas e de gênero também incorporam as bases de investigações e análises dos trabalhos do programa de extensão e futuros eventos.
+
+###  Interseccionalidade
+
+Partindo das inquietações e experiências oriundas da extensão, o ENEDDES atentou para articulação de um evento voltado para o debate dos temas e trabalhos a partir do conceito de interseccionalidade. Conforme Akotirene [-@akotirene2019interseccionalidade], o conceito de interseccionalidade é múltiplo, sendo uma teoria, metodologia e instrumento de investigação que, articulando raça, gênero e classe, critica interseccional e convergência das estruturas cisheteronormativo/patriarcal/imperialista/racista, dentre outras, bem como uma ética que visa à recuperação de vozes silenciadas, corpos anulados, novas humanidades. Neste sentido, na analogia de Crenshaw [-@crenshaw2002documento], pensar a partir da interseccionalidade é perceber o choque entre estruturas historicamente opressoras como vias de tráfego que ditam vantagens e desvantagens a depender do seu “lugar” no mundo. Pensar e articular as problemáticas sociais de modo interseccional permite a análise sobre a dinâmica da estrutura social e dos seus perniciosos produtos. Não se trata de sobreposição de opressões, de quantificar as dores, mas de pensar e desenvolver politicamente outros modos de (re)conhecimentos.
+
+### Gênero: compreensões múltiplas, mas ainda desconhecidas dos saberes populares. 
+
+Gênero é termo, conceito de amplo debate não para fins de produção de uma definição exata, estática, mas com objetivo de promoção de diálogo e com distanciamento de entendimentos equivocados acerca do tema. Ainda é presente e bastante perigosa a compreensão de que gênero e sexualidade são relacionais e naturais.
+
+Destarte, em relação ao gênero, conceito produzido a partir dos movimentos e lutas feministas, também não há um consenso e definição exata. No entanto, conforme autoras como Berenice Bento, Guacira Louro e Judith Butler, gênero, ainda que considere elementos físicos do corpo, não é definido pelo sexo biológico ou sexualidade. Gênero é uma construção social e histórica sobre as distinções biológicas dos corpos que são atravessadas por características sexuais socialmente elaboradas. São nas relações sociais, discursos e linguagens que o gênero, performance de gênero, emerge e se reproduz.
+ 
+Constituinte de subjetividades, não há um determinismo, essencialismo biológico, mas uma questão social, relacional sobre a categoria, que é analítica e política. É também na arena social das práticas relacionais, institucionais, que as desigualdades, hierarquias de gênero ocorrem.
+
+## Considerações finais
+
+A existência do ENEDES, posteriormente ENEDDES, apenas tem ocorrido em razão do tripé universitário: ensino, pesquisa e extensão. Tanto por isso, é impossível pensar ENEDDES sem LAEDDES. Para as pessoas que desenharam os encontros, a sala de aula é ampliada para além das disciplinas. Em cada texto, discussão e tema, existiam lutas nesse processo: acolher, aprender, compartilhar. Pautados por uma educação como prática de liberdade e não como atividade de dominação [@hooks2013ensinar], o chão do evento sempre estará traçado. 
+
+Ressalta-se a dificuldade diária em esperançar, principalmente após o período mais progressista da suposta democracia brasileira. A difamação dos direitos humanos, o sucateamento das políticas públicas, os congelamentos de gastos públicos, a mercantilização da educação pública, a estrutura governamental fascista e a pandemia da Covid-19 agravaram ainda mais as desigualdades sociais, pobrezas e tendo silenciado as juventudes e os  saberes marginais. 
+
+Apesar das limitações que o evento enfrentou, esperamos que, ao apresentar a memória do ENEDDES, possa, para além de registrar nossas existências, contribuir com maiores estudos sobre o tema, fomentar outras pesquisas sobre o assunto, fortalecer práticas e políticas públicas que visem ao combate contra as desigualdades, sobretudo nas instituições educacionais.
+
