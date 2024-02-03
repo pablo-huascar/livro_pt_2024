@@ -31,19 +31,32 @@ Francisco Pablo Huascar Aragão Pinheiro
 
 João Paulo Silva Matos
 
-(joaopaulosmatos2\@gmail.com)
+::: {.callout-note appearance="simple" icon=false}
+
+[joaopaulosmatos2\@gmail.com](mailto: joaopaulosmatos2@gmail.com)
+
+:::
 
 **Codificação para construção do livro**
 
-Esthela Sá Cunha
+Esthela Sá Cunha 
 
-Beta Consultoria e Assessoria Acadêmica
+::: {.callout-note appearance="simple" icon=false}
 
-beta.consultac\@gmail.com
+## Beta Consultoria e Assessoria Acadêmica
+<br>
+[beta.consultac\@gmail.com](mailto: beta.consultac@gmail.com)
 
 [\@beta_consultoria_academica](https://www.instagram.com/beta_consultoria_academica/ "Instagram"){.external target="_blank"}
 
 [https://esthela.quarto.pub/beta/](https://esthela.quarto.pub/beta/){.external target="_blank"}
 
-Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) \[processo número Processo: BP5-0197-00046.01.00/22\].
+:::
+
+Francisco Pablo Huascar Aragão Pinheiro
+
+**Financiamento**
+
+Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) \[processo número: BP5-0197-00046.01.00/22\].
+
 :::

@@ -1,0 +1,129 @@
+---
+author: 
+  - name: Antonia Renata Lopes Lima
+    orcid: 0000-0002-8971-7280
+    email: renatalopeslima@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Natália Santos Marques
+    orcid: 0000-0003-4994-3811
+    email: nataliamarques@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: lima_assessoria.bib
+reference-section-title: Referências
+---
+
+# Título
+
+## Introdução
+
+O presente texto relata uma assessoria realizada a partir de intervenções voltadas ao letramento de gênero na escola. Esta assessoria foi conduzida em resposta à crescente necessidade de enfrentar as profundas desigualdades de gênero presentes na sociedade, particularmente no contexto educacional.
+
+A demanda por intervenções relacionadas ao letramento de gênero torna-se evidente diante das questões destacadas por estudos recentes, que ressaltam a importância de abordar as disparidades de gênero para combater a violência contra as mulheres (Smith et al., 2021) e os impactos negativos do sexismo nos comportamentos e nas habilidades emocionais dos homens (Jones; Johnson, 2020). Esta demanda alinha-se às diretrizes da Organização das Nações Unidas para Educação, Ciência e Cultura (UNESCO) sobre educação para a igualdade de gênero e o empoderamento das mulheres, que reforçam a relevância de intervenções educacionais contextualizadas para promover uma sociedade mais equitativa (UNESCO, 2019).
+
+Com o intuito de promover o letramento de gênero nas escolas, a intervenção realizada fundamentou-se na compreensão multifacetada do conceito de gênero, que vai além da binariedade tradicional. Desta forma, explorou aspectos como a relação entre estereótipos de gênero e sexo, orientação sexual e influência cultural na construção do repertório comportamental de homens e mulheres (Zanello, 2018; Marques, 2020; Butler, 2012; Skinner, 1974/2006).
+
+Nesse sentido, considera-se o gênero como uma construção social que perpetua caminhos privilegiados de subjetivação na sociedade ocidental (Marques, 2021). Assim, o patriarcado emerge como uma ideologia que sustenta a diferença de poder entre homens e mulheres (Saffioti, 2004/2015; Lerner, 2019). As desigualdades de gênero manifestam-se em diversas esferas, desde situações cotidianas de violência até disparidades no mercado de trabalho (Ortolan & Guerin, 2017; Sérgio, 2022).
+
+A compreensão dos padrões culturais que perpetuam as desigualdades de gênero é fundamental para direcionar intervenções educacionais eficazes, dentre as quais se destacam as tecnologias de gênero: mecanismos que impulsionam o aprendizado de comportamentos supostamente destinados a homens e a mulheres, que podem ser filmes, novelas, brincadeiras, dentre outros. Tais tecnologias moldam o ser homem e o ser mulher culturalmente valorizado e impactam diretamente na formação de estereótipos de gênero. Isto contribui para a relação desigual de poder entre homens e mulheres que se perpetua nas diversas esferas da sociedade (Lauretis, 1994).
+
+Na busca por diminuir essas desigualdades, uma estratégia pode ser adotada: a inserção de discussões de gênero no contexto escolar, pois a escola, como aparelho social, desempenha um papel crucial na reprodução ou desconstrução dessas normas (Jardim; Abramowicz, 2005; Eugênio; Jardim, 2020). A escola, ao comprometer-se com a promoção de ações educacionais voltadas ao não sexismo, pode contribuir significativamente para a reflexão e para a mudança cultural. Essa inserção, respaldada pelos Parâmetros Curriculares Nacionais (PCNs), deve ser realizada de maneira dialógica e participativa, reconhecendo a escola como um espaço democrático (Alves, 2018; Rena, 2006).
+
+Autores que exploram a relação entre gênero e educação enfatizam que a escola atua como um agente influente na formação de indivíduos e na reprodução de desigualdades. Marcadores como a separação de meninos e meninas em atividades escolares; os livros disponibilizados na biblioteca, onde os de romance e poesia são destinados às meninas, e os de ação e aventura aos meninos; a quadra da instituição, que geralmente é usada por meninos para a prática esportiva; e a organização dos demais espaços físicos da escola, todos contribuem para processos de aprendizagem desiguais (Moreira et al., 2021; Louro, 1997).
+
+Dentre as iniciativas pedagógicas para desconstruir normas de gênero, sugere-se a criação de grupos de discussão, a inclusão de conteúdos sobre gênero e sexualidade nos currículos escolares, a organização de atividades mistas. Também mostra-se relevante a formação de professores sensíveis a questões de gênero (Soares, 2003). No que se refere a experiências de intervenções que relacionam gênero e educação, pode-se mencionar atividades com professores e alunos voltadas à modificação de percepções sobre gênero e à redução de níveis de preconceito (França, 2009; Sousa, 2017).
+
+Desta maneira, a presente assessoria visou promover letramento de gênero no ensino fundamental II. Espera-se, assim, contribuir para o avanço da igualdade de gênero na sociedade.
+
+### Letramento de gênero nas escolas
+
+No âmbito do letramento de gênero, é imprescindível considerar a influência dos discursos sociais que permeiam a construção das identidades de gênero. Nesse contexto, as práticas de letramento desempenham um papel crucial na desconstrução de estereótipos e na promoção de uma educação inclusiva e igualitária. A abordagem de gênero no ambiente escolar não se resume apenas a transmitir informações, mas demanda a criação de estratégias pedagógicas que estimulem a reflexão crítica sobre as construções sociais de gênero (Louro, 2000).
+
+Ademais, é necessária a abordagem das múltiplas dimensões da identidade, como raça e classe na construção das práticas de letramento de gênero na escola (Zanello, 2018). Essa construção, portanto, não deve ser dissociada de uma visão interseccional, que reconhece as diferentes formas de opressão e discriminação presentes na sociedade.
+
+Nesse sentido, algumas iniciativas pedagógicas podem ser implementadas na escola para desconstruir as normas de gênero e sexualidade: formação de grupos de discussão para o compartilhamento de experiências entre os alunos; modificação dos currículos escolares e da formação de professores, de modo a promover a educação sexual e de gênero; debates sobre diversidade sexual, realização de atividades mistas e inclusão de personagens LGBTQIA+ em atividades como peças de teatro (Soares, 2003). Vê-se, portanto, que o professor desempenha um papel crucial na criação de um ambiente educacional que promova o respeito à diversidade de gênero. A formação continuada dos educadores, aliada a uma postura reflexiva, é essencial para o sucesso da incorporação do letramento de gênero no currículo escolar (Scott, 1995).
+
+Em síntese, a construção de práticas de letramento de gênero na escola demanda uma abordagem teórica abrangente e multidisciplinar. A integração entre perspectivas interseccionais, estratégias didáticas participativas e atuação do educador são elementos-chave para o desenvolvimento de um ambiente escolar inclusivo e alinhado aos princípios da equidade de gênero.
+
+## A intervenção realizada
+
+### Visita inicial à escola, divulgação da proposta e assinatura de termos de consentimento e assentimento
+
+A intervenção foi realizada em uma escola pública de tempo integral de uma cidade com aproximadamente 20.000 habitantes, localizada no interior do estado do Ceará, entre os meses de agosto e outubro de 2022. Após contato prévio com o núcleo gestor da instituição, foi agendada uma visita para oficializar a parceria. Nesse momento, foi feita uma breve explanação dos objetivos e da temática da intervenção, bem como da metodologia que seria utilizada. Estavam presentes a diretora administrativa e a coordenadora dos anos finais do ensino fundamental. Ambas mostraram-se dispostas a colaborar e ofereceram o espaço da sala de vídeo, bem como disponibilizaram o horário das quartas-feiras pela manhã para a realização dos encontros.
+
+Ficou acordado que os alunos seriam retirados de sala nos dois primeiros tempos de aula (07:00 – 08:40) e levados ao ambiente destinado à intervenção. Tal operacionalização foi conversada com professores e professoras que ministravam aulas nesse período, e todos concordaram com a sistemática. Finalizando a visita, foi fechada a data da divulgação para os alunos e a do início das ações.
+
+No dia subsequente, uma nova ida à escola aconteceu para divulgar a intervenção entre os estudantes. Nesse dia, foram apresentados para os discentes os preceitos básicos da intervenção e a metodologia dos encontros, bem como foram tiradas dúvidas acerca do que foi abordado. Os discentes também foram informados de que as intervenções seriam iniciadas na semana seguinte, realizadas sempre às quartas-feiras.
+
+Aos interessados em participar, foi disponibilizado o Termo de Assentimento, dada a faixa etária dos alunos, e o Termo de Consentimento Livre e Esclarecido (TCLE), na medida em que a intervenção fazia parte de um estudo mais amplo, aprovado pelo Comitê de Ética em Pesquisa da Universidade Estadual Vale do Acaraú (CAEE XXXXX). Os responsáveis foram informados sobre os procedimentos aos quais os discentes seriam submetidos e poderiam, a qualquer momento, questionar e dirimir as possíveis dúvidas.
+
+Ficou acordado com o núcleo gestor e com os estudantes que, caso os responsáveis sentissem a necessidade de esclarecer alguma dúvida, estes poderiam ir até a escola, pois a pesquisadora estaria lá durante o primeiro horário da manhã para recebê-los. Nenhum pai ou responsável procurou a escola ou a pesquisadora.
+
+### Participantes
+
+Participaram da intervenção 25 estudantes, dentre os quais 13 eram do sexo feminino e 12 do sexo masculino, das séries finais do ensino fundamental: 7° ano (4 participantes), 8° ano (12 participantes) e 9° ano (9 participantes). Os alunos não foram divididos em termos de sexo, idade e série a qual estavam cursando.
+
+### O percurso da intervenção
+
+A intervenção foi conduzida nas dependências da escola em uma sala reservada pela instituição. Os alunos sempre dispuseram as cadeiras em círculo. Não foi uma exigência da pesquisadora que conduzia a intervenção, mas percebeu-se que, dessa maneira, todos se sentiam acolhidos, e isso motivava a participação. Enquanto os alunos realizavam alguma tarefa determinada, a pesquisadora andava pela sala e tirava dúvidas recorrentes da própria tarefa.
+
+As intervenções em grupo foram divididas em cinco encontros estruturados seguindo proposta de França (2009), cada um abordando uma temática relacionada ao gênero: a) ativação dos conhecimentos prévios dos participantes acerca das temáticas; b) explicação e justificativa da compreensão que o grupo teve a respeito do tema; c) problematização dessa compreensão; d) levantamento de conceitos alternativos aos que foram levantados nas etapas anteriores; e) conclusões provisórias de cada sessão. Cada encontro teve duração de 1h30min.
+
+#### Encontro 1: conhecendo os participantes
+
+Todos os participantes estiveram presentes no primeiro encontro, que foi dedicado à apresentação dos alunos. Para tanto, realizou-se a atividade de “autorretrato”, que visou à aproximação e ao fortalecimento dos vínculos entre os integrantes do grupo e entre estes e a pesquisadora. Foram distribuídos papéis e lápis coloridos, solicitando-se que cada discente fizesse uma descrição de suas características. Esta atividade promove um momento de autorreflexão sobre a identidade e possibilita uma maior aproximação com o “outro”. Além disso, envolve os sentimentos e a criatividade, de modo a permitir reflexão sobre a própria identidade (Maia, Sobrinho & Lira, 2013).
+
+Cada participante mostrou sua produção aos demais, que observavam e tentavam descrever o que enxergavam na imagem. A dinâmica cumpriu com seu objetivo, pois o engajamento dos alunos mostrou que eles puderam se aproximar e conhecer melhor uns aos outros.
+
+Findada esta dinâmica, prosseguiu-se com o repasse de informações e esclarecimento de dúvidas dos participantes. Os termos acordados anteriormente foram reiterados. Ademais, foi enfatizado que a pesquisadora seria responsável por conduzir os alunos, buscando-os em suas respectivas salas de aula e encaminhando-os ao local dos encontros. Esta prática foi implementada para evitar dispersões nas instalações da escola, assegurando, assim, a presença e o envolvimento dos participantes durante os encontros programados.
+
+#### Encontro 2: o gênero nas músicas
+
+O segundo encontro contou com a participação de vinte e três estudantes e teve como objetivo a apresentação e aproximação da temática do gênero aos participantes. A abordagem teve início com um questionamento aos alunos sobre conceito de gênero, e, a partir das respostas, foi realizada uma breve explanação sobre o tema com exposição do conceito de gênero e da relevância deste para a nossa construção enquanto seres humanos, a diferença entre gênero e sexo e as consequências e os impactos que os estereótipos de gênero trazem para a vida em sociedade.
+
+Dando continuidade, foram apresentados exemplos de instrumentos culturais que reforçam as desigualdades e consequências discutidas anteriormente. Para isso, algumas composições musicais foram utilizadas, bem como o seguinte questionamento: como estereótipos de gênero são veiculados nas composições musicais que frequentemente ouvimos?
+
+Três composições brasileiras de estilos distintos foram selecionadas para ilustrar essa etapa da discussão: "Estranha Loucura", na interpretação da renomada cantora Alcione; "Vidinha de Balada", interpretada pela dupla Henrique e Juliano; e "Desconstruindo Amélia", na voz da cantora Pitty. A escolha dessas músicas, por sua vez, foi embasada exclusivamente no critério de serem composições brasileiras, apresentarem estilos musicais diversos e conterem letras que suscitam a discussão central desta investigação.
+
+A primeira composição musical analisada aborda a temática da virilidade masculina e da submissão feminina em contextos amorosos. Intitulada 'Estranha Loucura', a música retrata a vivência de uma mulher que se percebe 'louca' por estar envolvida em um relacionamento unilateral, no qual suas ações são desproporcionalmente dedicadas a manter a relação, enquanto o parceiro permanece passivo. Ela carrega o peso da responsabilidade pelo relacionamento, assumindo a culpa por eventuais desacordos, ao passo que o parceiro é eximido de qualquer responsabilidade. Nesse contexto, os padrões tradicionalmente associados à feminilidade são representados pela expectativa de compreensão e amabilidade incondicionais, enquanto os padrões de masculinidade são definidos pela dependência e humilhação impostas à mulher (Jesus, 2019).
+
+Na segunda canção, observa-se que a virilidade masculina é enfatizada por meio da expressão sexual e da demonstração de força, destacando-se na narrativa em que o sujeito coage a figura feminina a amá-lo a qualquer custo. Além disso, a música perpetua a ideia de que a mulher desejável para o casamento é aquela que evita ambientes festivos, mantém uma postura recatada e abstém-se do consumo de bebidas alcoólicas. A letra da canção, de forma subliminar, dissimula a violência e normaliza comportamentos característicos de relacionamentos abusivos, como beijos forçados, imposição de regras e coerção afetiva, retratando tais atitudes como românticas e socialmente aceitáveis.
+
+A escolha da última composição musical foi deliberada para introduzir uma perspectiva contrastante em relação às temáticas apresentadas nas músicas anteriores. A letra desta música explora o processo de emancipação feminina, deslocando-se do tradicional papel da mulher confinada ao lar e à família. Em vez disso, a narrativa destaca uma mulher que trabalha fora de casa, que cuida de si mesma e que se permite momentos de lazer e diversão. Esta representação desafia os papéis socialmente impostos à mulher, evidenciando a existência de identidades femininas multifacetadas, para além das limitações historicamente estabelecidas (Jesus, 2019)
+
+Os alunos foram divididos em equipes menores, receberam a letra impressa de cada música e foram orientados a discutirem os seguintes tópicos: (a) representação da mulher nas canções; (b) três comportamentos problemáticos do homem mencionados nas letras; (c) transformações no comportamento masculino destinadas a evitar tais comportamentos problemáticos; (d) mudanças de comportamento percebidas na mulher ao longo das músicas. O propósito foi investigar as dinâmicas de gênero presentes nas letras e identificar estereótipos, padrões comportamentais e eventuais evoluções narrativas, proporcionando uma análise crítica das mensagens veiculadas.
+
+Adicionalmente, durante a atividade, foram discutidas as implicações dos comportamentos abusivos motivados pelo gênero na formação da nossa identidade individual e nas dinâmicas sociais. Para embasar essas discussões, foram apresentados dados relacionados à violência contra as mulheres e seus impactos no processo de construção da subjetividade tanto para homens quanto para mulheres. Durante essa interação, os alunos não apenas responderam às perguntas propostas, mas também compartilharam exemplos relevantes, o que demonstrou um envolvimento na atividade. Importante ressaltar que, nesse momento, os grupos foram formados de maneira espontânea, proporcionando uma dinâmica mais fluida e participativa.
+
+Para encerrar, foi feito um breve resumo do que havia sido discutido e foi questionado aos participantes o que eles teriam aprendido naquele momento.
+
+#### Encontro 3: tecnologias de gênero
+
+O terceiro encontro contou com a presença de todos os participantes e se iniciou com uma revisão do conceito de gênero e dos pontos-chave discutidos no encontro anterior. Em seguida, com o intuito de avaliar o conhecimento prévio dos participantes, foi apresentada uma série de imagens culturalmente associadas aos estereótipos de gênero masculino e feminino. Essas imagens foram selecionadas para ilustrar as 'oposições e desigualdades' entre os gêneros, exemplificando os dispositivos de amor/maternidade e de virilidade descritos por Zanello (2018).
+
+::: {layout-nrow="5"}
+![Representação de bebida alcoólica](\imagens\renata_11.jpg){#fig-alcool width="397"}
+
+![Representação do trabalho com números (produtivo)](\imagens\renata_1.jpg){#fig-trabalho width="395"}
+
+![Representação de força física](\imagens\renata_10.jpg){#fig-forca width="395"}
+
+![Representação de poder/liderança](\imagens\renata_4.jpg){#fig-poder width="396"}
+
+![Representação de debate político](\imagens\renata_8.jpg){#fig-debate width="397"}
+
+![Representação de debate político](\imagens\renata_3.jpg){#fig-casamento width="397"}
+
+![Representação de procedimento estético](\imagens\renata_2.jpg){#fig-estetico width="396"}
+
+![Representação de amor romântico](\imagens\renata_9.jpg){#fig-romantico width="395"}
+
+![Representação do emagrecimento](\imagens\renata_5.jpg){#fig-magro width="394"}
+
+![Representação do silêncio](\imagens\renata_6.jpg){width="399"}
+:::

@@ -43,16 +43,17 @@ book:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd
         - melo_assessoria.qmd
-        #- rodrigues_relatorio_tecnico.qmd
+        - rodrigues_relatorio_tecnico.qmd
         - costa_assessoria_saae.qmd
         - sampaio_assessoria.qmd
+        - lima_assessoria.qmd
 
     - part: Curso para formação profissional
       chapters:
         - barros_cursos_vieses.qmd
         - bomfim_metodologias_part.qmd
         - martins_clinica_estetica.qmd
-        #- sena_curso_r.qmd
+        - sena_curso_r.qmd
     
     - part: Material didático
       chapters: 
