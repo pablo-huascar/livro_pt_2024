@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 63be0048-ffc6-422d-aa4b-a105b16ee53a
+      url: 'https://fphap.quarto.pub/produções-técnicas-em-psicologia'
+    - id: cca59121-ea32-4371-a2b0-98bf85bdf241
+      url: 'https://fphap.quarto.pub/produções-técnicas-em-psicologia'
