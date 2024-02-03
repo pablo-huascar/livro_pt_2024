@@ -115,7 +115,7 @@ Uma das atividades realizadas pelo Artes Insurgentes junto ao FEPGBJ foi a organ
 Outra atividade desenvolvida com FEPGBJ na semana foi a participação no Sarau Cada Vida Importa. Nesse espaço, auxiliamos na produção da Exposição Insurgente, esta presencial, que reuniu produções de estudantes que participaram das oficinas do III Festival das Juventudes e dos encontros do Projeto Artes Insurgentes realizados de agosto a novembro de 2021 nas escolas públicas parceiras do projeto. A exposição contou com obras de diversas linguagens artísticas, como poesias, ensaios, crônicas, desenhos e fotografias, ocorreu também no mês de novembro de 2021 e foi instalada na entrada no Centro Cultural Bom Jardim, possibilitando que artistas e público geral do Sarau Cada Vida Importa pudessem visitar e conhecer as obras. As produções envolveram temáticas relacionadas ao racismo, à diversidade sexual, ao direito à cidade, às paixões e ao enfrentamento à COVID-19, especialmente àquelas ligadas à Gincana Xô COVID, citada anteriormente. Foram mais de cinquenta telas impressas em papel couchê que tornaram a exposição plural e que fizeram abranger o alcance dessas produções artísticas. Uma experiência de visibilidade e valorização das expressões juvenis.
 
 ::: {#fig-visitante layout-ncol="1"}
-![](\imagens\producao_pt_pesquisa_01.jpg)
+![](.\imagens\producao_pt_pesquisa_01.jpg)
 
 Visitante explorando a Exposição Insurgente
 :::
@@ -145,7 +145,7 @@ Já o IV Festival das Juventudes, ocorrido entre os meses de maio e junho de 202
 Durante a quarta edição, a equipe do Artes Insurgentes também esteve presente na mesa de abertura do festival, a qual possuía como tema “ser jovem”. Além disso, integrantes do Artes Insurgentes compuseram a programação do evento facilitando uma oficina intitulada “Negritudes e literaturas periféricas: fazendo fanzines”. Tal oficina teve a duração de duas horas e contou com a participação de 14 estudantes.
 
 ::: {#fig-integrante layout-ncol="1"}
-![](\imagens\producao_pt_pesquisa_02.jpg)
+![](.\imagens\producao_pt_pesquisa_02.jpg)
 
 Integrante do Artes Insurgentes na abertura do IV Festival das Juventudes
 :::

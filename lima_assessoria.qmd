@@ -24,29 +24,29 @@ reference-section-title: Referências
 
 O presente texto relata uma assessoria realizada a partir de intervenções voltadas ao letramento de gênero na escola. Esta assessoria foi conduzida em resposta à crescente necessidade de enfrentar as profundas desigualdades de gênero presentes na sociedade, particularmente no contexto educacional.
 
-A demanda por intervenções relacionadas ao letramento de gênero torna-se evidente diante das questões destacadas por estudos recentes, que ressaltam a importância de abordar as disparidades de gênero para combater a violência contra as mulheres (Smith et al., 2021) e os impactos negativos do sexismo nos comportamentos e nas habilidades emocionais dos homens (Jones; Johnson, 2020). Esta demanda alinha-se às diretrizes da Organização das Nações Unidas para Educação, Ciência e Cultura (UNESCO) sobre educação para a igualdade de gênero e o empoderamento das mulheres, que reforçam a relevância de intervenções educacionais contextualizadas para promover uma sociedade mais equitativa (UNESCO, 2019).
+A demanda por intervenções relacionadas ao letramento de gênero torna-se evidente diante das questões destacadas por estudos recentes, que ressaltam a importância de abordar as disparidades de gênero para combater a violência contra as mulheres (Smith et al., 2021) e os impactos negativos do sexismo nos comportamentos e nas habilidades emocionais dos homens (Jones; Johnson, 2020). Esta demanda alinha-se às diretrizes da Organização das Nações Unidas para Educação, Ciência e Cultura (UNESCO) sobre educação para a igualdade de gênero e o empoderamento das mulheres, que reforçam a relevância de intervenções educacionais contextualizadas para promover uma sociedade mais equitativa [@unesco2017education].
 
-Com o intuito de promover o letramento de gênero nas escolas, a intervenção realizada fundamentou-se na compreensão multifacetada do conceito de gênero, que vai além da binariedade tradicional. Desta forma, explorou aspectos como a relação entre estereótipos de gênero e sexo, orientação sexual e influência cultural na construção do repertório comportamental de homens e mulheres (Zanello, 2018; Marques, 2020; Butler, 2012; Skinner, 1974/2006).
+Com o intuito de promover o letramento de gênero nas escolas, a intervenção realizada fundamentou-se na compreensão multifacetada do conceito de gênero, que vai além da binariedade tradicional. Desta forma, explorou aspectos como a relação entre estereótipos de gênero e sexo, orientação sexual e influência cultural na construção do repertório comportamental de homens e mulheres [@Zanello2018; Marques, 2020; @butler2012problemas; Skinner, 1974/2006].
 
-Nesse sentido, considera-se o gênero como uma construção social que perpetua caminhos privilegiados de subjetivação na sociedade ocidental (Marques, 2021). Assim, o patriarcado emerge como uma ideologia que sustenta a diferença de poder entre homens e mulheres (Saffioti, 2004/2015; Lerner, 2019). As desigualdades de gênero manifestam-se em diversas esferas, desde situações cotidianas de violência até disparidades no mercado de trabalho (Ortolan & Guerin, 2017; Sérgio, 2022).
+Nesse sentido, considera-se o gênero como uma construção social que perpetua caminhos privilegiados de subjetivação na sociedade ocidental [@Marques2021]. Assim, o patriarcado emerge como uma ideologia que sustenta a diferença de poder entre homens e mulheres [@Saffioti2015; @Lerner2019]. As desigualdades de gênero manifestam-se em diversas esferas, desde situações cotidianas de violência até disparidades no mercado de trabalho [@guerin2017analyzing].
 
-A compreensão dos padrões culturais que perpetuam as desigualdades de gênero é fundamental para direcionar intervenções educacionais eficazes, dentre as quais se destacam as tecnologias de gênero: mecanismos que impulsionam o aprendizado de comportamentos supostamente destinados a homens e a mulheres, que podem ser filmes, novelas, brincadeiras, dentre outros. Tais tecnologias moldam o ser homem e o ser mulher culturalmente valorizado e impactam diretamente na formação de estereótipos de gênero. Isto contribui para a relação desigual de poder entre homens e mulheres que se perpetua nas diversas esferas da sociedade (Lauretis, 1994).
+A compreensão dos padrões culturais que perpetuam as desigualdades de gênero é fundamental para direcionar intervenções educacionais eficazes, dentre as quais se destacam as tecnologias de gênero: mecanismos que impulsionam o aprendizado de comportamentos supostamente destinados a homens e a mulheres, que podem ser filmes, novelas, brincadeiras, dentre outros. Tais tecnologias moldam o ser homem e o ser mulher culturalmente valorizado e impactam diretamente na formação de estereótipos de gênero. Isto contribui para a relação desigual de poder entre homens e mulheres que se perpetua nas diversas esferas da sociedade [@Lauretis1994].
 
-Na busca por diminuir essas desigualdades, uma estratégia pode ser adotada: a inserção de discussões de gênero no contexto escolar, pois a escola, como aparelho social, desempenha um papel crucial na reprodução ou desconstrução dessas normas (Jardim; Abramowicz, 2005; Eugênio; Jardim, 2020). A escola, ao comprometer-se com a promoção de ações educacionais voltadas ao não sexismo, pode contribuir significativamente para a reflexão e para a mudança cultural. Essa inserção, respaldada pelos Parâmetros Curriculares Nacionais (PCNs), deve ser realizada de maneira dialógica e participativa, reconhecendo a escola como um espaço democrático (Alves, 2018; Rena, 2006).
+Na busca por diminuir essas desigualdades, uma estratégia pode ser adotada: a inserção de discussões de gênero no contexto escolar, pois a escola, como aparelho social, desempenha um papel crucial na reprodução ou desconstrução dessas normas [@JardimAbramowicz2005; @eugenio2020genero]. A escola, ao comprometer-se com a promoção de ações educacionais voltadas ao não sexismo, pode contribuir significativamente para a reflexão e para a mudança cultural. Essa inserção, respaldada pelos Parâmetros Curriculares Nacionais (PCNs), deve ser realizada de maneira dialógica e participativa, reconhecendo a escola como um espaço democrático [@alves2018assedio; @Rena2006].
 
-Autores que exploram a relação entre gênero e educação enfatizam que a escola atua como um agente influente na formação de indivíduos e na reprodução de desigualdades. Marcadores como a separação de meninos e meninas em atividades escolares; os livros disponibilizados na biblioteca, onde os de romance e poesia são destinados às meninas, e os de ação e aventura aos meninos; a quadra da instituição, que geralmente é usada por meninos para a prática esportiva; e a organização dos demais espaços físicos da escola, todos contribuem para processos de aprendizagem desiguais (Moreira et al., 2021; Louro, 1997).
+Autores que exploram a relação entre gênero e educação enfatizam que a escola atua como um agente influente na formação de indivíduos e na reprodução de desigualdades. Marcadores como a separação de meninos e meninas em atividades escolares; os livros disponibilizados na biblioteca, onde os de romance e poesia são destinados às meninas, e os de ação e aventura aos meninos; a quadra da instituição, que geralmente é usada por meninos para a prática esportiva; e a organização dos demais espaços físicos da escola, todos contribuem para processos de aprendizagem desiguais [@Moreira2021; @Louro1997].
 
-Dentre as iniciativas pedagógicas para desconstruir normas de gênero, sugere-se a criação de grupos de discussão, a inclusão de conteúdos sobre gênero e sexualidade nos currículos escolares, a organização de atividades mistas. Também mostra-se relevante a formação de professores sensíveis a questões de gênero (Soares, 2003). No que se refere a experiências de intervenções que relacionam gênero e educação, pode-se mencionar atividades com professores e alunos voltadas à modificação de percepções sobre gênero e à redução de níveis de preconceito (França, 2009; Sousa, 2017).
+Dentre as iniciativas pedagógicas para desconstruir normas de gênero, sugere-se a criação de grupos de discussão, a inclusão de conteúdos sobre gênero e sexualidade nos currículos escolares, a organização de atividades mistas. Também mostra-se relevante a formação de professores sensíveis a questões de gênero [@Soares2003]. No que se refere a experiências de intervenções que relacionam gênero e educação, pode-se mencionar atividades com professores e alunos voltadas à modificação de percepções sobre gênero e à redução de níveis de preconceito [@franca2009contribuicao; @Sousa2017].
 
 Desta maneira, a presente assessoria visou promover letramento de gênero no ensino fundamental II. Espera-se, assim, contribuir para o avanço da igualdade de gênero na sociedade.
 
 ### Letramento de gênero nas escolas
 
-No âmbito do letramento de gênero, é imprescindível considerar a influência dos discursos sociais que permeiam a construção das identidades de gênero. Nesse contexto, as práticas de letramento desempenham um papel crucial na desconstrução de estereótipos e na promoção de uma educação inclusiva e igualitária. A abordagem de gênero no ambiente escolar não se resume apenas a transmitir informações, mas demanda a criação de estratégias pedagógicas que estimulem a reflexão crítica sobre as construções sociais de gênero (Louro, 2000).
+No âmbito do letramento de gênero, é imprescindível considerar a influência dos discursos sociais que permeiam a construção das identidades de gênero. Nesse contexto, as práticas de letramento desempenham um papel crucial na desconstrução de estereótipos e na promoção de uma educação inclusiva e igualitária. A abordagem de gênero no ambiente escolar não se resume apenas a transmitir informações, mas demanda a criação de estratégias pedagógicas que estimulem a reflexão crítica sobre as construções sociais de gênero [@Louro2000].
 
-Ademais, é necessária a abordagem das múltiplas dimensões da identidade, como raça e classe na construção das práticas de letramento de gênero na escola (Zanello, 2018). Essa construção, portanto, não deve ser dissociada de uma visão interseccional, que reconhece as diferentes formas de opressão e discriminação presentes na sociedade.
+Ademais, é necessária a abordagem das múltiplas dimensões da identidade, como raça e classe na construção das práticas de letramento de gênero na escola [@Zanello2018]. Essa construção, portanto, não deve ser dissociada de uma visão interseccional, que reconhece as diferentes formas de opressão e discriminação presentes na sociedade.
 
-Nesse sentido, algumas iniciativas pedagógicas podem ser implementadas na escola para desconstruir as normas de gênero e sexualidade: formação de grupos de discussão para o compartilhamento de experiências entre os alunos; modificação dos currículos escolares e da formação de professores, de modo a promover a educação sexual e de gênero; debates sobre diversidade sexual, realização de atividades mistas e inclusão de personagens LGBTQIA+ em atividades como peças de teatro (Soares, 2003). Vê-se, portanto, que o professor desempenha um papel crucial na criação de um ambiente educacional que promova o respeito à diversidade de gênero. A formação continuada dos educadores, aliada a uma postura reflexiva, é essencial para o sucesso da incorporação do letramento de gênero no currículo escolar (Scott, 1995).
+Nesse sentido, algumas iniciativas pedagógicas podem ser implementadas na escola para desconstruir as normas de gênero e sexualidade: formação de grupos de discussão para o compartilhamento de experiências entre os alunos; modificação dos currículos escolares e da formação de professores, de modo a promover a educação sexual e de gênero; debates sobre diversidade sexual, realização de atividades mistas e inclusão de personagens LGBTQIA+ em atividades como peças de teatro [@Soares2003]. Vê-se, portanto, que o professor desempenha um papel crucial na criação de um ambiente educacional que promova o respeito à diversidade de gênero. A formação continuada dos educadores, aliada a uma postura reflexiva, é essencial para o sucesso da incorporação do letramento de gênero no currículo escolar [@Scott1995].
 
 Em síntese, a construção de práticas de letramento de gênero na escola demanda uma abordagem teórica abrangente e multidisciplinar. A integração entre perspectivas interseccionais, estratégias didáticas participativas e atuação do educador são elementos-chave para o desenvolvimento de um ambiente escolar inclusivo e alinhado aos princípios da equidade de gênero.
 
@@ -72,7 +72,7 @@ Participaram da intervenção 25 estudantes, dentre os quais 13 eram do sexo fem
 
 A intervenção foi conduzida nas dependências da escola em uma sala reservada pela instituição. Os alunos sempre dispuseram as cadeiras em círculo. Não foi uma exigência da pesquisadora que conduzia a intervenção, mas percebeu-se que, dessa maneira, todos se sentiam acolhidos, e isso motivava a participação. Enquanto os alunos realizavam alguma tarefa determinada, a pesquisadora andava pela sala e tirava dúvidas recorrentes da própria tarefa.
 
-As intervenções em grupo foram divididas em cinco encontros estruturados seguindo proposta de França (2009), cada um abordando uma temática relacionada ao gênero: a) ativação dos conhecimentos prévios dos participantes acerca das temáticas; b) explicação e justificativa da compreensão que o grupo teve a respeito do tema; c) problematização dessa compreensão; d) levantamento de conceitos alternativos aos que foram levantados nas etapas anteriores; e) conclusões provisórias de cada sessão. Cada encontro teve duração de 1h30min.
+As intervenções em grupo foram divididas em cinco encontros estruturados seguindo proposta de França [-@franca2009contribuicao], cada um abordando uma temática relacionada ao gênero: a) ativação dos conhecimentos prévios dos participantes acerca das temáticas; b) explicação e justificativa da compreensão que o grupo teve a respeito do tema; c) problematização dessa compreensão; d) levantamento de conceitos alternativos aos que foram levantados nas etapas anteriores; e) conclusões provisórias de cada sessão. Cada encontro teve duração de 1h30min.
 
 #### Encontro 1: conhecendo os participantes
 
@@ -96,7 +96,14 @@ Na segunda canção, observa-se que a virilidade masculina é enfatizada por mei
 
 A escolha da última composição musical foi deliberada para introduzir uma perspectiva contrastante em relação às temáticas apresentadas nas músicas anteriores. A letra desta música explora o processo de emancipação feminina, deslocando-se do tradicional papel da mulher confinada ao lar e à família. Em vez disso, a narrativa destaca uma mulher que trabalha fora de casa, que cuida de si mesma e que se permite momentos de lazer e diversão. Esta representação desafia os papéis socialmente impostos à mulher, evidenciando a existência de identidades femininas multifacetadas, para além das limitações historicamente estabelecidas (Jesus, 2019)
 
-Os alunos foram divididos em equipes menores, receberam a letra impressa de cada música e foram orientados a discutirem os seguintes tópicos: (a) representação da mulher nas canções; (b) três comportamentos problemáticos do homem mencionados nas letras; (c) transformações no comportamento masculino destinadas a evitar tais comportamentos problemáticos; (d) mudanças de comportamento percebidas na mulher ao longo das músicas. O propósito foi investigar as dinâmicas de gênero presentes nas letras e identificar estereótipos, padrões comportamentais e eventuais evoluções narrativas, proporcionando uma análise crítica das mensagens veiculadas.
+Os alunos foram divididos em equipes menores, receberam a letra impressa de cada música e foram orientados a discutirem os seguintes tópicos:
+
+-   representação da mulher nas canções;
+-   três comportamentos problemáticos do homem mencionados nas letras;
+-   transformações no comportamento masculino destinadas a evitar tais comportamentos problemáticos;
+-   mudanças de comportamento percebidas na mulher ao longo das músicas.
+
+O propósito foi investigar as dinâmicas de gênero presentes nas letras e identificar estereótipos, padrões comportamentais e eventuais evoluções narrativas. Prentedia-se, assim, proporcionar uma análise crítica das mensagens veiculadas.
 
 Adicionalmente, durante a atividade, foram discutidas as implicações dos comportamentos abusivos motivados pelo gênero na formação da nossa identidade individual e nas dinâmicas sociais. Para embasar essas discussões, foram apresentados dados relacionados à violência contra as mulheres e seus impactos no processo de construção da subjetividade tanto para homens quanto para mulheres. Durante essa interação, os alunos não apenas responderam às perguntas propostas, mas também compartilharam exemplos relevantes, o que demonstrou um envolvimento na atividade. Importante ressaltar que, nesse momento, os grupos foram formados de maneira espontânea, proporcionando uma dinâmica mais fluida e participativa.
 
@@ -104,26 +111,132 @@ Para encerrar, foi feito um breve resumo do que havia sido discutido e foi quest
 
 #### Encontro 3: tecnologias de gênero
 
-O terceiro encontro contou com a presença de todos os participantes e se iniciou com uma revisão do conceito de gênero e dos pontos-chave discutidos no encontro anterior. Em seguida, com o intuito de avaliar o conhecimento prévio dos participantes, foi apresentada uma série de imagens culturalmente associadas aos estereótipos de gênero masculino e feminino. Essas imagens foram selecionadas para ilustrar as 'oposições e desigualdades' entre os gêneros, exemplificando os dispositivos de amor/maternidade e de virilidade descritos por Zanello (2018).
+O terceiro encontro contou com a presença de todos os participantes e se iniciou com uma revisão do conceito de gênero e dos pontos-chave discutidos no encontro anterior. Em seguida, com o intuito de avaliar o conhecimento prévio dos participantes, foi apresentada uma série de imagens culturalmente associadas aos estereótipos de gênero masculino e feminino. Essas imagens foram selecionadas para ilustrar as 'oposições e desigualdades' entre os gêneros, exemplificando os dispositivos de amor/maternidade e de virilidade descritos por Zanello [-@Zanello2018].
 
 ::: {layout-nrow="5"}
-![Representação de bebida alcoólica](\imagens\renata_11.jpg){#fig-alcool width="397"}
+![Representação de bebida alcoólica](./imagens/renata_alcool.png){#fig-alcool width="250"}
 
-![Representação do trabalho com números (produtivo)](\imagens\renata_1.jpg){#fig-trabalho width="395"}
+![Representação do trabalho com números (produtivo)](renata_trabalho.png){#fig-trabalho width="250"}
 
-![Representação de força física](\imagens\renata_10.jpg){#fig-forca width="395"}
+![Representação de força física](./imagens/renata_forca.png){#fig-forca width="250"}
 
-![Representação de poder/liderança](\imagens\renata_4.jpg){#fig-poder width="396"}
+![Representação de poder/liderança](./imagens/renata_lider.png){#fig-poder width="250"}
 
-![Representação de debate político](\imagens\renata_8.jpg){#fig-debate width="397"}
+![Representação de debate político](./imagens/renata_debate.png){#fig-debate width="250"}
 
-![Representação de debate político](\imagens\renata_3.jpg){#fig-casamento width="397"}
+![Representação de casamento](./imagens/renta_casamento.png){#fig-casamento width="250"}
 
-![Representação de procedimento estético](\imagens\renata_2.jpg){#fig-estetico width="396"}
+![Representação de procedimento estético](./imagens/renata_estetica.png){#fig-estetico width="250"}
 
-![Representação de amor romântico](\imagens\renata_9.jpg){#fig-romantico width="395"}
+![Representação de amor romântico](./imagens/renata_romantico.png){#fig-romantico width="250"}
 
-![Representação do emagrecimento](\imagens\renata_5.jpg){#fig-magro width="394"}
+![Representação do emagrecimento](./imagens/renata_emagrecimento.png){#fig-magro width="250"}
 
-![Representação do silêncio](\imagens\renata_6.jpg){width="399"}
+![Representação do silêncio](./imagens/renata_silencio.png){#fig-silencio width="250"}
 :::
+
+Cada imagem foi apresentada individualmente, e aos participantes foi solicitado que categorizassem em 'homem', 'mulher' ou 'ambos'. Esta atividade foi realizada com o propósito de examinar a influência dos papéis de gênero na percepção dos estudantes. Ao término, as imagens foram organizadas nos grupos correspondentes, resultando na seguinte categorização:
+
+| **Mulher**                                        | Ambos                             | Homem                               |
+|-----------------------------|---------------------|----------------------|
+| Representação do silêncio                         | Representação do casamento        | Representação da força física       |
+| Representação do trabalho com números (produtivo) | Representação do debate político  | Representação do(a) poder/liderança |
+| Representação do emagrecimento                    | Representação da bebida alcoólica |                                     |
+| Representação do procedimento estético            |                                   |                                     |
+| Representação do amor romântico                   |                                   |                                     |
+
+: Divisão das imagens realizada pelos alunos {#tbl-divisao}
+
+Em seguida, foi fornecida uma explicação ao grupo sobre a razão pela qual certas imagens são prontamente associadas às mulheres, enquanto outras são atribuídas aos homens. Esse esclarecimento teve como intuito contextualizar a categorização e a compreensão que o grupo desenvolveu sobre o tema, proporcionando uma visão mais aprofundada desses conceitos em relação à realidade. Nesse contexto, foi apropriado introduzir o conceito de 'tecnologias de gênero', que destaca como imagens, símbolos e outras produções culturais são utilizados na sociedade para reforçar as normas e expectativas de gênero, influenciando, assim, nossa percepção e interpretação dos papéis de homens e mulheres [@Zanello2018].
+
+Com o intuito de problematizar o conceito mencionado e ilustrar como ele se manifesta na prática, foram apresentadas algumas capas de revistas que circularam em nosso país. Na discussão realizada, enfatizou-se que as capas de revistas que traziam mulheres estampadas resumiam-se a apresentar os aspectos relacionados à beleza e à boa forma, trazendo a compreensão de que a “mulher bonita” e valorizada é aquela que é magra, branca, e tem cabelo liso. Essa valorização do corpo físico reverbera na objetificação sexual e, consequentemente, nas violências diárias que as mulheres sofrem. Acrescentou-se a essa discussão as questões suscitadas pelas capas que trazem os homens estampados. Foi dito que os homens são privilegiados, pois, de acordo com que é trazido pelas capas, eles estão no “lado” onde há dinheiro e sucesso profissional. Foi discutido que um homem valorizado socialmente é aquele que traz o sustento financeiro a sua família e aquele que é conquistador [@Zanello2018].
+
+Após essa exploração, procedeu-se à problematização da compreensão que os alunos haviam adquirido. Para tal, foi solicitado que, em grupos, os alunos identificassem três exemplos de tecnologias de gênero, os quais poderiam abranger personagens de filmes, desenhos, séries, novelas, músicas, capas de revistas, brincadeiras, brinquedos, entre outros. Algumas respostas enfatizaram os papéis das protagonistas de novelas, que representam a mulher numa posição vulnerável, a qual busca incessantemente o amor romântico para viver “feliz para sempre”. Outros participantes mencionaram que as vilãs dos desenhos infantis são sempre mulheres “bruxas”, e foi apontado que essas “bruxas” se tornaram o que eram porque foram rejeitadas pelos homens por não terem uma aparência considerada bonita ou atraente.
+
+Para concluir a discussão, foi recapitulado o conceito central abordado no encontro. Houve, ainda, perguntas sobre os principais pontos aprendidos pelos participantes.
+
+#### Encontro 4: invertendo papéis
+
+O encontro em questão registrou a presença de dezesseis participantes, com o objetivo de problematizar os comportamentos socialmente prescritos e aceitos para homens e mulheres. Dessa forma, a fim de avaliar os conhecimentos prévios dos alunos, eles foram divididos em grupos separados por gênero, com cada grupo recebendo uma folha de papel sulfite. Foi requerido que elaborassem e registrassem dez comportamentos (cinco femininos e cinco masculinos) que são frequentemente considerados apropriados para homens e mulheres no cotidiano. As listas produzidas pelos grupos foram as seguintes:
+
+::: {layout-ncol="2"}
+![Lista feita pelo grupo das meninas](./imagens/renata_7.png){#fig-meninas width="250"}
+
+![Lista feita pelo grupo dos meninos](./imagens/renata_12.png){#fig-meninos width="729"}
+:::
+
+As listas foram lidas e discutidas em grande grupo. Para promover a compreensão dos participantes e suscitar a discussão, foram utilizados os conceitos discutidos em encontros anteriores como: tecnologias de gênero, scripts comportamentais e gênero. Tais conceitos objetivam promover uma nova compreensão, possibilitando novas perspectivas sobre comportamentos culturalmente ensinados.
+
+Os discentes foram encorajados a desafiar e questionar os papéis sociais atribuídos aos homens e às mulheres. Para facilitar esse momento, foram convidados a inverter os papéis e representar comportamentos tipicamente associados ao sexo oposto. Novamente, os meninos assumiram os comportamentos geralmente atribuídos às meninas, e vice-versa.
+
+Dessa forma, o grupo dos meninos representou uma mulher exercendo sua profissão fora de casa e se divertindo com suas amigas na balada. Salienta-se que os trejeitos utilizados pelos alunos para representar uma mulher ainda eram estereotipados, e isso foi discutido em grupo após a apresentação. Em seguida, as meninas representaram um homem com comportamentos violentos e agressivos com sua esposa e depois uma “versão alternativa”, demonstrando um homem que divide tarefas domésticas, é presente na criação dos filhos e respeita as vontades e os direitos de sua mulher.
+
+Utilizando-se das representações, falamos e discutimos os estereótipos de gênero, e apontamos mais comportamentos e papéis alternativos que podem ser desempenhados por homens e mulheres. Aqui, foi reforçado o conceito de estereótipos de gênero [@Zanello2018]. A discussão se deu através da demonstração de vários exemplos, dentre eles as profissões que são tabu para mulheres (como, por exemplo, jogadora de futebol) e as atividades relacionadas aos cuidados com os filhos, que são facilmente impostas às mulheres.
+
+Para encerrar, foram retomados os principais pontos discutidos no encontro.
+
+#### Encontro 5: a desigualdade de gênero em pauta
+
+O último encontro contou com a participação de vinte e um alunos e objetivou apresentar as principais consequências provenientes da desigualdade de gênero. Inicialmente, foram fornecidas aos participantes notícias relacionadas à violência contra as mulheres como método para avaliar e ampliar seus conhecimentos prévios sobre o tema. As notícias foram lidas, e foi discutido com os alunos o motivo por trás dos dados apresentados. Foram enfatizadas a questão da desigualdade de gênero e as consequências desta nos âmbitos econômico, político, educacional, social e cultural, explicitando que a ausência das mulheres nos espaços de liderança e na construção de políticas impede que haja uma melhoria desses índices. Além dos dados trazidos nas notícias, foi salientado que as mulheres ganham menos que os homens, em muitos casos até exercendo a mesma função, e que o trabalho não remunerado é, na sua maioria, exercido por mulheres, já que homens estão em cargos de chefia/liderança e exercem atividade remunerada [@Zanello2018].
+
+No prosseguimento, foram apresentadas aos alunos quatro situações concretas que ilustravam a desigualdade de gênero na prática. Em seguida, foi solicitado aos estudantes que refletissem sobre cada situação e determinassem se eram verdadeiras ou falsas. Foi previamente confirmado que as situações 1 e 3 eram verdadeiras, enquanto as situações 2 e 4 foram identificadas como falsas. Importante notar que essas situações foram selecionadas de sites de notícias, para assegurar uma base sólida e atualizada para a discussão em curso:
+
+1.  Dos 22 deputados federais do nosso estado eleitos no último domingo, apenas 3 são mulheres;
+2.  Cargos de chefia e poder melhor remunerados são ocupados, na grande maioria, por mulheres;
+3.  No mundo, existem mais mulheres do que homens fora da escola;
+4.  A maioria dos homens tem dupla jornada de trabalho: trabalham fora de casa e ainda dão conta dos serviços domésticos.
+
+A maioria dos alunos não sabia da veracidade das afirmações 1 e 3 e acabaram considerando-as falsas. Ao descobrirem, demonstraram-se surpresos com a desigualdade retratada. Sobre as demais situações, os participantes responderam prontamente que eram falsas e justificaram que já tinham visto essas afirmações nos encontros anteriores. Essa etapa serviu para problematização do conceito de desigualdade e permitiu que os alunos pensassem em maneiras alternativas de minimizar a desigualdade política e educacional retratada nas frases.
+
+Dessa forma, os estudantes foram divididos em três grupos e foram instruídos a pensarem em soluções alternativas para mitigar os desafios apresentados. As alternativas propostas pelos estudantes são elencadas a seguir:
+
+-   Denunciar os casos de violência contra a mulher;
+-   Incentivar o compromisso dos homens em dividir igualmente as tarefas domésticas;
+-   Falar mais na escola sobre esse tema, para os demais alunos que não participaram desse projeto;
+-   Eleger mais mulheres na política;
+-   Eleger pessoas que tenham pautas relacionadas ao gênero;
+-   Assumir, na condição de estudantes, o dever de usar nossa voz e nosso conhecimento para falar desses assuntos em diversos lugares;
+
+## Resultados da intervenção
+
+Os participantes das intervenções, aos finais de cada encontro, eram indagados sobre “o que haviam aprendido naquele encontro?”. Frequentemente, os alunos informaram que aqueles momentos contribuíram para a ampliação dos conhecimentos sobre a temática e para uma possível mudança de comportamento frente a situações que suscitam estereótipos de gênero. Alguns participantes frisaram que “nunca havia pensado” (sic.) nas situações abordadas e que iam, a partir daquele momento, se policiar para não reproduzir tais estereótipos e reforçar as desigualdades entre os gêneros.
+
+Um ponto que merece destaque diz respeito ao dispositivo materno e amoroso. O dispositivo materno é constituído socialmente e naturaliza discursos e práticas que abordam a maternidade e o cuidado como algo inerente e naturalmente feminino. Já o dispositivo amoroso é definido como discursos e práticas que concebem o amor romântico como uma experiência natural e essencialmente feminina. Entende-se que esses dispositivos reforçam e perpetuam a desigualdade de gênero, tendo em vista que podem ser considerados como uma forma de poder que molda a vivência das mulheres [@Zanello2018; @Zanello2016].
+
+Historicamente, o dispositivo materno evoluiu a partir do século XVII, quando surgiu o entendimento de que a maternidade era um desdobramento da procriação. Assim, com esse entendimento, a mulher passa a ser vista como uma cuidadora “nata”, e a maternidade passa a ser idealizada como um salto na qualidade de vida das mulheres [@Zanello2016]. As falas a seguir ilustram tal dispositivo:
+
+> Meu pai não e eu não ajudamos minha mãe em casa. Ela faz tudo sozinha (Aluno 1)
+
+> Na minha casa, tem eu e meu irmão. A mãe bota somente eu pra fazer as coisas e não bota meu irmão” (Aluna 1).
+
+No que diz respeito ao dispositivo amoroso, Zanello [-@Zanello2018] exemplifica que esses discursos e essas práticas que associam a mulher ao amor romântico podem ser elucidados a partir da metáfora da “prateleira do amor”. Para a autora, as mulheres são subjetivas nessa prateleira e são ensinadas culturalmente que seus corpos são o grande capital simbólico e matrimonial. Assim, tem-se a necessidade de ser emotiva, cuidadosa, simpática, amorosa para “ser escolhida”, não importando quem as escolha. Nessa prateleira, o ideal é ser jovem, branca, magra e loira. Tudo o que foge à “regra” fica no fim da prateleira. Isso torna as mulheres extremamente vulneráveis e as subjetiva em uma relação de competição com as demais. Além disso, essa forma de amar é diferente do que ocorre com os homens.
+
+> Uma amiga minha brigou aqui na escola porque o menino que ela gostava ficou com outra menina. Ao invés dela ter ido conversar com o menino, não, ela foi brigar com a menina (Aluna 2).
+
+> Pra você ser amada tem que ser padrão: magrinha, bonitinha, cabelo liso (Aluna 3).
+
+O dispositivo de eficácia (laborativa e sexual) também merece destaque. O dispositivo de eficácia está ligado ao fato de que ser homem, culturalmente, é dominar as áreas sexual e laborativa. É ser o provedor. Em outras palavras, a masculinidade é alcançada pela exibição de força e sexualidade, impulsionando a competitividade e a produtividade [@badinter1993xy]. A apreciação do caráter masculino acontece quando o homem é capaz de sustentar sua família e ter domínio sexual perante sua(as) parceira(s) [@connell2013masculinidade]. Dessa forma, negar características que são socialmente ligadas às mulheres é uma forma de sustentar a masculinidade hegemônica [@baere2018genero].
+
+As mudanças sociais e econômicas ocorridas no Brasil, principalmente após a abolição, estão relacionadas ao cenário histórico do dispositivo de eficácia. Na época, existia um ideal social que se caracterizava pela preservação dos privilégios e das hierarquias de homens brancos, ricos e heterossexuais, os pais de família. Com o avanço da urbanização, o valor dado ao trabalho e ao esforço se configurou como uma forma de medir a masculinidade dos homens, tornando a performance sexual e a produtividade no trabalho dois critérios importantes para a idealização da “personalidade” masculina, o que reforça a hegemonia e a dominação masculina na sociedade [@Zanello2018].
+
+Um indício do efeito da socialização e da cultura em que os participantes estão inseridos, o qual pode acarretar a busca incessante por posições de poder e sucesso profissional, com a necessidade constante de provar a masculinidade no ambiente laboral, trazendo, assim, estresse, exaustão e dificuldade em buscar um equilíbrio saudável entre trabalho e vida pessoal, pode ser visto na fala a seguir:
+
+> O marido da minha mãe fica passando na cara dela que a casa é dele, que quem sustenta ela é ele e que ela tem que obedecer a ele por isso (Aluno 2)
+
+> Minha irmã passou a gravidez dela toda apanhando, porque o cara achava que devia bater nela só porque ela dependia dele (Aluno 3)
+
+Percebe-se que o dispositivo de eficácia traz inúmeros benefícios aos homens, ao passo que também coloca um fardo sobre eles, tendo em vista que reforça expectativas inalcançáveis e limitantes. Além disso, é importante salientar que nem todos os homens se encaixam nesses padrões, como os gays e transgêneros, e que a imposição dessa masculinidade pode criar um ambiente violento e hostil para esses indivíduos. Outras consequências podem ser citadas, a saber: estresse, ansiedade e limitação nas demonstrações das expressões emocionais. É fundamental que tais expectativas sejam questionadas, para que, assim, surja uma nova vivência da masculinidade que permita a expressão dos homens de maneira autêntica e saudável [@Queiroz2021]. Essa limitação da demonstração das emoções foi vista durante as intervenções, pois os meninos verbalizaram que “não podiam chorar” (sic.), pois isso seria motivo de chacota para os demais colegas.
+
+## Considerações finais
+
+Este artigo buscou relatar as intervenções de letramento de gênero realizadas com adolescentes, estudantes do 7°, 8° e 9° ano dos anos finais do ensino fundamental de uma escola de tempo integral localizada no interior do Estado do Ceará. A seguir, tem-se uma autoavaliação da proposta a partir dos seguintes atributos: impacto; abrangência; abrangência potencial; replicabilidade; complexidade; inovação.
+
+O impacto da proposta é relevante, tendo em vista que a escola pode ser um grande espaço utilizado para a informação sobre a temática e, consequentemente, para as possíveis reduções nos níveis de desigualdade entre os gêneros que perpassam as diversas camadas sociais. A utilidade da assessoria está em facilitar o acesso ao tema, que ainda é socialmente reprovado. Da mesma forma, mostra-se relevante a abordagem utilizada no momento da intervenção, facilitando o aprendizado e aproximando os discentes da temática.
+
+A assessoria terá abrangência local. A abrangência potencial está relacionada à possibilidade de ampliação e reaplicação da proposta, o que pode ser viável, pois acredita-se que as intervenções possam ser realizadas com os demais alunos, bem como professores e funcionários da escola. Além disso, as intervenções podem ser realizadas em outras instituições educacionais, com a atualização dos conteúdos e das metodologias trabalhados.
+
+A intervenção pode ser reaplicada, tendo em vista que não foram detectadas dificuldades na compreensão da temática nem dos subtemas trabalhados, tampouco exigiu uma grande estrutura física para a realização dos encontros. Ainda é possível considerar que houve uma participação positiva dos estudantes, já que, sempre que foram solicitados, realizaram as atividades propostas e incrementaram as discussões.
+
+A intervenção pode ser considerada de média complexidade, pois envolveu atividades simples, porém demandou habilidades da facilitadora, como: conhecimento teórico e empírico sobre o tema; habilidades de comunicação eficazes, dentre outras.
+
+Por fim, o uso de metodologias ativas e participativas, bem como a discussão de situações e a reflexão sobre ações potencialmente desiguais entre os gêneros, considerando o contexto e as experiências dos participantes, proporcionou a interação entre os estudantes e facilitou o diálogo e a troca de conhecimentos, possibilitando, também, a mudança de comportamentos que podem perpetuar as desigualdades, os estereótipos e os vieses de gênero.
