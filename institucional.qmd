@@ -16,7 +16,7 @@ Camilo Sobreira de Santana
 ### Universidade Federal do Ceará – UFC
 
 ::: column-margin
-[![](./imagens/brasao1_horizontal_cor_300dpi.png)](https://www.ufc.br/)
+[![](./imagens/brasao1_horizontal_cor_300dpi.png){fig-alt="A imagem apresenta o brasão da Universidade Federal do Ceará. O brasão é composto por um escudo azul com uma faixa diagonal dourada contendo três estrelas verdes. Acima da faixa, há três tochas com chamas acesas. Abaixo do escudo, há uma faixa com o lema em latim \"VIRTUS UNITA FORTIOR\" (A virtude unida é mais forte). A inscrição \"UNIVERSIDADE FEDERAL DO CEARÁ\" está posicionada de forma horizontal ao lado do escudo, em letras maiúsculas e na cor preta. O design é formal e representa a identidade visual da instituição educacional, sugerindo tradição e seriedade acadêmica."}](https://www.ufc.br/)
 :::
 
 **Reitor**
@@ -30,7 +30,7 @@ Profa Diana Cristina Silva de Almeida
 #### **Programa de Pós-graduação em Psicologia - PPGPSI**
 
 ::: column-margin
-[![](./imagens/ppgpsi.png)](https://www.ufc.br/)
+[![](./imagens/ppgpsi.png){fig-alt="A imagem mostra a identidade visual do Programa de Pós-Graduação em Psicologia da Universidade Federal do Ceará. À esquerda, o brasão da universidade, com três tochas acesas em chamas sobre um fundo azul, faixa dourada com três estrelas verdes e o lema \"VIRTUS UNITA FORTIOR\" em uma faixa branca na parte inferior. À direita, o texto \"UNIVERSIDADE FEDERAL DO CEARÁ\" em letras grandes e maiúsculas pretas e abaixo, em um tamanho de fonte menor, \"PROGRAMA DE PÓS-GRADUAÇÃO EM PSICOLOGIA\", alinhado centralmente em relação ao texto acima. O conjunto transmite a associação do programa acadêmico específico com a instituição de ensino superior."}](https://pospsi.ufc.br/pt/)
 :::
 
 **Coordenador**
@@ -44,7 +44,7 @@ Professor Paulo Coelho Castelo Branco
 #### **Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas - PPGPPPP**
 
 ::: column-margin
-[![](./imagens/ppgpppp.png)](https://www.ufc.br/)
+[![](./imagens/ppgpppp.png){fig-alt="A imagem apresenta a identidade visual do Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará. No lado esquerdo, está o brasão da universidade, com três tochas acesas sobre um escudo azul, decorado com três estrelas verdes e cercado por uma faixa com o lema \"VIRTUS UNITA FORTIOR\". À direita, em letras grandes e pretas, está escrito \"UNIVERSIDADE FEDERAL DO CEARÁ\" e abaixo, em um tamanho de fonte um pouco menor, está o nome do programa: \"PROGRAMA DE PÓS-GRADUAÇÃO PROFISSIONAL EM PSICOLOGIA E POLÍTICAS PÚBLICAS\", alinhado ao centro em relação ao nome da universidade acima. A composição do texto e do brasão transmite formalidade e associa o programa especificado à instituição educacional."}](https://psipolpublicas.ufc.br/pt/)
 :::
 
 **Coordenador**
