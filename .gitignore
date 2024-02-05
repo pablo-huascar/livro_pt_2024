@@ -19,7 +19,3 @@ tmp-pdfcrop-*
 figures
 /.quarto/
 site_libs
-/data/seattle-library-checkouts.csv
-/data/seattle-library-checkouts.parquet
-/data/seattle-library-checkouts
-oreilly
