@@ -47,6 +47,7 @@ book:
         - costa_assessoria_saae.qmd
         - sampaio_assessoria.qmd
         - lima_assessoria.qmd
+        - vasconcelos_narrativas.qmd
 
     - part: Curso para formação profissional
       chapters:
@@ -70,7 +71,6 @@ book:
         - da_silva_mapas_vizin.qmd
     
     - sobre_os_autores.qmd
-    - indice_remissivo.qmd
 
 format:
   html:

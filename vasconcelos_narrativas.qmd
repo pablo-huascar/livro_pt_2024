@@ -1,0 +1,111 @@
+---
+author: 
+  - name: Francisca Denise Silva Vasconcelos
+    orcid: 0000-0002-3997-7869
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Gracymara Severiano Mesquita
+    #orcid: 0000-0003-4139-9161
+    #email: viktorialeite1010@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Luana Paiva Silva
+    #orcid: 0009-0006-0616-1798
+    #email: juliamesquita_lopes@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Jorge Samuel de Sousa Teixeira
+    #orcid: 0000-0002-5911-9327
+    #email: lidiadoisdo4@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Bárbara Ellen Viana Sales
+    #orcid: 0009-0005-6962-1694
+    #email: dariadede2110@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: vasconcelos_narrativas.bib
+reference-section-title: Referências
+---
+
+# Narrativas e trajetórias: uma assessoria sobre as vivências juvenis na escola pública
+
+## Introdução
+
+O Laboratório de Estudos das Desigualdades e Diversidades – LAEDDES é uma extensão vinculada à Universidade Federal do Ceará – Campus Sobral, que teve suas atividades iniciadas em março de 2010, com leituras e estudos sobre pobreza, baseados em autores como Marx, Green, Souza e Martins. Até o final de 2021, o laboratório esteve sob a coordenação de sua idealizadora, a professora Dra. Francisca Denise Silva Vasconcelos, e realizou inúmeras ações de intervenção em instituições de ensino públicas e privadas, universidades e escolas. Em 2021, o LAEDDES possuía 2 extensionistas bolsistas, Bárbara Ellen Viana Sales e Luana Paiva da Silva, além de contar com extensionistas voluntários.
+
+Neste capítulo, trataremos de ações realizadas na Escola de Ensino Médio Dr. João Ribeiro Ramos, nas quais estiveram envolvidos a coordenadora do laboratório, as bolsistas do programa e os vários extensionistas voluntários[^vasconcelos_narrativas-1]. As ações ocorreram em sintonia com os temas trabalhados no Laboratório e, em seu conjunto, devem ser entendidas como uma assessoria composta de três momentos interligados:
+
+[^vasconcelos_narrativas-1]: Atuaram nesta ação: Gracymara Mesquita Severiano, acadêmica do Mestrado Profissional em Psicologia e Políticas Públicas, além dos alunos do curso de Psicologia Jorge Samuel de Sousa Teixeira, Ana Heliza Pontes, Antonio Lucas Siqueira Ximenes, Ariadsa Mesquita Aragão, Ellayne Oliveira Marques, Erica de Paula Sousa, Erika Tamires Rodrigues Silva, Francisco Denilson Mendonça de Sousa,  Francisco Ivo Duarte de Sousa, Geovanna Forte Escórcio, Kyaya Gomes de Carvalho, Larissa Mesquita Farias Protásio, Madyson Matheus Sousa Mororó, Mikaelly Monique do Nascimento Costa, Nathan Rodrigues Ximenes Furtado, Taynara Kelle de Menezes Lima e Vitória Ferreira Azevedo.
+
+1.  Preparação e realização das oficinas, nas quais houve a coleta de dados;
+2.  análise dos dados coletados nas oficinas; e
+3.  apresentação dos resultados aos professores e gestores da escola.
+
+## Análise do problema: o que nos levou à Escola?
+
+Inicialmente, a Escola de Ensino Médio Dr. João Ribeiro Ramos estabeleceu uma parceria com o laboratório, colocando-se como beneficiária das ações extensionistas ofertadas pelo programa. Tendo sido expostas as propostas de atividades conduzidas usualmente pelo LAEDDES, a gestão demonstrou um interesse adicional em compreender as significações que o corpo discente atribuía à escola, de modo que essas fossem apresentadas aos docentes que compunham seu quadro funcional. Diante disso, coube ao laboratório, para além da realização das suas atividades extensionistas regulares, desenvolver mecanismos próprios ao campo da pesquisa acadêmica de coleta e análise dos dados gerados em suas intervenções com os alunos da Escola de Ensino Médio Dr. João Ribeiro Ramos, de modo a subsidiar uma apresentação bem embasada aos professores e gestores da instituição.
+
+Cientes de que os alunos possuem trajetórias plurais e de que essas implicam as construções de olhares e sentidos diversos sobre educação, bem como compreendendo que os sentidos atribuídos afetam diretamente no processo de ensino aprendizado, as ações da extensão do LAEDDES trabalharam com os alunos, ouvindo-os acerca dos sentidos atribuídos à escola. Essas significações, construídas pelos estudantes, sobre as quais nos referimos no texto apresentado aos professores, são formas verbais apresentadas sobre essas atribuições, que definem minimamente a forma como os alunos enxergam o ambiente escolar e as relações existentes dentro deste.
+
+Dessa forma, supomos inicialmente a existência da interconexão entre as temáticas de juventude, modernidade e escola pública baseada nas experiências previamente adquiridas a partir da escuta proporcionada aos alunos pelos extensionistas do projeto. Posteriormente, interessamo-nos em saber em que e como essas relações existentes afetam os estudantes em meio ao ambiente escolar. A escuta e análise desses dados nos permitiu concluir que, dentro da escola, há formas diversificadas de significações sobre as vivências juvenis, dentre as quais se destacam três temáticas: as incertezas do futuro, as dificuldades das cobranças existentes e as relações de afeto.
+
+Logo, a importância de analisar esses sentidos se apresenta nas singularidades e, ao mesmo tempo, nas pluralidades atribuídas pelos alunos às suas vivências escolares, o que nos permite conhecer um pouco dessas experiências vividas por eles. A transmissão dessas significações aos docentes, por sua vez, é essencial, posto que eles também fazem parte dessa interconexão e contribuem diretamente para a construção desses sentidos.
+
+## Objetivos e justificativa do projeto
+
+Desta forma, a assessoria teve por objetivo levantar, analisar e apresentar para o corpo docente e a coordenação quais os significados que os estudantes do ensino médio dão para a escola, a fim de possibilitar aos profissionais envolvidos um momento crítico-reflexivo acerca das suas atuações dentro dessa rede de significações, além de permitir-lhes conhecer a importância de seus papéis no ambiente escolar a partir das vivências dos alunos.
+
+## Desenvolvimento
+
+### Detalhamento da metodologia
+
+Antes da ida ao campo foram realizadas leituras acerca dos temas educação, escola pública, pobreza, juventudes e modernidade, bem como sobre a relação entre cada uma dessas temáticas.
+
+A partir do aceite das intervenções propostas pelo laboratório, elaboramos junto à gestão um cronograma de visitas para as turmas selecionadas, sendo estas quatro turmas de terceiro ano, totalizando 73 participantes. Todas as atividades foram realizadas no mês de outubro de 2019 e ministradas por acadêmicos de Psicologia da Universidade Federal do Ceará – Campus Sobral, integrantes do LAEDDES, subdivididos em grupos de 8, cada um dos quais ficou responsável por duas turmas.
+
+Ao adentrar em campo, realizamos uma intervenção inicial com cada turma a partir da apresentação do trailer do documentário Nunca Me Sonharam, lançado em 2017, e da música Cota Não é Esmola, da cantora e compositora Bia Ferreira. Após essas exibições, dividimos a turma em grupos formados por cerca de 5 alunos e 2 extensionistas, para discutir acerca do que acharam sobre as mídias apresentadas e debater sobre temas como sonhos, futuro, escola, universidade e cotas. Essas discussões iniciais foram importantes para criar vínculos com os estudantes e facilitar a comunicação para as demais etapas da intervenção.
+
+Em um segundo momento com cada turma, apresentamos slides acerca das instituições de ensino técnico e superior públicas disponíveis na cidade de Sobral, além de trazer informações sobre cursos, vestibulares e demais elementos importantes, tendo em vista a possibilidade de apresentar a universidade como caminho viável para esses jovens. Ao final das apresentações, os extensionistas se disponibilizaram para responder às dúvidas dos estudantes e, a partir disso, debater sobre as questões que mais lhe atravessavam.
+
+No nosso encontro final, realizamos a aplicação do Instrumento Gerador dos Mapas Afetivos (IGMA) com cada uma das turmas. O IGMA é um instrumento elaborado por Bomfim [-@Bomfim2003] em sua tese de doutorado como um método de investigação dos afetos em relação ao ambiente. Essa ferramenta é dividida em duas partes, tendo um componente qualitativo, por meio do qual o participante elabora imagens e expressa seus sentimentos de forma escrita, e um quantitativo, que, em nosso caso, não foi utilizado, composto de uma escala do tipo Likert.
+
+Em relação aos procedimentos de aplicação, inicialmente estavam disponibilizados materiais como folhas A4, lápis de cor, canetas e lápis para os estudantes. Com isso, pedimos que eles representassem, por meio de desenhos, a sua forma de ver e sentir a escola. Posteriormente, pedimos que elencassem 6 palavras que expressassem e resumissem o que sentiam em relação a esse espaço. Depois desse momento, iniciamos uma conversa acerca do que foi representado por eles, tendo como perguntas disparadoras: O que significa seu desenho? Que sentimentos ele representa? Que palavras você escreveu? Por quê? Ao final, pedimos para que os jovens escrevessem sua idade e seu sexo em sua folha, identificando-se pelo nome somente caso se sentissem à vontade para isso. Cabe ressaltar ainda que, para essa aplicação, dividimos a turma em pequenos grupos de estudantes, tendo os extensionistas como mediadores de cada um deles, de modo a facilitar e aproximar o diálogo entre todos os participantes.
+
+Para a análise dos dados[^vasconcelos_narrativas-2], tivemos como ferramentas o software IRAMUTEQ (Interface de R pour les Analyses Multidimensionnelles de Textes et des Questionnaires) e a metodologia de Análise de Conteúdo de Bardin [-@Bardin1977], além do suporte teórico da Teoria das Representações Sociais (TRS).
+
+[^vasconcelos_narrativas-2]: A análise foi realizada em 4 etapas, tendo sido efetuada por: Bárbara Ellen Viana Sales, Francisca Denise Silva Vasconcelos, Jorge Samuel de Sousa Teixeira e Luana Paiva da Silva.
+
+O estudo do conteúdo das representações foi efetuado a partir da análise das palavras produzidas pelos estudantes com o auxílio da Análise de Similitude realizada pelo IRAMUTEQ. A Análise de Similitude permite identificar as ocorrências e as indicações da conexidade entre as palavras, auxiliando na identificação da estrutura do conteúdo de um corpus textual [@CamargoJusto2013]. Nesse contexto, as palavras foram categorizadas por meio do processo de Análise de Conteúdo de Bardin [-@Bardin1977], contando com as seguintes etapas operacionais: organização, codificação e categorização do material. Ademais, realizamos uma análise e interpretação dos conteúdos temáticos agrupados por categorias, tendo como guia a Teoria das Representações Sociais, que nos possibilita compreender os modos como os sujeitos constroem e exprimem suas significações às suas experiências no mundo social, além de projetar valores e aspirações sociais [@Jodelet2001].
+
+Por fim, buscando alcançar o objetivo dessa assessoria, os dados foram apresentados aos professores, à coordenação pedagógica e à direção por meio de exposição oral, via plataforma Google Meet, no dia 20 de maio de 2021[^vasconcelos_narrativas-3].
+
+[^vasconcelos_narrativas-3]: Na ocasião, a apresentação foi conduzida pelos extensionistas Bárbara Ellen Viana Sales, Jorge Samuel de Sousa Teixeira e Luana Paiva da Silva, e estiveram presentes 15 professores e 2 gestoras (1 coordenadora pedagógica e 1 diretora).
+
+### Contrapartidas
+
+Visando à melhor condução do processo de assessoria, escola e laboratório firmaram acordo no qual à Escola de Ensino Médio Dr. João Ribeiro Ramos coube ceder espaços semanais para as ações, além de responsabilizar-se por convocar todo o corpo docente para a participação na apresentação dos resultados. O comprometimento da escola, portanto, foi fundamental, pois tornou possível a execução das atividades propostas pela extensão. Ao Laboratório de Estudos das Desigualdades e Diversidades – LAEDDES coube aplicar os mapas afetivos para coleta dos dados necessários à análise escolhida, realizar a análise dos dados e catalogá-los para posterior apresentação ao corpo docente da escola, coordenação pedagógica e diretoria. O recrutamento, a seleção e o treinamento das pessoas envolvidas nas ações da extensão também ficaram a cargo do Laboratório.
+
+### Investimento
+
+Para a realização desta assessoria foi necessário o envolvimento de 22 pessoas. A coordenadora do laboratório, Francisca Denise Silva Vasconcelos, as extensionistas bolsistas Barbara Ellen Viana Sales e Luana Paiva da Silva, além dos 19 voluntários. Assim, além dos custos com materiais e deslocamento à escola, a operacionalização da assessoria requereu, eminentemente, recursos humanos. Nesta perspectiva, o apoio da universidade, em especial da Pró-reitoria de Extensão – PREX, na sua função de validadora das horas de trabalho docente da coordenadora do programa, financiadora das bolsistas e emissora de certificação dos extensionistas voluntários foi essencial para a efetivação da assessoria.
+
+## Resultados/ entregas
+
+Após trabalho em campo e análises de dados, os resultados encontrados mostraram que a escola representa um espaço de sentimentos conflitantes, ou seja, ora traduz um lugar de acolhimento, ora se mostra um local de sofrimento psíquico em decorrência das cobranças excessivas que recaem sobre os alunos. No que tange às associações positivas, a escola envolve um conjunto de relações afetivas entre grupos de amizade, que auxilia os discentes a vislumbrar esse espaço como um ambiente acolhedor. Contudo, os sentidos negativos se relacionam às altas demandas solicitadas pela instituição, que geram sentimentos estressores, tais como medo, insegurança e ansiedade.
+
+A partir da exposição desses dados, foi sugerida à instituição a realização de grupos de apoio com os professores da escola, a serem mediados pelos extensionistas do LAEDDES, com o intuito de discutir sobre temas que atravessem suas vivências profissionais e pessoais. Dessa forma, essa ação teria como foco não só a abertura de um espaço de fala e escuta para esses profissionais, mas também serviria para que as questões levantadas pelos estudantes fossem debatidas junto aos docentes, tendo em vista que estes mantêm uma relação de proximidade com os alunos na sala de aula.
+
+## Conclusão
+
+Olhando retrospectivamente, percebe-se que a assessoria atingiu o objetivo proposto, tendo contribuído para a melhoria do diálogo entre escola e estudantes secundaristas, de modo a promover uma escuta ativa por parte do corpo docente e gestor das percepções do alunado. As atividades desenvolvidas nesta produção técnica ofertaram ao corpo docente e gestor da escola um conhecimento fundamental para a adoção de alternativas de mudanças que favoreçam a relação com os estudantes.
+
+Considerando que os resultados apresentados pela assessoria tocaram no impacto de metodologias de ensino e detalharam percepções discentes sobre acolhimento e opressão no espaço escolar, é coerente esperar que eles colaborem para geração de novas metodologias de ensino, bem como de estratégias de enfrentamento aos conflitos na relação professor/aluno. Desta feita, é legítimo supor que esta assessoria apresenta desdobramentos potenciais para o ensino-aprendizagem e para a diminuição dos números de evasão.
+
+O sucesso desta assessoria tem estreita conexão com uma atuação forte da extensão na universidade, neste caso específico dos laços que o Laboratório de Estudos das Desigualdades e Diversidades estabelece com a comunidade escolar de Sobral e região desde sua criação em 2011. Apesar disto, há espaço para melhorias. Por um lado, a extensão ainda é subvalorizada, inclusive em termos de financiamento, em relação a outras áreas como a pesquisa, embora, como se viu neste capítulo, ambas possam caminhar de mãos dadas, retroalimentando-se. Por outro, os bons laços com a comunidade escolar não são capazes de, sozinhos, eliminarem obstáculos concretos, tais como a dificuldade quanto à disponibilidade de tempo e espaço para a realização das ações, tendo em vista o foco excessivo das escolas no Exame Nacional do Ensino Médio (ENEM) e o calendário escolar, que necessita ser bem ajustado às demandas da Secretaria de Educação (SEDUC).
+
+Por fim, esta assessoria demonstra também o papel relevante que a arte, por meio da aplicação de Mapas Afetivos, pode ter para o aperfeiçoamento da educação. Nessa metodologia, os estudantes foram convidados a usarem a arte (desenho, poesia entre outros) para falar de seus sentimentos com relação à escola. A arte, portanto, pode ser ferramenta potente na abordagem do já antigo tema da relação professor x aluno, trazendo para o centro do debate uma nova forma de escutar o estudante secundarista. Enquanto falar e/ou realizar um palestra sobre os sentimentos de angústia, medo e raiva pode não ser muito produtivo, usar a música, a poesia e as artes em geral para que os discentes expressem esses sentimentos abre um canal de comunicação, dado que as emoções desses estudantes se tornam acessíveis para eles mesmos e para os demais. E, como explanado ao longo deste capítulo, acessar, analisar e refletir sobre as percepções e os sentimentos estudantis é uma forma de contribuir para que a gestão escolar e o corpo docente possam pensar em estratégias de mudança.
