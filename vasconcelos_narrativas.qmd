@@ -5,23 +5,23 @@ author:
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Gracymara Severiano Mesquita
-    #orcid: 0000-0003-4139-9161
-    #email: viktorialeite1010@gmail.com
+    orcid: 0000-0001-6813-8258
+    email: gracymesquita@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
-  - name: Luana Paiva Silva
-    #orcid: 0009-0006-0616-1798
-    #email: juliamesquita_lopes@hotmail.com
+  - name: Luana Paiva da Silva
+    orcid: 0000-0002-5968-5206
+    email: lpaivva7@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Jorge Samuel de Sousa Teixeira
-    #orcid: 0000-0002-5911-9327
-    #email: lidiadoisdo4@gmail.com
+    orcid: 0000-0003-4188-5303
+    email: jorgesamuel199@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
-  - name: Bárbara Ellen Viana Sales
-    #orcid: 0009-0005-6962-1694
-    #email: dariadede2110@gmail.com
+  - name: Bárbara Éllen Viana Sales
+    orcid: 0000-0003-3175-0237
+    email: bellen018@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
