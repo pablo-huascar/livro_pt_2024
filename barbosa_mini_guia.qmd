@@ -103,4 +103,3 @@ Diante do apresentado, acreditamos que ainda há muito a ser explorado no que ta
 ## Mini-guia do orientador educacional: atribuições e indicadores de efeitos no contexto escolar sobralense
 
 {{< pdf mini_guia.pdf height=600 >}}
-
