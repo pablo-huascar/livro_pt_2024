@@ -3,9 +3,11 @@ author:
   - name: Francisco Bruno Paz Soares
     email: brunopazsoares@gmail.com
     affiliations: Universidade Federal do Piauí
+    orcid: 0000-0002-8173-0907
   - name: João Paulo Sales Macedo
     email: jpmacedo@ufpi.edu.br
     affiliations: Universidade Federal do Piauí
+    orcid: 0000-0003-4393-8501
 language: 
   title-block-author-plural: "Autores"
 filters:
