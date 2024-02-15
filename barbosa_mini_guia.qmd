@@ -16,11 +16,6 @@ filters:
   - section-bibliographies
 bibliography: barbosa_mini_guia.bib
 reference-section-title: Referências
-crossref:
-  custom:
-    - kind: float
-      reference-prefix: Índice
-      key: idx
 ---
 
 # Processo de criação do miniguia do orientador educacional sobre suas atribuições e indicadores de efeitos no contexto escolar sobralense
@@ -102,4 +97,4 @@ Diante do apresentado, acreditamos que ainda há muito a ser explorado no que ta
 
 ## Mini-guia do orientador educacional: atribuições e indicadores de efeitos no contexto escolar sobralense
 
-{{< pdf mini_guia.pdf height=600 >}}
+{{< pdf mini_guia.pdf width=100% height=800 >}}

@@ -142,11 +142,9 @@ Saúde mental e sofrimento psíquico na infância
 [^martins_clinica_estetica-5]: Doutora em Saúde Coletiva pela Universidade Federal do Ceará (UFC), docente do curso de Psicologia, do Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas e do Mestrado em Saúde da Família da UFC, campus Sobral. Realizou pós-doutorado no Programa de Pós-graduação em Psicanálise da UERJ.
 
 ::: {#vid-capsi}
-
 {{< video https://www.youtube.com/watch?v=44A0ohvYzA8 width="400" height="225">}}
 
 Desafios históricos na implementação dos CAPSi no Brasil e no Ceará
-
 :::
 
 -   Medicalização na infância e adolescência
@@ -175,11 +173,9 @@ Medicalização na infância e adolescência
 [^martins_clinica_estetica-10]: Doutora em Ciências Médicas (UFC) e professora associada do Departamento de Fisioterapia da UFC.
 
 ::: {#vid-const-psi}
-
 {{< video https://www.youtube.com/watch?v=DNx_LdxjvXM width="400" height="225">}}
 
 Constituição psíquica: intervenção precoce e avaliação na infância
-
 :::
 
 -   Autismos e psicose na infância
@@ -195,11 +191,9 @@ Constituição psíquica: intervenção precoce e avaliação na infância
 [^martins_clinica_estetica-13]: Doutorado e pós-doutorado em Psicologia Clínica na Pontifícia Universidade Católica de São Paulo (PUC-SP), professora titular do Departamento de Psicologia da Universidade Federal de Minas Gerais (UFMG), Coordenadora do Projeto de Pesquisa e Extensão com crianças e adolescentes vítimas de abuso sexual (CAVAS/UFMG).
 
 ::: {#vid-autismo-psi}
-
 {{< video https://www.youtube.com/watch?v=d0v3fFPv58E width="400" height="225">}}
 
 Autismos e psicose na infância
-
 :::
 
 -   Luto e perdas: infância, tristeza, depressão

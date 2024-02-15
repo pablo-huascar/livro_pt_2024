@@ -994,7 +994,7 @@ ensino_tbl
 
 ### Contexto de trabalho
 
-A avaliação do contexto de trabalho dos professores demonstrou que, em relação à organização laboral, o tempo de preparação das atividades remotas, a quantidade de alunos para acompanhamento e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Estes resultados podem ser vistos na @tbl-organizacao.
+A avaliação do contexto de trabalho dos professores demonstrou que, em relação à organização laboral, o tempo de preparação das atividades remotas, a quantidade de alunos para acompanhamento e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Estes resultados podem ser vistos na tabela 10.4 ([-@tbl-organizacao]).
 
 ```{r}
 organizacao_do_trabalho <- df |> 
@@ -1060,7 +1060,7 @@ Na pandemia, o trabalho remoto exigiu uma adaptação brusca à modalidade de au
 
 Desta forma, é essencial que as secretarias garantam os horários de planejamento dos docentes e orientem os professores de modo que a flexibilidade permitida pelo ensino remoto não tenha impacto no aumento da carga de trabalho. Além disso, as demandas apresentadas pelas instituições devem ser acompanhadas de recursos que viabilizem a realização do trabalho dos professores.
 
-No que se refere às condições de trabalho, observou-se que os elementos pior avaliados foram a disponibilidade e a qualidade de recursos tecnológicos, como computadores e celulares, e a conexão com a internet para o desenvolvimento da atividade. Estes achados estão na @tbl-condicoes.
+No que se refere às condições de trabalho, observou-se que os elementos pior avaliados foram a disponibilidade e a qualidade de recursos tecnológicos, como computadores e celulares, e a conexão com a internet para o desenvolvimento da atividade. Estes achados estão na tabela 10.5 ([-@tbl-condicoes]).
 
 ```{r}
 condicoes_de_trabalho <- df |> 
@@ -1121,7 +1121,7 @@ Apenas uma pequena parte dos docentes recebeu ajuda das instituições em relaç
 
 Como apresentado acima, situações de emergência, como o ensino durante a pandemia, requerem que existam subsídios para os professores adquirirem equipamentos e terem acesso à internet de qualidade. Esta medida se mostra importante para a realização das aulas, o planejamento e a avaliação dos alunos.
 
-No que tange às relações socioprofissionais, os itens com pior avaliação apontavam para a ausência de participação dos docentes em relação a planejamentos e decisões sobre a escola. Houve, também, a percepção de que a comunicação entre os docentes não era adequada, como pode ser observado na @tbl-relacoes.
+No que tange às relações socioprofissionais, os itens com pior avaliação apontavam para a ausência de participação dos docentes em relação a planejamentos e decisões sobre a escola. Houve, também, a percepção de que a comunicação entre os docentes não era adequada, como pode ser observado na tabela 10.6 ([-@tbl-relacoes]).
 
 ```{r}
 relacoes_de_trabalho <- df |> 

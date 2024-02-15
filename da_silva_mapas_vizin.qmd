@@ -162,6 +162,10 @@ Nesse fragmento inspirador, o que faz viva uma revolução é o que faz viva uma
 
 O "Mapa das zonas de vizinhanças" é um dispositivo formativo artístico-político que interpela diferentes campos de atuação profissional. É um instrumento que pode produzir múltiplas vizinhanças, não somente entre territórios vulnerabilizados e entre agentes da política pública, mas também entre outras instituições formativas, artísticas, pondo em conversação o encontro de diferenças.
 
-Em vista disso, convidamos leitoras e leitores a caminhar por este Mapa através do Qrcode abaixo e/ou deste [link](https://issuu.com/thamila_santos/docs/mapa_das_zonas_de_vizinhan_a_2_). Ressaltamos, ainda, que as questões trazidas neste ensaio foram cultivadas a partir desse dispositivo metodológico, intitulado "Mapa das zonas de vizinhanças". Nosso interesse é que o contato com este material possa compor planos de conversação para outras políticas e práticas; que se mantenha apoiado na singularidade de cada grupo que possa vir a vivenciá-lo como método, que forje encontros e ficcionalize formações futuras a partir das lentes de uma educação-menina em direitos humanos.
+Em vista disso, convidamos leitoras e leitores a caminhar por este Mapa através do Qrcode abaixo, deste [link](https://issuu.com/thamila_santos/docs/mapa_das_zonas_de_vizinhan_a_2_) ou adiante neste capítulo. Ressaltamos, ainda, que as questões trazidas neste ensaio foram cultivadas a partir desse dispositivo metodológico, intitulado "Mapa das zonas de vizinhanças". Nosso interesse é que o contato com este material possa compor planos de conversação para outras políticas e práticas; que se mantenha apoiado na singularidade de cada grupo que possa vir a vivenciá-lo como método, que forje encontros e ficcionalize formações futuras a partir das lentes de uma educação-menina em direitos humanos.
 
-![](./imagens/qr_code_mapas.png){fig-alt="qr-code" fig-align="center" width="225"}
+![](./imagens/qr_code_mapas.png){fig-alt="qr-code" fig-align="center" width="143"}
+
+## Mapa das zonas de vizinhanças: tecnologia para encontros (im)possíveis no fazer políticas públicas de guardas municipais e articuladores da juventude em territórios vulnerabilizados de Sobral
+
+{{< pdf mapas_vizinhaca.pdf height=600 width=100% >}}

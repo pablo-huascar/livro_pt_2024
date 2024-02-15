@@ -48,6 +48,7 @@ book:
         - sampaio_assessoria.qmd
         - lima_assessoria.qmd
         - vasconcelos_narrativas.qmd
+        - soares_psicologia_saude.qmd
 
     - part: Curso para formação profissional
       chapters:
