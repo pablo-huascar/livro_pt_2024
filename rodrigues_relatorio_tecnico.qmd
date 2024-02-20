@@ -9,7 +9,8 @@ author:
     orcid: 0000-0002-4822-0454
     email: esthelasa7@gmail.com
     affiliations: 
-      - name: Universidade Federal do Ceará
+      - name: Faculdade 05 de Julho
+      - name: Centro Universitário INTA
   - name: Francisco Pablo Huascar Aragão Pinheiro 
     orcid: 0000-0001-9289-845X
     email: pablo.pinheiro@ufc.br

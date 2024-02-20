@@ -5,7 +5,7 @@ author:
     email: kphm@uol.com.br
     affiliations: 
       - name: Universidade Federal do Ceará    
-  - name: Vládia Jamille dos Santos Jucá
+  - name: Vládia Jamile dos Santos Jucá
     orcid: 0000-0003-2416-7342
     email: vladiajuca@ufc.br
     affiliations: 

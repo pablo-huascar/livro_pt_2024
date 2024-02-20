@@ -48,7 +48,7 @@ webr:
   'janitor']
 ---
 
-# Relatório sobre o curso “Introdução ao r para análise de dados em psicologia”: proposta e construção
+# Relatório sobre o curso “Introdução ao R para análise de dados em Psicologia”: proposta e construção
 
 ## Introdução
 
