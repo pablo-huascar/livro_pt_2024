@@ -33,7 +33,7 @@ bibliography: liberato_contagios.bib
 reference-section-title: Referências
 ---
 
-# Contágios Possíveis: Produção de Espaços de uma Psicologia Antimanicomial
+# Contágios possíveis: produção de espaços de uma Psicologia antimanicomial
 
 ## Do que move o pensamento a pensar
 

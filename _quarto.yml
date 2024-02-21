@@ -17,6 +17,8 @@ book:
       <img src="./imagens/ppgpsi.png" width="100"> 
       <img src="./imagens/ppgpppp.png" width="100">
   cover-image: cover_pt.png
+  cover-image-alt: |
+    A imagem mostra a capa do livro Produções Técnicas em Psicologia: Experiências Compartilhadas. No topo da capa, em fonte menor e de cor preta, estão as siglas PPGPSI e PPGPPPP, seguidas pelo nome Universidade Federal do Ceará, indicando a associação com a instituição. O título principal é apresentado em letras grandes e negrito, com Produções Técnicas em verde e em Psicologia em preto, abaixo do qual está o subtítulo Experiências Compartilhadas em fonte menor e itálico. Centralizado na capa há o desenho de uma ave, um carcará, em voo, com as asas abertas e o corpo voltado para a esquerda, delineado em traços pretos. O pássaro carrega uma cobra em suas garras. Abaixo do desenho, em letras pretas menores, estão os nomes Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros, seguidos pela palavra Orgs., sugerindo que são os organizadores da publicação. A capa tem um fundo claro e o design geral é simples.
   repo-url: https://github.com/pablo-huascar/livro_pt_2024.git
   repo-branch: main
   favicon: cover_pt.png

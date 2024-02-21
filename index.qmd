@@ -1,6 +1,6 @@
 ---
 author: 
-  - name: Francisco Pablo Huacar Aragão Pinheiro
+  - name: Francisco Pablo Huascar Aragão Pinheiro
     orcid: 0000-0001-9289-845X
     email: "joaopaulobarros@ufc.br"
     affiliations: 
