@@ -1,27 +1,32 @@
 ---
 author: 
   - name: David Sousa Rodrigues
+    url: http://lattes.cnpq.br/5773893453788519
     orcid: 0000-0002-9935-2174
     email: davidrdgs@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Esthela Sá Cunha
+    url: http://lattes.cnpq.br/1818023056598329
     orcid: 0000-0002-4822-0454
     email: esthelasa7@gmail.com
     affiliations: 
       - name: Faculdade 05 de Julho
       - name: Centro Universitário INTA
-  - name: Francisco Pablo Huascar Aragão Pinheiro 
+  - name: Francisco Pablo Huascar Aragão Pinheiro
+    url: http://lattes.cnpq.br/8266089190930601 
     orcid: 0000-0001-9289-845X
     email: pablo.pinheiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
-  - name: Quitéria Alves Melo 
+  - name: Quitéria Alves Melo
+    url: http://lattes.cnpq.br/4267116496336781 
     orcid: 0000-0002-2831-1631
     email: quiterialvesm@gmail.com 
     affiliations: 
       - name: Universidade Federal do Ceará
-  - name: Iratan Bezerra de Sabóia 
+  - name: Iratan Bezerra de Sabóia
+    url: http://lattes.cnpq.br/4256908254336676 
     orcid: 0000-0003-3312-9954
     email: iratan@ufc.br
     affiliations: 
@@ -995,7 +1000,7 @@ ensino_tbl
 
 ### Contexto de trabalho
 
-A avaliação do contexto de trabalho dos professores demonstrou que, em relação à organização laboral, o tempo de preparação das atividades remotas, a quantidade de alunos para acompanhamento e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Estes resultados podem ser vistos na tabela 10.4 ([-@tbl-organizacao]).
+A avaliação do contexto de trabalho dos professores demonstrou que, em relação à organização laboral, o tempo de preparação das atividades remotas, a quantidade de alunos para acompanhamento e a invasão do trabalho nos horários de descanso foram os elementos pior avaliados pelos docentes. Estes resultados podem ser vistos na @tbl-organizacao.
 
 ```{r}
 organizacao_do_trabalho <- df |> 
@@ -1061,7 +1066,7 @@ Na pandemia, o trabalho remoto exigiu uma adaptação brusca à modalidade de au
 
 Desta forma, é essencial que as secretarias garantam os horários de planejamento dos docentes e orientem os professores de modo que a flexibilidade permitida pelo ensino remoto não tenha impacto no aumento da carga de trabalho. Além disso, as demandas apresentadas pelas instituições devem ser acompanhadas de recursos que viabilizem a realização do trabalho dos professores.
 
-No que se refere às condições de trabalho, observou-se que os elementos pior avaliados foram a disponibilidade e a qualidade de recursos tecnológicos, como computadores e celulares, e a conexão com a internet para o desenvolvimento da atividade. Estes achados estão na tabela 10.5 ([-@tbl-condicoes]).
+No que se refere às condições de trabalho, observou-se que os elementos pior avaliados foram a disponibilidade e a qualidade de recursos tecnológicos, como computadores e celulares, e a conexão com a internet para o desenvolvimento da atividade. Estes achados estão na @tbl-condicoes.
 
 ```{r}
 condicoes_de_trabalho <- df |> 
@@ -1122,7 +1127,7 @@ Apenas uma pequena parte dos docentes recebeu ajuda das instituições em relaç
 
 Como apresentado acima, situações de emergência, como o ensino durante a pandemia, requerem que existam subsídios para os professores adquirirem equipamentos e terem acesso à internet de qualidade. Esta medida se mostra importante para a realização das aulas, o planejamento e a avaliação dos alunos.
 
-No que tange às relações socioprofissionais, os itens com pior avaliação apontavam para a ausência de participação dos docentes em relação a planejamentos e decisões sobre a escola. Houve, também, a percepção de que a comunicação entre os docentes não era adequada, como pode ser observado na tabela 10.6 ([-@tbl-relacoes]).
+No que tange às relações socioprofissionais, os itens com pior avaliação apontavam para a ausência de participação dos docentes em relação a planejamentos e decisões sobre a escola. Houve, também, a percepção de que a comunicação entre os docentes não era adequada, como pode ser observado na @tbl-relacoes.
 
 ```{r}
 relacoes_de_trabalho <- df |> 

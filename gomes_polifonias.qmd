@@ -1,21 +1,25 @@
 ---
 author: 
   - name: Rita Helena Sousa Ferreira Gomes
+    url: http://lattes.cnpq.br/9324470543610163
     orcid: 0000-0002-2306-4264
     email: ritahelenagomes@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Iratan Bezerra de Sabóia
+    url: http://lattes.cnpq.br/4256908254336676
     orcid: 0000-0003-3312-9954
     email: iratan@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Ana Cecília Carenina Machado Mourão
+    url: http://lattes.cnpq.br/2253638238142434
     orcid: 0000-0002-8569-224X
     email: ceciliamachadoodontologia@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Ana Késia Silva Faustino
+    url: http://lattes.cnpq.br/8679020802878119
     orcid: 0009-0003-3873-9214
     email: kesia.faustino.2000@gmail.com
     affiliations: 
@@ -26,16 +30,19 @@ author:
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Giovana Freitas Oliveira
+    url: http://lattes.cnpq.br/8034420553210047
     orcid: 0009-0005-0351-6517
     email: giovanaoll@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: José Edberto Gadelha Rocha Júnior
+    url: http://lattes.cnpq.br/9629710554359470
     orcid: 0000-0002-6660-1728
     email: edbertojunior.psi@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Vitória Brandão de Lima Borges
+    url: http://lattes.cnpq.br/8527436760147224
     orcid: 0009-0005-9397-1547
     email: vitoriabrandao66@gmail.com
     affiliations: 

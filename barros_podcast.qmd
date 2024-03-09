@@ -1,21 +1,25 @@
 ---
 author: 
   - name: João Paulo Pereira Barros
+    url:  http://lattes.cnpq.br/0351156693555523
     orcid: 0000-0001-7680-576X
     email: joaopaulobarros@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Érica Atem Gonçalves de Araújo Costa
+    url: http://lattes.cnpq.br/7397272595520801
     orcid: 0000-0002-4341-8138
     email: ericaatem@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Carla Jéssica de Araújo Gomes
+    url: http://lattes.cnpq.br/9684612126688971
     orcid: 0000-0002-6979-2646
     email: carlajessicagomes@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Emanuel Meireles Vieira
+    url: http://lattes.cnpq.br/4122228867993191
     orcid: 0000-0002-7346-4944
     email: emanuelmeireles@ufc.br
     affiliations: 
@@ -87,7 +91,7 @@ Em 2022, foi lançado ainda 1º episódio do podcast Artes Insurgentes, intitula
 ## Podcast Café da Tarde
 
 ::: column-margin
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2RIrwphBaPZ5LFyF4sup6g?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2RIrwphBaPZ5LFyF4sup6g?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
 
 </iframe>
 :::

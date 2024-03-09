@@ -40,7 +40,7 @@ book:
         - liberato_contagios.qmd
         - vasconcelos_eneddes.qmd
     
-    - part: Relatórios técnicos\:\ assessoria, consultoria e pesquisa
+    - part: "Relatórios técnicos: assessoria, consultoria e pesquisa"
       chapters:
         - beserra_de_melo_assessoria.qmd
         - costa_interv_criancas.qmd

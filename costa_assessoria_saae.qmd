@@ -1,52 +1,62 @@
 ---
 author: 
   - name: Gabriele Sousa Costa
+    url: http://lattes.cnpq.br/6196583625689808
     orcid: 0000-0003-2905-4144
     email: gabrielesousa304@gmail.com 
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Nayana Rios Nunes da Silva
+    url: http://lattes.cnpq.br/7512339128002498
     orcid: 0000-0001-5182-2344
     email: nayanarios87@gmail.com 
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Francisco Pablo Huascar Aragão Pinheiro
+    url: http://lattes.cnpq.br/8266089190930601
     orcid: 0000-0001-9289-845X
     email: pablo.pinheiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Marinara Nobre Paiva
+    url: http://lattes.cnpq.br/3568578397107591
     orcid: 0000-0003-4084-5289
     email: marinaranobre@alu.ufc.br
     affiliations: 
       - name: Faculdade Anhanguera
   - name: Renata Guimarães de Carvalho
+    url: http://lattes.cnpq.br/6991808774604401
     orcid: 0000-0002-3592-7709
     email: renatagui.carvalho@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Kallyne Rose da Silva Rodrigues
+    url: http://lattes.cnpq.br/7390990722343792
     orcid: 0009-0001-0697-4493
     email: kallynerose@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Quitéria Alves Melo
+    url:  http://lattes.cnpq.br/4267116496336781
     orcid: 0000-0002-2831-1631
     email: quiterialvesm@gmail.com 
     affiliations: 
       - name: Universidade Federal do Ceará
       - name: Universidade Federal do Rio Grande do Norte
   - name: Francisca Valéria de Sousa
+    url: http://lattes.cnpq.br/0363852725072024
     orcid: 0000-0002-5232-8812
     email: valeriasousa0140@gmail.com 
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Giovana Mayra Liberato de Lima
+    url: http://lattes.cnpq.br/3966197000035755
     orcid: 0000-0002-6442-8917
     email: giomayra@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Luiza Silva de Lima
+    url: http://lattes.cnpq.br/5503141889077701
     orcid: 0009-0009-8400-6381
     email: luizasilvv@alu.ufc.br
     affiliations: 
@@ -127,11 +137,11 @@ O princípio histórico-desenvolvimentista propõe a investigação de condutas 
 
 De maneira análoga, na Clínica da atividade, a atividade dirigida é definida como a unidade base da análise psicológica do trabalho. Como dito anteriormente, a atividade realizada é apenas um conjunto de reações vencedoras, de modo que as possibilidades descartadas, apesar de não serem acessadas diretamente, continuam agindo sobre a ação do sujeito. Em consonância com a metodologia histórico-desenvolvimentista, para conhecer o real da atividade, é necessário favorecer o desenvolvimento da atividade realizada, descristalizando-a. Nesse sentido, não se deve apenas compreender para transformar, mas transformar para compreender. A experiência só pode ser observada a partir desta transformação, não enquanto objeto, mas como processo [@clot2010trab_poder].
 
-Diante disso, o interesse recai sobre a história do desenvolvimento, assim como suas possibilidades, seus impedimentos e seus princípios. Portanto, os dispositivos técnicos utilizados na Clínica da Atividade, como autoconfrontação, instrução ao sósia, oficina de fotos [@osorio_pacheco_barros2013oficinas_fotos] e carta ao remetente, esta última recentemente desenvolvida por estudante do Mestrado Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará e seus colaboradores [@Oliveira2022], atuam como mediadores e transformam, indiretamente, a atividade do sujeito, deslocando-as para um novo contexto. Os recursos utilizados autorizam uma reentrada na ação, por meio da linguagem, que reorganiza e modifica a atividade já realizada pelo indivíduo e pelo coletivo de trabalho [@clot2010trab_poder].
+Diante disso, o interesse recai sobre a história do desenvolvimento, assim como suas possibilidades, seus impedimentos e seus princípios. Portanto, os dispositivos técnicos utilizados na Clínica da Atividade, como autoconfrontação, instrução ao sósia, oficina de fotos [@osorio_pacheco_barros2013oficinas_fotos] e carta ao remetente, esta última recentemente desenvolvida por uma estudante do Mestrado Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará e seus colaboradores [@Oliveira2022], atuam como mediadores e transformam, indiretamente, a atividade do sujeito, deslocando-as para um novo contexto. Os recursos utilizados autorizam uma reentrada na ação, por meio da linguagem, que reorganiza e modifica a atividade já realizada pelo indivíduo e pelo coletivo de trabalho [@clot2010trab_poder].
 
 ### Participantes
 
-A tabela 11.1 ([-@tbl-participantes]) apresenta a quantidade de atendentes que participaram do processo de intervenção, sendo nove mulheres e três homens. São apresentados, ainda, a idade dos trabalhadores, o tipo de atendimento que assumiam no setor, o tempo de carreira e o vínculo com a instituição.
+A @tbl-participantes apresenta a quantidade de atendentes que participaram do processo de intervenção, sendo nove mulheres e três homens. São apresentados, ainda, a idade dos trabalhadores, o tipo de atendimento que assumiam no setor, o tempo de carreira e o vínculo com a instituição.
 
 |   Nome   | Idade | Tipo de atendimento | Tempo de trabalho |   Vínculo    |
 |:--------:|:-----:|:-------------------:|:-----------------:|:------------:|
@@ -214,7 +224,7 @@ No final do encontro, o mesmo debate ocasionou controvérsias entre o grupo. Mar
 
 ### Encontro 8
 
-No início do oitavo encontro, foram apresentados os serviços internos e a descrição do último serviço pendente: serviços eventuais. Essa atividade os atendentes escolheram fazer individualmente, mas Rita e Dario optaram por realizá-la em dupla.
+No início do oitavo encontro, foram apresentados os serviços internos e a descrição do último serviço pendente: serviços eventuais. Os atendentes escolheram fazer individualmente essa atividade, mas Rita e Dario optaram por realizá-la em dupla.
 
 No decorrer da exposição dos serviços internos, discutiu-se como foram realizados os atendimentos durante a pandemia. Marta citou que foi algo inesperado, devido a nunca ter atendido aos usuários de forma virtual. Flávia relatou também que, no começo, foi bastante desafiador, pois houve muitas reclamações, principalmente pela demora no atendimento virtual, mas que, de forma geral, o SAAE conseguiu superar as limitações do contexto, oferecendo um serviço de qualidade.
 
@@ -274,10 +284,10 @@ Ademais, a construção do manual possibilitou um espaço de controvérsias entr
 
 O trabalho objetivou relatar uma assessoria realizada no setor de atendimento ao público do Serviço Autônomo de Água e Esgoto (SAAE), no qual se utilizou a construção do manual de procedimentos como um mediador de diálogo entre os trabalhadores. Para mais, visou um espaço onde eles pudessem refletir sobre o ofício de atendente, os diferentes modos de agir, bem como as condições de trabalho e suas repercussões à saúde. Foi utilizada a Clínica da Atividade como aporte teórico e metodológico no intuito de observar a renovação do gênero profissional e a transformação do trabalho de maneira coletiva.
 
-Dentre os resultados encontrados, alguns ocuparam centralidade no debate empreendido pelos participantes. Notou-se a ausência de prescrições, o que implicava o repasse de informações imprecisas aos clientes. Soma-se a isso adversidades relacionadas à violência vivenciada pelas participantes mulheres e as estratégias desenvolvidas para lidar com essas situações. Além destes, emergiram no discurso dos atendentes o incômodo sobre a adoção do atendimento virtual durante a pandemia da covid-19 e as suas repercussões na interação com o usuário.
+Dentre os temas discutidos pelos participantes, notou-se a ausência de prescrições, o que implicava o repasse de informações imprecisas aos clientes. Soma-se a isso adversidades relacionadas à violência vivenciada pelas participantes mulheres e as estratégias desenvolvidas para lidar com essas situações. Além destes, emergiram no discurso dos atendentes o incômodo sobre a adoção do atendimento virtual durante a pandemia da covid-19 e as suas repercussões na interação com o usuário.
 
-Nessa investigação, notaram-se forças e potencialidades. O engajamento do grupo foi prevalente em todos os encontros, e os trabalhadores se colocaram à frente das discussões, ocupando o lugar de experts sobre o ofício. Além disso, houve o reconhecimento do grupo em relação às trocas de experiências e estratégias. Nesse bojo, os trabalhadores aprendiam uns com os outros, independente do tempo de trabalho na instituição. Essa dinâmica aponta para uma ampliação no poder de agir dos participantes. Observou-se, também, que a intervenção proporcionou uma maior interação entre os profissionais das modalidades de atendimento presencial e online, uma vez que, cotidianamente, estes não possuíam um contato direto para que pudessem compartilhar e discutir os diferentes modos de agir.
+Nessa intervenção, notaram-se forças e potencialidades. O grupo se mostrou engajado em todos os encontros e os trabalhadores se colocaram à frente das discussões, ocupando o lugar de experts sobre o ofício. Além disso, houve o reconhecimento por parte dos atendentes em relação à importância das trocas de experiências e de estratégias que ocorreram ao longo dos encontros para lidar com os impedimentos à atividade. Nesse bojo, os trabalhadores aprendiam uns com os outros, independente do tempo de trabalho na instituiçãondefined. Essa dinâmica aponta para uma ampliação no poder de agir dos participantes. Observou-se, também, que a intervenção proporcionou uma maior interação entre os profissionais das modalidades de atendimento presencial e online, uma vez que, cotidianamente, estes não possuíam um contato direto para que pudessem compartilhar e discutir os d
 
-No que diz respeito às limitações do estudo, destaca-se o tempo reduzido que os trabalhadores tinham para discutir suas atividades, visto que houve mudanças no cronograma que foi inicialmente idealizado, por conta de feriados e outros contratempos em relação ao campo. Soma-se a isso, ainda, o cansaço dos atendentes, já que as atividades ocorriam às sextas-feiras, no final do expediente da semana. Ademais, o espaço oferecido pela instituição para a realização do grupo se mostrou inadequado, devido a ser em um ambiente de livre acesso para outras categorias de trabalhadores. Isso comprometeu, em parte, a liberdade de expressão dos participantes. Ainda no que tange aos imprevistos da intervenção, houve uma grande rotatividade dos participantes, dado que aqueles que estavam de férias retornavam à instituição e, consequentemente, entravam nas discussões já iniciadas.
+No que diz respeito às limitações da intervenção, destaca-se o tempo reduzido que os trabalhadores tinham para discutir suas atividades, visto que houve mudanças no cronograma que foi inicialmente idealizado, por conta de feriados e outros contratempos em relação ao campo. Soma-se a isso, ainda, o cansaço dos atendentes, já que as atividades ocorriam às sextas-feiras, no final do expediente da semana. Ademais, o espaço oferecido pela instituição para a realização do grupo se mostrou inadequado, devido a ser em um ambiente de livre acesso para outras categorias de trabalhadores. Isso comprometeu, em parte, a liberdade de expressão dos participantes. Ainda no que tange aos imprevistos da intervenção, houve uma grande rotatividade dos participantes, dado que aqueles que estavam de férias retornavam à instituição e, consequentemente, entravam nas discussões já iniciadas.
 
 Por fim, vale ressaltar que estudos futuros podem ser realizados no setor de atendimento do SAAE, por exemplo, analisando o poder de agir e a saúde dos trabalhadores após a validação do Manual de Procedimentos e o modo como o documento tem repercutido nas suas interações socioprofissionais. Além disso, cabem também pesquisas e intervenções relacionadas às violências contra as atendentes mulheres, considerando que apontam para uma questão de gênero que merece ser discutida de forma mais aprofundada.

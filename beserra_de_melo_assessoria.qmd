@@ -1,17 +1,20 @@
 ---
 author: 
   - name: Pamella Beserra de Melo
+    url: http://lattes.cnpq.br/5559146180799726
     orcid: 0000-0003-0255-4122
     email: pambmelo@gmail.com
     affiliations: 
       - name: Universidade Federal do Rio Grande do Norte
       - name: Universidade Federal do Ceará
   - name: Francisco Pablo Huascar Aragão Pinheiro
+    url: http://lattes.cnpq.br/8266089190930601
     orcid: 0000-0001-9289-845X
     email: pablo.pinheiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Francisca Valéria de Sousa
+    url: http://lattes.cnpq.br/0363852725072024
     orcid: 0000-0002-5232-8812
     email: valeriasousa0140@gmail.com
     affiliations: 
