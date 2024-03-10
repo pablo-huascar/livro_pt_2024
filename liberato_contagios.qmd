@@ -1,26 +1,31 @@
 ---
 author: 
   - name: Mariana Tavares Cavalcanti Liberato
+    url: http://lattes.cnpq.br/3695805862483991
     orcid: 0000-0002-9410-0437
     email: marianaliberato@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Camila Ribeiro de Oliveira
+    url: http://lattes.cnpq.br/9072832065292799
     orcid: 0000-0003-2975-7106
     email: camisrdeo@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Marta Clarice Nascimento Oliveira
+    url: http://lattes.cnpq.br/8050372004323081
     orcid: 0000-0002-3720-1418
     email: martaclarice03@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Natália Matos de Souza
+    url: http://lattes.cnpq.br/1127913530059031
     orcid: 0000-0001-5064-5761
     email: nataliamatosdesouza@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Vinicius Nogueira Lopes
+    url: http://lattes.cnpq.br/6427575596872072
     orcid: 0009-0008-8651-7022
     email: vininogueira852@gmail.com
     affiliations: 

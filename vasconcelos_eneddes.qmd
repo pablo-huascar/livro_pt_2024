@@ -1,20 +1,24 @@
 ---
 author: 
   - name: Francisca Denise Silva Vasconcelos
+    url: http://lattes.cnpq.br/2515278419639079
     orcid: 0000-0002-3997-7869
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Antonio Anderson Mota da Silva
+    url:  http://lattes.cnpq.br/1663089060325612
     orcid: 0000-0002-0407-3624
     email: anderson.mota@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Francisca Bruna Pereira Farias
+    url: http://lattes.cnpq.br/2815710242920346
     orcid: 0000-0003-2973-5070
     email: brunafariaspsicologa@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Juliana Maria do Nascimento Mota
+    url: http://lattes.cnpq.br/6949209482037074
     orcid: 0000-0002-5581-7996
     email: juliananascimento@alu.ufc.br
     affiliations: 
