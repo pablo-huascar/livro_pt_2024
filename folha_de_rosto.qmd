@@ -58,4 +58,4 @@ Francisco Pablo Huascar Aragão Pinheiro
 Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) \[processo número: BP5-0197-00046.01.00/22\].
 :::
 
-![](./imagens/ficha-198318-1.png)
+![](./imagens/ficha-198318-1.png){fig-alt="Título e subtítulo: Produções técnicas em psicologia [livro eletrônico]: experiências compartilhadas. Organização: Francisco Pablo Huascar Aragão Pinheiro, João Paulo Pereira Barros. Edição: 1ª edição.  Local de Publicação: Fortaleza, CE. Editor: Ed. do Autor, 2024. Formato: PDF.  Informações adicionais: Vários autores. Inclui bibliografia. ISBN 978-65-00-97283-2. Assuntos principais da obra:  Artigos - Coletâneas. Psicologia. Psicologia - Pesquisa. Indexadores da obra: I. Pinheiro, Francisco Pablo Huascar Aragão. II. Barros, João Paulo Pereira. Número de chamada CDD: 150. Índices para catálogo sistemático: Psicologia 150. Catalogação realizada por: Aline Graziele Benitez – Bibliotecária – CRB-1/3129."}
