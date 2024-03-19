@@ -1,11 +1,13 @@
 ---
 author: 
   - name: Deni Elliot Noronha Lopes
+    url: http://lattes.cnpq.br/4691958100092002
     orcid: 0000-0002-3519-6862
     email: deninoronhalopes@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Rita Helena Sousa Ferreira Gomes
+    url: http://lattes.cnpq.br/9324470543610163
     orcid: 0000-0002-2306-4264
     email: ritahelenagomes@ufc.br
     affiliations: 

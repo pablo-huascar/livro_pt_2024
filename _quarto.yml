@@ -47,6 +47,7 @@ book:
         - melo_assessoria.qmd
         - rodrigues_relatorio_tecnico.qmd
         - costa_assessoria_saae.qmd
+        #- en_costa_assessoria_saae.qmd
         - sampaio_assessoria.qmd
         - lima_assessoria.qmd
         - vasconcelos_narrativas.qmd

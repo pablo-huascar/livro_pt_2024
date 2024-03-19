@@ -1,21 +1,25 @@
 ---
 author: 
   - name: Luciana Fontenele de Sena
+    url: http://lattes.cnpq.br/5345699181824458
     orcid: 0000-0002-3799-6548
     email: lucianafontenele@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Francisco Pablo Huascar Aragão Pinheiro
+    url: http://lattes.cnpq.br/8266089190930601
     orcid: 0000-0001-9289-845X
     email: pablo.pinheiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Alex Sandro de Moura Grangeiro
+    url: http://lattes.cnpq.br/9840632174810869
     orcid: 0000-0001-7668-7978
     email: alexgrangeiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Esthela Sá Cunha
+    url: http://lattes.cnpq.br/1818023056598329
     orcid: 0000-0002-4822-0454
     email: esthelasa7@gmail.com
     affiliations: 

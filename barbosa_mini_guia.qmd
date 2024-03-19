@@ -1,11 +1,13 @@
 ---
 author: 
   - name: Hiara da Silva Santos Barbosa
+    url: http://lattes.cnpq.br/3372922787437273
     orcid: 0000-0002-2098-5260
     email: hiarabarbosa@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Natália Santos Marques
+    url: http://lattes.cnpq.br/6060664745536596
     orcid: 0000-0003-4994-3811
     email: nataliamarques@ufc.br
     affiliations: 

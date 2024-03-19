@@ -1,11 +1,13 @@
 ---
 author: 
   - name: Thamila Cristina dos Santos da Silva
+    url: http://lattes.cnpq.br/4516527399645222
     orcid: 0000-0001-8616-0731
     email: thamila_silva@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Érica Atem Gonçalves de Araújo Costa
+    url: http://lattes.cnpq.br/7397272595520801
     orcid: 0000-0002-4341-8138
     email: ericaatem@ufc.br
     affiliations: 

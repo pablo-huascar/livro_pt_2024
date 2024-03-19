@@ -69,13 +69,13 @@ bibliography: costa_assessoria_saae.bib
 reference-section-title: Referências
 ---
 
-# “Se eu pegar o atendimento e não resolver, ele pensa que o problema sou eu”: relatório de assessoria sobre uma intervenção em Clínica da Atividade com profissionais de atendimento ao público
+# “If I take the call and don't solve it, he thinks the problem is me”:  advisory report regarding an intervention in clinic of activity with customer service representatives
 
-## Introdução
+## Introduction
 
-O serviço de atendimento ao público mostra-se essencial para a mediação de interesses entre a organização e os clientes. Apesar de parecer uma atividade de fácil desenvolvimento, ela promove significativos embates no espaço laboral. Em relação ao trabalho de mediação, são percebidas diferentes compreensões, por exemplo, a da instituição, que busca transformar o atendente em uma personificação dos interesses da empresa, e a do usuário, que, muitas vezes, não reconhece a singularidade do trabalhador e o responsabiliza por todas as suas demandas [@ferreira2000serv_atend_publico].
+Customer service is pivotal in mediating the interests between organizations and their clients. While seemingly straightforward, it often leads to significant conflicts within the workplace. In the context of mediation work, diverse perceptions emerge, such as that of the institution, which aims to transform the service representative into a personification of the company's interests, and that of the user, who frequently overlooks the worker's individuality and holds them responsible for all their demands [@ferreira2000serv_atend_publico].
 
-Os operadores de teleatendimento, em particular, têm um roteiro, chamado de script, que descreve os procedimentos a serem realizados no contato com o público. Entretanto, de acordo com estes trabalhadores, esse script não condiz com a realidade encontrada ao exercer a atividade, tendo em vista problemas não previstos a priori que são trazidos, principalmente, pelos usuários [@ziliotto_oliveira_2014].
+Call center operators, specifically, are provided with a script that delineates the procedures for interacting with the public. However, these workers report a discrepancy between the script and the realities they face in their roles, primarily due to unforeseen issues introduced by the users [@ziliotto_oliveira_2014].
 
 Em pesquisa realizada com ex-profissionais de telemarketing de duas empresas em Salvador, Jesus et al. [-@jesus_benevides_dutra2019prejuizo_alforria] encontraram que os trabalhadores consideravam inadequadas as condições de trabalho no setor de atendimento. Foram apontadas pressões relativas ao atendimento de metas e intimidações de gestores com ameaças de demissão. Os autores afirmaram que, apesar de os participantes julgarem importantes as relações construídas no ambiente de trabalho, principalmente no suporte entre os colegas, muitos ressaltaram que tal sentimento de pertença com o coletivo era incapaz de combater o medo que sentiam das regras das instituições. Além disso, destacaram algumas repercussões à saúde, como desgaste físico e mental.
 

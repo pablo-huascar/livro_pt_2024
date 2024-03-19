@@ -1,11 +1,13 @@
 ---
 author: 
   - name: Antonia Renata Lopes Lima
+    url: http://lattes.cnpq.br/5242909355849793
     orcid: 0000-0002-8971-7280
     email: renatalopeslima@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Natália Santos Marques
+    url: http://lattes.cnpq.br/6060664745536596
     orcid: 0000-0003-4994-3811
     email: nataliamarques@ufc.br
     affiliations: 

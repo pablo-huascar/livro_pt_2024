@@ -1,10 +1,12 @@
 ---
 author: 
   - name: Francisco Bruno Paz Soares
+    url: http://lattes.cnpq.br/0623185621244561
     email: brunopazsoares@gmail.com
     affiliations: Universidade Federal do Piauí
     orcid: 0000-0002-8173-0907
   - name: João Paulo Sales Macedo
+    url:  http://lattes.cnpq.br/6624843385034057
     email: jpmacedo@ufpi.edu.br
     affiliations: Universidade Federal do Piauí
     orcid: 0000-0003-4393-8501
@@ -101,45 +103,45 @@ Após a organização dos resultados por componente curricular analisado (nome d
 
 A categoria analítica a qual denominamos de “Modelo Biomédico” esteve relacionada com palavras em referência ao âmbito Psiquiátrico e Psicopatológico: “psicopatológico”, “transtorno”, “síndrome", “diagnóstico”, “distúrbio”, dentre outras. Do total de ementas pesquisadas (n = 727) e referências bibliográficas (n = 428) nos 30 currículos analisados, pelo menos 24,96% (n = 181) das ementas e 26,7% dos títulos das referências (n = 113) estavam relacionados ao “Modelo Biomédico”.
 
-No caso das concepções de saúde que orientam o processo formativo em Psicologia a partir do Modelo Biomédico, Sobrosa et al. [-@SobrosaEtAl2014] problematizam que este modelo tem suas origens datadas no início do século XX, sendo caracterizado pelo entendimento de saúde como ausência de doenças, na medida em que enfatiza aspectos biológicos acompanhado de alterações fisiológicas como resultantes de desequilíbrios bioquímicos, lesões e/ou infecções: 
+No caso das concepções de saúde que orientam o processo formativo em Psicologia a partir do Modelo Biomédico, Sobrosa et al. [-@SobrosaEtAl2014] problematizam que este modelo tem suas origens datadas no início do século XX, sendo caracterizado pelo entendimento de saúde como ausência de doenças, na medida em que enfatiza aspectos biológicos acompanhado de alterações fisiológicas como resultantes de desequilíbrios bioquímicos, lesões e/ou infecções:
 
->“Principais escolas de psicopatologia. Diagnóstico em psicopatologia. Psiquiatria clássica. Psicanálise e Manuais diagnósticos atuais, a saber, a CID 10 e o DSM V. Significado e evolução dos conceitos de normalidade e patologia” (PPC 13).
+> “Principais escolas de psicopatologia. Diagnóstico em psicopatologia. Psiquiatria clássica. Psicanálise e Manuais diagnósticos atuais, a saber, a CID 10 e o DSM V. Significado e evolução dos conceitos de normalidade e patologia” (PPC 13).
 
 Com exceção da referência à Psicanálise e ao indicativo da compreensão sobre a diferenciação de suas estruturas clínicas em algumas poucas ementas analisadas, no geral observamos a não presença de discussões mais críticas sobre as ementas aqui reunidas no sentido de problematizarem o paradigma hegemônico em saúde sob o ideal de cura e de colocarem em questão as noções de normal e patológico, possibilitando pouca (ou quase nenhuma) compreensão mais ampliada acerca dos processos saúde-doença-cuidado. Ao dar ênfase à formação em saúde para conceitos que têm suas bases epistemológicas pautadas nesse modelo, a Psicologia acaba por focar em aspectos segmentados do sujeito, voltados prioritariamente para descrição de características ou fenômenos psicológicos oriundos de alterações biofisiológicas ou da personalidade, as quais apoiarão marcadores teórico-metodológicos centralizados nas abordagens clínicas-terapêuticas [@BernardesGuareschi2010].
 
 Neste modelo formativo a definição de saúde recai em visões naturalizantes, trazendo somente um desenvolvimento previsto e ideal do homem. Posto isto, não se faz relação com as condições de vida e sociedade nem com os princípios do SUS em que está imerso. Ao contrário, segue por localizar no indivíduo os fatores causais que originam seu adoecimento, promovendo uma noção em que a saúde depende de um esforço único para recuperar um estado anterior perdido ou não deixar que algum problema de saúde futuro se instale [@CamargoJr2013].
 
-Em relação às práticas abordadas que contemplam a categoria biomédica, estas possuem um viés curativo, de remissão dos sintomas, voltado principalmente para o âmbito clínico tradicional e hospitalar: 
+Em relação às práticas abordadas que contemplam a categoria biomédica, estas possuem um viés curativo, de remissão dos sintomas, voltado principalmente para o âmbito clínico tradicional e hospitalar:
 
->“Entrevista inicial, anamnese e de devolução. Diagnóstico clínico e intervenção clínica. O exame mental e a questão do diagnóstico. Identificação dos diferentes sintomas nas funções mentais e dos transtornos clínicos” (PPC 10).
+> “Entrevista inicial, anamnese e de devolução. Diagnóstico clínico e intervenção clínica. O exame mental e a questão do diagnóstico. Identificação dos diferentes sintomas nas funções mentais e dos transtornos clínicos” (PPC 10).
 
 Desse modo, a relação da Psicologia com a Saúde nos processos formativos aqui em tela adquire características próximas ao que Oliveira, Balard e Cutol [-@OliveiraEtAl2013] denominam de “Modelo Flexneriano”. Este modelo pauta-se em aspectos anátomo-fisiológicos, direcionando suas ações para o agente etiológico e a posturas profissionais, que pouco contemplam aspectos sociais e históricos. Ao aproximar-se deste modelo, a formação em Psicologia apoia-se nas mesmas chaves de leitura para a compreensão do fenômeno psicológico, voltando-se para estudo da personalidade (no âmbito das estruturas estrutural e no do funcionamento).
 
 Nesses termos, Cintra e Bernardo [-@CintraBernardo2017] expõem que é preciso renovar o bojo de práticas apresentadas e discutidas durante a formação em Psicologia, não no sentido de negar o referido modelo, mas no de criar um constante processo de estranhamento ao paradigma biomédico, além de propiciar a inventividade dos alunos e professores na criação de novas estratégias interventivas. Dessa maneira, formar seria sinônimo de exercitar a autonomia criativa para produção de singularidades tanto teóricas, quanto práticas, ampliando assim as concepções sobre o processo saúde-doença/sofrimento-cuidado.
 
-Em relação aos norteadores ético-políticos que contemplam a categoria biomédica, tais conceitos se restringiram ao código de ética profissional, contemplando questões sobre o sigilo profissional e a produção de pareceres e laudos: 
+Em relação aos norteadores ético-políticos que contemplam a categoria biomédica, tais conceitos se restringiram ao código de ética profissional, contemplando questões sobre o sigilo profissional e a produção de pareceres e laudos:
 
->“Principais fundamentos do código de ética profissional dos psicólogos. Estrutura e Administração do Conselho Profissional de Psicologia e Legislações atuais. Ética na prática profissional. Sigilo profissional” (PPC 7).
+> “Principais fundamentos do código de ética profissional dos psicólogos. Estrutura e Administração do Conselho Profissional de Psicologia e Legislações atuais. Ética na prática profissional. Sigilo profissional” (PPC 7).
 
 Nota-se a ênfase dada na formação a aspectos ético-políticos restritos a posturas profissionais consideradas normativamente adequadas e condizentes com o código de ética profissional na Psicologia. Este cenário corrobora as problematizações de Dimenstein [-@Dimenstein2001] ao afirmar que a perspectiva dominante da atuação de psicólogos no campo da Saúde mantém-se afastada de compromissos sociais e políticos na profissão, com base nas necessidades concretas do território.
 
 ### Modelo de Saúde Pública
 
-A categoria analítica a qual denominamos de “Modelo de Saúde Pública” esteve relacionada a 41,9% (n = 305) dos segmentos de textos relacionados aos nomes das disciplinas e às ementas. Tal modelo, de acordo com Souza [-@Souza2014], se refere a uma parte da Medicina que se propõe a intervir sobre a administração pública a fim de manter a população saudável, a partir de um aglomerado de normas e regras que devem ser seguidas pelo sujeito e pela sua família. Saúde, portanto, passa a ter uma concepção pautada na administração de programas, serviços, ações, que regulam o comportamento de indivíduos e determinados grupos populacionais a fim de diminuir fatores de risco que comprometam a saúde, além de promover e estabelecer hábitos e estilos de vida saudáveis: 
+A categoria analítica a qual denominamos de “Modelo de Saúde Pública” esteve relacionada a 41,9% (n = 305) dos segmentos de textos relacionados aos nomes das disciplinas e às ementas. Tal modelo, de acordo com Souza [-@Souza2014], se refere a uma parte da Medicina que se propõe a intervir sobre a administração pública a fim de manter a população saudável, a partir de um aglomerado de normas e regras que devem ser seguidas pelo sujeito e pela sua família. Saúde, portanto, passa a ter uma concepção pautada na administração de programas, serviços, ações, que regulam o comportamento de indivíduos e determinados grupos populacionais a fim de diminuir fatores de risco que comprometam a saúde, além de promover e estabelecer hábitos e estilos de vida saudáveis:
 
->“Abordagem introdutória à Saúde Pública. Fontes de dados de morbidade e mortalidade. Dinâmica populacional. Estatística vital e indicadores de saúde. Incidência e prevalência” (PPC 5).
+> “Abordagem introdutória à Saúde Pública. Fontes de dados de morbidade e mortalidade. Dinâmica populacional. Estatística vital e indicadores de saúde. Incidência e prevalência” (PPC 5).
 
 Partindo disso, ao enfatizar durante o processo formativo em saúde arcabouços teórico-práticos pautados no modelo de Saúde Pública, a Psicologia acaba por focar somente na ampliação de seu espaço de atuação neste âmbito, sendo sua práxis apoiada na normatividade de ações e desenvolvida a partir de um viés burocrático e informativo. Desse modo, foca-se no desenvolvimento e na aplicabilidade de instrumentos que abarquem uma quantidade maior de pessoas, mas que ainda se mantenham centralizados no agente etiológico de ordem individual e privatista, mesmo quando adotam vieses de prevenção e de promoção em Saúde [@Souza2014].
 
-Em relação às práticas abordadas durante o processo formativo que contemplam o modelo de Saúde Pública, estas se focam no processo de ampliação do modelo clínico hegemônico ao âmbito social, a fim de abarcar um número maior de pessoas, sendo pautadas em práticas de saúde numa perspectiva tão multidisciplinar quanto possível: 
+Em relação às práticas abordadas durante o processo formativo que contemplam o modelo de Saúde Pública, estas se focam no processo de ampliação do modelo clínico hegemônico ao âmbito social, a fim de abarcar um número maior de pessoas, sendo pautadas em práticas de saúde numa perspectiva tão multidisciplinar quanto possível:
 
->“Diagnóstico e intervenção em Saúde Pública. Planejamento, execução e avaliação de intervenções características do exercício profissional do psicólogo na Saúde Pública” (PPC 28).
+> “Diagnóstico e intervenção em Saúde Pública. Planejamento, execução e avaliação de intervenções características do exercício profissional do psicólogo na Saúde Pública” (PPC 28).
 
 Ao focar na apresentação de instrumentais durante a formação em Psicologia que priorizam ações isoladas a partir de uma epidemiologia tradicional e descritiva, restringe-se este processo a norteadores teórico-metodológicos limitados a meios de trabalhos característicos da Saúde Pública. Por conseguinte, a formação em Psicologia centraliza suas ações na concepção biologicista da saúde, por meio do desenvolvimento e da participação em campanhas de saúde específicas e desarticuladas dos demais setores (Educação, Assistência Social, Segurança, dentre outros) [@Souza2014].
 
-Em relação aos norteadores ético-políticos dos currículos que contemplam a categoria de Saúde Pública, tais conceitos se restringiram a discussões normativas por meio de cartilhas, estatutos e códigos que englobam o campo dos direitos e deveres civis: 
+Em relação aos norteadores ético-políticos dos currículos que contemplam a categoria de Saúde Pública, tais conceitos se restringiram a discussões normativas por meio de cartilhas, estatutos e códigos que englobam o campo dos direitos e deveres civis:
 
->“Constituição de 1988. Estatuto da Criança e do Adolescente. Políticas de direitos para crianças, adolescentes e idosos. Possibilidades de atuação profissional nas políticas de direito” (PPC 3).
+> “Constituição de 1988. Estatuto da Criança e do Adolescente. Políticas de direitos para crianças, adolescentes e idosos. Possibilidades de atuação profissional nas políticas de direito” (PPC 3).
 
 Diante dessa visão marcada pela ênfase de uma ilusória neutralidade profissional frente às causas políticas e sociais, são construídos no processo formativo em Psicologia binarismos que separam sujeito e objeto, interior e exterior, indivíduo e coletivo, clínica e política, clínica e saúde coletiva, enfim, Psicologia e Política. Tais divisões promovem noções conceituais expressando tais categorias como dialeticamente opostas, afastadas e naturalmente diferentes, isso com intuito de conferir um grau considerado de cientificidade à Psicologia [@BernardesGuareschi2010]
 
@@ -147,21 +149,21 @@ Diante dessa visão marcada pela ênfase de uma ilusória neutralidade profissio
 
 Esta categoria teve a seguinte representação nos componentes curriculares dos 30 Projetos de Curso investigados: por um lado, do total de 727 disciplinas analisadas, identificamos apenas 16,4% (n = 117) dos componentes de texto; por outro lado, do total de 727 ementas, identificamos 33,33% (n = 241); e, do total de 428 referências, identificamos 56,5% (n = 243) dos componentes de textos relacionados aos títulos das obras como sendo do campo da Saúde Coletiva.
 
-Scarcelli e Junqueira [-@ScarcelliJunqueira2011] afirmam que o campo de Saúde Coletiva busca concepções acerca do processo saúde-doença-cuidado que ultrapassem as fronteiras do modelo biomédico, marcado pela ênfase na doença. Em vista disso, compreendem esse processo como fruto de um conjunto dos fatores físicos, psíquicos e socioeconômicos a que os sujeitos estão submetidos: 
+Scarcelli e Junqueira [-@ScarcelliJunqueira2011] afirmam que o campo de Saúde Coletiva busca concepções acerca do processo saúde-doença-cuidado que ultrapassem as fronteiras do modelo biomédico, marcado pela ênfase na doença. Em vista disso, compreendem esse processo como fruto de um conjunto dos fatores físicos, psíquicos e socioeconômicos a que os sujeitos estão submetidos:
 
->“A gestão da Saúde no Brasil. O SUS e o Programa de Saúde da Família. A atenção integral em Saúde Coletiva. A atuação dos profissionais nas políticas públicas de saúde” (PPC 1).
+> “A gestão da Saúde no Brasil. O SUS e o Programa de Saúde da Família. A atenção integral em Saúde Coletiva. A atuação dos profissionais nas políticas públicas de saúde” (PPC 1).
 
 Para Paim e Almeida Filho [-@PaimAlmeidaFilho1998], o importante nessa amplitude de concepções acerca do conceito de saúde que contemplam o campo de Saúde Coletiva é compreender que existe mais de uma verdade e que estas assumem diferentes posicionamentos a depender das necessidades sociais do território, ou seja, dos aspectos relacionados às determinações sociais da saúde. Dessa forma, a construção de formações em saúde na Psicologia a partir de interseções com o modelo de Saúde Coletiva propicia a adoção de estratégias pedagógicas que ultrapassem o modelo tradicional de ensino-aprendizagem. Por conseguinte, não existem modos considerados corretos de fazer ou modelos formativos ideais, mas processos marcados por norteadores conceituais e práticos criados e recriados a partir da necessidade de cada realidade local em que tais cursos estão inseridos [@ScarcelliJunqueira2011].
 
-Em relação às práticas abordadas nos currículos analisados que contemplam o modelo de Saúde Coletiva, estas tomam como objeto as necessidades sociais de saúde, utilizando-se de tecnologias materiais e imateriais, além de ações centradas em diferentes grupos sociais e territórios [@PaimAlmeidaFilho1998]: 
+Em relação às práticas abordadas nos currículos analisados que contemplam o modelo de Saúde Coletiva, estas tomam como objeto as necessidades sociais de saúde, utilizando-se de tecnologias materiais e imateriais, além de ações centradas em diferentes grupos sociais e territórios [@PaimAlmeidaFilho1998]:
 
->“Questões da prevenção primária, secundária e terciária. Familiarização, Territorialização. Levantamento de Demandas e Planejamento de Intervenções. Identificação e Hierarquização de Necessidades e Recursos” (PPC 7).
+> “Questões da prevenção primária, secundária e terciária. Familiarização, Territorialização. Levantamento de Demandas e Planejamento de Intervenções. Identificação e Hierarquização de Necessidades e Recursos” (PPC 7).
 
 Tais resultados corroboram a afirmação de Paim e Almeida Filho [-@PaimAlmeidaFilho1998] ao apontarem que as “ferramentas” do profissional em Saúde Coletiva são produzidas a partir da organicidade das ações e construídas socialmente. Desta maneira, segundo os autores, tais ações promovem uma dupla-face ao profissional: o de técnico de necessidades de saúde e na gestão dos processos de trabalho em saúde, inclusive de gestão do fazer clínico, ou mesmo da gestão de serviços e do trabalho pelas redes setoriais da saúde e intersetoriais das políticas públicas presentes no território.
 
-Em relação aos norteadores ético-políticos abordados nos currículos que contemplam a categoria de Saúde Coletiva, estes, além de abarcar os âmbitos técnico, econômico e ideológico, envolvem um projeto de profissão vinculado à emancipação dos seres humanos, por meio de um conjunto de conceitos e práticas voltadas para as necessidades sociais: 
+Em relação aos norteadores ético-políticos abordados nos currículos que contemplam a categoria de Saúde Coletiva, estes, além de abarcar os âmbitos técnico, econômico e ideológico, envolvem um projeto de profissão vinculado à emancipação dos seres humanos, por meio de um conjunto de conceitos e práticas voltadas para as necessidades sociais:
 
->“Possibilidades de atuação profissional nas políticas de direito. Psicologia e campo de direitos. Psicologia e compromisso social. Cultura. Política. Sociedade. Ideologia. Democracia. Poder. Movimentos sociais e cidadania” (PPC 28).
+> “Possibilidades de atuação profissional nas políticas de direito. Psicologia e campo de direitos. Psicologia e compromisso social. Cultura. Política. Sociedade. Ideologia. Democracia. Poder. Movimentos sociais e cidadania” (PPC 28).
 
 Birman [-@Birman1991] ressalta tal dimensão ético-política ao apontar que o discurso médico naturalista sempre colocou à margem do processo saúde-doença-cuidado a dimensão política do cuidado em saúde. Dessa forma, a Saúde Coletiva seria uma das alternativas para o processo de reestruturação do campo da Saúde e da própria Psicologia no que refere a esse campo, por meio do destaque dado em seus norteadores teórico-conceituais a dimensões éticas, políticas e simbólicas, na medida em que relativiza a hegemonia do discurso anátomo-fisiológico, sem desconsiderar sua importância na formação profissional.
 
