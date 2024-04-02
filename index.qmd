@@ -3,13 +3,13 @@ author:
   - name: Francisco Pablo Huascar Aragão Pinheiro
     url:  http://lattes.cnpq.br/8266089190930601
     orcid: 0000-0001-9289-845X
-    email: "joaopaulobarros@ufc.br"
+    email: pablo.pinheiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: João Paulo Pereira Barros
     url: http://lattes.cnpq.br/0351156693555523
     orcid: 0000-0001-7680-576X
-    email: pablo.pinheiro@ufc.br
+    email: joaopaulobarros@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
