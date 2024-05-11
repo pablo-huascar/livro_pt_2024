@@ -25,6 +25,7 @@ author:
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Andressa da Silva Rodrigues
+    url: https://lattes.cnpq.br/5221958688837066
     orcid: 0009-0009-2196-3694
     email: andressa20srodrigues@gmail.com
     affiliations: 

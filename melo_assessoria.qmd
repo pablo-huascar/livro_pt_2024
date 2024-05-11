@@ -2,36 +2,43 @@
 author: 
   - name: Carolina Silveira Leitão Melo
     orcid: 0000-0002-9397-5098
+    url: http://lattes.cnpq.br/1876555616462121
     email: leitaoscarolina@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Viktoria Braga Leite
     orcid: 0000-0003-4139-9161
+    url: http://lattes.cnpq.br/4437365971976104
     email: viktorialeite1010@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Julia Mesquita Lopes
     orcid: 0009-0006-0616-1798
+    url: http://lattes.cnpq.br/5065932639924858
     email: juliamesquita_lopes@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Maria Lídia de Farias Araújo
     orcid: 0000-0002-5911-9327
+    url: http://lattes.cnpq.br/3595437832137996
     email: lidiadoisdo4@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Dária Maria Barbosa Dedê
     orcid: 0009-0005-6962-1694
+    url: http://lattes.cnpq.br/5895095834187930
     email: dariadede2110@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Ana Laís Carvalho de Sousa
     orcid: 0000-0002-7300-0402
+    url: http://lattes.cnpq.br/6232262336638923
     email: analaisc1@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Renata Guimarães de Carvalho
     orcid: 0000-0002-3592-7709
+    url: http://lattes.cnpq.br/6991808774604401
     email: renatagui.carvalho@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
