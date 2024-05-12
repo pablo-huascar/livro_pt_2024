@@ -2,11 +2,13 @@
 author: 
   - name: João Paulo Pereira Barros
     orcid: 0000-0001-7680-576X
+    url: http://lattes.cnpq.br/0351156693555523
     email: joaopaulobarros07@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Lucia Maria Bertini
     orcid: 0000-0001-7498-6640
+    url: http://lattes.cnpq.br/1310420364745804
     email: lubertini.ce@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
@@ -17,21 +19,25 @@ author:
       - name: Universidade Federal do Ceará
   - name: Carla Jéssica de Araújo Gomes
     orcid: 0000-0002-6979-2646
+    url: http://lattes.cnpq.br/9684612126688971
     email: carlajessicagomes@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Lívia Lima Gurgel
     orcid: 0000-0003-2095-2415
+    url: http://lattes.cnpq.br/1093745359879934
     email: livialgurgel@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Aldemar Ferreira da Costa
     orcid: 0000-0003-0281-9944
+    url: http://lattes.cnpq.br/1217856125920106
     email: demarfcost92@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Laisa Forte Cavalcante
     orcid: 0000-0002-6523-847X
+    url: http://lattes.cnpq.br/1827305975624111
     email: laisacavalcante9393@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
@@ -44,7 +50,8 @@ author:
       - name: Universidade Federal do Ceará
   - name: Davi Lucas Moraes
     orcid: 0009-0008-9075-8494
-    email: davimoraes\_\@alu.ufc.br
+    url: http://lattes.cnpq.br/8589151447403539
+    email: davimoraes@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 

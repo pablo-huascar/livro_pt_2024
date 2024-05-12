@@ -2,25 +2,30 @@
 author: 
   - name: Francisca Denise Silva Vasconcelos
     orcid: 0000-0002-3997-7869
+    url: http://lattes.cnpq.br/2515278419639079
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Gracymara Severiano Mesquita
     orcid: 0000-0001-6813-8258
+    url: http://lattes.cnpq.br/6973773546458473
     email: gracymesquita@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Luana Paiva da Silva
     orcid: 0000-0002-5968-5206
+    url: http://lattes.cnpq.br/0683599911313684
     email: lpaivva7@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Jorge Samuel de Sousa Teixeira
     orcid: 0000-0003-4188-5303
+    url: http://lattes.cnpq.br/8162807562828913
     email: jorgesamuel199@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Bárbara Éllen Viana Sales
     orcid: 0000-0003-3175-0237
+    url: http://lattes.cnpq.br/5579433624678520
     email: bellen018@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará

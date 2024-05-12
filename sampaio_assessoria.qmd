@@ -2,31 +2,37 @@
 author: 
   - name: Juliana Vieira Sampaio
     orcid: 0000-0001-5770-244X
+    url: http://lattes.cnpq.br/9556200287516417
     email: julianasampaio@sobral.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Ariadsa Mesquita Aragão
     orcid: 0009-0001-8800-7826
+    url: http://lattes.cnpq.br/1964456384291965
     email: ariadsamesquita@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Luiza Barbara Cunha Freire
     orcid: 0009-0009-5242-1361
+    url: Luiza Barbara Cunha Freire
     email: luizabcfreire@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Adrielle Jennifer Candido Coelho
     orcid: 0009-0008-7512-2148
+    url: http://lattes.cnpq.br/9870035361869779
     email: adriellecoelho88@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Brígida Sousa de Oliveira
     orcid: 0009-0001-8960-3945
+    url: http://lattes.cnpq.br/2888574633177001
     email: brigidasousa@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Carla Cecilia Mendes Oliveira
     orcid: 0009-0001-4055-4767
+    url: http://lattes.cnpq.br/5932580912543222
     email: carlacecilia542@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
@@ -91,11 +97,11 @@ c)  Maternidade – o tema foi abordado a partir de perguntas disparadoras, como
 
     -   “As expectativas sobre o que é ser mãe são diferentes do que se espera sobre o que é ser pai? Como?”.
 
-d)  Outubro Rosa – Tendo como demanda do CRAS e CREAS, devido à ação programada para o mês de outubro, acrescentamos o tema “Outubro Rosa”, para discutir a prevenção do câncer de mama. Com essa finalidade, realizamos perguntas para fomentar a discussão sobre cuidado em saúde, por exemplo: 
+d)  Outubro Rosa – Tendo como demanda do CRAS e CREAS, devido à ação programada para o mês de outubro, acrescentamos o tema “Outubro Rosa”, para discutir a prevenção do câncer de mama. Com essa finalidade, realizamos perguntas para fomentar a discussão sobre cuidado em saúde, por exemplo:
 
-    -   “Qual a melhor forma de identificar o câncer de mama?”; 
+    -   “Qual a melhor forma de identificar o câncer de mama?”;
 
-    -   “A partir de que idade é mais comum ter câncer de mama?”; 
+    -   “A partir de que idade é mais comum ter câncer de mama?”;
 
     -   “Qual a melhor forma de prevenir o câncer de mama?”.
 
