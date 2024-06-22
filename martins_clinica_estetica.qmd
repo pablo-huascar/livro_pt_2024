@@ -2,51 +2,61 @@
 author: 
   - name: Karla Patrícia Holanda Martins
     orcid: 0000-0003-3242-6287
+    url: http://lattes.cnpq.br/0785051938150248
     email: kphm@uol.com.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Vládia Jamile dos Santos Jucá
     orcid: 0000-0003-2416-7342
+    url: http://lattes.cnpq.br/5114828099080089
     email: vladiajuca@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Carla Renata Braga de Souza
     orcid: 0000-0002-2592-4547
+    url: http://lattes.cnpq.br/6352433194160038
     email: carlarenatabs@gmail.com
     affiliations: 
       - name: Unichristus
   - name: Ricardo Pinheiro Maia Júnior
     orcid: 0000-0003-0114-5079
+    url: http://lattes.cnpq.br/9193897293259480
     email: ricardopmaia@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Camilla Araújo Lopes Vieira
     orcid: 0000-0003-1706-3772
+    url: http://lattes.cnpq.br/8444547145601106
     email: camillapsicol@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Morena Simonetti Gomes Maciel
     orcid: 0000-0001-6285-1861
+    url: http://lattes.cnpq.br/3687175753552060
     email: morenasimonetti@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Myrella Raissa Caetano Linhares
     orcid: 0009-0001-4853-543X
+    url: http://lattes.cnpq.br/2278831597501440
     email: myrells@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Mariana Fraga Soares
     orcid: 0000-0003-2776-0555
+    url: http://lattes.cnpq.br/2716902419927474
     email: marianafraga.mf@hotmail.com
     affiliations: 
       - name: Centro de Referência de Assistência Social (Cascavel, Ceará)
   - name: Cristiane Ferreira de Souza
     orcid: 0009-0005-0241-8309
+    url: http://lattes.cnpq.br/7192198039332151
     email: cristianesouzaf89@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Beatriz Alves Viana
     orcid: 0000-0002-8758-8913
+    url: http://lattes.cnpq.br/7364196272431698
     email: beatrizalvesv@gmail.com
     affiliations: 
       - name: Centro Universitário Uninta 

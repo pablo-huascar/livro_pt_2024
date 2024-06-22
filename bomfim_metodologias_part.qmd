@@ -2,41 +2,49 @@
 author: 
   - name: Zulmira Áurea Cruz Bomfim
     orcid: 0000-0002-1874-8821
+    url: http://lattes.cnpq.br/1210419516945897
     email: zulaurea@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Nara Maria Forte Diogo Rocha
     orcid: 0000-0001-5040-1492
+    url: http://lattes.cnpq.br/8711220429784748
     email: narafdiogo@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Fábio Pinheiro Pacheco
     orcid: 0000-0003-4139-1506
+    url: http://lattes.cnpq.br/7580641163210143
     email: fabio.pacheco@uece.br
     affiliations: 
       - name: Universidade Estadual do Ceará
   - name: Andie de Castro Lima
     orcid: 0000-0003-1469-8529
+    url:  http://lattes.cnpq.br/5263513220053487
     email: lima.castro94@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Cícera Mônica da Silva Sousa Martins
     orcid: 0000-0003-1773-0061
+    url: http://lattes.cnpq.br/4057474289308489
     email: monicamartins_sousa@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Halaine Cristina Pessoa Bento
     orcid: 0000-0002-2247-5096
+    url: http://lattes.cnpq.br/1306220024705448
     email: halainecristinapessoa@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Elcides Hellen Ferreira Landim Barreto
     orcid: 0000-0003-1284-5679
+    url: http://lattes.cnpq.br/0406518963460217
     email: hellenbarreto0@hotmail.com
     affiliations: 
       - name: Universidade Federal do Ceará
   - name: Graciella Faico Ferreira
     orcid: 0000-0001-9075-5180
+    url: http://lattes.cnpq.br/1642574960298281
     email: graciella@ufrj.br
     affiliations: 
       - name: Universidade Federal do Rio de Janeiro
@@ -85,12 +93,15 @@ Considerando a necessidade de distanciamento físico, por conta da pandemia da C
 
 Quanto às inscrições do curso, estas foram realizadas de forma virtual pela plataforma Google Formulários, em julho de 2020. Inicialmente, a equipe de organização do curso planejou disponibilizar 100 vagas, contudo, diante da alta procura identificada, foram realizadas 162 inscrições. Com relação ao perfil de inscritos, além de estudantes de graduação, especialização, mestrado e doutorado, também foi registrada a participação de profissionais de políticas públicas, integrantes de organizações não-governamentais e participantes de movimentos sociais, de coletivos, além de líderes comunitários. A seguir, o quadro 1 sintetiza o perfil dos estudantes inscritos quanto às áreas de formação.
 
-|                    |                                                                                                                                                                                                                                                           |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Graduação**      | Psicologia; Pedagogia; Sociologia; Direito; História; Nutrição; Finanças; Medicina; Gestão de Turismo; Arquitetura e Urbanismo; Geografia; Ciências Ambientais; Ciências Biológicas; Engenharia de Pesca; Engenharia Ambiental; Gestão Ambiental; Física. |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Especialização** | Saúde; Legislação Social, Políticas Públicas e Trabalho Social.                                                                                                                                                                                           |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Mestrado**       | Psicologia; Interdisciplinaridade em Humanidades; Ciências Marinhas Tropicais; Desenvolvimento e Meio Ambiente.                                                                                                                                           |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Doutorado**      | Psicologia; Saúde Coletiva; Sociedade e Meio Ambiente.                                                                                                                                                                                                    |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : Quadro 1 - Áreas de formação (graduação e pós-graduação) dos estudantes inscritos no curso.
 
