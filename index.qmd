@@ -18,6 +18,7 @@ filters:
   - section-bibliographies
 bibliography: apresentacao.bib
 reference-section-title: Referências
+citeproc: false
 toc: false
 ---
 
