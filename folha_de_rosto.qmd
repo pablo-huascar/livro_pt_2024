@@ -1,5 +1,6 @@
 ---
 toc: false
+number-sections: false
 ---
 
 # Folha de rosto {.unnumbered}

@@ -2,7 +2,7 @@
 toc: false
 ---
 
-# Conselho editorial
+# Conselho editorial {.unnumbered .unlisted}
 
 Andréa Borges Leão - Universidade Federal do Ceará (UFC)
 

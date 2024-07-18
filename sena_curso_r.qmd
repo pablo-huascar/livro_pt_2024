@@ -186,7 +186,7 @@ library(dplyr)
 O banco de dados ufo_sightings.csv vai ser empregado. Estes dados trazem informações sobre o avistamento de objetos voadores não identificados. Para obter os dados, execute o código a seguir:
 
 ```{r}
-ufo <- read_csv("https://tinyurl.com/ufo-avist")
+ufo <- read_csv("./data/ufo_sightings.csv")
 ```
 
 **Exercício**
@@ -286,7 +286,7 @@ library(janitor)
 ```{r}
 #| warning: false
 #| message: false
-estudantes <- read_csv("https://tinyurl.com/estudcsv", 
+estudantes <- read_csv("./data/estudantes.csv", 
                        na = c("N/A","")) 
 
 estudantes
@@ -390,7 +390,7 @@ Regressão linear é uma análise estatística simples, mas é uma ferramenta fu
 ```{r}
 library(broom)
 
-tmcs <- read_csv("https://tinyurl.com/contextosm")
+tmcs <- read_csv("./data/contexto_sm.csv")
 ```
 
 ```{r}

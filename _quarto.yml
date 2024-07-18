@@ -3,10 +3,14 @@ project:
 lang: pt-br
 title-block-author-plural: "Organizadores"  
 toc-title: "Sumário"
-number-sections: false
+#number-sections: false
 indent: true
 
 book:
+  sidebar:
+    tools:
+      - icon: translate
+        href: https://fphap.quarto.pub/pt-psi-en/
   page-navigation: false
   title: "Produções Técnicas em Psicologia"
   subtitle: "Experiências Compartilhadas"
