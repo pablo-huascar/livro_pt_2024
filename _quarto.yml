@@ -67,6 +67,7 @@ book:
       chapters: 
         - da_silva_pandemia_pergunta.qmd
         - lopes_rabiscos_palavras.qmd
+        - silva_costa_material_didatico.qmd
 
     - part: Compilações de vários produtos técnicos
       chapters:
