@@ -1,0 +1,164 @@
+---
+author: 
+  - name: Denise da Silva Araújo
+    url: http://lattes.cnpq.br/2596971300065883 
+    orcid: 0000-0001-6655-563X 
+    email: denisesilva@alu.ufc.br
+    affiliations:
+    - name: Universidade Federal do Ceará
+   
+  - name: Camilla Araújo Lopes Vieira
+    url: http://lattes.cnpq.br/8444547145601106
+    orcid: 0000-0003-1706-3772
+    email: camillapsicol@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Rodrigo da Silva Maia
+    url: http://lattes.cnpq.br/1734687878822841
+    orcid: 0000-0002-8400-058X
+    email: rodrigosmaia@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Eliany Nazaré Oliveira
+    url: http://lattes.cnpq.br/9795597292263465
+    orcid: 0000-0002-6408-7243
+    email: elianyy@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: araujo_curso_agentes.bib
+reference-section-title: Referências
+---
+
+# “Caminhos D’Agente”: curso em saúde mental para agentes comunitários de saúde do município de Sobral, Ceará
+
+## Introdução
+
+As definições de saúde e de saúde mental se alinham às questões de cada época e cultura [@Amarante2007]. Segundo Paulo Amarante [-@Amarante2007], há diversas interpretações sobre saúde mental: algumas a consideram como o oposto de doença mental, outras como ausência de doenças, ou ainda em referência a dispositivos presentes nas políticas públicas de saúde, após a reforma psiquiátrica, nos quais se cuida de pessoas em intenso sofrimento psíquico, como os Centros de Atenção Psicossocial (CAPS). A partir disso, o autor define saúde mental como “um campo bastante polissêmico e plural na medida em que diz respeito ao estado mental dos sujeitos e das coletividades que, do mesmo modo, são condições altamente complexas” [@Amarante2007, p.19].
+
+Em 2001 foi instituída, no Brasil, pela lei 10.216, a Política Nacional de Saúde Mental (PNSM). Essa política reorienta o modelo assistencial em saúde mental estabelecendo que o cuidado a pessoas em sofrimento psíquico deve ocorrer prioritariamente nos dispositivos comunitários com a participação da família e da sociedade [@Brasil2001].
+
+No contexto brasileiro, as ações coletivas e territoriais em saúde se organizam a partir da Estratégia de Saúde da Família, que tem a Atenção Primária à Saúde (APS) como a porta de entrada preferencial aos serviços e ações em saúde diante de sua capacidade de resolutividade, comunicação e ordenamento da rede de atenção à saúde [@Brasil2017]. Diante disso, o trabalho em saúde mental na APS exige dos profissionais respostas menos padronizadas e, portanto, mais complexas. É preciso, portanto, encontrar formas de lidar com a pessoa em sofrimento psíquico, seus familiares, vizinhos e comunidade, alinhadas às suas necessidades e realidades e articuladas aos dispositivos do/no território [@Lancetti2006].
+
+Na APS, destaca-se o trabalho dos Agentes Comunitários de Saúde (ACS), que consta como o maior quantitativo de profissionais atuantes na atenção básica, em contato mais próximo aos usuários no território [@Simas2017]. A lei 13.595/2018 estabelece que uma das atribuições dos ACS é o acolhimento e acompanhamento de pessoas em sofrimento psíquico e seus familiares durante as visitas domiciliares. Além disso, os ACS são apontados como profissionais que identificam e têm o primeiro contato com os usuários com necessidades em saúde mental, compartilhando informações às equipes nos serviços de saúde. [@Brasil2018; @Cardoso2020]
+
+Menezes et al. [-@Menezes2018] afirmam que a capacidade dos profissionais de agir diante de situações singulares no cotidiano precisa ser trabalhada durante a formação, não para elaborar fórmulas ou um padrão de atendimento, mas para que se aproxime do que há de singular em cada caso nas intervenções. Para que seja possível, é urgente que práticas pedagógicas considerem a subjetividade dos trabalhadores [@Franco2007]. A educação permanente em saúde é um recurso que viabiliza reflexão crítica e avaliação do trabalho no cotidiano e tem como objetivo o processo de ensino-aprendizagem nas experiências práticas com o campo, com os desafios e potencialidades visualizados por cada profissional [@Oliveira2022].
+
+Diante do exposto, nosso trabalho desenvolveu um curso de capacitação para um grupo de Agentes Comunitários de Saúde em saúde mental na atenção básica no município de Sobral/CE. Caracterizou-se, assim, como uma oferta de serviços que visa cumprir o compromisso político da universidade com a comunidade, em educação permanente, num Mestrado em Psicologia e Políticas Públicas.
+
+## Proposta do curso
+
+O Curso “Caminhos D’Agente” trouxe uma proposta de capacitação para Agentes Comunitários de Saúde que atuam no município de Sobral através da metodologia problematizadora do Arco de Maguerez, que possibilitou o levantamento de dados e contribuições interventivas para a problemática em questão. Essa metodologia foi desenvolvida em 5 etapas:
+
+1.  observação da realidade e formulação do problema a ser trabalhado;
+2.  delimitação dos pontos-chave;
+3.  teorização sobre o problema;
+4.  criação de hipóteses de solução para o problema destacado;
+5.  analisar as vias de aplicação prática das hipóteses de solução à realidade vivenciada [@Villardi2015].
+
+![Etapas do Arco de Maguerez](imagens/arco_mangarez.png){fig-align="left" width="425"}
+
+Fonte: Villardi et al. [-@Villardi2015, p. 46]
+
+Na etapa de observação da realidade, os participantes são estimulados a observar seus contextos e identificar quais aspectos da temática a ser trabalhada estão presentes [@Silva2020, p. 45]. A etapa seguinte, denominada de pontos-chave, consiste em refinar o olhar de forma crítica para as múltiplas origens dos problemas identificados anteriormente. A partir disso, delimita-se coletivamente quais desses pontos irão compor a discussão [@Silva2020]. Na teorização ocorre o aprofundamento das reflexões entre os participantes sobre a temática em questão para maior entendimento dos diversos aspectos que estão envolvidos nos problemas trabalhados [@Villardi2015; @Silva2020].
+
+Nas fases seguintes, os participantes são instigados a elaborar, de forma crítica e criativa, hipóteses de soluções para os problemas. Após isso, segue-se para a aplicação à realidade, na qual os participantes realizam um movimento de retorno ao campo de trabalho visando pôr em prática o que foi construído como hipótese de solução. Diante disso, é possível avaliar as possibilidades e desafios de aplicação [@Villardi2015; @Silva2020].
+
+Para a construção do curso Caminhos D’Agente, nos orientamos por materiais bibliográficos direcionados para a formação de Agentes Comunitários de Saúde, tais como as Diretrizes de Capacitação para Agentes Comunitários de Saúde, o Guia Prático para Agentes Comunitários de Saúde e o Caderno de Atenção Básica - Saúde Mental, bem como da escuta dos profissionais nos cursos e ações de extensão realizadas anteriormente. O curso ocorreu em Sobral, em oito encontros realizados durante o mês de agosto de 2023, com carga horária de 40 horas e certificação. Todos os participantes inscritos se mantiveram assíduos nos encontros, de modo que todos receberam a certificação pela Universidade Federal do Ceará e o curso contou com 100% de aproveitamento.
+
+O projeto desse curso foi submetido à análise do Sistema Integrado da Comissão Científica, vinculado à Secretaria de Saúde do município de Sobral, e do Comitê de Ética em Pesquisa (CEP/CONEP), aprovado com número de parecer 6.081.292, cumprindo os requisitos das Resoluções 466/12 e 510/16 do Conselho Nacional de Saúde (CNS) [@Brasil2012; @Brasil2016].
+
+### Participantes
+
+Participaram do curso 31 Agentes Comunitários de Saúde, sendo 24 mulheres e 7 homens, com idades entre 22 e 57 anos. Dentre os participantes, 80,36% se autodenominam pardos, 9,7% pretos e 9,7% brancos.
+
+Vinte e cinco participantes atuavam em 14 territórios localizados na sede do município, e 6 participantes atuavam, cada um, em um distrito de Sobral. Da sede de Sobral, os territórios foram: Alto da Expectativa, Terrenos Novos I, Cohab III, Alto da Brasília, Novo Recanto, Sumaré, Campo dos Velhos, Junco, Tamarindo, Caiçara, Alto do Cristo, Coelce, Dom Expedito e Parque Santo Antônio. Dos distritos foram: Rafael Arruda, Aracatiaçu, Aprazível, Caracará, Patriarca e Baracho.
+
+Os ACS tinham entre 1 e 31 anos de trabalho na profissão. Vinte e seis pessoas informaram residir na área em que atuam. As formas de contratação também variaram entre concurso público, seleções vinculadas ao Estado e contratos temporários municipais.
+
+Vinte participantes informaram nunca ter participado de formações sobre saúde mental. Três pessoas disseram ter participado do Curso Caminhos do Cuidado, uma formação em saúde mental, crack e outras drogas, que ocorreu entre 2013 e 2015, promovida pela Fundação Oswaldo Cruz e o Ministério da Saúde. Os demais informaram ter participado de momentos de educação permanente sobre saúde mental e redução de danos.
+
+### Instrumentos
+
+As inscrições para o curso ocorreram via formulário eletrônico. O formulário foi dividido em seções, com apresentação das informações do curso e da pesquisa, através da apresentação do Termo de Consentimento Livre e Esclarecido (TCLE), seguida pela área de concordância em participar da pesquisa.
+
+Nas seções seguintes do formulário, foram coletadas informações sobre o perfil sociodemográfico e profissional dos participantes, sobre suas participações em momentos formativos em saúde mental e expectativas com relação ao curso. Ao final do preenchimento, os participantes recebiam, via email informado na inscrição, uma cópia do TCLE e das respostas ao formulário.
+
+Cada dia do curso foi gravado por áudio e, ao final de cada encontro, os ACS respondiam a uma avaliação. No último dia, foi proposta a construção de uma colcha de retalhos, na qual os ACS apontaram os desafios e as potencialidades do trabalho no campo da saúde mental.
+
+### Procedimentos
+
+#### Coleta e análise de dados
+
+A coleta dos dados se deu via dados dos formulários de inscrição, gravação dos encontros, respostas das avaliações e da produção da colcha de retalhos. Após a transcrição dos áudios, foi possível iniciar a análise seguindo as duas primeiras etapas do Arco de Maguerez: observação da realidade e identificação dos principais pontos-chaves que surgiram na fala dos ACS.
+
+Além dos aspectos teóricos e metodológicos do curso, manejamos, através da escuta das suas vivências e afetações, os aspectos emocionais envolvidos no curso pelo grupo de trabalho. Isso gerou efeitos no modo como os ACS se apropriaram da temática, reconhecendo-a presente em seus campos de trabalho e também enquanto sujeitos que se afetam com as relações que estabelecem na vida.
+
+Para a observação da realidade, foram utilizadas perguntas mobilizadoras, vídeos, poesias, jogos (mímica, quebra-cabeça) que possibilitaram o desenvolvimento das discussões. Em seguida, os pontos-chave foram selecionados com questões que eram correlacionadas pelos ACS. A teorização foi conduzida através do uso de conceitos, de trechos de músicas e questionamentos com reflexões. As hipóteses de solução foram elencadas, tanto a partir das discussões derivadas dos recursos utilizados nas teorizações, estudos de casos e construção da colcha de retalhos.
+
+## Resultados e discussão
+
+### Problematizando sobre saúde mental e sofrimento psíquico
+
+Os ACS trouxeram, inicialmente, que uma dúvida relacionada à saúde mental surge já nos contatos iniciais com os pacientes, durante o preenchimento da ficha de cadastro individual, na qual consta a pergunta: “Teve diagnóstico de algum problema de saúde mental por profissional de saúde?”. No instrumental, a possibilidade de resposta é dicotômica: sim ou não; além disso, não há espaço para inserir outras informações. Ou seja, os ACS percebem a complexidade da temática e pluralidade do campo da saúde mental diante da (im)possibilidade de uma única e breve resposta.
+
+O que se destaca para os ACS na lida com os pacientes é algo que lhes parece paradoxal: de um lado, a capacidade de trabalhar e se relacionar dos sujeitos em sofrimento e de outro, a prescrição e uso de psicotrópicos como terapêutica predominante diante do sofrimento que se supõe afetar principalmente as capacidades de conviver e trabalhar. Partindo disso, podemos inferir que, o que soa paradoxal na fala da ACS, é que as possibilidades de se relacionar e trabalhar se situam em referência a um ideal de normalidade, enquanto o medicamento atua em referência de algo patológico. Faz-se importante salientar a influência do contexto capitalista e neoliberal nessas idealizações de normalidade e no que torna possível o reconhecimento (ou não) do sofrimento [@Dunker2015].
+
+As concepções prévias dos ACS sobre como identificar uma demanda de cuidado em saúde mental parte também de uma perspectiva nosográfica. O diagnóstico como referência a um conjunto de sinais e sintomas, retroalimenta as intervenções voltadas exclusivamente à prescrição e uso de medicamentos como forma de lidar com sofrimento. Em alguns relatos, os ACS citaram o aumento no consumo de medicamentos sem prescrição e orientação médica.
+
+A observação desses aspectos na realidade, direciona a dois pontos-chave a serem teorizados que são: 1) aprofundamento teórico e conceitual sobre os termos saúde mental e sofrimento psíquico, pois a identificação dos casos se dá mais de forma intuitiva do que conceitual e 2) o uso de medicamentos como estratégia terapêutica de referência no cuidado em saúde mental.
+
+Na etapa de teorização, realizamos conceitualização sobre saúde mental, estruturação do campo da saúde mental no Brasil, o papel da atenção primária no cuidado e o trabalho dos ACS nos territórios com as relações sociais, econômicas, culturais, políticas e emocionais.
+
+Com a teorização, as ACS passam a se desprender do uso de medicamentos e ampliar o olhar para outros fatores. Consideramos que nomear como sofrimento o que antes era nomeado e explicado a partir de um diagnóstico foi importante para o modo como os ACS passaram a visualizar suas experiências e trazê-las para problematização dos processos de medicalização do sofrimento.
+
+A compreensão de que o sofrimento permeia a vida, abre possibilidade para que uma aproximação seja possível com o próprio sofrimento e com o dos outros. Também foi possível problematizar o acolhimento como escuta que possibilita diluir o preconceito e estigma que os atravessa, bem como a importância da escuta não ficar a cargo de apenas um profissional.
+
+Uma das atividades do curso foi a construção de uma colcha de retalhos, na qual os participantes citaram os desafios e as possibilidades do trabalho no campo da saúde mental na APS. Consideramos, nessa atividade, que as possibilidades elencadas se caracterizam como hipóteses de solução: escutar os usuários, criar um ambiente acolhedor, ter empatia e considerar, no cuidado, o contexto familiar e social.
+
+### Problematizando a escuta e o vínculo
+
+Atentar para as situações que fazem com que os pacientes busquem a unidade básica de saúde, o modo como chegam e são tratados é parte do tratamento [@Tenorio1996]. Ter isso como norte no trabalho demanda um posicionamento não somente do ACS, mas de toda equipe. A respeito do trabalho em equipe, os ACS trouxeram situações em que se sentem na responsabilidade de “resolver” por si as demandas dos pacientes. Nesse contexto, o matriciamento foi citado como estratégia de cuidado em saúde mental. O matriciamento caracteriza-se como uma metodologia de trabalho que aposta na construção compartilhada de projetos terapêuticos, estabelecimento de vínculos e apoio institucional [@Alves2024].
+
+Entretanto, quando o matriciamento não ocorre, o recurso utilizado para lidar com o paciente em momento de grave sofrimento é o uso de medicamentos. Soma-se a isso, um outro desafio: o apoio da equipe para a continuidade do acompanhamento que fica fragmentado quando os profissionais consideram que as visitas domiciliares são atribuições exclusivas dos ACS. Essa concepção gera distanciamento dos outros profissionais desse contexto de vida no território, ocasionando uma desimplicação do cuidado e ainda gera nos agentes sobrecarga emocional, sentimentos de culpa e incapacidade. O matriciamento foi caracterizado pelos ACS como espaço de exposição de casos, muitas vezes não alinhado às reais necessidades e demandas dos pacientes.
+
+A partir das discussões, os ACS citaram como hipótese de solução que antes de os próprios profissionais sugerirem um recurso terapêutico, que fossem realizados estudos dos casos, e momentos junto com os pacientes a fim de conhecer melhor a realidade e os interesses deles, sendo essa também outra forma de fortalecer vínculos.
+
+No curso, a maioria dos exemplos sobre vínculo e cuidado foram trazidos na relação entre os pacientes e os ACS. No entanto, quando esse paciente que demanda cuidado passa a ser o ACS, o vínculo junto à equipe apresenta-se fragilizado. Isso aponta para que o manejo do vínculo e o acolhimento estendam-se também às relações de trabalho da equipe. É a partir da dupla experiência dos ACS, enquanto profissional e paciente, que eles questionam as formas institucionais de lidar com o sofrimento, inclusive quando se trata de alguém da equipe que o demonstra.
+
+Jorge Broide [-@Broide2020] ressalta que o trabalho diante de condições sociais críticas demanda a construção de dispositivos baseados na escuta para se pensar o trabalho levando em consideração os sintomas pessoais, grupais, comunitários e institucionais como algo a ser elaborado e transmutado em conhecimento para fazer operar o trabalho.
+
+Um ponto-chave importante que se destacou nas falas é o desejo de que os espaços de formação possibilitem momentos em que a escuta aos profissionais se faça presente. Foi levando em consideração o lugar que ocupam e as experiências que vivenciam a partir desses lugares que a insegurança, o medo, o vínculo, a autonomia do paciente, o trabalho em equipe e as normas institucionais foram problematizadas na teorização.
+
+A partir disso, surgiram outras hipóteses de solução, como a articulação entre os ACS para compartilhar com as respectivas equipes as discussões que ocorreram durante o curso, participar de reuniões e eventos em que possam contribuir com as percepção e convocar apoio para lidar com desafios e fomentar participação popular em saúde. O momento em que surgiram essas hipóteses, foi de grande mobilização entre os participantes que passaram a traçar estratégias de fortalecimento, reconhecimento e cuidado diante da importância que têm no SUS, como pode ser percebido em fala dita por uma ACS: “nós somos o SUS!”.
+
+Na construção da colcha, ACS correlacionam a construção da colcha ao cotidiano de trabalho na UBS. A necessidade de compartilhar alguns materiais como cola, tesoura, linhas e fitas, o pedido de ajuda aos colegas para auxiliar em alguma parte do processo, as conversas e o ato de juntar os retalhos produzidos por cada ACS, de modo que tivesse uma continuidade entre as partes, remeteu a dimensão de que há algo de singular no fazer de cada um, que faz parte de uma produção que também é coletiva.
+
+A construção da colcha promoveu grande interação entre os participantes. Ao final, os ACS falaram sobre como foi a experiência de construir correlacionando às situações vivenciadas no cotidiano do trabalho. Surgiram, com maior frequência, questões como o acolhimento realizado na unidade, a escuta, o trabalho com grupos e em equipe. O cuidado em manejar todas essas questões foi semelhante ao cuidado em juntar os retalhos. Retalhos de vida e histórias que se atravessam e se constituem coletivamente.
+
+### Aplicação à realidade
+
+No que tange à etapa de aplicação à realidade no cotidiano de trabalho, selecionamos dois trechos em que os ACS relataram intervenções que fizeram após as discussões tecidas durante o curso:
+
+Depois do curso, eu percebi que todo dia à tarde tinha uma senhora que ia pro posto. Ela sentava na sala de espera e sempre que perguntavam se ela tinha algo agendado ela dizia que só queria ficar um tempo lá. No dia que conversamos sobre isso, eu cheguei na unidade no horário que ela ia só pra perguntar a ela porque todo dia ela tava na unidade naquele horário.Sabe o que acontecia? Esse era o horário que o marido dela chegava do trabalho, era extremamente violento com ela, e como ela não tinha familiares em Sobral, ela ia pra unidade e ficava lá até o horário dele voltar pro trabalho, pra que ela pudesse voltar pra casa. Quando eu vi nesse curso pra gente perguntar, eu conversei com ela. Em todo esse tempo ninguém sabia o porquê ela ia e agora, depois de saber a história dela, a gente passou a ver com outros olhos.
+
+> Essa semana eu recebi uma ligação dizendo que uma parente minha estava em crise e levaram ela até lá em casa. Eu perguntei se ela queria ajuda e ela acenou com a cabeça que sim. Perguntei o que ela gostava de fazer e ela disse que era dançar e escutar música. Perguntei se ela conseguia escutar música ou dançar durante as crises e ela disse que não. Então eu perguntei o que ela gostaria de fazer naquele momento e ela disse que queria ficar com o pai dela, porque se sentia bem. Ou seja, tinha algo que poderia ser feito, mas as pessoas que estavam com ela só enxergavam como a única solução dar diazepam pra ela se acalmar, mesmo ela dizendo que não queria tomar. Ela até dormiu, mas no outro dia acordou do mesmo jeito. Eu falei que quando a gente pede ajuda é porque precisa se encontrar e que eu estava ali pra ajudar ela a se encontrar novamente. Ela até perguntou se eu acreditava que isso era possível e eu disse que sim, e que dependia mais dela do que de mim, mas que juntas nós vamos trabalhar pra resolver isso, e ela voltar a ser quem ela era.
+
+Consideramos essas falas como emblemáticas no curso, tendo em vista que condensam elementos das discussões que atravessaram todas as temáticas discutidas: o olhar, a escuta e o acolhimento como forma de produzir outros vínculos e possibilidades de trabalho diante do sofrimento.
+
+## Considerações finais
+
+Neste trabalho, tivemos como objetivo realizar um curso de capacitação em saúde mental para Agentes Comunitários de Saúde que atuavam no município de Sobral/CE. O nome do curso foi proposto com a intenção de reconhecer e convocar o protagonismo e experiências do público ao qual é direcionado: Agentes Comunitários de Saúde, que caminham, circulam e percorrem diversos espaços dos territórios.
+
+A experiência com facilitação de ações de extensão e de cursos com ACS nos fez perceber quão insustentável seria uma proposta de capacitação sobre saúde mental de forma conteudista. A partir disso, se deu a escolha da metodologia-ativa e problematizadora do Arco de Maguerez, na qual foi possível conhecer as vivências e concepções dos ACS em relação às temáticas trabalhadas e construir, junto com eles, outras possibilidades de acolher, escutar e lidar com pessoas em sofrimento psíquico.
+
+Foi perceptível que o curso, como espaço de escuta e acolhimento aos ACS, contribuiu para que pudessem expressar suas concepções, a partir do modo como compreendem e se afetam com as experiências cotidianas junto aos pacientes, familiares e equipe de trabalho, seja no território, nas visitas domiciliares, nos grupos ou na unidade básica de saúde.
+
+Nas discussões, foi levado em consideração o lugar que os ACS ocupam, como trabalhadores do SUS e como parte da comunidade, e como se percebiam nessa função. As possibilidades de intervenção foram alcançadas problematizando com os ACS sentimentos como insegurança e medo, as especificidades do vínculo, a autonomia do paciente, o trabalho em equipe e as normas institucionais.
+
+Vale fazer referência ao desafio de manejar as atividades e as afetações com o grupo. Percebemos que ter, ao final de cada encontro, um espaço de diálogo sobre nossas percepções como facilitadoras fez com que conseguíssemos sustentar a escuta aos participantes e conduzir as adaptações que se fizeram necessárias durante o curso.
+
+Nesse percurso, deparamo-nos com alguns limites desse trabalho, na medida em que não foi possível contemplar todo o público de ACS e a carga horária não foi suficiente para aprofundar questões relevantes que surgiram nas falas dos ACS. Reiteramos ainda que uma proposta de capacitação não pode fechar os olhos para o contexto de fragilização diante dos retrocessos no campo da atenção primária e da política de saúde mental, pois impactam não somente na dinâmica dos dispositivos da rede de atenção à saúde do SUS, mas no modo como os profissionais se apropriam do seu trabalho e de como isso os afeta diante das suas possibilidades de viver, existir e ter a história respeitada, como afirmado pelos ACS na construção da colcha.

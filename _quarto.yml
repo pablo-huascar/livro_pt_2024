@@ -62,6 +62,7 @@ book:
         - bomfim_metodologias_part.qmd
         - martins_clinica_estetica.qmd
         - sena_curso_r.qmd
+        - araujo_curso_agentes.qmd
     
     - part: Material didático
       chapters: 
