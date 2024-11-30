@@ -1,19 +1,79 @@
 ---
 author: 
-  - name: Hiara da Silva Santos Barbosa
-    url: http://lattes.cnpq.br/3372922787437273
-    orcid: 0000-0002-2098-5260
-    email: hiarabarbosa@gmail.com
+  - name: Antonia Angélica Rodrigues Ximenes
+    url: http://lattes.cnpq.br/1457148861092084
+    orcid: 0009-0001-7457-3755
+    email: angelicaximenes@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
-  - name: Natália Santos Marques
-    url: http://lattes.cnpq.br/6060664745536596
-    orcid: 0000-0003-4994-3811
-    email: nataliamarques@ufc.br
+  - name: Antonio Ernandes Rocha Linhares
+    url: https://lattes.cnpq.br/5007008993178902
+    orcid: 0009-0000-8583-612X
+    email: ernandsrr@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Guilherme Lopes dos Santos
+    url: https://lattes.cnpq.br/2871079237671820
+    orcid: 0009-0005-8712-7526
+    email: guilhermelopess@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Iarhel Andrade Sabóia
+    url: https://lattes.cnpq.br/0372845408355871
+    orcid: 0009-0003-5783-4217
+    email: iarhel@ufpi.edu.br
+    affiliations: 
+      - name: Universidade Federal do Piauí
+  - name: João Gabriel Fernandes Gomes
+    url: https://lattes.cnpq.br/7172599878567968
+    orcid: 0009-0009-1981-0816
+    email: joaogabrielengcomp@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Miguel Célio Vasconcelos Pinheiro
+    url: https://lattes.cnpq.br/8367068549573032
+    orcid: 0009-0005-3081-0439
+    email: miguelcelio@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Maria Clara Lima Pinto
+    url: https://lattes.cnpq.br/1846732962473547
+    orcid: 0009-0006-7484-5681
+    email: mariaclaralp@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Marya Teixeira Soares
+    url: http://lattes.cnpq.br/3481146293835980
+    orcid: 0009-0002-5775-2185
+    email: maryateixeira@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Maria Juliana Lopes
+    url: http://lattes.cnpq.br/1957923071654988
+    orcid: 0009-0004-8835-9751
+    email: mariajulianalopes@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Larissa Silvia dos Santos
+    url: http://lattes.cnpq.br/7090550247721746
+    orcid: 0009-0005-5033-0707
+    email: larissasilviasantos@outlook.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Vera Silvia Paula Pessoa Aguiar Neta
+    url: http://lattes.cnpq.br/5191203280726899
+    orcid: 0009-0009-1704-1451
+    email: verappan@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Iratan Bezerra de Sabóia
+    url: http://lattes.cnpq.br/4256908254336676
+    orcid: 0000-0003-3312-9954
+    email: iratan@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
-  title-block-author-plural: "Autoras"
+  title-block-author-plural: "Autores"
 filters:
   - section-bibliographies
 bibliography: ximenes_et_al_aplicativo.bib
