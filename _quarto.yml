@@ -78,7 +78,9 @@ book:
       chapters:
         - barbosa_mini_guia.qmd
         - da_silva_mapas_vizin.qmd
-    
+    - part: Software/aplicativo 
+      chapters: 
+        - ximenes_et_al_aplicativo.qmd
     - sobre_os_autores.qmd
 
 format:

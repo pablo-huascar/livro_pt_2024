@@ -1,1 +1,121 @@
+---
+author: 
+  - name: Hiara da Silva Santos Barbosa
+    url: http://lattes.cnpq.br/3372922787437273
+    orcid: 0000-0002-2098-5260
+    email: hiarabarbosa@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Natália Santos Marques
+    url: http://lattes.cnpq.br/6060664745536596
+    orcid: 0000-0003-4994-3811
+    email: nataliamarques@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: ximenes_et_al_aplicativo.bib
+reference-section-title: Referências
+---
 
+# Um estranho no ninho: implantação de um aplicativo de guia de orientação estudantil para uma universidade federal no interior do nordeste
+
+## Introdução
+
+A educação superior possibilita diversas oportunidades de trabalho. No Brasil, essa realidade é acentuadamente perceptível. Pesquisa realizada pelo Instituto de Pesquisa Econômica Aplicada [@Reis2023] constatou que a diferença salarial entre graduados e pessoas com ensino médio chega a ser de quatro vezes.
+
+Essa distância de poder de consumo leva inúmeros jovens a optar pelo curso superior como forma de manutenção ou acesso a um padrão de vida que, de outra forma, seria inacessível. Isso é especialmente significativo em regiões onde há pouca oferta de emprego e são historicamente empobrecidas, como os interiores do país.
+
+Se nas capitais o ensino superior é solidamente constituído e largamente difundido, no interior esse cenário sempre foi oposto. Isso forçava os recém ingressos nas universidades a uma mudança de cidade. Posteriormente, essa mudança não se traduzia em retorno dessa mão de obra qualificada para suas cidades natais, uma vez que muitos continuavam nas capitais em que estudaram.
+
+Por vários motivos, o ingresso na Universidade é um momento decisivo e delicado na vida de muitos jovens, sobretudo para aqueles que precisam sair dos seus locais de origem para cursar o nível superior. A comodidade da casa dos pais, o ambiente familiar, são deixados em nome do sonho de uma profissionalização no ensino universitário.
+
+Na Universidade Federal do Ceará, essa interiorização é fruto da adesão ao REUNI (Reestruturação e Expansão das Universidades Federais), que viabilizou a expansão das universidades pelo interior do país. O programa foi iniciado em 2003 e fazia parte do Plano de Desenvolvimento da Educação (PDE), com a meta de dobrar as vagas nas Universidades Federais em dez anos [@Brasil2007; @Brasil2018].
+
+O Campus Sobral tem uma característica muito peculiar que é a da heterogeneidade dos cursos. São oito cursos de graduação sendo eles: Ciências Econômicas, Engenharia de Computação, Engenharia Elétrica, Finanças, Medicina, Música, Odontologia, Psicologia. Como pode se perceber os cursos estão distribuídos entre as ciências sociais, exatas e da saúde, criando um ambiente diverso em cultura, pensamento, áreas de estudo e demandas.
+
+Teramatsu e Straforini [-@TeramatsuStraforini2022] destacam, em pesquisa sobre o ENEM e o SISU em relação a IES no interior, que "essas políticas têm contribuído para uma nova organização do território brasileiro, com a redução de iniquidades e diferenciações regionais e a ampliação da acessibilidade das instituições de educação superior (IES) e da mobilidade geográfica estudantil potencial" (p. 123). No mesmo sentido Guimarães et al. [-@GuimaraesEtAl2022] apontam uma mobilidade estudantil reversa com a interiorização: diversos jovens migram para cidades do interior, a fim de ter acesso ao ensino superior. O que termina por ocasionar uma maior fixação dessa mão de obra qualificada nessas cidades antes carentes desses profissionais.
+
+Esses programas trouxeram essa realidade para Sobral, mas também apontaram necessidades estruturais para recepcionar de forma adequada esses jovens, que ingressam em uma nova fase de socialização. Esse convívio depende também de espaços e atividades integradoras que façam com que cada um deles se vincule à universidade e a tome com sentimento de pertença, potencializando, através de vínculos afetivos e institucionais, sua permanência no curso superior. Além de um ambiente acolhedor e que os ensine as novas regras e procedimentos nessa fase de suas vidas.
+
+Considerada socialmente como um dos últimos passos para a vida adulta e independente, a entrada na universidade costuma ser um marco de extrema importância e impacto na vida dos novos universitários. Entretanto, um local tão desejado pode se mostrar um ambiente prejudicial para a saúde mental dos estudantes, por diversos fatores, entre eles a não adequação a esse novo cenário institucional.
+
+Segundo Mari e Jorge [-@MariJorge1997], as facetas e dificuldades vivenciadas, principalmente na vida adulta, por si só já se mostram como fatores determinantes e influenciadores para o aparecimento de agravos à saúde mental. As pressões da vida universitária podem ser incluídas aqui, prejudicando não apenas o rendimento escolar do estudante, mas também a dinâmica de sua vida como um todo.
+
+É esperado que com a diferença entre a dinâmica do ensino médio e a do ensino superior, o recém ingresso sinta-se deslocado e frequentemente com dúvidas sobre o funcionamento da Universidade, suas normas, regimentos, dentre outros. As Universidades são compostas por um intrincado emaranhado de regras, que muitas vezes, não são claras nem facilmente acessíveis.
+
+Com o intuito de promover acolhimento e permanência entre os recém ingressos, através de ações informativas, de trocas de experiências e socialização com os veteranos, o Projeto Um estranho no ninho realiza uma série de atividades dentro do Campus. Dentre essas ações temos: recepção dos calouros, onde é possível apresentar o espaço físico da universidade, assim como o funcionamento geral do Campus, rodas de conversa sobre saúde mental na universidade, onde são explorados as demandas dos cursos, com suas dificuldades e bonificações, mesas de RPG que agrupam estudantes de diversos cursos, intervenção no espaço físico de forma a gerar maior conforto aos estudantes e o desenvolvimento do aplicativo informativo. Todas essas atividades buscam prevenir a evasão do Ensino Superior e promover identificação e acolhimento entre os alunos.
+
+Pensando na complexidade do acesso à informação, comum nas universidades, o Projeto Um Estranho no Ninho está desenvolvendo um aplicativo que centraliza todas as principais informações que os estudantes precisam para se ambientar. Com isso esperamos que as dificuldades, nesse aspecto em particular, possam ser dirimidas, e a vinculação com a Universidade se dê de forma mais harmônica.
+
+O aplicativo é composto por informações que atendam as principais dúvidas do discente, não só dos recém ingressos, mas também dos veteranos. São noções gerais dos cursos ofertados pela Universidade Federal do Ceará – Campus Sobral, transportes acessíveis que funcionam na cidade, funcionamento do restaurante universitário, carteira de estudante, programas de assistência e bolsas, dentre outros.
+
+O texto a seguir descreve o processo de feitura desse aplicativo até sua forma final, aqui apresentaremos os passos e estratégias usadas para seu desenvolvimento.
+
+## Sobre o aplicativo e seu desenvolvimento
+
+O aplicativo Um estranho no ninho parte da necessidade identificada pelos próprios membros do projeto e das rodas de conversa, que entre si relataram as dificuldades enfrentadas ao entrar na universidade. Pensando nisso e com o intuito de sanar essas dificuldades para que os próximos alunos não vivenciassem de forma adversa um momento que é tão desejado e sonhado por eles, esse aplicativo foi pensado.
+
+Dessa forma, o primeiro passo foi coletar as dúvidas principais dos alunos: para isso além de estabelecer diálogos com os alunos recém-ingressantes de todos os cursos que compõem a Universidade Federal do Ceará – Campus Sobral, estruturamos um questionário através da plataforma do “google formulário”, objetivando identificar e confirmar, através de seus relatos, as principais demandas e dificuldades enfrentadas ao adentrarem na universidade:
+
+Figura 1
+
+O questionário teve 78 respostas, sendo a maior parte delas da Engenharia da Computação com 21,8%, seguido de Engenharia Elétrica (19,2%) e Psicologia (19,2%). O questionário indagava de forma simples quais as maiores dúvidas ou dificuldades que o estudante teve ao ingressar na UFC, e deixava o respondente livre para responder.
+
+Os itens listados pelos alunos foram (as respostas foram agrupadas em temas que se referiam às mesmas categorias): Informações sobre bolsas e auxílios, Notas e frequências, Grade Curricular, Funcionamento do RU, Utilização do SIGAA, Greve, Formato de aula, Acesso à internet, Biblioteca, Local de descanso, Financeiro, Matérias, Horários de funcionamento. Os quatro mais citados foram: Informações sobre bolsas e auxílios (76,9%), Utilização do SIGAA (41%), Grade Curricular (38,5%) e Notas e frequências (32,1%).
+
+De posse dessas informações o Projeto Um estranho no ninho formou uma equipe composta por estudantes dos cursos de Psicologia (Campus Sobral), Engenharia da Computação (Campus Sobral) e Ciências da Computação (UFPI e Campus Quixadá). Divididos em três equipes: compilação de material, responsáveis por agregar as informações que alimentariam o aplicativo; mídia, que tinham a incumbência de produzir os materiais gráficos utilizados (imagens, fundos, esquemas de cores, dentre outros); e técnica, alunos que detinham o conhecimento técnico de efetivamente produzir o aplicativo por meio de ferramenta e/ou programação.
+
+Para o seu desenvolvimento foi utilizada a plataforma Fabapp, que tem a maior parte de seus recursos gratuitos, embora cobre pela publicação do aplicativo. Essa plataforma consiste em uma drag and drop, que se caracteriza por serem ferramentas intuitivas onde os usuários literalmente arrastam e soltam os elementos que pretendem utilizar em seus aplicativos. Além de facilitar a criação e manipulação do APP, essa estratégia poupou tempo das equipes de forma a agilizar o processo.
+
+Para criação das imagens (como logomarca, botões do aplicativo, banners do carrossel etc), fundos e esquemas de cores, a equipe de mídia utilizou o Canva, site gratuito que dispõe de banco de imagens e templates, além de inteligência artificial para gerar imagens, logomarcas e afins.
+
+Com isso, visando facilitar a chegada dos novos discentes e promover o acolhimento de todos os estudantes, desenvolvemos abas que se referissem a esses temas e a interface do aplicativo está sendo desenvolvida com a presença de ícones bastante intuitivos que direcionam o usuário para a página que contém informações importantes sobre o tópico escolhido, funcionando, basicamente, como um guia. Tais ícones são: Cursos, Para me formar, Assistência, Carteirinhas, Bolsas, UFC, Bibliotecas e Transportes.
+
+Figura 2
+
+Em “Cursos” é possível ter acesso à grade curricular de todos os cursos ofertados pela UFC - Campus Sobral, contendo informações como o total da carga horária obrigatória e o nome das disciplinas organizadas por semestre. Já em “Para me formar”, o discente é apresentado a informações a respeito da realização de matrícula, trancamento, notas, faltas, IRA (Índice de Rendimento Acadêmico) e atividades complementares.
+
+Ao clicar em “Assistência”, o usuário tem acesso às funções da Secretaria de Acessibilidade, Assistência Estudantil (PRAE), Assistência Psicológica e orientações sobre como entrar em contato com tais setores. No ícone “Carteirinhas”, é informado as principais carteiras utilizadas pelos estudantes, direcionando para a carteira do Restaurante Universitário, carteira estudantil e como se inscrever no Id Jovem. Além disso, em “Bolsas”, o aluno terá acesso a informações muito importantes que podem garantir a sua permanência na universidade, dentre elas estão as bolsas que são ofertadas, os valores, quem pode se inscrever em seus respectivos processos seletivos e mais.
+
+O botão “UFC” fornece o acesso à descrição dos três pilares da universidade (ensino, pesquisa e extensão), assim como o endereço do campus de Sobral, suas estruturas e dados sobre a direção da instituição. Em “Bibliotecas” é apresentada a localização das duas bibliotecas da UFC em Sobral, seus horários de funcionamento, informações para contato e os documentos necessários para fazer a ficha.
+
+O ícone “Transporte” foi incluído no aplicativo visando auxiliar não só os alunos residentes de Sobral como também os alunos que realizam migração pendular para frequentar a universidade. Ele direciona o usuário para as páginas informativas sobre o uso do Veículos Sobre Trilhos (VLT), Passe Livre (Intermunicipal e Interestadual), Ônibus Intracampus, Passe Livre Sobral e Táxi.
+
+A rodada final de preparação do aplicativo se deu através de professores, coordenadores, técnicos administrativos e estudantes que testaram as funcionalidades do APP a fim de sugerir possíveis mudanças e ajustes finais. Desta forma, o APP foi testado por um professor do Curso de Música e uma Professora do Curso de Engenharia da Computação que tem extensões ligadas ao acolhimento de alunos, o Vice-Coordenador do Curso de Psicologia, uma Assistente Social do setor de Assistência Estudantil do Campus e quatro alunos de diferentes cursos.
+
+Suas sugestões foram compiladas, analisadas e implementadas no aplicativo, garantindo uma escuta do público-alvo e dos que os atendem em suas diversas demandas.
+
+## Implementação e expectativas
+
+O Projeto Um estranho no ninho tem como um de seus objetivos diminuir a taxa de evasão discente no campus de Sobral da Universidade Federal do Ceará através do acolhimento e troca de informações com os alunos ingressantes, que em primeiro momento, se encontram perdidos em um ambiente desconhecido.
+
+Portanto é possível observar que o intuito principal do aplicativo é promover a integração entre os alunos e a universidade, unificando em um ambiente as principais informações necessárias durante o percurso acadêmico, auxiliando tanto os ingressantes quanto os alunos veteranos, incluindo também informações úteis para alunos que começaram a residir em Sobral em decorrência da faculdade. O aplicativo se torna assim um importante canal para esclarecer possíveis dúvidas, ambientando o estudante com o espaço universitário e oferecendo acesso à informação de forma prática e rápida, sem muita burocracia.
+
+Muitas informações cruciais sobre o ambiente universitário e as oportunidades oferecidas por ele, como os auxílios e bolsas, estão escondidas através de extensas pesquisas pelos diferentes sites da UFC, e mesmo informações básicas, como a matriz curricular dos cursos, podem ter seu acesso dificultado por conta da interface do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA), que já há muito tempo não é amigável para novos usuários, o que pode gerar um forte sentimento de frustração entre os novos integrantes.
+
+Nessa linha, Gouveia et al. [-@GouveiaEtAl1994] afirmam: “As pessoas podem estar formando as suas expectativas sem uma base real, o que lhes permite, ao ingressar e se depararem com tal instituição, ter decepções e frustrações ao perceberem outra realidade” (p. 16). A razão para o desenvolvimento de um aplicativo pelo projeto é o de estabelecer essa base sólida onde os discentes poderão se apoiar para sanarem suas dúvidas sobre o Campus e sentir que pertencem de fato ao ambiente universitário.
+
+O aplicativo funciona como um banco de dados que reúne e expõe de maneira simplificada e intuitiva as informações básicas, e ao mesmo tempo cruciais, para o desenvolvimento da vida acadêmica do discente, como explicações do sistema de matrícula e de faltas e benefícios oferecidos pela instituição.
+
+Normalmente, tais conhecimentos passam despercebidos ou chegam aos estudantes de maneira confusa e tardia, o que pode acabar os prejudicando, pois cada informação está em uma norma, regimento, manual ou página específica da UFC. Um lugar que agrupa esses conhecimentos do funcionamento das engrenagens da Universidade auxilia na identificação do aluno com o seu curso e na sua harmonização com o ambiente ao redor, que antes era motivo de medo e preocupação.
+
+Além disso, a aplicação oferece explicações sobre os auxílios e bolsas oferecidos pela UFC assim como links úteis para obtenção de editais e contatos com as reitorias responsáveis. O acesso facilitado sobre a geração de renda dentro da universidade é de extrema importância ao ponto que muitos alunos não têm conhecimento sobre a existência de tais auxílios ou como recebê-los, podendo dessa forma levar a desistência do curso por questões financeiras. Existe também a necessidade de um ambiente exclusivo para tratar sobre temas financeiros, pois as bolsas e auxílios podem ser a diferença entre a permanência ou não no ensino superior, uma vez que essas cidades se caracterizam, entre outras coisas, por receberem alunos em situação de vulnerabilidade social [@TeramatsuStraforini2022; @GuimaraesEtAl2022].
+
+Para o longo prazo, o aplicativo não é importante somente para os novos discentes, por sua grande quantidade de dados em um único lugar ele pode permitir que alunos veteranos consigam ter acesso a informações como grade curricular, atividades complementares, editais e contatos das pró-reitorias de maneira mais rápida, sem a necessidade de acessar o SIGAA ou pesquisar pela internet.
+
+O lançamento do aplicativo está previsto para o início do semestre de 2025.1, e de maneira geral, a expectativa é que ele funcione como central de informações e possa ajudar os discentes recém ingressos a rapidamente se adaptarem a longa vida universitária e desenvolverem um sentimento de pertencimento quando estão mais vulneráveis e desolados em um local até o momento desconhecido. E aos veteranos um banco de consulta sistemática para assuntos variados.
+
+Ao longo do primeiro ano faremos duas pesquisas a fim de entender o uso e alcance do aplicativo, assim como possíveis melhorias. Concomitantemente, nele teremos uma aba para comentários e sugestões, canal permanente de melhoria.
+
+## Considerações finais
+
+Este capítulo buscou explorar as dinâmicas vivenciadas pelos universitários da UFC- Sobral, que envolvem demandas e obstáculos relacionados ao ingresso e a permanência na universidade. Assim como tratou de apresentar o projeto Um Estranho no Ninho, que por meio de uma série de ações que acontecem dentro do Campus, com o intuito de melhor acolher o jovem recém-ingresso contribuindo para a sua formação profissional, e entre suas ações está desenvolvendo um aplicativo que une as principais informações demandadas pelos alunos em relação à Universidade.
+
+O principal objetivo desse aplicativo está alinhado ao desejo da universidade em reduzir a evasão do ensino superior. Assim como, contribuir para a integração e suporte contínuo aos discentes, prestando auxílio, e oportunizando uma ambientação menos danosa com a nova dinâmica imposta pela brusca mudança de ambiente.
+
+O aplicativo se mostrou eficaz naquilo que está proposto. Ele reúne de forma acessível e simplificada diversas informações consideradas pelos discentes, através da pesquisa feita, pertinentes ao funcionamento das instâncias que compõem a UFC, e apresentou poucas sugestões de modificação nos testes realizados. Além de esclarecimentos a respeito de benefícios ofertados por instâncias externas, mas que beneficiam o estudante, como as carteirinhas estudantis e o passe-livre. Esses dados, que muitas vezes se mostravam burocratizados, confusos e demandavam do aluno toda uma articulação e buscas independentes, agora estão reunidos em único aplicativo de uso simples e intuitivo.
+
+Por fim, o nosso principal objetivo enquanto projeto é proporcionar aos alunos recém-ingressos uma experiência boa com o espaço universitário, que esse novo ambiente seja mais acolhedor e palco para boas memórias, evitando também que haja altas taxas de evasão. Uma vez que entendemos o processo universitário como parte fundamental da jornada de trabalho que esses jovens empreenderam em suas vidas.
