@@ -18,8 +18,9 @@ filters:
   - section-bibliographies
 bibliography: intro_en.bib
 reference-section-title: References
-citeproc: false
+citeproc: true
 toc: false
+csl: apa.csl
 ---
 
 # Introduction {.unnumbered}
@@ -36,7 +37,7 @@ This same logic applies to any other form of expression that depended on analog 
 
 In this sense, books in digital formats significantly reduce publication costs. This expands the possibilities for public university publishers, considering the financing difficulties these institutions have faced with successive budget strangulations due to the imposition of neoliberal “austerity” policies. Austerity withdraws resources from workers and directs them into the hands of rentiers who profit absurdly from the public debt driven by high, absurd, and inexplicable interest rates.
 
-Despite this liberation, this story, which is not yet over, does not seem to have a happy unfolding. Capitalism is like the Borgs: it always finds a way to adapt and insists that resistance is futile. In the new world of the internet, big tech companies have replaced the oligopoly of analog production and distribution by publishers, record labels, radios, and TVs through streaming platforms, whether video, audio, or even books. Okay, we can create and distribute books, music, and news without intermediaries, but only those linked to the most well-known broadcasting platforms will have a chance to appear and stand out, with rare exceptions.
+Despite this liberation, this story, which is not yet over, does not seem to have a happy unfolding. Capitalism is like the Borg: it always finds a way to adapt and insists that resistance is futile. In the new world of the internet, big tech companies have replaced the oligopoly of analog production and distribution by publishers, record labels, radios, and TVs through streaming platforms, whether video, audio, or even books. Okay, we can create and distribute books, music, and news without intermediaries, but only those linked to the most well-known broadcasting platforms will have a chance to appear and stand out, with rare exceptions.
 
 Despite this setback, the initial premise—that it is possible to create and distribute without intermediaries—is valid, can be explored, and that's what we did. In this context, this book was built with the free and open-source software called Quarto, which is agnostic. That is, it is not tied to a specific platform. In our case, R and RStudio were used to mediate our relationship with the documents and other files we created. Moreover, all the code used for the production of the book is publicly available on [GitHub](https://github.com/pablo-huascar/livro_pt_2024){.external target="_blank"}.
 
