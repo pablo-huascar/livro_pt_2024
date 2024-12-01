@@ -78,9 +78,22 @@ filters:
   - section-bibliographies
 bibliography: ximenes_et_al_aplicativo.bib
 reference-section-title: Referências
+editor_options: 
+  chunk_output_type: console
+echo: false
+warning: false
+message: false
+fig-width: 6
+fig-asp: 0.618
 ---
 
 # Um estranho no ninho: implantação de um aplicativo de guia de orientação estudantil para uma universidade federal no interior do nordeste
+
+```{r}
+library(tidyverse)
+library(scales)
+library(ggthemes)
+```
 
 ## Introdução
 
@@ -120,7 +133,52 @@ O aplicativo Um estranho no ninho parte da necessidade identificada pelos própr
 
 Dessa forma, o primeiro passo foi coletar as dúvidas principais dos alunos: para isso além de estabelecer diálogos com os alunos recém-ingressantes de todos os cursos que compõem a Universidade Federal do Ceará – Campus Sobral, estruturamos um questionário através da plataforma do “google formulário”, objetivando identificar e confirmar, através de seus relatos, as principais demandas e dificuldades enfrentadas ao adentrarem na universidade:
 
-![Respondentes para desenvolvimento do aplicativo](imagens/figura-1-ximenes-app.png){#fig-ximenes-pizza}
+```{r}
+#| label: fig-cursos
+#| fig-cap: Respondentes para desenvolvimento do aplicativo
+#| fig-align: center
+#| out-width: 70%
+
+df <- tribble(
+  ~curso,
+  rep("Medicina", 1),
+  rep("Música", 7),
+  rep("Odontologia", 11),
+  rep("Psicologia", 15),
+  rep("Ciências Econômicas", 1),
+  rep("Eng. da Computação", 17),
+  rep("Eng. Elétrica", 15),
+  rep("Finanças", 11)
+) |> 
+  unnest(cols = "curso")
+
+df |> 
+  ggplot(
+    aes(fct_infreq(curso) |> fct_rev(), 
+        y = after_stat(count/sum(count)),
+        color = curso,
+        fill = curso)
+  ) +
+  geom_bar() +
+  labs(
+    y = NULL,
+    x = NULL
+  ) + 
+  geom_text(aes(label = percent(after_stat(count/sum(count)), 
+                                0.1, decimal.mark = ",")),
+            stat = "count",
+            nudge_y = 0.01) +
+  scale_y_continuous(
+    labels = percent_format()
+  ) +
+  scale_color_colorblind() +
+  scale_fill_colorblind() +
+  theme_classic() + 
+  theme(
+    legend.position = "none",
+    axis.text.x = element_text(angle = 45, hjus = 1)
+    ) 
+```
 
 O questionário teve 78 respostas, sendo a maior parte delas da Engenharia da Computação com 21,8%, seguido de Engenharia Elétrica (19,2%) e Psicologia (19,2%). O questionário indagava de forma simples quais as maiores dúvidas ou dificuldades que o estudante teve ao ingressar na UFC, e deixava o respondente livre para responder.
 

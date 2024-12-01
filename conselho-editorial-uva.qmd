@@ -1,0 +1,72 @@
+---
+toc: false
+---
+
+::: {style="line-height: 1.5;"}
+# Conselho editorial {.unnumbered .unlisted}
+
+Maria Socorro de Araújo Dias (Presidente)
+
+Izabelle Mont’Alverne Napoleão Albuquerque
+
+Alexandra Maria de Castro e Santos Araújo
+
+Ana Iris Tomás Vasconcelos
+
+Carlos Augusto Pereira dos Santos
+
+Claudia Goulart de Abreu
+
+Eneas Rei Leite
+
+Francisco Helder Almeida Rodrigues
+
+Israel Rocha Brandão
+
+Maria Adelane Monteiro da Silva
+
+Maria Amélia Carneiro Bezerra
+
+Maria José Araújo Souza
+
+Maria Somália Sales Viana
+
+Maristela Inês Osawa Vasconcelos
+
+Raquel Oliveira dos Santos Fontinele
+
+Simone Ferreira Diniz
+
+Renata Albuquerque Lima
+
+Tito Barros Leal de Ponte Medeiros
+
+Virginia Célia Cavalcanti de Holanda
+
+# Conselho editorial da obra {.unnumbered .unlisted}
+
+Andréa Borges Leão - Universidade Federal do Ceará (UFC)
+
+Carolina dos Reis - Universidade Federal do Rio Grande do Sul (UFRGS)
+
+Cassio Adriano Braz de Aquino (UFC)
+
+Elisa Lacerda-Vandenborn - Unversity of Calgary (Canadá)
+
+Jéssica Silva Rodrigues - Universidade Estadual do Ceará (UECE)
+
+Jorge Tarcísio da Rocha Falcão - Universidade Federal do Rio Grande do Norte (UFRN)
+
+Lara Brum de Calais - Universidade Federal do Espírito Santo (UFES)
+
+Luis Achilles Rodrigues Furtado (UFC)
+
+Marselle Fernandes Fontenelle - Universidade de Fortaleza (UNIFOR)
+
+Miguel Basto Pereira - Instituto Universitário de Ciências Psicológicas, Sociais e da Vida \| ISPA (Portugal)
+
+Sara Lima - Instituto Politécnico de Saúde do Norte \| CESPU (Portugal)
+
+Susana Pedras - Instituto de Psicologia e Ciências da Educação \| Universidade Lusíada (Portugal)
+
+:::

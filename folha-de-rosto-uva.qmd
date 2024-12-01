@@ -1,0 +1,62 @@
+---
+toc: false
+number-sections: false
+---
+
+# Folha de rosto {.unnumbered}
+
+::::: {style="line-height: 1;"}
+**Produções Técnicas em Psicologia: Experiências Compartilhadas**
+
+**ISBN** XXX-XX-XX-XXXXXX-X
+
+Este livro é distribuído sob os termos da [CC BY-NC-ND 4.0 DEED](https://creativecommons.org/licenses/by-nc-nd/4.0/){.external target="_blank"}.
+
+**Publicado no Brasil**
+
+*Edições UVA*
+
+Av. da Universidade, 850 - Campus da Betânia - Sobral - CE CEP 62040-370 - Telefone: (88) 3611.6613
+
+**Arte da capa**
+
+Nara Maria Forte Diogo Rocha
+
+**Diagramação da capa**
+
+Francisco Pablo Huascar Aragão Pinheiro
+
+**Revisão de texto**
+
+João Paulo Silva Matos
+
+::: {.callout-note appearance="simple" icon="false"}
+[joaopaulosmatos2\@gmail.com](mailto:%20joaopaulosmatos2@gmail.com)
+:::
+
+**Codificação para construção do livro**
+
+Esthela Sá Cunha
+
+::: {.callout-note appearance="simple" icon="false"}
+## Beta Consultoria e Assessoria Acadêmica
+
+<br> [beta.consultac\@gmail.com](mailto:%20beta.consultac@gmail.com)
+
+[\@beta_consultoria_academica](https://www.instagram.com/beta_consultoria_academica/ "Instagram"){.external target="_blank"}
+
+[https://esthela.quarto.pub/beta/](https://esthela.quarto.pub/beta/){.external target="_blank"}
+:::
+
+Francisco Pablo Huascar Aragão Pinheiro
+
+**Catalogação**
+
+[Dayanne Albuquerque Araújo (Conferir nome da bibliotecária)]{style="color: red;"}
+
+**Financiamento**
+
+Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) \[processo número: BP5-0197-00046.01.00/22\] e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) \[processo número: 403787/2023-8\].
+:::::
+
+Incluir imagem da ficha catalográfica
