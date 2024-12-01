@@ -120,7 +120,7 @@ O aplicativo Um estranho no ninho parte da necessidade identificada pelos própr
 
 Dessa forma, o primeiro passo foi coletar as dúvidas principais dos alunos: para isso além de estabelecer diálogos com os alunos recém-ingressantes de todos os cursos que compõem a Universidade Federal do Ceará – Campus Sobral, estruturamos um questionário através da plataforma do “google formulário”, objetivando identificar e confirmar, através de seus relatos, as principais demandas e dificuldades enfrentadas ao adentrarem na universidade:
 
-Figura 1
+![Respondentes para desenvolvimento do aplicativo](imagens/figura-1-ximenes-app.png){#fig-ximenes-pizza}
 
 O questionário teve 78 respostas, sendo a maior parte delas da Engenharia da Computação com 21,8%, seguido de Engenharia Elétrica (19,2%) e Psicologia (19,2%). O questionário indagava de forma simples quais as maiores dúvidas ou dificuldades que o estudante teve ao ingressar na UFC, e deixava o respondente livre para responder.
 
@@ -134,7 +134,7 @@ Para criação das imagens (como logomarca, botões do aplicativo, banners do ca
 
 Com isso, visando facilitar a chegada dos novos discentes e promover o acolhimento de todos os estudantes, desenvolvemos abas que se referissem a esses temas e a interface do aplicativo está sendo desenvolvida com a presença de ícones bastante intuitivos que direcionam o usuário para a página que contém informações importantes sobre o tópico escolhido, funcionando, basicamente, como um guia. Tais ícones são: Cursos, Para me formar, Assistência, Carteirinhas, Bolsas, UFC, Bibliotecas e Transportes.
 
-Figura 2
+![Imagens do aplicativo "Um estranho no ninho"](imagens/figura-2-ximenes-app.png){#fig-ximenes-app}
 
 Em “Cursos” é possível ter acesso à grade curricular de todos os cursos ofertados pela UFC - Campus Sobral, contendo informações como o total da carga horária obrigatória e o nome das disciplinas organizadas por semestre. Já em “Para me formar”, o discente é apresentado a informações a respeito da realização de matrícula, trancamento, notas, faltas, IRA (Índice de Rendimento Acadêmico) e atividades complementares.
 

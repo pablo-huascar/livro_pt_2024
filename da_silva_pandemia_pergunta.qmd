@@ -26,7 +26,7 @@ bibliography: da_silva_pandemia_pergunta.bib
 reference-section-title: Referências
 ---
 
-# O que Pode a Pandemia Perguntar à Sala de Aula
+# O que pode a pandemia perguntar à sala de aula
 
 ## Este tempo, ainda sem nome, durante uma pandemia
 

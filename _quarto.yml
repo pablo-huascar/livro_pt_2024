@@ -7,10 +7,10 @@ toc-title: "Sumário"
 indent: true
 
 book:
-  sidebar:
-    tools:
-      - icon: translate
-        href: https://fphap.quarto.pub/pt-psi-en/
+  #sidebar:
+    #tools:
+      #- icon: translate
+        #href: https://fphap.quarto.pub/pt-psi-en/
   page-navigation: false
   title: "Produções Técnicas em Psicologia"
   subtitle: "Experiências Compartilhadas"
@@ -18,8 +18,7 @@ book:
     right: | 
       Este livro foi construído com <a href="https://quarto.org/">Quarto</a>.
     left:
-      <img src="./imagens/ppgpsi.png" width="100"> 
-      <img src="./imagens/ppgpppp.png" width="100">
+      <img src="./imagens/uva-brasao.jpg" width="100">
   cover-image: cover_pt.png
   cover-image-alt: |
     A imagem mostra a capa do livro Produções Técnicas em Psicologia: Experiências Compartilhadas. No topo da capa, em fonte menor e de cor preta, estão as siglas PPGPSI e PPGPPPP, seguidas pelo nome Universidade Federal do Ceará, indicando a associação com a instituição. O título principal é apresentado em letras grandes e negrito, com Produções Técnicas em verde e em Psicologia em preto, abaixo do qual está o subtítulo Experiências Compartilhadas em fonte menor e itálico. Centralizado na capa há o desenho de uma ave, um carcará, em voo, com as asas abertas e o corpo voltado para a esquerda, delineado em traços pretos. O pássaro carrega uma cobra em suas garras. Abaixo do desenho, em letras pretas menores, estão os nomes Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros, seguidos pela palavra Orgs., sugerindo que são os organizadores da publicação. A capa tem um fundo claro e o design geral é simples.
@@ -28,46 +27,65 @@ book:
   favicon: cover_pt.png
   reader-mode: true
   
-
   chapters:
     - index.qmd
-    - institucional.qmd
+    - intro_en.qmd
+    #- institucional.qmd
+    - institucional-uva.qmd
     - conselho_editorial.qmd
     - folha_de_rosto.qmd
     - part: Produtos de comunicação
       chapters:
         - barros_podcast.qmd
+        - barros_podcast_en.qmd
     
     - part: Eventos organizados
       chapters: 
         - gomes_polifonias.qmd
+        - gomes_polifonias_en.qmd
         - liberato_contagios.qmd
+        - liberato_contagios_en.qmd
         - vasconcelos_eneddes.qmd
+        - vasconcelos_eneddes_en.qmd
     
     - part: "Relatórios técnicos: assessoria, consultoria e pesquisa"
       chapters:
         - beserra_de_melo_assessoria.qmd
+        - beserra_de_melo_assessoria_en.qmd
         - costa_interv_criancas.qmd
+        - costa_interv_criancas_en.qmd
         - melo_assessoria.qmd
+        - melo_assessoria_en.qmd
         - rodrigues_relatorio_tecnico.qmd
+        - rodrigues_relatorio_tecnico_en.qmd
         - costa_assessoria_saae.qmd
+        - costa_assessoria_saae_en.qmd
         - sampaio_assessoria.qmd
+        - sampaio_assessoria_en.qmd
         - lima_assessoria.qmd
+        - lima_assessoria_en.qmd
         - vasconcelos_narrativas.qmd
+        - vasconcelos_narrativas_en.qmd
         - soares_psicologia_saude.qmd
+        - soares_psicologia_saude_en.qmd
 
     - part: Curso para formação profissional
       chapters:
         - barros_cursos_vieses.qmd
+        - barros_cursos_vieses_en.qmd
         - bomfim_metodologias_part.qmd
+        - bomfim_metodologias_part_en.qmd
         - martins_clinica_estetica.qmd
         - sena_curso_r.qmd
+        - sena_curso_r_en.qmd
         - araujo_curso_agentes.qmd
     
     - part: Material didático
       chapters: 
         - da_silva_pandemia_pergunta.qmd
+        - da_silva_pandemia_pergunta_en.qmd
         - lopes_rabiscos_palavras.qmd
+        - lopes_rabiscos_palavras_en.qmd
         - silva_costa_material_didatico.qmd
 
     - part: Compilações de vários produtos técnicos
@@ -82,6 +100,7 @@ book:
       chapters: 
         - ximenes_et_al_aplicativo.qmd
     - sobre_os_autores.qmd
+    - sobre_os_autores_en.qmd
 
 format:
   html:

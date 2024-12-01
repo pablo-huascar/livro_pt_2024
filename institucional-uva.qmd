@@ -1,0 +1,38 @@
+---
+toc: false
+number-sections: false
+---
+
+# Expediente institucional {.unnumbered .unlisted}
+
+## Universidade Estadual do Vale do Acaraú
+
+::: column-margin
+[![](./imagens/uva-brasao.jpg){fig-alt="A imagem apresenta o brasão da Universidade Estadual Vale do Acaraú (UVA). O brasão é composto por um escudo dividido em duas partes principais: na parte superior, há um fundo azul com as inscrições \"1968\" à esquerda, um livro aberto ao centro, e \"UVA\" à direita; na parte inferior, em fundo cinza, aparecem três palmeiras e um boi amarelo ao centro, representando elementos da fauna e flora locais, cercados por algodoeiros. Abaixo das palmeiras, há ondas azuis que simbolizam o rio Acaraú. Acima do escudo, há três tochas vermelhas acesas, representando o conhecimento e a educação. Na base do brasão, há uma faixa com o lema em latim \"AGERE SEQUITUR ESSE\" (Agir segue o ser). Abaixo do brasão, está escrito \"UNIVERSIDADE ESTADUAL VALE DO ACARAÚ\" em letras maiúsculas e na cor preta." width="150"}](https://www.uva.ce.gov.br/)
+:::
+
+::: {style="line-height: 0.5;"}
+**Reitora**
+
+Izabelle Mont\`Alverne Napoleão Albuquerque
+
+**Vice-reitor**
+
+Francisco Carvalho de Arruda Coelho
+
+## Edições UVA
+:::
+
+::: column-margin
+[![](./imagens/edicoes-uva.png){fig-alt="A imagem apresenta a logomarca da \"Edições UVA\". O design é retangular, com um fundo cinza claro e uma borda preta. Na parte superior do retângulo, há uma figura horizontal estilizada semelhante a um bastão ou caneta, composta por segmentos em preto e branco. Abaixo do bastão, há uma linha horizontal preta que divide o espaço. Logo abaixo, centralizado, está o texto \"Edições UVA\" em uma fonte serifada preta." width="150"}](https://ww2.uva.ce.gov.br/apps/view/listagem_documentos.php?buscar=0144)
+:::
+
+::: column-margin
+[![](./imagens/abeu.png){fig-alt="A imagem apresenta o logotipo da Associação Brasileira das Editoras Universitárias (ABEU). O design é composto pelas iniciais \"ABEU\" em formato estilizado e na cor azul. As letras são formadas por linhas paralelas que criam uma aparência de livros abertos ou empilhados. Abaixo das iniciais, está o nome completo da associação, \"Associação Brasileira das Editoras Universitárias\", escrito em letras maiúsculas e na cor azul." width="150"}](https://www.abeu.org.br/)
+:::
+
+::: {style="line-height: 0.5;"}
+**Diretora das Edições UVA**
+
+Maria Socorro de Araújo Dias
+:::

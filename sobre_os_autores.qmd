@@ -1,669 +1,667 @@
-# Sobre os autores
+# Sobre os autores {.unnumbered}
 
 **Adrielle Jennifer Candido Coelho**
 
 Estudante de Psicologia pela Universidade Federal do Ceará, campus Sobral, e extensionista voluntária do projeto Núcleo de Estudos e Extensão sobre Subjetivação e Sexualidade (SuSeX).
 
----
+------------------------------------------------------------------------
 
 **Aldemar Ferreira da Costa**
 
 Graduado, Mestre e doutorando em Psicologia pela Universidade Federal do Ceará. Membro do Grupo de Pesquisas e Intervenções sobre Violência, Exclusão Social e Subjetivação (VIESES).
 
----
+------------------------------------------------------------------------
 
 **Alex Sandro de Moura Grangeiro**
 
 Psicólogo Clínico Cognitivo-Comportamental (CRP 11/07194), graduado pela Universidade Federal do Ceará (2011), com formação em neuropsicologia pela Universidade de São Paulo (2020), mestrado em Psicologia pela Universidade Federal do Ceará (2014) e doutorado em Psicologia Social pela Universidade Federal da Paraíba (2017). Atualmente, é Professor Adjunto I da Universidade Federal do Ceará (UFC - Campus de Sobral), membro efetivo do Comitê de Ética em Pesquisa da Santa Casa de Misericórdia de Sobral e Coordenador do Núcleo de Pesquisa em Avaliação Neurocognitiva e Comportamental (Neurocog - UFC).
 
----
+------------------------------------------------------------------------
 
 **Ana Cecília Carenina Machado Mourão**
 
 Graduada no Curso de Odontologia da Universidade Federal do Ceará, Campus Sobral, foi bolsista voluntária do Programa de Iniciação Científica (PIBIC) na área de radiologia Odontológica. Foi Bolsista de Projeto de Extensão também na área radiológica. Foi Bolsista de Projeto de Extensão Polifonias do Curso de Psicologia.
 
----
+------------------------------------------------------------------------
 
 **Ana Kesia Silva Faustino**
 
 Graduanda em psicologia na Universidade Federal do Ceará, campus Sobral. Bolsista no Programa Institucional de Bolsas de Iniciação Científica - PIBIC (ICT-FUNCAP). Extensionista do Projeto Polifonias e do Projeto Água de Chocalho, vinculado ao Laboratório de Clínica, Sujeito e Políticas Públicas (CLIPSUS). Estagiária no Centro de Reabilitação de Sobral-CE.
 
----
+------------------------------------------------------------------------
 
 **Ana Laís Carvalho de Sousa**
 
 Mestranda em Psicologia e Políticas Públicas pela Universidade Federal do Ceará, campus Sobral. Graduanda em Psicologia pelo Centro Universitário Estácio do Ceará, campus Via Corpvs. Bacharela em Administração pela Universidade Estadual Vale do Acaraú.
 
----
+------------------------------------------------------------------------
 
 **Andie de Castro Lima**
 
 Bacharela em Psicologia pela Universidade Federal do Ceará (UFC). Especialista em Direitos Humanos, Responsabilidade Social e Cidadania Global pela Pontifícia Universidade Católica do Rio Grande do Sul. Mestra e doutoranda em Psicologia pelo Programa de Pós-Graduação em Psicologia da UFC. Integra o Laboratório de Pesquisa em Psicologia Ambiental (Locus) da UFC.
 
----
+------------------------------------------------------------------------
 
 **Andressa da Silva Rodrigues**
 
 Graduanda em Psicologia pela Universidade Federal do Ceará, campus Sobral.
 
----
+------------------------------------------------------------------------
 
 **Antonia Angélica Rodrigues Ximenes**
 
 Graduanda de psicologia na Universidade Federal do Ceará – Campus de Sobral, bolsista de extensão no Laboratório de Estudos das Desigualdades e Diversidades. Extensionista voluntária do Programa de Educação pelo Trabalho para a Saúde - PET Saúde/Equidade e do MedAção, todos vinculados à Universidade Federal do Ceará. Possui interesses voltados para a pesquisa em áreas que abrangem a psicologia social, política e psicanálise.
 
----
+------------------------------------------------------------------------
 
 **Antonia Renata Lopes Lima**
 
 Psicóloga (Centro Universitário Católica de Quixadá, 2017). Pós-graduada em intervenção ABA para autismo e deficiência intelectual (CBI of Miami). Mestra em Psicologia e Políticas Públicas (Universidade Federal do Ceará, campus Sobral, 2023). Servidora pública efetiva do município de Banabuiú.
 
----
+------------------------------------------------------------------------
 
 **Antonio Anderson Mota da Silva**
 
 Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará (UFC). Especialista em Educação Especial pela UNINASSAU. Graduado em Psicologia pela UFC. Atua na Prefeitura de Sobral no cargo de Orientador Educacional. Se dedica ao estudo de temáticas nas áreas de Psicologia da Educação, Orientação Educacional, Psicologia Social, Psicologia Clínica e docência no ensino superior.
 
----
+------------------------------------------------------------------------
 
 **Antonio Ernandes Rocha Linhares**
 
 Estudante de Psicologia na Universidade Federal do Ceará – Campus de Sobral. Extensionista do Laboratório de Estudos das Desigualdades e Diversidades (LAEDDES) e bolsista do Programa de Iniciação Acadêmica.
 
----
+------------------------------------------------------------------------
 
 **Ariadsa Mesquita Aragão**
 
 Graduanda em psicologia pela Universidade Federal do Ceará, campus Sobral. Bolsista de extensão do SuSex.
 
----
+------------------------------------------------------------------------
 
 **Artur Gevásio Lira da Silva**
 
 Psicólogo, Mestre em Psicologia e Políticas Públicas, Especialista em Psicologia Comportamental e Cognitiva, títulos obtidos pela Faculdade Princesa do Oeste, Universidade Federal do Ceará – Campus de Sobral e Centro Universitário Faveni. Professor do Curso de Graduação em Psicologia da Faculdade Princesa do Oeste. Consultor independente em pesquisa e analista de dados.
 
----
+------------------------------------------------------------------------
 
 **Bárbara Éllen Viana Sales**
 
 Graduada em Psicologia pela Universidade Federal do Ceará, foi bolsista do Laboratório de Estudos das Desigualdades e Diversidades. Atualmente trabalha na área de Psicologia Clínica com abordagem psicanalítica.
 
----
+------------------------------------------------------------------------
 
 **Beatriz Alves Viana**
 
 Doutora em Psicologia pela Universidade Federal do Ceará (UFC). Mestre em Teoria Psicanalítica pela Universidade Federal do Rio de Janeiro. Especialista em Saúde mental. Psicóloga pela UFC. Professora e gestora de estágio do Centro Universitário Uninta.
 
----
+------------------------------------------------------------------------
 
 **Brígida Sousa de Oliveira**
 
 Graduanda em Psicologia na Universidade Federal do Ceará, campus Sobral. Desde 2022, é bolsista voluntária no SuSex e no Laboratório de Estudos das Desigualdades e Diversidades (LAEDDES). Já estagiou no Cras Regina Justa, situado na cidade de Sobral-CE.
 
----
+------------------------------------------------------------------------
 
 **Camila Ribeiro de Oliveira**
 
 Graduada e mestranda em Psicologia pela Universidade Federal do Ceará. Integrante do "PASÁRGADA: Promoção de Arte, Saúde e Garantia de Direitos". Bolsista CAPES.
 
----
+------------------------------------------------------------------------
 
 **Camilla Araújo Lopes Vieira**
 
 Docente da graduação em Psicologia e do Mestrado em Psicologia e Políticas Públicas da Universidade Federal do Ceará, campus Sobral. Pós-doutorado em Psicanálise na Universidade Estadual do Rio de Janeiro.
 
----
+------------------------------------------------------------------------
 
 **Carla Cecília Mendes Oliveira**
 
 Estudante de Psicologia na Universidade Federal do Ceará, campus Sobral, e extensionista do SuSex.
 
----
+------------------------------------------------------------------------
 
 **Carla Jéssica de Araújo Gomes**
 
 Graduada em Psicologia pela Universidade Federal do Ceará (UFC). Mestranda em Psicologia pela UFC. Bolsista CAPES. Integrante do VIESES.
 
----
+------------------------------------------------------------------------
 
 **Carla Renata Braga de Souza**
 
 Psicanalista, graduada em Psicologia (Universidade Estadual da Paraíba), Doutora e Mestre em Psicologia pela Universidade de Fortaleza (UNIFOR). Atualmente, Pós-doutoranda no Departamento de Psicologia da Universidade Federal do Ceará e extensionista do Programa de Extensão “Clínica, Estética e Política do Cuidado” (CEPC) vinculado à Universidade Federal do Ceará. Membro-associada à CLIO - Associação de Psicanálise. Docente do Centro Universitário Christus.
 
----
+------------------------------------------------------------------------
 
 **Carolina Silveira Leitão Melo**
 
 Graduada em Psicologia pela Universidade Federal do Ceará (UFC), campus Sobral. MBA em Gestão de Pessoas pela UNIFOR. Mestranda em Psicologia e Políticas pela UFC, campus Sobral, e cursando a especialização em Terapia Analítico Comportamental pelo Núcleo Tríplice. Atuou como psicóloga organizacional no SINE-IDT, na Grendene e na Coca-Cola. Atualmente, atua como psicóloga clínica.
 
----
+------------------------------------------------------------------------
 
 **Cícera Mônica da Silva Sousa Martins**
 
 Doutoranda em Psicologia pela Universidade Federal do Ceará (UFC). Possui graduação em Psicologia pela Faculdade Leão Sampaio (2014), especialização em Políticas Públicas em Saúde Coletiva pela Universidade Regional do Cariri (2016) e Mestrado em Psicologia pela UFC (2020). Está vinculada a dois núcleos de pesquisa: o Laboratório Interdisciplinar de Estudos em Gestão Social (LIEGS-UFCA) e o Laboratório de Psicologia Ambiental (LOCUS-UFC).
 
----
+------------------------------------------------------------------------
 
 **Cristiane Ferreira de Souza**
 
 Graduada em Psicologia pela Universidade Federal do Ceará. Na graduação, foi bolsista de transferência tecnológica pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico do Estado do Ceará (FUNCAP).
 
----
+------------------------------------------------------------------------
 
 **Dária Maria Barbosa Dedê**
 
 Psicóloga (Centro Universitário Católica de Quixadá, 2018). Pós-graduada em Neuropsicologia (Faculdade Única de Ipatinga, 2020) e em Psicologia Clínica, com ênfase para área da Psicologia Existencial, Humanista e Fenomenológica (Faculdade Venda Nova do Imigrante, 2020). Mestranda em Psicologia e Políticas Públicas pela Universidade Federal do Ceará, campus Sobral. Servidora pública efetiva do município de Groaíras.
 
----
+------------------------------------------------------------------------
 
 **David Sousa Rodrigues**
 
 Graduado em Psicologia pela Universidade Federal do Ceará, Campus Sobral.
 
----
+------------------------------------------------------------------------
 
 **Davi Lucas Moraes**
 
 Graduando em Medicina (Universidade Federal do Ceará). Ex-membro do VIESES.
 
----
+------------------------------------------------------------------------
 
 **Denise da Silva Araújo**
 
 Psicóloga. Mestrado em Psicologia e Políticas Públicas pela Universidade Federal do Ceará, campus de Sobral.
 
----
+------------------------------------------------------------------------
 
 **Deni Elliot Noronha Lopes**
 
 Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará, campus Sobral (2021), graduado em Psicologia (2019) pela mesma universidade. Atua como Orientador Educacional na cidade de Sobral. É membro do PESQUISAMUS (Grupo de pesquisa em educação, artes e música). Desenvolve pesquisas em educação, juventude, artes e políticas públicas.
 
----
+------------------------------------------------------------------------
 
 **Eliandra Estevam Abreu**
 
 Graduanda em Psicologia pela Universidade Federal do Ceará. Integrante do VIESES e extensionista do Projeto Maquinarias: infâncias em invenção.
 
----
+------------------------------------------------------------------------
 
 **Eliany Nazaré Oliveira**
 
 Possui graduação em Enfermagem pela Universidade Federal do Ceará, Mestrado e Doutorado pela Universidade Federal do Ceará. Pós-Doutorado pela Faculdade de Psicologia e Ciências da Educação da Universidade do Porto - Pt. Líder do Grupo de Estudo e Pesquisa Saúde Mental e Cuidado. Docente do Curso de Graduação em Enfermagem da UVA, do programa de Pós-Graduação em Saúde da Família (UFC Sobral) e do Programa de Pós Graduação em Saúde da Família (RENASF-UVA).
 
----
+------------------------------------------------------------------------
 
 **Elcides Hellen Ferreira Landim Barreto**
 
 Psicóloga, doutoranda e mestra em Psicologia pela Universidade Federal do Ceará - UFC, especialista em Psicologia Aplicada à Educação pela Universidade Regional do Cariri - URCA.
 
----
+------------------------------------------------------------------------
 
 **Emanuel Meireles Vieira**
 
 Professor do Departamento de Psicologia e do Programa de Pós-Graduação em Psicologia da Universidade Federal do Ceará. Membro do VIESES. Doutor em Psicologia pela Universidade Federal de Minas Gerais.
 
----
+------------------------------------------------------------------------
 
 **Érica Atem Gonçalves de Araújo Costa**
 
 Doutora em Educação Brasileira pela Universidade Federal do Ceará (UFC). Professora do Curso de Psicologia da UFC em Fortaleza. Docente do Programa de pós-graduação Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará, campus Sobral. Membro do VIESES, em que coordena o projeto de extensão Maquinarias: infâncias em invenção. Tutora do Programa de Educação Tutorial - Pet - Psicologia.
 
----
+------------------------------------------------------------------------
 
 **Esthela Sá Cunha**
 
 Graduada e Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará, campus Sobral. Professora do Centro Universitário INTA e Faculdade 05 de Julho de Sobral.
 
----
+------------------------------------------------------------------------
 
 **Fábio Pinheiro Pacheco**
 
 Graduado em Psicologia pela Universidade Estadual do Ceará (UECE), Mestre e Doutor em Psicologia pela Universidade Federal do Ceará. Professor Adjunto do curso de Psicologia da UECE. Membro do Laboratório de Pesquisa em Psicologia Ambiental (Locus).
 
----
+------------------------------------------------------------------------
 
 **Francisca Denise Silva Vasconcelos** (*in memoriam*)
 
 Doutora (2011) e mestra (2004) em Sociologia pela Universidade Federal do Ceará. Graduada (2000) em Ciências Sociais pela mesma instituição.
 
----
+------------------------------------------------------------------------
 
 **Francisca Valéria de Sousa**
 
 Psicóloga formada pela Universidade Federal do Ceará e mestra em Psicologia e Políticas Públicas pela mesma instituição. Integrante do Laboratório de Práticas e Pesquisas em Psicologia e Educação (LAPPSIE).
 
----
+------------------------------------------------------------------------
 
 **Francisco Bruno Paz Soares**
 
 Graduado em Psicologia pela Universidade Estadual do Piauí (UFPI - 2017) e Mestre (2018) em Psicologia pela mesma instituição.
 
----
+------------------------------------------------------------------------
 
 **Francisco Pablo Huascar Aragão Pinheiro**
 
 Psicólogo, Mestre em Psicologia e Doutor em Educação, títulos obtidos pela Universidade Federal do Ceará. Professor do curso de graduação em Psicologia e do Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas do campus Sobral da Universidade Federal do Ceará. Bolsista de produtividade em pesquisa da Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico.
 
----
+------------------------------------------------------------------------
 
 **Gabriele Sousa Costa**
 
 Graduada em Psicologia pela Universidade Federal do Ceará, campus Sobral. Integrante do Laboratório de Práticas e Pesquisas em Psicologia e Educação (LAPPSIE). Atua no projeto de extensão Elaborar: compreender e transformar o trabalho.
 
----
+------------------------------------------------------------------------
 
 **Giovana Freitas Oliveira**
 
 Graduanda em psicologia pela Universidade Federal do Ceará. Assistente de pesquisa no Laboratório de Estudos e Pesquisas em Economia Social.
 
----
+------------------------------------------------------------------------
 
 **Giovana Mayra Liberato de Lima**
 
 Graduanda de Psicologia pela Universidade Federal do Ceará, campus Sobral. Bolsista FUNCAP do projeto “Repercussão das Avaliações Externas para a Saúde de Professores Cearenses: Análise Qualitativa e Modelo de Mediação Multinível”. Extensionista do Elaborar, projeto integrante do Laboratório de Práticas e Pesquisas em Psicologia e Educação (LAPPSIE).
 
----
+------------------------------------------------------------------------
 
 **Graciella Faico Ferreira**
 
 Formação em Psicologia, com bacharelado e licenciatura pela Universidade Federal do Rio de Janeiro (UFRJ). Especialização em Políticas Públicas e Gestão Governamental, pela Universidade Federal Fluminense (UFF). Mestrado, Doutorado e Pós-doutorado (em andamento) no Programa de Pós-Graduação em Psicossociologia de Comunidades e Ecologia Social (EICOS/UFRJ). Pesquisadora do GAPIS/UFRJ e do Locus/UFC
 
----
+------------------------------------------------------------------------
 
 **Gracymara Mesquita Severiano**
 
 Professora e pesquisadora. Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará, instituição na qual atuou como coordenadora de área no PIBID-Diversidade e como pesquisadora do projeto Angaturama Eté, parceria entre Universidade de Calgary/Canadá. Atua como professora do ensino superior. Foi instrutora nos cursos de Gestão e Negócios pelo PRONATEC/SENAC. Professora de História e Formação Humana na rede pública de Sobral. Possui ainda graduação em Administração e História, com especialização em gestão de pessoas.
 
----
+------------------------------------------------------------------------
 
 **Guilherme Lopes dos Santos**
 
 Técnico em redes de computadores, estudante de ciência da computação UFC – Campus Quixadá e bolsista do projeto Aprimore. Extensionista voluntário no programa Um Estranho no Ninho, vinculado à Universidade Federal do Ceará – Campus de Sobral.
 
----
+------------------------------------------------------------------------
 
 **Halaine Cristina Pessoa Bento**
 
 Psicóloga pela Universidade Federal de Roraima (UFRR), Especialista em Direitos Humanos, Responsabilidade Social e Cidadania Global pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) e Mestra pelo Programa de Pós-Graduação em Psicologia da Universidade Federal do Ceará (UFC).
 
----
+------------------------------------------------------------------------
 
 **Hiara da Silva Santos Barbosa**
 
 Psicóloga formada pela Universidade Federal do Piauí (UFPI), Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará e Especialista em Neuropsicologia pela Unichristus. Atua como Orientadora Educacional na Rede Municipal de Educação de Sobral-CE e como psicóloga clínica.
 
----
+------------------------------------------------------------------------
 
 **Iarhel Andrade Sabóia**
 
 Graduando do curso de Bacharelado em Ciências da Computação na Universidade Federal do Piauí. Extensionista voluntário no programa Um Estranho no Ninho, vinculado à Universidade Federal do Ceará – Campus de Sobral.
 
----
+------------------------------------------------------------------------
 
 **Ingrid Rabelo Freitas**
 
 Graduada em Serviço Social. Atua desde 2018 como Assessora do Centro de Defesa da Vida Herbert de Souza, acompanhando o Grupo Jovens Agentes de Paz. Tem experiência na área de Serviço Social, atuando principalmente nos seguintes temas: juventudes, cultura de paz e direitos humanos.
 
----
+------------------------------------------------------------------------
 
 **Iratan Bezerra de Sabóia**
 
 Possui graduação em Psicologia pela Universidade de Fortaleza (2002), especialização pela Universidade Estadual Vale do Acaraú (2006), mestrado (2007) e doutorado (2019) em Psicologia pela Universidade Federal do Ceará (UFC). Professor do curso de graduação em psicologia e do Mestrado Profissional em Psicologia e Políticas Públicas da UFC, campus Sobral.
 
----
+------------------------------------------------------------------------
 
 **João Gabriel Fernandes Gomes**
 
 Graduando de Engenharia da Computação na Universidade Federal do Ceará – Campus de Sobral. Extensionista voluntário no programa Um Estranho no Ninho. Extensionista voluntário do Programa de ensino de jogos para alunos do ensino médio. Possui interesses voltados para a pesquisa em áreas que abrangem o desenvolvimento de eletrônicos, sistemas, inteligência computacional e educação.
 
----
+------------------------------------------------------------------------
 
 **João Paulo Pereira Barros**
 
 Docente do Departamento de Psicologia e do Programa de Pós-Graduação de Psicologia da Universidade Federal do Ceará. Coordenador do VIESES. Bolsista de Produtividade Nível 2 do CNPq.
 
----
+------------------------------------------------------------------------
 
 **João Paulo Sales Macedo**
 
 Professor Associado 2 da Universidade Federal do Delta do Parnaíba. Graduado em Psicologia pela Faculdade Santo Agostinho (2004), Mestre (2007) e Doutor (2011) em Psicologia pela UFRN. Está vinculado aos Programas de Pós-graduação em Psicologia da Universidade Federal do Delta do Parnaíba (UFDPar) e da Universidade Federal do Ceará (UFC). Bolsista Produtividade em Pesquisa do CNPQ.
 
----
+------------------------------------------------------------------------
 
 **Jorge Samuel de Sousa Teixeira**
 
 Psicólogo pela Universidade Federal do Ceará (Campus Sobral). Pós-graduado em Psicologia Hospitalar e Saúde Mental. Pós-graduando em Cancerologia em caráter de residência (ESP/CE).
 
----
+------------------------------------------------------------------------
 
 **Jose Edberto Gadelha Rocha Junior**
 
 Graduado em Psicologia pela Universidade Federal do Ceará (2022). Especialista em Análise do Comportamento (2023). Atua como psicólogo clínico com ênfase na terapia analítico-comportamental e nas terapias comportamentais contextuais.
 
----
+------------------------------------------------------------------------
 
 **Julia Mesquita Lopes**
 
 Graduada em Letras Língua Portuguesa e Inglesa e respectivas literaturas pela Universidade Estadual Vale do Acaraú (UVA), em Psicologia pela Universidade Federal do Ceará e Especialista em Língua Portuguesa e Literatura (UVA).
 
----
+------------------------------------------------------------------------
 
 **Juliana Maria do Nascimento Mota**
 
 Graduada em Psicologia pela Universidade Federal do Ceará - Campus Sobral. Mestrado pelo Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas - UFC/Sobral, na linha de pesquisa: Educação e Políticas Públicas. Especialização em Psicologia Educacional pela Faculdade de Quixeramobim - UNIQ. Especialização em Gênero, Diversidade e Direitos Humanos pela Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB. Interesse pelas áreas: Psicologia Social, Psicanálise, Educação e nos temas sobre pobreza, desigualdades sociais de gênero.
 
----
+------------------------------------------------------------------------
 
 **Juliana Vieira Sampaio**
 
 Docente do Curso de graduação em Psicologia da Universidade Federal de Minas Gerais. Docente do Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará (UFC), campus Sobral. Pós-doutorado em Psicologia (2020) na UFC, Doutora em Psicologia pela Universidade Federal de Pernambuco (2016).
 
----
+------------------------------------------------------------------------
 
 **Kallyne Rose da Silva Rodrigues**
 
 Graduanda de Psicologia pela Universidade Federal do Ceará, campus Sobral. Bolsista FUNCAP do projeto “Repercussão das Avaliações Externas para a Saúde de Professores Cearenses: Análise Qualitativa e Modelo de Mediação Multinível”. Extensionista do Elaborar, projeto integrante do Laboratório de Práticas e Pesquisas em Psicologia e Educação (LAPPSIE).
 
----
+------------------------------------------------------------------------
 
 **Karla Patrícia Holanda Martins**
 
 Professora Associada do Departamento de Psicologia da Universidade Federal do Ceará (Graduação e Pós-graduação). Pós-doutorado em Psicologia (USP). Doutora em Teoria Psicanalítica (UFRJ) e Mestra em Psicologia Clínica (Puc-RJ). Bolsista de Produtividade do CNPq. Coordenadora do Programa de Extensão (CEPC).
 
----
+------------------------------------------------------------------------
 
 **Laisa Forte Cavalcante**
 
 Psicóloga (CRP-11/12879). Mestra e doutoranda em Psicologia pela Universidade Federal do Ceará. Bolsista FUNCAP. Integrante do VIESES. Membro do coletivo de palhaçaria feminina: Cio das 5.
 
----
+------------------------------------------------------------------------
 
 **Lara Thayse de Lima Gonçalves**
 
 Psicóloga (CRP-11/17144). Mestranda em Psicologia pela Universidade Federal do Ceará. Bolsista FUNCAP. Integrante do Laboratório em Psicologia, Sociedade e Subjetividade (LAPSUS/Universidade Federal do Ceará) e do Coletivo Artes Insurgentes: Coletivizando Resistências.
 
----
+------------------------------------------------------------------------
 
 **Larissa Ferreira Nunes**
 
 Graduada em Psicologia. Doutoranda e Mestre em Psicologia pela Universidade Federal do Ceará. Bolsista CAPES. Especialista em Saúde Mental pela Universidade Estadual do Ceará. Integrante do VIESES.
 
----
+------------------------------------------------------------------------
 
 **Larissa Silvia dos Santos**
 
 Discente de psicologia da Universidade Federal do Ceará – Campus de Sobral, estagiária do Projeto Mais Papo Mais Atitude vinculado à Organização da Sociedade Civil (OSC) União dos Jovens do Vicente Pinzon (UNJVP). É extensionista do Laboratório de estudos das desigualdades e diversidades (LAEDDES) e do projeto Mini Cientista, vinculados à Universidade Federal do Ceará.
 
----
+------------------------------------------------------------------------
 
 **Laryssa Ferreira Rabelo**
 
 Estudante de Psicologia na Universidade Federal do Ceará. Integrante do projeto de extensão Maquinarias: infâncias em invenção, vinculado ao VIESES.
 
----
+------------------------------------------------------------------------
 
 **Larissa Ferreira Rabelo**
 
 Estudante de Psicologia na Universidade Federal do Ceará. Integrante do projeto de extensão Maquinarias: infâncias em invenção, vinculado ao VIESES.
 
----
+------------------------------------------------------------------------
 
 **Lívia Lima Gurgel**
 
 Graduada em Psicologia pela Universidade Federal do Ceará (UFC). Mestra em Psicologia Social, pelo Programa de Pós-Graduação em Psicologia Social da Universidade do Estado do Rio de Janeiro. Integra o VIESES. Doutoranda no Programa de Pós-Graduação em Psicologia da UFC e psicóloga na Atenção Primária do SUS.
 
----
+------------------------------------------------------------------------
 
 **Luana Paiva da Silva**
 
 Psicóloga graduada pela Universidade Federal do Ceará. Foi membro do Laboratório de Estudos das Desigualdades & Diversidades (LAEDDES). Especialização em Saúde Mental e em andamento em Psicologia Escolar e Educacional pela FAVENI. Atua como psicóloga na Secretaria Municipal de Educação de Meruoca-CE. CRP-11/18714.
 
----
+------------------------------------------------------------------------
 
 **Lucas Araújo da Silva**
 
 Graduando do curso de Psicologia da Universidade Federal do Ceará, bolsista do Programa de Educação Tutorial vinculado ao Departamento de Psicologia (Universidade Federal do Ceará) e integrante do Pasárgada.
 
----
+------------------------------------------------------------------------
 
 **Lucia Maria Bertini**
 
 Graduada em Psicologia (PUC/RS), Especialista em Gestão Estratégica de Políticas Públicas (UNICAMP) e Mestra em Planejamento e Políticas Públicas (UECE). Doutoranda em Psicologia (Universidade Federal do Ceará) e pesquisadora do VIESES. Atua profissionalmente em políticas públicas, políticas de segurança e direitos humanos.
 
----
+------------------------------------------------------------------------
 
 **Luciana Fontenele de Sena**
 
 Graduada em Psicologia pela Universidade Federal do Ceará
 
----
+------------------------------------------------------------------------
 
 **Luciana Lobo Miranda**
 
 Professora Titular do Departamento de Psicologia da Universidade Federal do Ceará e do Programa de Pós-Graduação em Psicologia da mesma instituição. Coordenadora do LAPSUS e do coletivo Artes Insurgentes: Coletivizando Resistências.
 
----
+------------------------------------------------------------------------
 
 **Luiza Barbara Cunha Freire**
 
 Graduanda de Psicologia pela Universidade Federal do Ceará (Campus Sobral). Bolsista PIBIC do projeto "Pesquisa-intervenção: direitos sexuais e reprodutivos na assistência social”. Extensionista do SuSex.
 
----
+------------------------------------------------------------------------
 
 **Luiza Silva de Lima**
 
 Graduanda de Psicologia pela Universidade Federal do Ceará-campus Sobral. Bolsista do Projeto de Educação Tutorial (PET-Universidade Federal do Ceará). Extensionista do PASF (Projeto Aprendendo Sobre Filhos) e da liga GESTUS MENTIS (Grupo de estudos em Saúde Mental Interdisciplinar de Sobral).
 
----
+------------------------------------------------------------------------
 
 **Maria Clara Lima Pinto**
 
 Graduanda de Psicologia na Universidade Federal do Ceará – Campus de Sobral. Bolsista PAIP e extensionista voluntária do Laboratório de Estudos das Desigualdades e Diversidades (LAEDDES), com interesses voltados para a psicologia social e para a comunidade LGBTQIAP+.
 
----
+------------------------------------------------------------------------
 
 **Maria Juliana Lopes**
 
 Extensionista voluntária do laboratório dos estudos sobre as Desigualdades e Diversidade (LAEDDES). Bolsista de Iniciação Acadêmica, vinculada ao núcleo da Assistência Estudantil da Universidade Federal do Ceará – Campus de Sobral.
 
----
+------------------------------------------------------------------------
 
 **Maria Lídia de Farias Araújo**
 
 Graduada em Psicologia (Universidade Federal do Ceará), Pós-graduada em Psicologia Organizacional e do Trabalho. Psicóloga clínica e consultora em Psicologia Organizacional.
 
----
+------------------------------------------------------------------------
 
 **Maria Suely Alves da Costa**
 
 Psicóloga, Mestre em Saúde Pública, Doutora em Psicologia Aplicada. Títulos obtidos pela Universidade Federal do Ceará, Universidade Estadual do Ceará e Universidade Minho Portugal. Professor da Universidade Federal do Ceará - Campus Sobral atuando no Mestrado Profissional de Psicologia e Políticas Públicas na linha de pesquisa clínica, políticas públicas e saúde, docente na graduação em Psicologia.
 
----
+------------------------------------------------------------------------
 
 **Mariana Fraga Soares**
 
 Possui graduação em Psicologia pela Universidade Federal do Ceará. Atualmente é psicóloga no Centro de Referência de Assistência Social (CRAS) do município de Cascavel-CE.
 
----
+------------------------------------------------------------------------
 
 **Mariana Tavares Cavalcanti Liberato**
 
 Graduada em Psicologia pela Universidade Federal do Ceará (UFC). Mestra e Doutora em Psicologia pela Universidade Federal do Rio Grande do Norte. Professora Adjunta do Departamento de Psicologia da UFC. Docente colaboradora do Programa de Pós-Graduação em Psicologia da UFC. Coordenadora do PASÁRGADA.
 
----
+------------------------------------------------------------------------
 
 **Marinara Nobre Paiva**
 
 Psicóloga formada pela Faculdade Luciano Feijão (FLF) e Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará. Integrante do Laboratório de Práticas e Pesquisas em Psicologia e Educação (LAPPSIE). Atua como psicóloga do Centro de Atenção Psicossocial Damião Ximenes Lopes (CAPS II) pela Prefeitura Municipal de Sobral. Docente do curso de Psicologia da Faculdade Anhanguera, campus Sobral.
 
----
+------------------------------------------------------------------------
 
 **Marta Clarice Nascimento Oliveira**
 
 Graduanda em Psicologia pela Universidade Federal do Ceará. Integrante do PASÁRGADA. Integrante do VIESES. Colaboradora no Projeto de Extensão/Secult-Universidade Federal do Ceará “Artes Insurgentes: Coletivizando Resistências”.
 
----
+------------------------------------------------------------------------
 
-**Mary
-
-a Teixeira Soares**
+**Marya Teixeira Soares**
 
 Graduanda de Psicologia, na Universidade Federal do Ceará – Campus de Sobral. Extensionista voluntária do Laboratório de Estudos das Desigualdades e Diversidades. Possui interesses voltados para a psicologia social.
 
----
+------------------------------------------------------------------------
 
 **Mayara Ruth Nishiyama Soares**
 
 Graduada em Psicologia pela Universidade Federal do Ceará (UFC). Mestranda em Psicologia pela UFC. Bolsista CAPES. Integrante do LAPSUS e do VIESES.
 
----
+------------------------------------------------------------------------
 
 **Miguel Célio Vasconcelos Pinheiro**
 
 Estudante de psicologia da Universidade Federal do Ceará – Campus de Sobral. Bolsista da Bolsa de Iniciação Acadêmica (BIA) no projeto Estranho no ninho, com interesses voltados para a área da psicologia social.
 
----
+------------------------------------------------------------------------
 
 **Milena Araújo Bezerra**
 
 Graduanda em Psicologia pela Universidade Federal do Ceará. Estagiária de Psicologia da Secretaria Municipal de Educação de Fortaleza (SME). Integrante do VIESES-Universidade Federal do Ceará.
 
----
+------------------------------------------------------------------------
 
 **Milena Assunção Procópio Barbosa**
 
 Graduada em psicologia pela Universidade Federal do Ceará (UFC). Especialista em Psicologia educacional e mestranda pelo Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas (UFC).
 
----
+------------------------------------------------------------------------
 
 **Morena Simonetti Gomes Maciel**
 
 Mestranda em Psicologia na Universidade Federal do Ceará (UFC). Graduada em Psicologia pela UFC (2018).
 
----
+------------------------------------------------------------------------
 
 **Myrella Raissa Caetano Linhares**
 
 Psicóloga formada pela Universidade Federal do Ceará.
 
----
+------------------------------------------------------------------------
 
 **Nara Maria Forte Diogo**
 
 Psicóloga, Mestra em Psicologia e Doutora em Educação (Universidade Federal do Ceará). Professora do curso de Psicologia em Fortaleza e do mestrado Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará, Campus Sobral. Coordenadora adjunta do Locus, do projeto “Ancestralidades: vivências da alma ancestral entre gerações” e do projeto “Quilombolar : permanecer negro na universidade”.
 
----
+------------------------------------------------------------------------
 
 **Natália Matos de Souza**
 
 Graduanda em Psicologia pela Universidade Federal do Ceará. Integrante do PASÁRGADA e do VIESES. Colaboradora no Projeto de Extensão/PREX-Universidade Federal do Ceará "Histórias Desmedidas”.
 
----
+------------------------------------------------------------------------
 
 **Natália Santos Marques**
 
 Psicóloga (Universidade Federal do Ceará), Mestre em Psicologia (Universidade Federal do Pará) e Doutora em Psicologia Experimental (USP). Professora do curso de graduação em Psicologia e do Mestrado Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará, campus Sobral.
 
----
+------------------------------------------------------------------------
 
 **Nayana Rios Nunes da Silva**
 
 Assistente Social formada pela Universidade Estadual do Ceará (UECE) e Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará. Integrante do Laboratório de Práticas e Pesquisas em Psicologia e Educação (LAPPSIE). Atua como analista de gestão há nove anos na Gerência de Gestão de Pessoas do Serviço Autônomo de Água e Esgoto (Saae) de Sobral.
 
----
+------------------------------------------------------------------------
 
 **Pamella Beserra de Melo**
 
 Psicóloga (Universidade Estadual do Ceará), Mestre em Psicologia (Universidade Federal do Ceará) e Doutoranda em Psicologia pela Universidade Federal do Rio Grande do Norte.
 
----
+------------------------------------------------------------------------
 
 **Quitéria Alves Melo**
 
 Psicóloga e Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará. Possui formação em Psicologia Clínica Histórico-Cultural. Integrante do Laboratório de Práticas e Pesquisas em Psicologia e Educação (LAPPSIE). Atua nas áreas de Psicologia Clínica e de Assessoria em Trabalhos Acadêmicos.
 
----
+------------------------------------------------------------------------
 
 **Renata Guimarães de Carvalho**
 
 Professora do mestrado Profissional em Psicologia e Políticas Públicas e do curso de Psicologia da Universidade Federal do Ceará, campus Sobral, na área de psicologia social do trabalho e das organizações. Coordenadora do Laboratório de Estudos sobre Saúde e Subjetividade no Trabalho (LESSAT).
 
----
+------------------------------------------------------------------------
 
 **Ricardo Pinheiro Maia Júnior**
 
 Psicanalista, graduado em Psicologia e Mestre em Psicologia pela UNIFOR. Membro-associado à CLIO - Associação de Psicanálise. Atualmente, doutorando em Psicologia pela Universidade Federal do Ceará e extensionista do Programa de Extensão CEPC.
 
----
+------------------------------------------------------------------------
 
 **Rita Helena Sousa Ferreira Gomes**
 
 Doutora em Filosofia pela Universidade Federal de Minas Gerais (UFMG - 2007). Pós-doutorado pela Simon Fraser University (2015). Professora da Universidade Federal do Ceará (UFC), campus Sobral. Professora do Mestrado Profissional em Artes (PROFARTES/UFC). Professora do Mestrado Profissional em Psicologia e Políticas Públicas (UFC). Membro do grupo de pesquisa PESQUISAMUS.
 
----
+------------------------------------------------------------------------
 
 **Rodrigo da Silva Maia**
 
 Psicólogo, Mestre e Doutor em Psicologia pela Universidade Federal do Rio Grande do Norte. Especialista em Neuropsicologia. Professor do Magistério Superior no Curso de Psicologia, Odontologia e do Mestrado em Psicologia e Políticas Públicas da Universidade Federal do Ceará, Campus Sobral. Tutor do Programa de Educação Tutorial (PET) Psicologia Campus Sobral.
 
----
+------------------------------------------------------------------------
 
 **Rogério da Costa Araújo**
 
 Psicólogo pela Universidade Federal do Ceará. Assessor de Direito à Cidade do Centro de Defesa da Vida Herbert de Souza.
 
----
+------------------------------------------------------------------------
 
 **Tadeu Lucas de Lavor Filho**
 
 Psicólogo (CRP 11/16.666). Doutor em Psicologia pela Universidade Federal do Ceará. Integrante do LAPSUS. Professor de Psicologia do Centro Universitário Vale do Salgado (UNIVS).
 
----
+------------------------------------------------------------------------
 
 **Thamila Cristina dos Santos da Silva**
 
 Artista visual e Psicóloga. Mestre em Psicologia e Políticas Públicas pela Universidade Federal do Ceará, campus Sobral.
 
----
+------------------------------------------------------------------------
 
 **Vera Silvia Paula Pessoa Aguiar Neta**
 
 Graduanda de Psicologia na Universidade Federal do Ceará – Campus de Sobral. Bolsista do Programa de Educação Tutorial (PET). Extensionista voluntária do Laboratório de Estudos das Desigualdades e Diversidades (LAEDDES), do Projeto Mini Cientista, do Programa de Educação pelo Trabalho para a Saúde - PET Saúde/Equidade e do Projeto Saúde Mental e Feminismos.
 
----
+------------------------------------------------------------------------
 
 **Vinicius Nogueira Lopes**
 
 Graduando em Psicologia pela Universidade Federal do Ceará. Bolsista de Extensão do Programa PASÁRGADA.
 
----
+------------------------------------------------------------------------
 
 **Viktoria Braga Leite**
 
 Estudante de Psicologia na Universidade Federal do Ceará. Pós-graduanda em Saúde Pública e da Família pela Universidade de Quixeramim (Uniq). Extensionista do (LESSAT).
 
----
+------------------------------------------------------------------------
 
 **Vitor Batista de Melo**
 
 Graduando em Psicologia pela Universidade Federal do Ceará. Vinculado ao projeto de extensão Maquinarias: infâncias em invenção e ao VIESES.
 
----
+------------------------------------------------------------------------
 
 **Vitória Brandão de Lima Borges**
 
 Graduanda em Odontologia pelo Centro Universitário Fametro, campus Fortaleza.
 
----
+------------------------------------------------------------------------
 
 **Vládia Jamile dos Santos Jucá**
 
 Professora do Departamento de Psicologia e do Programa de Pós-Graduação em Psicologia da Universidade Federal do Ceará (UFC). Psicóloga pela UFC (1996), Mestra em Comunicação e Cultura Contemporânea pela Universidade Federal da Bahia (UFBA - 1999), Doutora em Saúde Coletiva pela UFBA (2003). Pós-doutorado em Teoria Psicanalítica pela Universidade Federal de Minas Gerais (2016).
 
----
+------------------------------------------------------------------------
 
 **Zulmira Áurea Cruz Bomfim**
 
 Graduada em Psicologia pela Universidade Federal do Ceará (UFC - 1985), Mestra em Psicologia Social e da Personalidade pela Universidade de Brasília (1990) e Doutora em Psicologia (Psicologia Social) pela Pontifícia Universidade Católica de São Paulo (2003). Especialista em intervenção sócio-ambiental e pesquisadora em Espaço Público e Regeneração Urbana pela Universidade de Barcelona (2001). Pós-doutora em Psicologia Ambiental pela Universidade de Coruña, Espanha (2011). Professora Titular da UFC da graduação e da pós-graduação.
 
----
+------------------------------------------------------------------------
