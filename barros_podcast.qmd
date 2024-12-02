@@ -32,7 +32,7 @@ bibliography: barros_podcast.bib
 reference-section-title: Referências
 ---
 
-# Podcasts sobre Psicologia, Direitos Humanos e processos sociopsicológicos contemporâneos: experiências do VIESES-UFC no contexto pandêmico
+# Podcasts sobre Psicologia, direitos humanos e processos sociopsicológicos contemporâneos: experiências do VIESES-UFC no contexto pandêmico
 
 ## Introdução
 
@@ -72,7 +72,7 @@ Em 2022, foi produzida uma temporada especial com o tema Psicologia e Direitos H
 
 O #TraçandoVáriosPlanos tem se mostrado uma importante estratégia para manter e qualificar o vínculo de discentes com o Curso de Psicologia da UFC ao oferecer alternativas de aprendizado e de reflexão diante da realidade e dos desafios impostos pelo distanciamento social, sendo fundamental para expandir o alcance dos temas debatidos pelo VIESES para muito além de seu corpo discente, por meio das novas ferramentas de comunicação e de informação.
 
-## Podcast Artes Insurgentes
+## Podcast Artes insurgentes
 
 ::: column-margin
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3KRu4KITQ4leFp6bOk4O5h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">

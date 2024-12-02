@@ -27,7 +27,7 @@ reference-section-title: References
 
 # What can the pandemic ask the classroom
 
-## This Nameless Time During a Pandemic
+## This nameless time during a pandemic
 
 In March 2020, the onset of the novel coronavirus pandemic in Brazil and the necessary public health measures for social isolation to prevent contagion led to an immediate shift in daily life. This was notably evident in the uncertainty about the future and the fear of death, with political and social effects both at home and at work. As days passed in this new pandemic world, different levels of response to Covid-19 became clear. Factors related to class, territory, and income impacted social isolation and, consequently, the alarming death tolls. According to Cerqueira (2017), Brazil faced an unprecedented public health crisis, revealing multiple pandemics within a pandemic, such as the increase in lethal violence and the deepening of social inequalities.
 
@@ -39,7 +39,7 @@ Conversation is a necessary sign for the development of this device, as isolatio
 
 Thus, our voices will meet during this writing, at different times, but under the perspective of a common plan to think about education and public policies, with the desire to continue building spaces for conversations; to enable meetings between the participants of the device "What Can the Pandemic Ask the Classroom?" and, later on, the more than 416 people who viewed the videos on social media. These videos became discussion topics in the Psychology classroom at Luciano Feijão College, in teacher training sessions at the Permanent Training School for Teaching and Educational Management (ESFAPEGE), and in training sessions with youth articulators from the Violence Prevention Projects Management Unit. It is, therefore, a gathering of many voices, attempting to understand this nameless time amid a pandemic.
 
-## School, Creation, and Training
+## School, creation, and training
 
 > I walk around the world paying attention <br> To colors I don't know the names of <br> - Adriana Calcanhotto, Esquadros, 1992
 
@@ -61,7 +61,7 @@ Thus, education is not configured as a practice detached from the world, an ahis
 
 There is also another important notion: the school is not merely a place for knowledge transmission, where one teaches, and the other learns. We understand and advocate that education always occurs in relation. Affirming this, however, does not deny that there is an expected type of subject in education. Therefore, two aspects of education must be perceived: in educating, there is a relationship between the subjects involved in educational practices; and, being involved in these practices, there are processes of subjectivation, that is, the production of ways of existing.
 
-## The "Reinvention" of the Classroom: Imperatives and Urgencies
+## The "reinvention" of the classroom: imperatives and urgencies
 
 Door, rows of chairs, board, markers. These are recurring elements in classrooms. They are so common that they can be understood as essential for conducting a class. However, this idea was suspended at the beginning and throughout much of the Covid-19 pandemic. As it was no longer safe to be physically present, the physical classroom ceased to be a routine reality and became a target of precautions and recommendations.
 
@@ -75,7 +75,7 @@ We must also not forget the teachers. Numerous calls arrived for the teaching pr
 
 Amid the entire educational context, which is also social, the question arises: "What can the pandemic ask the classroom?" A broad question that touches not only the pedagogical but also the social, because all pedagogical action is social. But before that, we need to share how this is a question aiming at resonance, effects, and potentials, not merely framing culprits or even confronting practices, some more successful than others. We ask because we know and defend the understanding that problematizing moves, creates, and recreates effects. It is, therefore, to movement that this question relates.
 
-## “What Can the Pandemic Ask the Classroom?” as a Device for Encounter
+## “What can the pandemic ask the classroom?” as a device for encounter
 
 If the pandemic world produced for us, students and teachers, a physical classroom in a state of interruption, as we walked through this new world with our masks, crowded hospitals, acute shortness of breath, and daily deaths, other sensitivities and affections had to enter the space we shared together with the classroom's meaning. We bet that experiencing this formative space from the field of sensitivity is to propose paths where one can see, hear, think, and feel the world as a political, ethical, and aesthetic experience.
 
@@ -111,7 +111,7 @@ In this sense, the encounters among the participants were arranged as a composit
 
 Thus, this conversation was invented to bring educators together in a time of deep desertification like the pandemic, an experience of not promptly answering questions but lingering in them, observing which cracks or beams of light emerge from their fissures.
 
-## A Way to Conclude or an Affirmation in Desert Times
+## A Way to conclude or an affirmation in desert times
 
 Building a shared path, bringing a polyphony of voices to think about the classroom, speaks of a practice that concerns the historical and relational aspects that traverse this space; of perceiving that the school is an invented creation that constantly recreates itself, that the classroom is not immutable, fixed. On the contrary, we share that this space was one way, and during the beginning of the pandemic, it had to be another, and this will continue to happen, as we do not have given facts but phenomena created and constructed collectively.
 
@@ -127,10 +127,10 @@ We are interested, in the artistic-political field, in the defense of art as pol
 
 ## Videos
 
-### What Can the Pandemic Ask the Classroom? - Conversations I
+### What can the Pandemic ask the Classroom? - Conversations I
 
 {{< video https://youtu.be/lep0z1eI4BQ?si=HYjnFYq7QpI8f97A title ='What Can the Pandemic Ask the Classroom? - Conversations I' >}}
 
-### What Can the Pandemic Ask the Classroom? - Conversations II
+### What can the pandemic ask the classroom? - Conversations II
 
 {{< video https://youtu.be/gUj5Z3GnsEo?si=DlD9Dl-BvfjmPVZM title ='What Can the Pandemic Ask the Classroom? - Conversations II' >}}

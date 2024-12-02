@@ -59,4 +59,4 @@ Francisco Pablo Huascar Aragão Pinheiro
 Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) \[processo número: BP5-0197-00046.01.00/22\] e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) \[processo número: 403787/2023-8\].
 :::::
 
-Incluir imagem da ficha catalográfica
+[Incluir imagem da ficha catalográfica]{style="color: red;"}

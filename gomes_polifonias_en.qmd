@@ -54,13 +54,13 @@ bibliography: gomes_polifonias.bib
 reference-section-title: References
 ---
 
-# Polyphonies: Transdisciplinarity, Scientific Dissemination, and Dialogue in Action
+# Polyphonies: transdisciplinarity, scientific dissemination, and dialogue in action
 
 ## Introduction
 
-Much has been discussed about the apparent gap between scientific knowledge and society. During the pandemic[^gomes_polifonias-1], and even before it, we observed a resurgence of anti-scientific manifestations such as anti-vaccine movements, the return of flat earth beliefs, and the use of unproven medications for disease treatment. Similarly, institutions producing academic knowledge, such as schools, universities, and scientific communicators, have not succeeded in maintaining a dialogue with society. Often, the language used does not facilitate communication, and the use of jargon incomprehensible to the majority of the "lay" population creates an insurmountable barrier for those outside the academic sphere. While technical teaching still prevails in the academic environment, transdisciplinarity and dialogue emerge as a way to bridge academic-scientific knowledge with reality, cultural experiences, and individuals' knowledge, allowing for enrichment and learning fundamental for the improvement of both dimensions without denying their specificities.
+Much has been discussed about the apparent gap between scientific knowledge and society. During the pandemic[^gomes_polifonias_en-1], and even before it, we observed a resurgence of anti-scientific manifestations such as anti-vaccine movements, the return of flat earth beliefs, and the use of unproven medications for disease treatment. Similarly, institutions producing academic knowledge, such as schools, universities, and scientific communicators, have not succeeded in maintaining a dialogue with society. Often, the language used does not facilitate communication, and the use of jargon incomprehensible to the majority of the "lay" population creates an insurmountable barrier for those outside the academic sphere. While technical teaching still prevails in the academic environment, transdisciplinarity and dialogue emerge as a way to bridge academic-scientific knowledge with reality, cultural experiences, and individuals' knowledge, allowing for enrichment and learning fundamental for the improvement of both dimensions without denying their specificities.
 
-[^gomes_polifonias-1]: Here we refer to the emergence of SARS-CoV-2, which caused the COVID-19 pandemic in Brazil since March 2020.
+[^gomes_polifonias_en-1]: Here we refer to the emergence of SARS-CoV-2, which caused the COVID-19 pandemic in Brazil since March 2020.
 
 This chapter aims to present aspects that traverse and compose the Polyphonies extension project, highlighting both its practices, which generally characterize as a technical production of the “Event Organization” type, and the main theoretical guidelines that underpin them. To this end, the chapter is subdivided into 2 sections, respectively:
 
@@ -69,7 +69,7 @@ This chapter aims to present aspects that traverse and compose the Polyphonies e
 
 At the end, besides concisely revisiting the discussed points, some challenges for improving Polyphonies activities are listed.
 
-## Getting to Know the Polyphonies Project
+## Getting to know the Polyphonies project
 
 Polyphonies is an extension project of the Federal University of Ceará – Sobral Campus, which is based on the importance of transversal, transdisciplinary, decolonized, and transformative teaching that transcends the university's barriers. Only through the democratization of knowledge is it possible to contribute to mitigating vulnerabilities, training more ethical professionals aware of their responsibility to the general community, and ensuring that different social actors actively participate in knowledge production. Thus, Polyphonies' main objective is to disseminate scientific and philosophical knowledge using simple and accessible language that facilitates the approach and dialogue between academic and non-academic audiences.
 
@@ -99,7 +99,7 @@ Between March 16, 2020, and August 2021, when this chapter was written, Polyphon
 
 Despite this predominantly informative and practical description of the Polyphonies project, it is only possible to truly understand it by illuminating, albeit briefly, the theoretical and ethical pillars underlying its actions. This is the purpose of the next section.
 
-## Theoretical and Ethical Pillars of Polyphonies
+## Theoretical and ethical pillars of Polyphonies
 
 ### Transdisciplinarity
 
@@ -121,7 +121,7 @@ Clues to answering this question lie in the previously mentioned definition of t
 
 The project's actions aim to address various contemporary issues from a contextualized and multifaceted perspective, understanding that even the simplest topic carries a multiplicity of information studied from plural theoretical and practical perspectives. Because they are plural, they can be approached from different references, giving the topic a transdisciplinary character. Let's take the first event, "All Roads Lead to Knowledge," as an example. As mentioned earlier, the meeting featured 4 guests, including 3 university professors (linked to Art, Psychology, and/or Philosophy) and a religious representative. On this occasion, each guest spoke about a type of knowledge related to their field (Art, Philosophy, Science, and Religion), highlighting not only their specificities but also their relationships with the other represented spheres. The event's transdisciplinary goal was successful, as the intertwined speeches of the guests effectively broke the traditional barriers between those knowledge fields, and the audience's participation through comments and questions gave/amplified the meaning of what was discussed while simultaneously glimpsing interaction points in the diverse speakers' discourses. In this first activity, the strength and, consequently, the need for transdisciplinary practices in scientific and non-scientific fields became evident as tools for enhancing the dissemination of knowledge integrated with society.
 
-### Scientific Dissemination
+### Scientific dissemination
 
 Discussing scientific dissemination requires revisiting a few centuries to consider the very act of doing science. As highlighted by Moreira [-@moreira2002revolucao], the known scientific revolution occurred in the mid-17th century, influenced by various sociodemographic factors, bringing to the forefront many thinkers who are now scientific references, such as Kepler and Galileo. However, despite the growing recognition of scientific relevance and the development of technologies that expanded access to intellectual products, science remains in the hands of specific and small groups – albeit significantly larger and more diverse than in previous centuries – while most of the population remains ignorant of the scientific and technological knowledge production processes underlying the presented ways of life.
 
@@ -155,7 +155,7 @@ By establishing dialogue as an inescapable guideline for its activities, Polypho
 
 Asking these questions and being committed to revisiting them regularly outlines the project's ethical horizon, prompting its members to continually think of ways to create spaces where knowledge can circulate dialogically, where all voices matter, and where scientific dissemination is effective precisely because the walls separating scientific knowledge from popular knowledge can be collectively redrawn.
 
-## Final Considerations
+## Final considerations
 
 The Polyphonies Extension Project, through transdisciplinary and dialogical practices, seeks to disseminate scientific knowledge beyond the university, thus breaking down walls and the hierarchy of knowledge. Its activities are guided by transdisciplinarity, gaining even more strength through dialogue, which aids in the development and conduct of events, making them accessible to the general public and constructing the project collaboratively. The project's actions focus on knowledge dissemination, understanding it as a process collectively gestated from the encounter of different subjects who have the opportunity to hear and be heard. In this sense, it can be said that Polyphonies' ultimate goal is to contribute to social transformation by fostering and encouraging the invention of complex, rooted, and relevant knowledge addressing the issues affecting the various actors and contexts shaping societies.
 

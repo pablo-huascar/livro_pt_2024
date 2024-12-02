@@ -37,9 +37,9 @@ bibliography: liberato_contagios.bib
 reference-section-title: References
 ---
 
-# Possible Contagions: Creating Spaces for an Anti-Asylum Psychology
+# Possible contagions: creating spaces for an anti-asylum psychology
 
-## What Moves Thought to Think
+## What moves thought to think
 
 The work we present here originates from our commitment to building a society without asylums. From a Deleuzian perspective that "more important than thought is what 'gives one to think'..." [@deleuze2003proust, p. 89], we were driven by this struggle to create devices that articulated what was experienced in contact with our field of intervention, namely a Psychosocial Care Center (CAPS), and the production and dissemination of knowledge, in an attempt to invent spaces, beyond academic activity, that enable the deconstruction of the stigma of madness.
 
@@ -59,7 +59,7 @@ Thus, we proposed an event that constitutes a technical production aimed at cons
 
 We also remember that the persistence of an asylum logic within the substitute services is one of the major challenges faced by the Psychosocial Care Network (RAPS), often originating in the formative processes of health professionals who fail to deconstruct the relations of domination and chronification of users typical of asylum models. To resist this, we created an innovative product, resulting from our interventions and studies on mental health care, which places the affection and contagion of reality as premises for producing and disseminating knowledge in times of tension and dispute in this field. Below, we will share some of the construction of this event, which was, above all, an experiment in knowledge produced with the other.
 
-## Affecting and Moving: Inventing the “Anti-Asylum Struggle Week”
+## Affecting and moving: inventing the “Anti-Asylum Struggle Week”
 
 The Anti-Asylum Struggle Week initiative results from studies on mental health care and the continued insertion that the PASÁRGADA program has had in this field since 2019. Through university extension, the group has developed activities in two Psychosocial Care Centers (CAPS) - Type II in Fortaleza-CE. These actions include therapeutic group follow-ups, activities in the services' waiting rooms, and actions beyond these facilities' walls.
 
@@ -135,7 +135,7 @@ Throughout the day, over 100 people visited the exhibition, including the artist
 
 Cities, beyond buildings, houses, and intertwined streets producing materiality, are also stages for affections and social relations (Mansano, 2016). By understanding the city as this place of intertwining, we also understand that it is where life, encounters, and discussions are produced. Madness, long imprisoned – from the 17th century, as Foucault [-@foucault1975doença] mentions, saying that madness entered this world of exclusion by an ideal of incapacity and reconstruction of the social space of the time – must also be intertwined in this city. Going out into the world implies, therefore, a form of resistance to these historical policies of exclusion, violence, and stigmatization of these bodies.
 
-## Final Considerations
+## Final considerations
 
 Passos et al. [-@passos2021remanicomialização] point out that the country is advancing towards a process of (re)asylumization driven by the interest of actors representing a conservative and neoliberal political project centered on maintaining privileges and focused on privatizations and the revival of social control practices. Therefore, we observe the importance of events like the one proposed for producing materiality seen, touched, and felt, as well as for producing sensitization, reflection, and debates on the anti-asylum agenda, acting on the de-stigmatization of madness and proposing care produced in freedom.
 

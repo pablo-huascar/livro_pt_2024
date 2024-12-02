@@ -71,7 +71,7 @@ Este capítulo objetiva apresentar aspectos que atravessam e compõem o projeto 
 
 Ao final, além de serem concisamente retomados os pontos discutidos, são elencados alguns desafios para a melhoria das atividades do Polifonias.
 
-## Conhecendo o Projeto Polifonias
+## Conhecendo o projeto Polifonias
 
 O Polifonias é um projeto de extensão da Universidade Federal do Ceará – Campus Sobral o qual parte da importância de um ensino transversal, transdisciplinar, descolonizado e transformador que ultrapasse as barreiras da universidade. Só através da democratização do saber é possível contribuir para amenizar as vulnerabilidades, formando profissionais mais éticos e cientes de sua responsabilidade com a comunidade geral, bem como garantindo que diferentes atores sociais participem ativamente da produção do conhecimento. Assim, o Polifonias tem como objetivo principal a divulgação dos saberes científicos e filosóficos prezando por uma linguagem simples e acessível que facilite a aproximação e o diálogo entre os públicos acadêmico e não acadêmico.
 
@@ -157,7 +157,7 @@ Ao estabelecer o diálogo como diretriz inescapável de suas atividades, o Polif
 
 Fazer essas questões e estar empenhado em sempre retomá-las delineia o horizonte ético do projeto, instigando seus membros a reiteradamente pensar em formas de criar espaços onde os saberes possam circular dialogicamente, onde todas as falas importem e onde a divulgação científica seja efetiva, justamente porque os muros que separam o saber científico do saber popular podem ser, coletivamente, retraçados.
 
-## Considerações Finais
+## Considerações finais
 
 O Projeto de Extensão Polifonias, a partir de práticas transdisciplinares e dialógicas, procura divulgar o conhecimento científico para além da universidade, e assim romper com os muros e a hierarquização do saber. Suas atividades têm como pilar norteador a transdisciplinaridade, ganhando ainda mais força por meio do diálogo que auxilia na elaboração e condução dos eventos, tornando-os acessíveis ao público em geral e tornando o projeto uma construção erguida a muitas mãos. As ações do projeto focam na divulgação do conhecimento, entendendo-a como um processo coletivamente gestado a partir do encontro de diferentes sujeitos que têm oportunidade de ouvir e serem ouvidos. Nesse sentido, pode-se afirmar que a finalidade maior com a qual o Polifonias pretende colaborar é a transformação social que fortalece e incentiva a invenção de um conhecimento complexo, enraizado e pertinente aos problemas que afligem os vários atores e contextos que tecem as sociedades.
 

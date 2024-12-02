@@ -83,7 +83,7 @@ Among the main objectives of the course, we sought to:
 
 Thus, the course was organized into five main modules, addressing different knowledge areas, context problems, theoretical aspects, participatory methodologies, and research developed at Locus, PPGP-UFC/Fortaleza, and PPGPPPP-UFC/Sobral. The following details each of the modules.
 
-## Course Outline and Organization
+## Course outline and organization
 
 The extension course provided a space for reflection on the content covered by the subjects Theories and Practices in Social Psychology III, Environmental Psychology, among others, at undergraduate and graduate levels. Beyond teaching, the course also directly dialogued with research conducted by PPGP and PPGPPPP master's and doctoral students.
 
@@ -91,24 +91,24 @@ Considering the need for physical distancing due to the COVID-19 pandemic, the c
 
 As for course registrations, these were conducted virtually through the Google Forms platform in July 2020. Initially, the course organizing team planned to offer 100 vacancies; however, given the high demand identified, 162 registrations were made. Regarding the profile of registrants, besides undergraduate, specialization, master’s, and doctoral students, professionals from public policies, members of non-governmental organizations, participants of social movements, collectives, and community leaders also participated. The following table 1 summarizes the profile of enrolled students regarding their areas of education.
 
-|                    |                                                                                                                                                                                                                                                                           |
-|---------------|--------------------------------------------------------|
-| **Undergraduate**  | Psychology; Education; Sociology; Law; History; Nutrition; Finance; Medicine; Tourism Management; Architecture and Urbanism; Geography; Environmental Sciences; Biological Sciences; Fisheries Engineering; Environmental Engineering; Environmental Management; Physics. |
-| **Specialization** | Health; Social Legislation, Public Policies, and Social Work.                                                                                                                                                                                                             |
-| **Master’s**       | Psychology; Interdisciplinarity in Humanities; Tropical Marine Sciences; Development and Environment.                                                                                                                                                                     |
-| **Doctorate**      | Psychology; Public Health; Society and Environment.                                                                                                                                                                                                                       |
+|  |  |
+|-----------------|-------------------------------------------------------|
+| **Undergraduate** | Psychology; Education; Sociology; Law; History; Nutrition; Finance; Medicine; Tourism Management; Architecture and Urbanism; Geography; Environmental Sciences; Biological Sciences; Fisheries Engineering; Environmental Engineering; Environmental Management; Physics. |
+| **Specialization** | Health; Social Legislation, Public Policies, and Social Work. |
+| **Master’s** | Psychology; Interdisciplinarity in Humanities; Tropical Marine Sciences; Development and Environment. |
+| **Doctorate** | Psychology; Public Health; Society and Environment. |
 
 Table 1 - Areas of education (undergraduate and graduate) of enrolled students in the course.
 
 Regarding the participants' locations, the course reached 52 cities distributed across 17 states in the five regions of Brazil. The following table 2 shows the location of cities by region of the country:
 
-| **Regions of Brazil** | **Brazilian states and cities**                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|----------------|--------------------------------------------------------|
-| **Northeast**         | Ceará (Fortaleza, Caucaia, Cascavel, Quixadá, Guaiúba, Maracanaú, Aquiraz, Maranguape, Itapajé, Mauriti, Sobral, Pacatuba, Tabuleiro do Norte, Crato, Horizonte, Morrinhos, Pacajus, Limoeiro do Norte, Juazeiro do Norte, Palmácia, Canindé, Umirim, Tianguá, São Gonçalo do Amarante, Tauá and Barreira), Rio Grande do Norte (Natal, Apodi, Santa Cruz, Mossoró and Acari); Bahia (Ipirá); Paraíba (João Pessoa); Pernambuco (Camaragibe); Piauí (Floriano); Sergipe (Aracaju and São Cristóvão). |
-| **Southeast**         | Rio de Janeiro (Rio de Janeiro, Niterói, Magé); São Paulo (São José do Rio Preto, Ribeirão Preto, São Carlos); Minas Gerais (Ouro Preto, Juiz de Fora).                                                                                                                                                                                                                                                                                                                                              |
-| **North**             | Amazonas (Manaus); Pará (Redenção); Roraima (Boa Vista).                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Central-West**      | Brasília (Federal District); Goiás (Anápolis).                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **South**             | Rio Grande do Sul (Guaíba); Santa Catarina (Florianópolis).                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Regions of Brazil** | **Brazilian states and cities** |
+|------------------|------------------------------------------------------|
+| **Northeast** | Ceará (Fortaleza, Caucaia, Cascavel, Quixadá, Guaiúba, Maracanaú, Aquiraz, Maranguape, Itapajé, Mauriti, Sobral, Pacatuba, Tabuleiro do Norte, Crato, Horizonte, Morrinhos, Pacajus, Limoeiro do Norte, Juazeiro do Norte, Palmácia, Canindé, Umirim, Tianguá, São Gonçalo do Amarante, Tauá and Barreira), Rio Grande do Norte (Natal, Apodi, Santa Cruz, Mossoró and Acari); Bahia (Ipirá); Paraíba (João Pessoa); Pernambuco (Camaragibe); Piauí (Floriano); Sergipe (Aracaju and São Cristóvão). |
+| **Southeast** | Rio de Janeiro (Rio de Janeiro, Niterói, Magé); São Paulo (São José do Rio Preto, Ribeirão Preto, São Carlos); Minas Gerais (Ouro Preto, Juiz de Fora). |
+| **North** | Amazonas (Manaus); Pará (Redenção); Roraima (Boa Vista). |
+| **Central-West** | Brasília (Federal District); Goiás (Anápolis). |
+| **South** | Rio Grande do Sul (Guaíba); Santa Catarina (Florianópolis). |
 
 Table 2 - Location of course participants.
 
@@ -126,7 +126,7 @@ The facilitation was conducted by the Locus coordinator and postgraduate researc
 
 A bibliography was made available beforehand so participants could bring questions to the meetings. The material used as a reference in each class was made available in a public folder on Google Drive, organized in a Google Classroom. Finally, after accounting for attendance and activities completed by participants, 74 certificates were issued and sent via email.
 
-## Facilitation of Thematic Axes: Exchanges of Experiences and Teaching
+## Facilitation of thematic axes: exchanges of experiences and teaching
 
 Throughout the extension course, discussions were held on how socio-environmental and historical-cultural perspectives contribute to understanding the social problems of the national context. Concepts from specific areas (Psychology, Geography, Education, Architecture and Urbanism, Sociology, etc.) were addressed, relating them to the studied contexts, methods, and facilitation processes that contribute to field insertion, needs assessment, action development, knowledge construction and sharing, etc., from a participatory perspective, involving professionals, students, and residents of the studied contexts.
 
@@ -136,7 +136,7 @@ The methodologies presented in the course also went beyond a solely psychologica
 
 Due to the COVID-19 pandemic context, a readaptation to the social isolation reality was made, demanding greater course insertion in the community more accessible through online platforms, reaching many people. In total, the course had five meetings, each corresponding to a module within broad thematic axes. Below, we present the main characteristics of each module.
 
-### Theoretical and Participatory Methodological Perspectives
+### Theoretical and participatory methodological perspectives
 
 This module was facilitated by Andie de Castro Lima (master's student at PPGP-UFC/Fortaleza), Fábio Pinheiro Pacheco (doctoral student at PPGP-UFC/Fortaleza), and Zulmira Bomfim, the instrument's author and Locus coordinator. A total of 88 participants attended.
 
@@ -144,13 +144,13 @@ In this meeting, the course construction was presented, contextualizing how the 
 
 On the occasion, the Affective Maps Generator Instrument [@bomfim2010cidade; @bomfim2014affective], developed by Locus coordinator Zulmira Bomfim from her doctoral thesis in 2003, was also presented. Integrating the aforementioned theoretical bases, Bomfim [-@bomfim2010cidade] outlined an instrument capable of creating affective maps, through which one can capture the socio-affective synthesis of an individual's encounter with a place, whether it is the home, the neighborhood, the city, etc.
 
-### Human Development, Professional Training, and Participation
+### Human development, professional training, and participation
 
 In this second module, the discussion focused on the dialogue between personal and collective development, participation in culture, lifelong development, and the repercussions on educational processes. The psychosocial aspects of psychology training and the psychologist's work in education and art as an intercultural proposal were also discussed. The module was facilitated by Nara Maria Forte Diogo Rocha (Professor at the UFC Psychology Department in Fortaleza and PPGPPPP-UFC/Sobral), Helenira Fonseca de Alencar (Ph.D. in Education), Janaína Farias de Melo (doctoral student at PPGP-UFC/Fortaleza), and Benedito Rodrigues (master's student at PPGPP-Sobral). A total of 101 participants attended.
 
 To discuss personal and collective development and participation in culture, the "Life in Verse" dynamic (Haiku) was conducted to express the relationship between humans and nature from a perspective on possible life changes. Additionally, it was relevant to address, in the educational field, the experience of the flipped classroom (conducting group activities and exercises and professor attendance), different from the traditional classroom (professor lectures to students). Finally, the experience of the school psychologist creating spaces for student discourse circulation and the re-signification of daily life with new group-created activities were addressed.
 
-### Indigenous Peoples and Transcultural Issues
+### Indigenous peoples and transcultural issues
 
 The third module's discussion focused on the community insertion process [@montero2007hacer] in indigenous villages and other traditional communities. Emphasis was placed on how initial contacts are established and how participatory research and extension are delineated, considering subject participation. The module was facilitated by Maria Zelfa de Souza Feitosa (post-doctoral researcher at PPGP-UFC/Fortaleza), Francisco Jésus Dias Mota Araújo (master's student at PPGP-UFC/Fortaleza), Janaína Farias de Melo (doctoral student at PPGP-UFC/Fortaleza), and Halaine Cristina Pessoa Bento (master's student at PPGP-UFC/Fortaleza). A total of 92 participants attended.
 
@@ -160,7 +160,7 @@ In this sense, seeking new methodological possibilities for affective maps [@bom
 
 Continuing the discussions on cultures in Brazil, Halaine Pessoa presented her master's research with the Venezuelan migrant and refugee population, arriving through the state of Roraima in search of better living conditions. Thus, a look from Environmental Psychology in the sphere of experience, living, meanings, and appropriation of spaces by Venezuelans with Brazilian territory [@moser1998psicologia] was presented, as well as her experience with this public in a shelter for Venezuelan refugees from Operation Welcome in Boa Vista (RR).
 
-### Public Health and Social Assistance Policies
+### Public health and social assistance policies
 
 Module four presented the areas of Social Assistance and Health, making an interlocution with Environmental Psychology and Social Psychology. The participatory methodologies used in these contexts, in the fields of work, research, and teaching, emphasized issues related to the importance of territorialization in professional practices in the highlighted public policies and the understanding of affective elements involved in socially vulnerable and risky situations experienced by policy users.
 
@@ -174,7 +174,7 @@ Next, two application situations of the IGMA methodology were presented in two f
 
 Subsequently, Andie Lima and Mônica Martins brought the discussion of affects to the social assistance sphere. At this point, the main results of research and actions developed at CRAS were presented, focusing on the importance of territorialization and understanding the affective elements that permeate the appropriation of this territory by residents [@lima2019estima]. The examples presented showed the potential of IGMA both for diagnosing residents' links with accessed public policy facilities and for intervention and evocation of reflections on the importance of understanding affects in the process of implementing and conducting public policy.
 
-### Cities, Sociocultural Movements, and Participation
+### Cities, sociocultural movements, and participation
 
 In the final stage, a discussion was held on cultural spaces, constructing participation and resistance in urban social movements. This module was facilitated by Fábio Pinheiro Pacheco (doctoral student at PPGP-UFC/Fortaleza), José Reginaldo Feijão Parente (doctoral student at PPGP-UFC/Fortaleza), Cícera Mônica da Silva Sousa Martins (doctoral student at PPGP-UFC/Fortaleza), and Daniel Welton Arruda Cabral (doctoral student at PPGP-UFC/Fortaleza). A total of 77 participants attended. The module presented methods and facilitation processes for research, teaching, and extension, highlighting socio-environmental [@morais2011nas] and cultural trails as possibilities for reflection-action and collective construction; and the organization of social movements of struggle [@cabral2015relacao; @martins2020afetividade] and resistance to socio-spatial segregation situations [@pacheco2018afetividade].
 
@@ -184,7 +184,7 @@ Finally, Fábio Pacheco and Mônica Martins brought a discussion on space exprop
 
 All modules were based on theoretical and methodological perspectives in the mentioned areas, considering social inequalities and vulnerabilities context, as well as the social exclusion-inclusion dialectic, decolonial theories, and indigenous peoples (Santos & Meneses, 2011). The presentation showed how Latin American Social Psychology [@lane1989psicologia; @martinbaro2011desafios] and transactional-based Environmental Psychology [@garciamira1997aportacion; @bomfim2010cidade] contribute to understanding socio-environmental phenomena in a theoretical-practical way. The affectivity category [@sawaia2011sofrimento] stood out as an axis for observation, investigation, intervention, and analysis to overcome psychological science's own dichotomies that separate subjectivity from objectivity, rationality from affects, the individual from the social, among others that approach a prescribed posture and naturalize the social exclusion-inclusion dialectic.
 
-## Learning Process and Evaluation
+## Learning process and evaluation
 
 At the end of the fifth module, students were asked to fill out an evaluation form to understand the learning process throughout the course and measure the impact of the topics covered during the students' professional trajectory. The evaluation form was created on the G Suite platform (Google Forms) in an electronic questionnaire format, evaluating five aspects: Virtual Environment, Pedagogical Aspects, Technical Support, Teaching Team and Moderation, and Self-evaluation. Each of the five topics mentioned above presented objective questions with five agreement scale alternatives, with numbers between 1 (totally disagree) and 5 (totally agree).
 

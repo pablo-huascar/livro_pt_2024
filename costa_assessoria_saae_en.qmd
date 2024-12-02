@@ -68,7 +68,7 @@ bibliography: costa_assessoria_saae.bib
 reference-section-title: References
 ---
 
-# “If I take the service and don't solve it, he thinks the problem is me”: consultancy report on an  intervention with customer service professionals
+# “If I take the service and don't solve it, he thinks the problem is me”: consultancy report on an intervention with customer service professionals
 
 ## Introduction
 
@@ -100,7 +100,7 @@ Given this scenario, the SAAE's people management sector identified, through emp
 
 Thus, after evaluating the demands, the intervention team proposed using the elaboration of a procedure manual as a way to mediate the discussion among workers about the activity performed. As will be seen later, this process of collective reflection on work and the construction of new ways of acting implies health improvement. Additionally, the produced document could help build prescriptions for workers and guide new attendants joining the sector.
 
-### Theoretical Foundation: Clinic of Activity
+### Theoretical foundation: Clinic of Activity
 
 The intervention team used the Clinic of Activity as a theoretical and methodological framework. This methodology has the premise of transforming and understanding work as inseparable processes [@clot2017clinica_atividade]. Thus, unlike traditional approaches in work psychology, the intervener does not occupy an expert position, dictating or establishing procedural norms. Instead, they act as a mediator of the work analysis process, conducted jointly with workers as they develop their activities [@clot2013oficio_saude].
 
@@ -112,7 +112,7 @@ Transpersonality occurs through the memory of the work collective. Therefore, wh
 
 ## Method
 
-### Clinic of Activity as a Methodological Approach
+### Clinic of Activity as a methodological approach
 
 Clot [-@clot2010trab_poder] distinguishes the approach taken by the Clinic of Activity from traditional intervention strategies. While the latter consists only of recommendations, the former's objective is to introduce a methodological tool that can become an action device for the group of workers. In this sense, work analysis seeks to help the collective reestablish their power to act, developed from the appropriation of jointly constructed tools for action. Thus, the methods employed aim to revitalize professional activity as well as the elaboration of knowledge around this dynamic.
 
@@ -142,24 +142,24 @@ Therefore, the interest lies in the development history, its possibilities, obst
 
 Table @tbl-participantes shows the number of attendants who participated in the intervention process, with nine women and three men. It also presents the workers' ages, the type of service they performed in the sector, their career time, and their institutional affiliation.
 
-|   Name   | Age | Type of Service | Time at Work |   Affiliation   |
-|:--------:|:---:|:---------------:|:------------:|:---------------:|
-|  Aline   | 26  |     Virtual     |   8 months   |    Outsourced   |
-|  Carla   | 22  |    In-person    |   8 months   |    Outsourced   |
-|  Dário   | 55  |    In-person    |   31 years   |      Permanent     |
-|  Flávia  | 40  |    In-person    |   10 years   |      Permanent     |
-|  Joana   | 37  |    In-person    |    1 year    |    Outsourced   |
-| Leonardo | 26  |     Virtual     |    2 years   |    Outsourced   |
-|  Marina  | 25  |    In-person    |   8 months   |    Outsourced   |
-|  Marta   | 28  |    In-person    |    8 years   |      Permanent     |
-|   Rita   | 49  |    In-person    |    8 years   |      Permanent     |
-| Roberto  | 59  | Phone Center |   38 years   |      Permanent     |
-|   Sara   | 50  |    In-person    |    2 years   |    Outsourced   |
-|  Talia   | 26  |     Virtual     |    1 year    |    Outsourced   |
+|   Name   | Age | Type of Service | Time at Work | Affiliation |
+|:--------:|:---:|:---------------:|:------------:|:-----------:|
+|  Aline   | 26  |     Virtual     |   8 months   | Outsourced  |
+|  Carla   | 22  |    In-person    |   8 months   | Outsourced  |
+|  Dário   | 55  |    In-person    |   31 years   |  Permanent  |
+|  Flávia  | 40  |    In-person    |   10 years   |  Permanent  |
+|  Joana   | 37  |    In-person    |    1 year    | Outsourced  |
+| Leonardo | 26  |     Virtual     |   2 years    | Outsourced  |
+|  Marina  | 25  |    In-person    |   8 months   | Outsourced  |
+|  Marta   | 28  |    In-person    |   8 years    |  Permanent  |
+|   Rita   | 49  |    In-person    |   8 years    |  Permanent  |
+| Roberto  | 59  |  Phone Center   |   38 years   |  Permanent  |
+|   Sara   | 50  |    In-person    |   2 years    | Outsourced  |
+|  Talia   | 26  |     Virtual     |    1 year    | Outsourced  |
 
 : Participant Data {#tbl-participantes}
 
-## Intervention Course
+## Intervention course
 
 The intervention began in mid-April 2022 and ended in July of the same year. During this period, ten weekly meetings, each lasting an average of 1h30, were held in person at the SAAE during the professionals' working hours. The meetings were mediated by five facilitators, recorded in audio, and transcribed by the intervention team.
 
@@ -281,7 +281,7 @@ Regarding customer interactions, it was observed that attendants, from the discu
 
 Additionally, the manual's construction provided a space for controversies among workers, especially in the dialogues related to adopting different procedures for task performance. It was noted that during disputes, the professional genre was strengthened, as it was possible to discuss the attendant's trade, which differed from the collective's pre-intervention stance. Thus, controversy implied expanding dialogue, ensuring that other experiences were developed and transformed [@clot2017clinica_atividade].
 
-## Final Considerations
+## Final considerations
 
 The study aimed to report a consultancy carried out in the customer service sector of the Autonomous Water and Sewage Service (SAAE), using the construction of a procedure manual as a dialogue mediator among workers. Moreover, it aimed to create a space where they could reflect on the attendant's trade, different ways of acting, working conditions, and health repercussions. The Clinic of Activity was used as a theoretical and methodological framework to observe the renewal of the professional genre and the collective transformation of work.
 

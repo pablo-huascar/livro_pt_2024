@@ -26,7 +26,7 @@ bibliography: beserra_de_melo_assessoria.bib
 reference-section-title: References
 ---
 
-# The Challenges of Public Servant Health: An Advisory Report
+# The challenges of public servant health: an advisory report
 
 ## Introduction
 
@@ -56,7 +56,7 @@ From this perspective, it is not up to the psychologist to make a diagnosis and 
 
 The intervention involved four accountants, one female accountant, one male accounting technician, and one female accounting technician, as well as the immediate and superior managers, both accountants, totaling nine participants. All the servants held the position of Technical-Administrative in Education (TAE) at the Higher Education Institution (IES) and, as mentioned earlier, worked in the accounting and finance sector.
 
-### Procedures, Instruments, and Course of the Intervention
+### Procedures, instruments, and course of the intervention
 
 Before starting the presentation about the instruments and procedures used in the intervention, it is important to recall the idea that in the Activity Clinic, no preliminary diagnosis is made that would provide the psychologist with prescriptions that workers must follow to solve problems related to the activity or to gain more health and satisfaction. It is also not her goal to produce a list of risks, whether physical, ergonomic, or psychosocial, to produce an external evaluation of the work.
 
@@ -82,7 +82,7 @@ Next, meetings were held with each subgroup to discuss the points highlighted by
 
 The intervention concluded with a general meeting where workers and managers discussed the demands raised at each stage and the changes made that were favorable to the group in the development of their activities. There was also a debate on suggested improvements that were not achieved for various reasons, including legal limits imposed on the public sector.
 
-## Results and Discussions
+## Results and discussions
 
 Next, the obstacles discussed by the servants for performing quality work and the potentialities envisioned for reconstructing their activity and craft will be presented, based on the procedures and techniques previously presented and the discussions held with the work collective. The development of the power to act and the strengthening of workers around issues related to the impersonal dimension, specifically regarding work conditions and organization, and interpersonal relationships, were observed.
 
@@ -106,7 +106,7 @@ During the intervention, there was a change in one of the managers. Throughout t
 
 Another change implemented by the new management, at the collective's request, was decentralizing some activities to other sectors, reducing the workload. The practice of assigning accounting workers to functions of other sectors' servants on vacation was also suspended, as it caused workload and dissatisfaction among the group, as the new function was not within their duties and should be performed by someone from the original sector.
 
-## Conclusions and Limitations of the Intervention
+## Conclusions and limitations of the intervention
 
 The intervention was carried out in a context marked by servants' demotivation and various problems related to work organization and conditions, as well as the relationship between servants and their managers. Numerous debates on the activity and craft were promoted, allowing workers to find new ways of proceeding and to dialogue with managers about the difficulties encountered, positively contributing to the group's interpersonal relationships. Thus, there was an expansion of the power to act, which, from the Activity Clinic perspective, means promoting health. As a limitation, the initial difficulty of sensitizing the managers about the importance of considering the proposals brought by the workers as necessary for the proper development of activities was observed.
 

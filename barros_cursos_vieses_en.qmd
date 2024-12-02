@@ -60,13 +60,13 @@ bibliography: barros_cursos_vieses.bib
 reference-section-title: References
 ---
 
-# VIESES-UFC Extension Courses: Countercolonial Dialogues in Psychology
+# VIESES-UFC extension courses: countercolonial dialogues in Psychology
 
 ## Introduction
 
 This chapter aims to report experiences of conducting extension courses promoted by VIESES: Research and Intervention Group on Violence, Social Exclusion, and Subjectivation, between 2019 and 2022. This laboratory, in turn, is part of the Department of Psychology and the Graduate Program in Psychology at the Federal University of Ceará (UFC). Next, the experiences of formative processes provided by 5 extension courses that aimed to strengthen countercolonial dialogues in the field of Psychology will be reported, addressing themes that question colonial matrices of knowledge-power-subjectivation, addressing topics such as racial relations, gender, and inequalities in Psychology, and challenging public policies to listen to and recognize subalternized existences.
 
-## Extension Course "Racism, Mental Health, and Care Practices"
+## Extension course "Racism, mental health, and care practices"
 
 This course aimed to discuss the effects of racism on the mental health of black people and the challenges of caring for this population in the field of Psychosocial Care. This initiative was designed considering the issue of structural racism, which is expressed in social, political, legal, and economic relations, being one of the main triggers of psychological suffering for black populations in Brazil [@almeida2018racismoestrutural].
 
@@ -92,7 +92,7 @@ We consider it important to address racism also from an intersectional perspecti
 
 The five modules of the course were guided by the relationship: classes-practice scenarios, problematizing lived realities, based at the same time on legal, conceptual, methodological, and practical guidelines. Documents, texts, research, and national policies were used, establishing multiple dialogues with various disciplines, besides developing antiracist care practices in the field of Psychosocial Care.
 
-## Extension Course "Psychology and Human Rights: Experiences, Dialogues, and (De)constructions"
+## Extension course "Psychology and human rights: experiences, dialogues, and (de)constructions"
 
 The course took place from March 23 to April 14, 2021, and aimed to critically address topics related to Psychology and Human Rights, based on professional experience reports, research results, and theoretical reflections. This initiative was designed considering the intersections between defending Human Rights and producing knowledge and interventions in Psychology, being relevant for professional and academic performance in its most diverse fields [@bicalho2009formacao; @bock2010direitoshumanos; @coimbra2001psicologia; @scisleski2015juventude]. The field of Human Rights has been a territory of intense dispute by reactionary forces, aiming to exclude different existences from the condition of subjects to whom fundamental rights must be guaranteed [@barros2019criminalizacao]. Therefore, it is of extreme relevance that the public university, especially Psychology courses, critically, plurally, and rigorously addresses such topics to denaturalize the psychosocial aspects that have historically corroborated the production of "unimportant," "killable," and "dying" subjects [@barros2019juventudes], as well as necropolitical expressions [@barros2019criminalizacao; @mbembe2017politicas] that produce zones of death and modes of subjectivation indifferent to the extermination of these subjects.
 
@@ -134,7 +134,7 @@ The large adherence to the course – whose registrations were all filled within
 
 In general, conducting the course, involving different actors, was consolidated as an important device for tension and reinvention of what is understood by Human Rights in Psychology, especially in Social Psychology. The course also contributed to a comprehensive, decolonial, and critical-reflective training of students in facing contexts of vulnerabilities and life precarization, as well as collaborating for the (re)formulation of local strategies against Human Rights violations in Fortaleza.
 
-## Course “(Re)Existing at the Crossroads: Dialogues on Racial Relations, Gender, and Youth”
+## Course “(Re)existing at the crossroads: dialogues on racial relations, gender, and youth”
 
 This course aimed to produce theoretical-methodological and experiential connections, approaches, and improvements regarding the implications of gender relations intersections in subjectivation modes in peripheral urban areas, agenced by violence scenarios and marked not only by oppression contexts but also by youth reexistences inserted in these territorialities, the difficulties for public policies that act in guaranteeing human rights, and for producing and promoting care practices in the face of violence and mortification produced by racism, LGBTQIA+phobia, and the intersections of other oppression markers.
 
@@ -159,7 +159,7 @@ Eight proposed modules were:
 
 Based on the accumulations built by extension experiences developed by VIESES since 2015 in various peripheries of Fortaleza and the formative proposals already experimented by the laboratory, the course adopted active, dialogical, and collaborative methodologies, prioritizing critical reading of reality, exchange of experiences among diverse participants, and contextualized deepening of contents related to race and gender relations, youth trajectories in urban territorialities, public policies for human rights guarantee, and clinical-political care practices. For this, pedagogical strategies were used, such as dialogued exposition, reading circles from texts, group work techniques, sharing social, professional, and academic experiences brought by the participants.
 
-## Final Considerations
+## Final considerations
 
 The technical productions reported in this chapter (extension courses promoted by VIESES-UFC) have in common the aim of critically addressing themes related to Psychology praxis in defending Human Rights, proposing public policies to face violence, and producing knowledge from the university's dialogue with different sectors and social groups.
 
