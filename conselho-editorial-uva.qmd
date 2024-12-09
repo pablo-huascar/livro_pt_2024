@@ -2,46 +2,57 @@
 toc: false
 ---
 
-::: {style="line-height: 1.5;"}
 # Conselho editorial {.unnumbered .unlisted}
 
 Maria Socorro de Araújo Dias (Presidente)
 
-Izabelle Mont’Alverne Napoleão Albuquerque
+Izabelle Mont’Alverne Napoleão Albuquerque 
 
-Alexandra Maria de Castro e Santos Araújo
+Alexandra Maria de Castro e Santos Araújo 
 
-Ana Iris Tomás Vasconcelos
+Ana Iris Tomás Vasconcelos 
 
-Carlos Augusto Pereira dos Santos
+Carlos Augusto Pereira dos Santos 
 
 Claudia Goulart de Abreu
 
+Eliany Nazaré Oliveira 
+
 Eneas Rei Leite
 
-Francisco Helder Almeida Rodrigues
+Francisco Helder Almeida Rodrigues 
 
-Israel Rocha Brandão
+Francisco Tadeu de Carvalho Belchior Magalhães 
 
-Maria Adelane Monteiro da Silva
+Israel Rocha Brandão 
 
-Maria Amélia Carneiro Bezerra
+Maria Adelane Monteiro da Silva 
 
-Maria José Araújo Souza
+Maria Amélia Carneiro Bezerra 
 
-Maria Somália Sales Viana
+Maria José Araújo Souza 
 
-Maristela Inês Osawa Vasconcelos
+Maria Somália Sales Viana 
+
+Maristela Inês Osawa Vasconcelos 
+
+Paulo Jorge de Almeida Pereira 
 
 Raquel Oliveira dos Santos Fontinele
 
-Simone Ferreira Diniz
+Simone Ferreira Diniz 
 
-Renata Albuquerque Lima
+Renata Albuquerque Lima 
 
 Tito Barros Leal de Ponte Medeiros
 
 Virginia Célia Cavalcanti de Holanda
+
+# Conselho Internacional {.unnumbered .unlisted}
+
+Francisco Antônio Loiola (Université de Montréal)
+
+Anya Pimentel Gomes Fernandes Vieira Meyer  (Harvard)
 
 # Conselho editorial da obra {.unnumbered .unlisted}
 
@@ -68,5 +79,3 @@ Miguel Basto Pereira - Instituto Universitário de Ciências Psicológicas, Soci
 Sara Lima - Instituto Politécnico de Saúde do Norte \| CESPU (Portugal)
 
 Susana Pedras - Instituto de Psicologia e Ciências da Educação \| Universidade Lusíada (Portugal)
-
-:::
