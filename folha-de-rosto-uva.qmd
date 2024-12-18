@@ -5,10 +5,9 @@ number-sections: false
 
 # Folha de rosto {.unnumbered}
 
-::::: {style="line-height: 1;"}
 **Produções Técnicas em Psicologia: Experiências Compartilhadas**
 
-**ISBN** XXX-XX-XX-XXXXXX-X
+**ISBN (e-book)** 978-65-87115-66-5
 
 Este livro é distribuído sob os termos da [CC BY-NC-ND 4.0 DEED](https://creativecommons.org/licenses/by-nc-nd/4.0/){.external target="_blank"}.
 
@@ -52,11 +51,10 @@ Francisco Pablo Huascar Aragão Pinheiro
 
 **Catalogação**
 
-[Dayanne Albuquerque Araújo (Conferir nome da bibliotecária)]{style="color: red;"}
+Dorotéia Andrade Silva CRB-3/865
 
 **Financiamento**
 
 Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) \[processo número: BP5-0197-00046.01.00/22\] e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) \[processo número: 403787/2023-8\].
-:::::
 
-[Incluir imagem da ficha catalográfica]{style="color: red;"}
+![](imagens/ficha-catalografica-uva.png){fig-alt="Ficha catalográfica: Dados Internacionais de Catalogação na Publicação Universidade Estadual Vale do Acaraú Sistema de Bibliotecas        Bibliotecário Responsável: Dorotéia Andrade Silva CRB-3/865 U51a      Universidade Estadual Vale do Acaraú.     Produções técnicas em psicologia. / Universidade Vale do Acaraú              ./ Organização: Francisco Pablo Huascar Aragão Pinheiro, João Paulo                Pereira Barros. - Sobral: Edições UVA, 2024.                       79p.                        ISBN (e-book): 978-65-87115-66-5                                  1. Psicologia . 2.  Produto. 3.Pesquisa. I.Título.  II. Pinheiro,              Francisco Pablo Huascar. III. Pereira, João Paulo CDD 150"}
