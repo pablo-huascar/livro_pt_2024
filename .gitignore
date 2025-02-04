@@ -20,3 +20,4 @@ figures
 site_libs
 *.zip
 _publish.yml
+.DS_Store
