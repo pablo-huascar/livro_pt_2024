@@ -48,8 +48,7 @@ editor_options:
   chunk_output_type: console
 engine: knitr
 webr:
-  packages: ['ggplot2', 'dplyr', 'readr' , 'palmerpenguins', 'tidyr', 'broom',
-  'janitor']
+  packages: ['ggplot2', 'dplyr', 'readr' , 'palmerpenguins', 'tidyr', 'broom', 'janitor']
 ---
 
 # Relatório sobre o curso “Introdução ao R para análise de dados em Psicologia”: proposta e construção
@@ -376,7 +375,7 @@ Contudo, não é incomum o trabalho com, por exemplo, bancos de dados que sejam 
 
 **Regras para um banco de dados arrumado**
 
-[![Dados arrumados Fonte: R for Data Science](.\imagens\tidy.png){#fig-tidydata fig-alt="A imagem apresenta três painéis sequenciais que ilustram as regras para um conjunto de dados organizado, seguindo o conceito de \"tidy data\".  No primeiro painel, intitulado \"variables\", há uma tabela com cabeçalhos de coluna \"country\", \"year\", \"cases\" e \"population\". Setas verticais apontam para baixo, indicando que cada coluna representa uma variável diferente. No segundo painel, \"observations\", as mesmas colunas da tabela estão presentes, mas desta vez, setas horizontais apontam da esquerda para a direita ao longo de cada linha, destacando que cada linha da tabela corresponde a uma observação distinta. No terceiro e último painel, \"values\", círculos são colocados em torno de cada entrada individual na tabela, realçando que cada célula contém um único valor. Os três painéis juntos exemplificam as regras fundamentais de um conjunto de dados organizado, onde variáveis formam as colunas, observações formam as linhas e cada valor é atribuído a uma célula específica da tabela. Cada painel está claramente rotulado para identificar qual das três regras de dados organizados está sendo representada."}](https://r4ds.hadley.nz/data-tidy.html)
+[![Dados arrumados Fonte: R for Data Science](imagens/tidy.png){#fig-tidydata fig-alt="A imagem apresenta três painéis sequenciais que ilustram as regras para um conjunto de dados organizado, seguindo o conceito de \"tidy data\".  No primeiro painel, intitulado \"variables\", há uma tabela com cabeçalhos de coluna \"country\", \"year\", \"cases\" e \"population\". Setas verticais apontam para baixo, indicando que cada coluna representa uma variável diferente. No segundo painel, \"observations\", as mesmas colunas da tabela estão presentes, mas desta vez, setas horizontais apontam da esquerda para a direita ao longo de cada linha, destacando que cada linha da tabela corresponde a uma observação distinta. No terceiro e último painel, \"values\", círculos são colocados em torno de cada entrada individual na tabela, realçando que cada célula contém um único valor. Os três painéis juntos exemplificam as regras fundamentais de um conjunto de dados organizado, onde variáveis formam as colunas, observações formam as linhas e cada valor é atribuído a uma célula específica da tabela. Cada painel está claramente rotulado para identificar qual das três regras de dados organizados está sendo representada."}](https://r4ds.hadley.nz/data-tidy.html)
 
 "As três regras a seguir tornam um conjunto de dados organizado: variáveis são colunas, observações são linhas e valores são células" [@Wickham_2023, seçao 5.2, Tidy data].
 
